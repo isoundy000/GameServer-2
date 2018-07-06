@@ -1,0 +1,455 @@
+{
+	"gold_id": 216500001,
+	/*元宝ID*/
+	"create_gold": 50,
+	/*创建二级仙盟花费元宝*/
+	"bind_gold_id": 216500002,
+	/*绑定元宝ID*/
+	"create_bind_gold": 200,
+	/*创建一级仙盟花费的绑定元宝*/
+	"quick_time_span": 180,
+	/*离开宗派时间间隔，时间单位秒*/	
+	"kick_time_span": 180,
+	/*被踢时间间隔，时间单位秒*/	
+	"enter_lboss_span": 1800,
+	/*离开帮派后多久不能进入帮派boss*/
+	"error_tips": "距离下次可加入仙盟还剩%d分钟",
+	/*申请加入仙盟限制tips*/
+	"create_level": 54,
+	/*创建一级宗派等级限制，二级无等级限制*/
+	"join_level": 30,
+	/*加入宗派等级限制*/
+	"transfer_tick":259200,
+	/*弹劾帮主时间,一周604800， 一天86400，三天259200*/
+	"transfer_last": 172800,
+	/*弹劾帮主持续时间,今日到明日0点*/
+	"impeach_num" : 30,
+	/*弹劾帮主同意百分比*/
+	"accept_level": 50,
+	/*自动接收等级*/
+	"reject_mail_id":30001,
+	/*拒接加入邮件ID*/
+	"appoint_mail_id":30002,
+	/*任命邮件ID*/
+	"demotion_mail_id":30003,
+	/*下调邮件ID*/
+	"leader_mail_id":30004,
+	/*新帮主任命邮件ID*/
+	
+	/*加入报播*/
+	"add_player_shout":90001,
+	/*离开报播*/
+	"leave_player_shout":90002,
+	/*换帮主报播*/
+	"change_leader_shout":90003,
+	/*帮派升级报播*/
+	"uplevel_shout":90004,
+	/*旗帜升级报播*/
+	"up_flag_shout":90005,
+	/*帮派功能重新检测等级*/
+	"check_open_level":43,
+	
+	/*捐献*/
+	"donate":
+	[
+		{
+			"donate_type": "帮会令牌",
+			"donate_id": 216310031,
+			"resource": 10,
+			"contribute": 100
+			/*以上3条依次是捐献类型，物品ID，资金比例，捐献类型与仙盟贡献的比例，下同*/
+		},
+		{
+			"donate_type": "元宝",
+			"donate_id": 216500001,
+			"resource": 1,
+			"contribute": 10
+		}
+	],
+	
+	"set_up":
+	[
+		{
+			"league_lvl" : 1,
+			/*对应仙盟等级*/
+			"max_count" : 15,
+			/*该仙盟等级下成员上限*/
+			"special_count" : 30,
+			/*特殊渠道成员上限*/
+			"deputy_count" : 2,
+			/*该仙盟等级下副盟主上限*/
+			"excellent_count" : 4,
+			/*该仙盟等级下精英数量*/
+			"elder_count" : 2,
+			/*该仙盟等级下长老数量*/
+			"jingshi_id": 506040001,
+			/*晶石ID*/
+			"pice_count": 5,
+			/*碎片数量*/
+			"max_pice": 50,
+			/*加成上限*/
+			"pice_per": 5,
+			/*每个碎片经验加成*/
+			"upgrade_resource" : 200,
+			/*该仙盟等级下升级所需贡献*/
+			"salary": 1,
+			/*该仙盟等级下每日俸禄*/
+			"welfare": 602001,
+			/*每日福利*/
+			"skill_lv_max": 10
+			/*技能等级的可升级上限*/
+		},
+		{
+			"league_lvl" : 2,
+			"max_count" : 17,
+			"special_count" : 32,
+			"deputy_count" : 2,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 700,
+			"salary": 1,
+			"welfare": 602002,
+			"skill_lv_max": 20
+		},
+		{
+			"league_lvl" : 3,
+			"max_count" : 19,
+			"special_count" : 34,
+			"deputy_count" : 2,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 1600,
+			"salary": 1,
+			"welfare": 602003,
+			"skill_lv_max": 30
+		},
+		{
+			"league_lvl" : 4,
+			"max_count" : 21,
+			"special_count" : 36,
+			"deputy_count" : 3,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 3100,
+			"salary": 1,
+			"welfare": 602004,
+			"skill_lv_max": 40
+		},
+		{
+			"league_lvl" : 5,
+			"max_count" : 23,
+			"special_count" : 38,
+			"deputy_count" : 3,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 6100,
+			"salary": 1,
+			"welfare": 602005,
+			"skill_lv_max": 50
+		},
+		{
+			"league_lvl" : 6,
+			"max_count" : 25,
+			"special_count" : 40,
+			"deputy_count" : 3,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 13600,
+			"salary": 1,
+			"welfare": 602006,
+			"skill_lv_max": 60
+		},
+		{
+			"league_lvl" : 7,
+			"max_count" : 27,
+			"special_count" : 42,
+			"deputy_count" : 3,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 25600,
+			"salary": 1,
+			"welfare": 602007,
+			"skill_lv_max": 70
+		},
+		{
+			"league_lvl" : 8,
+			"max_count" : 29,
+			"special_count" : 44,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 51200,
+			"salary": 1,
+			"welfare": 602008,
+			"skill_lv_max": 80
+		},
+		{
+			"league_lvl" : 9,
+			"max_count" : 31,
+			"special_count" : 46,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 102400,
+			"salary": 1,
+			"welfare": 602009,
+			"skill_lv_max": 90
+		},
+		{
+			"league_lvl" : 10,
+			"max_count" : 33,
+			"special_count" : 48,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 204800,
+			"salary": 1,
+			"welfare": 602010,
+			"skill_lv_max": 100
+		},
+		{
+			"league_lvl" : 11,
+			"max_count" : 35,
+			"special_count" : 50,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 409600,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 110
+		},
+		{
+			"league_lvl" : 12,
+			"max_count" : 37,
+			"special_count" : 52,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 614400,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 120
+		},
+		{
+			"league_lvl" : 13,
+			"max_count" : 39,
+			"special_count" : 54,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 819200,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 130
+		},
+		{
+			"league_lvl" : 14,
+			"max_count" : 41,
+			"special_count" : 56,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 1024000,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 140
+		},
+		{
+			"league_lvl" : 15,
+			"max_count" : 43,
+			"special_count" : 58,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 1228800,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 150
+		},
+		{
+			"league_lvl" : 16,
+			"max_count" : 45,
+			"special_count" : 60,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 1433600,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 160
+		},
+		{
+			"league_lvl" : 17,
+			"max_count" : 47,
+			"special_count" : 62,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 1638400,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 170
+		},
+		{
+			"league_lvl" : 18,
+			"max_count" : 49,
+			"special_count" : 64,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 1843200,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 180
+		},
+		{
+			"league_lvl" : 19,
+			"max_count" : 51,
+			"special_count" : 66,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 2048000,
+			"salary": 1,
+			"welfare": 602011,
+			"skill_lv_max": 190
+		},
+		{
+			"league_lvl" : 20,
+			"max_count" : 53,
+			"special_count" : 68,
+			"deputy_count" : 4,
+			"excellent_count" : 4,
+			"elder_count" : 2,
+			"jingshi_id": 506040001,
+			"pice_count": 5,
+			"max_pice": 50,
+			"pice_per": 5,
+			"upgrade_resource" : 0,
+			"salary": 1,
+			"welfare": 602012,
+			"skill_lv_max": 200
+		}
+	],
+	/*宗派商店--道具*/
+	"shop_item":
+	[
+		{
+			"item_id" : 201200000,
+			"item_name" : "初级强化石",	
+			"league_lvl" : 1,
+			/*宗派等级*/	
+			"consume_type" : 4,
+			/*换购类型0-铜钱购买，1-非绑铜，2-礼券，3-元宝，4-贡献，5-物品兑换*/	
+			"consume_amount" : 100,
+			/*消耗数量*/	
+			"max_number" : 10
+			/*限制每天最多买多少*/
+		},
+		{
+			"item_id" : 201201002,
+			"item_name" : "紫色洗炼石",
+			"league_lvl" : 1,
+			"consume_type" : 4,
+			"consume_amount" : 90,
+			"max_number" : 10
+		},
+		{
+			"item_id" : 200001000,
+			"item_name" : "成长丹",
+			"league_lvl" : 1,
+			"consume_type" : 4,
+			"consume_amount" : 400,
+			"max_number" : 5
+		},
+		{
+			"item_id" : 200001001,
+			"item_name" : "炼魂珠",
+			"league_lvl" : 1,
+			"consume_type" : 4,
+			"consume_amount" : 350,
+			"max_number" : 5
+		},
+		{
+			"item_id" : 204000002,
+			"item_name" : "攻城令",
+			"league_lvl" : 1,
+			"consume_type" : 4,
+			"consume_amount" : 2000,
+			"max_number" : 1
+		}
+	]
+}

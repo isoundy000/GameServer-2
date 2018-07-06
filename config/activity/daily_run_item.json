@@ -1,0 +1,25 @@
+{
+    "1": {
+        "item_id": 216340201,
+        "red_point": 11922,
+        "move": 40,
+        "type": 1,
+        "reward_id": 917041
+    },
+    "3": {
+        "red_point": 11922,
+        "move": 1000,
+        "cost": 5000,
+        "item_id": 216340203,
+        "type": 3,
+        "reward_id": 917043
+    },
+    "2": {
+        "red_point": 11922,
+        "move": 200,
+        "cost": 1000,
+        "item_id": 216340202,
+        "type": 2,
+        "reward_id": 917042
+    }
+}

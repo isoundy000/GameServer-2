@@ -1,0 +1,88 @@
+{
+    "onsell_time": {
+        "remark": "上架最长时间秒",
+        "value": 43200
+    },
+    "day_buy_times": {
+        "remark": "每天购买次数",
+        "value": 10
+    },
+    "back_mail": {
+        "remark": "取回邮件ID",
+        "value": 31003
+    },
+    "seller_mail": {
+        "remark": "出售者邮件ID",
+        "value": 31002
+    },
+    "max_buy_amount": {
+        "remark": "每次最多购买数量",
+        "value": 99
+    },
+    "all": {
+        "remark": "所有主类数",
+        "value": 2
+    },
+    "self_page_size": {
+        "remark": "自己每页条数",
+        "value": 20
+    },
+    "part1": {
+        "remark": "装备",
+        "value2": [
+            "骑宠",
+            "魔刃",
+            "宝器",
+            "神翼",
+            "仙童",
+            "仙武",
+            "仙兽",
+            "仙翼",
+            "灵兽",
+            "元神"
+        ],
+        "value1": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+        ]
+    },
+    "part2": {
+        "remark": "材料",
+        "value2": [
+            "技能书",
+            "宝石"
+        ],
+        "value1": [
+            201,
+            202
+        ]
+    },
+    "page_size": {
+        "remark": "每页条数",
+        "value": 20
+    },
+    "max_onsell": {
+        "remark": "最多出售种类",
+        "value": 5
+    },
+    "shout_id": {
+        "remark": "吆喝ID",
+        "value": 131001
+    },
+    "max_sell_amount": {
+        "remark": "每次出售最多数量",
+        "value": 99
+    },
+    "buyer_mail": {
+        "remark": "购买者邮件ID",
+        "value": 31001
+    }
+}

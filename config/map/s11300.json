@@ -1,0 +1,110 @@
+{
+    "scene_id" : 11300,
+    "name" : "幽冥仙府",
+	"layout" : [{
+        "born_type" : "center",
+        "monster_sort" : 500130010,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 1,
+        "born_range" : 1,
+        "center_coordxy" : [2477,11102],
+        "born_times" : "unlimited",
+		"skill_set" : [400030001]
+       
+    },
+	{
+        "born_type" : "center",
+        "monster_sort" : 500130001,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [3662,10196],
+        "born_times" : "unlimited",
+		"skill_set" : [400030001]
+       
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130002,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [5177,12121],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130003,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [4885,7956],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130004,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [1217,7798],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130005,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [889,4828],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130006,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [2944,4256],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130007,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 1,
+        "born_range" : 1,
+        "center_coordxy" : [4007,3289],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500130008,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [2645,1962],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "center",
+        "monster_sort" : 500130009,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [5208,1832],
+        "born_times" : "unlimited",
+		"skill_set" : [400030001]
+       
+    }]
+}

@@ -1,0 +1,442 @@
+{
+    "20": {
+        "remark": [
+            "385"
+        ],
+        "name": "灵动",
+        "server_force": 5750,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 385,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "11": {
+        "remark": [
+            "250"
+        ],
+        "name": "灵动",
+        "server_force": 3500,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 250,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "10": {
+        "remark": [
+            "235"
+        ],
+        "name": "灵动",
+        "server_force": 3250,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 235,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "13": {
+        "remark": [
+            "280"
+        ],
+        "name": "灵动",
+        "server_force": 4000,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 280,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "12": {
+        "remark": [
+            "265"
+        ],
+        "name": "灵动",
+        "server_force": 3750,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 265,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "15": {
+        "remark": [
+            "310"
+        ],
+        "name": "灵动",
+        "server_force": 4500,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 310,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "14": {
+        "remark": [
+            "295"
+        ],
+        "name": "灵动",
+        "server_force": 4250,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 295,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "17": {
+        "remark": [
+            "340"
+        ],
+        "name": "灵动",
+        "server_force": 5000,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 340,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "16": {
+        "remark": [
+            "325"
+        ],
+        "name": "灵动",
+        "server_force": 4750,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 325,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "19": {
+        "remark": [
+            "370"
+        ],
+        "name": "灵动",
+        "server_force": 5500,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 370,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "18": {
+        "remark": [
+            "355"
+        ],
+        "name": "灵动",
+        "server_force": 5250,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 355,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "1": {
+        "remark": [
+            "100"
+        ],
+        "name": "灵动",
+        "server_force": 1000,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 100,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 1000
+    },
+    "3": {
+        "remark": [
+            "130"
+        ],
+        "name": "灵动",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 130,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "2": {
+        "remark": [
+            "115"
+        ],
+        "name": "灵动",
+        "server_force": 1250,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 115,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "5": {
+        "remark": [
+            "160"
+        ],
+        "name": "灵动",
+        "server_force": 2000,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 160,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "4": {
+        "remark": [
+            "145"
+        ],
+        "name": "灵动",
+        "server_force": 1750,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 145,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "7": {
+        "remark": [
+            "190"
+        ],
+        "name": "灵动",
+        "server_force": 2500,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 190,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "6": {
+        "remark": [
+            "175"
+        ],
+        "name": "灵动",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 175,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "9": {
+        "remark": [
+            "220"
+        ],
+        "name": "灵动",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 220,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "8": {
+        "remark": [
+            "205"
+        ],
+        "name": "灵动",
+        "server_force": 2750,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 205,
+                    "id": 10053
+                }
+            ]
+        },
+        "add_fight": 250
+    }
+}

@@ -1,0 +1,330 @@
+import "ProtoPublic.proto";
+
+message Proto11404002       // 选择图鉴分类
+{
+    optional int32 illus_class_id = 1;       // 图鉴类ID
+}
+
+message Proto11404003       // 选择图鉴分组
+{
+    optional int32 illus_group_id = 1;       // 图鉴组ID
+}
+
+message Proto11404004       // 获取单个图鉴信息
+{
+    optional int32 illus_id = 1;       // 
+}
+
+message Proto11404005       // 升级图鉴
+{
+    optional int32 illus_id = 1;       // 图鉴ID
+}
+
+message Proto11404006       // 选择单个图鉴
+{
+    optional int32 illus_id = 1;       // 
+}
+
+message Proto51404001       // 获取图鉴列表信息（返回）
+{
+    optional ProtoFightPro prop_list = 1;       // 玩家获得总属性
+    repeated Illustrations illus_list = 2;       // 玩家图鉴集合
+    repeated int32 illus_group_list = 3;       // 玩家获得组集合
+}
+
+message Proto51404002       // 选择图鉴分类（返回）
+{
+    optional int32 illus_class_id = 1;       // 图鉴类ID
+    repeated Illus_group illus_group_list = 2;       // 图鉴组集合
+    repeated Illustrations illus_list = 3;       // 图鉴集合 默认组号为1
+}
+
+message Proto51404003       // 选择图鉴分组（返回）
+{
+    optional int32 illus_group_id = 1;       // 图鉴组id
+    repeated Illustrations illus_list = 2;       // 图鉴集合 组号为组ID
+}
+
+message Proto51404004       // 获取单个图鉴信息（返回）
+{
+    optional int32 illus_id = 1;       // 图鉴ID
+    optional Illustrations illus_info = 2;       // 图鉴信息
+}
+
+message Proto51404005       // 升级图鉴（返回）
+{
+    optional int32 illus_id = 1;       // 图鉴ID
+    optional Illustrations illus_info = 2;       // 图鉴信息
+}
+
+message Proto51404006       // 选择单个图鉴（返回）
+{
+    optional int32 illus_id = 1;       // 
+}
+
+message Proto81404007       // 主动通知图鉴组变化
+{
+    optional int32 illus_class_id = 1;       // 图鉴类ID
+    repeated Illus_group illus_group_list = 2;       // 图鉴组集合
+    repeated Illustrations illus_list = 3;       // 图鉴集合 默认组号为第一个
+    optional ProtoFightPro prop_list = 4;       // 玩家获得属性
+}
+
+message Proto11400415       // 战骑使用资质丹成长丹
+{
+    optional int32 type = 1;       // 类型，0表示资质丹，1表示成长丹
+    optional int32 amount = 2;       // 使用数量
+    optional int32 mount_type = 3;       // 战骑类型
+}
+
+message Proto51400415       // 战骑使用资质丹成长丹(返回)
+{
+    optional int32 type = 1;       // 类型，0表示资质丹，1表示成长丹
+}
+
+message Proto11401471       // 请求累计签到
+{
+    optional int32 check_total_index = 1;       // 累计签到索引
+}
+
+message Proto51401415       // 请求累计签到（返回）
+{
+    optional int32 status = 1;       // 0 fail 1 success
+    optional int32 check_in_point = 2;       // 当前签到积分
+}
+
+message Proto11401472       // 请求再领签到
+{
+    optional int32 award_index = 1;       // 签到奖励的索引, 0 base
+}
+
+message Proto51401416       // 请求再领签到（返回）
+{
+    optional int32 status = 1;       // 0 fail 1 success
+    optional int32 check_in_point = 2;       // 积分
+    optional int32 charge_money = 3;       // (-1 未充值 0 充值未领 1充值已领）
+}
+
+message Proto50100649       // 帮派boss(返回)
+{
+    optional int32 boss_index = 1;       // boss表索引id
+    optional int32 boss_exp = 2;       // boss当前经验
+    optional string super_summon_role = 3;       // 超级召唤玩家
+    optional int32 normal_summon_type = 4;       // 是否正在普通召唤
+    optional int32 super_summon_type = 5;       // 是否正在超级召唤
+    optional int64 normal_summon_tick = 6;       // 普通召唤时间
+    optional int64 super_summon_tick = 7;       // 超级召唤时间
+}
+
+message Proto10100650       // 喂养帮派boss
+{
+    optional int32 item_id = 1;       // 喂养物品ID
+    optional int32 feed_num = 2;       // 数量
+}
+
+message Proto11400624       // 装备精炼
+{
+    optional int32 pkg_index = 1;       // 装备位置
+    optional int32 type = 2;       // 类型，备注
+}
+
+message Proto51400624       // 装备精炼(返回)
+{
+    optional int32 pkg_index = 1;       // 装备位置
+}
+
+message Proto10100651       // 召唤帮派boss
+{
+    optional int32 summon_type = 1;       // 召唤类型：1普通召唤，2超级召唤
+    optional int32 role_id = 2;       // 召唤的玩家ID
+}
+
+message Proto11405001       // 获得采集宝箱面板
+{
+    optional int32 cycle_id = 1;       // 
+    optional int32 enter_type = 2;       // 0 点击进入 1 场景切换进入
+    optional int32 is_reset = 3;       // 是否重置
+}
+
+message Proto51405001       // 获得采集宝箱面板（返回）
+{
+    optional int32 chest_sum = 1;       // 当前采集宝箱数（进度）
+    optional int32 activity_id = 2;       // 当前活动ID
+    optional int32 enter_type = 3;       // 0 点击进入 1 场景切换进入
+    optional int32 cycle_id = 4;       // 
+}
+
+message Proto11400660       // 装备熔炼
+{
+    optional int32 screen_recommend = 1;       // 是否筛选推荐装备0否1是
+    repeated int32 item_list = 2;       // 熔炼物品索引
+}
+
+message Proto51400660       // 装备熔炼（返回）
+{
+    optional int32 level_num = 1;       // 当前熔炼等级
+    optional int32 exp_num = 2;       // 当前经验值
+    optional int32 status = 3;       // 熔炼状态（0 fail 1 success）
+    optional int32 exp_limit = 4;       // 经验上限
+    optional int32 exp_sum = 5;       // 本次熔炼经验
+}
+
+message Proto51400661       // 查看熔炼信息（返回）
+{
+    optional int32 smelt_level = 1;       // 熔炼等级
+    optional int32 smelt_exp = 2;       // 熔炼经验
+    optional int32 recommend = 3;       // 是否勾选推荐 0 否 1是
+    optional ProtoFightPro prop_list = 4;       // 属性加成信息
+    repeated ProtoItem item_list = 5;       // 物品列表
+    optional int32 exp_limit = 6;       // 经验上线
+}
+
+message Proto80400400       // 豪门斗宝宝箱消失
+{
+    optional int32 chest_id = 1;       // 宝箱ID
+}
+
+message Proto80400407       // 豪门斗宝信息
+{
+    optional int32 chests_num = 1;       // 宝箱数量
+    repeated int32 chests_list = 2;       // 宝箱ID列表
+}
+
+message Proto80400384       // 帮派boss排行信息(主动)
+{
+    repeated ProtoLScoreInfo role_set = 1;       // 排行集合
+    optional ProtoLScoreInfo my_rank = 2;       // 我的排名信息
+    optional int64 boss_id = 3;       // boss唯一id
+    optional int32 status = 4;       // boss状态
+    optional double cur_blood = 5;       // 当前血量
+    optional int32 add_exp = 6;       // 战旗祝福经验
+    optional int32 refresh_tick = 7;       // 刷新倒计时
+}
+
+message Proto11400662       // 更改熔炼推荐状态
+{
+    optional int32 status = 1;       // 当前状态1 勾选 0
+}
+
+message Proto51400662       // 更改熔炼推荐状态（返回）
+{
+    optional int32 status = 1;       // 当前状态 1勾选
+    repeated ProtoItem item_list = 2;       // 物品列表
+}
+
+message Proto80405002       // 主动通知刷新宝箱
+{
+    optional int32 chests_sum = 1;       // 宝箱总数
+    repeated int32 chests_list = 2;       // 宝箱列表
+}
+
+message Proto80405011       // 主动通知刷新问题
+{
+    optional int32 topic_id = 1;       // 问题ID
+    optional string topic_desc = 2;       // 问题描述
+    optional string a_answer = 3;       // A答案
+    optional string b_answer = 4;       // B答案
+    optional int32 cur_stage = 5;       // 当前第几轮
+}
+
+message Proto80405012       // 主动通知获得答题活动礼品
+{
+    optional int32 award_id = 1;       // 奖励ID
+}
+
+message Proto80405013       // 通知上一题答案
+{
+    optional int32 answer_id = 1;       // 答案ID（1 A 2 B）
+    optional int32 right_num = 2;       // 玩家答对题数
+    optional int32 score_num = 3;       // 玩家活动分数
+}
+
+message Proto10100653       // 获取其他帮派信息
+{
+    optional int64 league_index = 1;       // 宗派索引
+}
+
+message Proto50100653       // 其他帮派信息(返回)
+{
+    repeated ProtoLeagueMember member_set = 1;       // 宗派成员
+    optional int64 league_index = 2;       // 宗派索引
+    optional string league_name = 3;       // 宗派名
+    optional string leader_name = 4;       // 宗主名称
+    optional int32 league_count = 5;       // 宗派人数
+    optional int32 league_rank = 6;       // 宗派排名
+    optional int32 league_lvl = 7;       // 宗派等级
+    optional int32 league_force = 8;       // 宗派战力
+    optional int32 flag_lvl = 9;       // 帮派旗帜
+}
+
+message Proto51401480       // 离线奖励面板信息（返回）
+{
+    optional int32 received_mark = 1;       // 领取标记 1可领 0不可领
+    optional int32 offline_sum = 2;       // 累计离线时间
+    optional int32 exp_num = 3;       // 可获得经验
+    optional int32 longest_time = 4;       // 最长累计时间
+}
+
+message Proto11401481       // 领取离线奖励
+{
+    optional int32 type_id = 1;       // 0 普通 1 双倍 2 三倍
+}
+
+message Proto51401481       // 领取离线奖励（返回）
+{
+    optional int32 status = 1;       // 状态 1success  0 fail
+    optional int32 exp_num = 2;       // 经验
+}
+
+message Proto81405001       // 主动通知获得额外奖励
+{
+    optional int32 award_id = 1;       // 奖励ID
+}
+
+message Proto81405003       // 主动通知当前进度
+{
+    optional int32 collect_num = 1;       // 收集进度
+}
+
+message Proto80100502       // 战场结算(主动)
+{
+    optional int32 camp_rank = 1;       // 阵营排名，从1开始
+    optional int32 self_rank = 2;       // 个人排名，从1开始
+    optional int32 self_kill = 3;       // 个人击杀
+    optional int32 self_reward = 4;       // 个人奖励
+    optional int32 camp_reward = 5;       // 阵营奖励
+    repeated ProtoSMBattleRankRec top_three = 6;       // 前三名
+}
+
+message Proto11400625       // 装备合成
+{
+    optional int32 id = 1;       // 合成ID
+}
+
+message Proto10405011       // 获得答题活动面板
+{
+    optional int32 player_id = 1;       // 玩家ID
+}
+
+message Proto80405014       // 主动更新答题面板
+{
+    repeated string player_list = 1;       // 玩家ID（前5）
+    repeated int64 player_score_list = 2;       // 玩家分数（前5）
+    optional int32 player_rank = 3;       // 玩家排名
+    optional int32 player_right_num = 4;       // 玩家答对题数
+    optional int32 player_score_num = 5;       // 玩家分数
+}
+
+message Proto80405015       // 主动通知榜首选择
+{
+    optional int32 top_player_num = 1;       // 榜首选择号（0未选 1 A 2 B）
+}
+
+message Proto80405016       // 主动通知榜首坐标
+{
+    optional ProtoCoord top_player = 1;       // 榜首坐标
+    optional int64 player_id = 2;       // 榜首ID
+    optional int32 player_rank = 3;       // -1表示该玩家是场景内最高
+}
+
+

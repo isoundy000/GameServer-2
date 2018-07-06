@@ -1,0 +1,47 @@
+{
+	"node_name": "周四副本BOSS根结点",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "ParaSelNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "间隔攻击",
+					"ext_precond": "attack_interavel_pre",
+					"node_type": "action",
+					"node_action": "attack_action"
+				},
+				{
+					"node_name": "与所有玩家保持距离",
+					"ext_precond": "all_role_distance_pre",
+					"node_type": "action",
+					"node_action": "moveto_action"
+				}
+			]
+		}
+	]
+}

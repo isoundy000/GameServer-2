@@ -1,0 +1,90 @@
+{
+    "scene_id" : 20103,
+    "name" : "进阶副本(灵宠)",
+    "relive" : {
+        "type" : "111",
+        "wait" : 2,
+        "posX" : 1284,
+        "posY" : 1631
+    },
+	// 当前副本的离开场景后，回到进入副本前的场景
+    "exits" : [{
+        "id" : "10600",
+        "posX" : 1633,
+        "posY" : 6042
+    }],
+    "layout" : [
+	{
+        "born_type" : "point",
+        "monster_sort" : 501102001,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1741,2047],[1819,2008],[1885,1928],[1736,2230],[1875,2138],[1946,2061],[2002,1983],[1884,2243],[1982,2174],[2057,2063]],
+        "fresh" : 1000,
+		"wave" : 1,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501102002,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2197,2795],[2269,2728],[2371,2655],[2158,2962],[2345,2851],[2426,2764],[2499,2716],[2320,2968],[2402,2898],[2516,2804]],
+        "fresh" : 1000,
+		"wave" : 2,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501102003,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[3079,3735]],
+        "fresh" : 1000,
+		"wave" : 3,
+        "once" : 10,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501102004,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2620,4402],[2687,4459],[2775,4509],[2826,4552],[2536,4476],[2639,4543],[2690,4572],[2796,4643],[2509,4564],[2649,4644]],
+        "fresh" : 1000,
+		"wave" : 4,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501102001,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1840,4936],[1957,5045],[2039,5120],[1721,5032],[1828,5105],[1885,5157],[1972,5204],[1700,5124],[1786,5197],[1839,5237]],
+        "fresh" : 1000,
+		"wave" : 5,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501102005,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1005,4283]],
+        "fresh" : 1000,
+		"wave" : 6,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    }
+	]
+}

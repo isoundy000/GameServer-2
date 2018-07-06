@@ -1,0 +1,66 @@
+{
+    "1": {
+        "name": "红装武器1-2阶",
+        "item2": 216040510,
+        "amount2": 150,
+        "max_strength": 21,
+        "item": 216020001,
+        "amount": 150
+    },
+    "0": {
+        "name": "红装武器0-1阶",
+        "item2": 216040510,
+        "amount2": 99,
+        "max_strength": 18,
+        "item": 216020001,
+        "amount": 80
+    },
+    "3": {
+        "name": "红装武器3-4阶",
+        "item2": 216040510,
+        "amount2": 200,
+        "max_strength": 27,
+        "item": 216020001,
+        "amount": 300
+    },
+    "2": {
+        "name": "红装武器2-3阶",
+        "item2": 216040510,
+        "amount2": 200,
+        "max_strength": 24,
+        "item": 216020001,
+        "amount": 300
+    },
+    "5": {
+        "name": "红装武器5-6阶",
+        "item2": 216040510,
+        "amount2": 300,
+        "max_strength": 33,
+        "item": 216020001,
+        "amount": 500
+    },
+    "4": {
+        "name": "红装武器4-5阶",
+        "item2": 216040510,
+        "amount2": 250,
+        "max_strength": 30,
+        "item": 216020001,
+        "amount": 400
+    },
+    "7": {
+        "name": "红装武器7-8阶",
+        "item2": 216040510,
+        "amount2": 400,
+        "max_strength": 39,
+        "item": 216020001,
+        "amount": 600
+    },
+    "6": {
+        "name": "红装武器6-7阶",
+        "item2": 216040510,
+        "amount2": 350,
+        "max_strength": 36,
+        "item": 216020001,
+        "amount": 500
+    }
+}

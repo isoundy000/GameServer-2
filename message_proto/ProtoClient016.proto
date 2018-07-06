@@ -1,0 +1,361 @@
+import "ProtoPublic.proto";
+
+message Proto50405021       // 请求玩家等待时间（返回）
+{
+    optional int32 wait_time = 1;       // 玩家等待时间
+    repeated string player_list = 2;       // 前五玩家
+    repeated int32 player_score_list = 3;       // 前五分数
+    optional int32 rank_num = 4;       // 玩家排名
+    optional int32 right_num = 5;       // 答对题数
+    optional int32 score_num = 6;       // 玩家分数
+    optional int32 next_num = 7;       // 下一题序号
+}
+
+message Proto80400927       // 通知前端开启传送门
+{
+    optional int32 target_scene_id = 1;       // 要传送的场景id
+    optional int32 scene_id = 2;       // 当前场景id
+    optional int32 type = 3;       // 传送类型
+    optional int32 posX = 4;       // 传送阵x坐标
+    optional int32 posY = 5;       // 传送阵y坐标
+}
+
+message Proto10400939       // 请求领取副本特殊奖励
+{
+    optional int32 script_wave_id = 1;       // key
+    optional int32 script_sort = 2;       // 副本id
+}
+
+message Proto50400939       // 请求领取经验副本特殊奖励(返回)
+{
+    optional int32 script_wave_id = 1;       // key
+    optional int32 script_sort = 2;       // 副本id
+    optional int32 is_get = 3;       // 是否领取，0:不可领取 1:可领取 2:已领取
+}
+
+message Proto10400811       // 创建队伍
+{
+    optional int32 scene_id = 1;       // 副本ID
+    optional int32 limit_force = 2;       // 战力限制
+    optional string sceret = 3;       // 房间密码
+    optional int32 auto_start = 4;       // 自动开始
+}
+
+message Proto10400812       // 队伍列表
+{
+    optional int32 scene_id = 1;       // 场景ID
+}
+
+message Proto50400812       // 队伍列表(返回)
+{
+    optional int32 scene_id = 1;       // 场景ID
+    repeated ProtoTravelTeam team_list = 2;       // 列表
+}
+
+message Proto10400813       // 退出队伍
+{
+    optional int32 scene_id = 1;       // 场景ID
+}
+
+message Proto10400814       // 加入队伍
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 index = 2;       // 队伍索引
+    optional string screte = 3;       // 密码
+    optional int32 auto_start = 4;       // 是否自动准备，1表示是
+}
+
+message Proto10400815       // 队伍信息
+{
+    optional int32 scene_id = 1;       // 场景ID
+}
+
+message Proto50400815       // 队伍信息(返回)
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 index = 2;       // 队伍ID
+    repeated ProtoTeamer teamer_list = 3;       // 队伍成员，第一个为队长
+    optional int32 limit_force = 4;       // 限制战力
+    optional int32 auto_start = 5;       // 满员自动开始
+    optional int32 secret = 6;       // 是否需要秘码
+}
+
+message Proto10400817       // 准备操作
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 operate = 2;       // 0表示取消准备，1表示准备
+}
+
+message Proto50101008       // 刷新挑战玩家（返回）
+{
+    repeated ProtoAreaRole role_list = 1;       // 玩家列表
+}
+
+message Proto10400818       // 踢出队伍
+{
+    optional int64 role = 1;       // 玩家ID
+}
+
+message Proto50100654       // 打开帮派旗帜(返回)
+{
+    optional int32 flag_lvl = 1;       // 帮旗等级
+    optional int32 flag_exp = 2;       // 帮旗经验
+}
+
+message Proto50100655       // 帮派旗帜升级（返回）
+{
+    optional int32 flag_lvl = 1;       // 帮旗等级
+    optional int32 flag_exp = 2;       // 帮旗经验
+}
+
+message Proto50101009       // 获取排行榜信息（返回）
+{
+    optional int32 player_rank = 1;       // 玩家排名
+    optional int32 player_force = 2;       // 玩家战力
+    repeated ProtoAreaRole rank_list = 3;       // 排名表
+}
+
+message Proto50405030       // 温泉面板信息（返回）
+{
+    optional int32 cur_stage = 1;       // 当前第几轮
+    optional int32 total_exp = 2;       // 总经验
+    optional int32 left_time = 3;       // 剩余时间
+    optional int32 first_npc = 4;       // 上轮第一名
+    optional int32 second_npc = 5;       // 上轮第二名
+    optional int32 third_npc = 6;       // 上轮第三名
+    optional int32 player_npc = 7;       // 我的竞猜
+    optional int32 vip_level = 8;       // vip等级
+    optional int32 status = 9;       // 当前状态（0竞猜 1 比赛）
+    optional int32 is_right = 10;       // 是否猜对
+}
+
+message Proto10405031       // 温泉活动双休状态
+{
+    optional int32 status = 1;       // 当前状态
+    optional int64 first_player_id = 2;       // 请求玩家ID
+    optional int64 second_player_id = 3;       // 目标玩家ID
+    optional int32 choose = 4;       // 玩家选择 1 同意
+    optional int32 type = 5;       // 0 请求 1 解除
+}
+
+message Proto50405031       // 温泉活动双修状态（返回）
+{
+    optional int32 status = 1;       // 当前状态
+    optional int64 first_player_id = 2;       // 请求玩家ID
+    optional int64 second_player_id = 3;       // 目标玩家ID
+    optional int32 choose = 4;       // 玩家选择 1 同意
+    optional int32 type = 5;       // 0 请求 1 解除
+    optional string first_player_name = 6;       // 请求玩家名字
+    optional string second_player_name = 7;       // 目标玩家名字
+    optional ProtoCoord first_player_coord = 8;       // 请求玩家坐标
+    optional ProtoCoord second_player_coord = 9;       // 目标玩家坐标
+}
+
+message Proto10405032       // 温泉活动参与竞猜
+{
+    optional int32 npc_num = 1;       // 选择目标
+}
+
+message Proto50405032       // 温泉活动参与竞猜（返回）
+{
+    optional int32 status = 1;       // 1 success 0 fail
+    optional int32 choose = 2;       // 玩家选择NPC 1 2 3
+}
+
+message Proto80405017       // 主动通知温泉活动信息
+{
+    optional int32 first_npc = 1;       // 第一名
+    optional int32 second_npc = 2;       // 第二名
+    optional int32 third_npc = 3;       // 第三名
+    optional int32 status = 4;       // 1 下注 或  2 比赛
+    optional int32 award_id = 5;       // 奖励ID
+    optional int32 is_right = 6;       // 是否猜对
+}
+
+message Proto10405034       // 温泉活动自动双修
+{
+    optional int32 status = 1;       // 目标状态（0不勾 1 勾选）
+}
+
+message Proto50405034       // 温泉活动自动双修（返回）
+{
+    optional int32 status = 1;       // 当前状态 1 勾选
+}
+
+message Proto80400109       // 添加更新技能
+{
+    optional ProtoSkill skill = 1;       // 技能
+}
+
+message Proto10100705       // 玩家膜拜排行榜玩家
+{
+    optional int64 role_id = 1;       // 被膜拜玩家ID
+    optional int64 player_id = 2;       // 玩家ID
+    optional int32 rank_type = 3;       // 排行榜类型
+    optional int32 rank_num = 4;       // 排名
+}
+
+message Proto50100705       // 玩家膜拜排行榜玩家（返回）
+{
+    optional int32 status = 1;       // 1 success 0 fail
+    optional int64 worship_num = 2;       // 玩家膜拜次数
+}
+
+message Proto50400351       // 战场详情(返回)
+{
+    repeated ProtoLWarInfo lwar_detail = 1;       // 战区详情
+    repeated ProtoLeagueRankInfo total_league_rank = 2;       // 全服帮派积分排名
+    optional ProtoLeagueRankInfo total_my_league = 3;       // 全服本帮派积分排名
+}
+
+message Proto80400385       // 战区信息(主动)
+{
+    optional int32 space_id = 1;       // 当前战区id
+    repeated int32 total_space = 2;       // 战区列表
+    optional int64 boss_id = 3;       // bossId
+    optional string boss_name = 4;       // boss名称
+    optional double total_blood = 5;       // boss最大血量
+    optional double boss_blood = 6;       // boss当前血量
+    optional int32 my_score = 7;       // 我的积分
+    optional int32 league_score = 8;       // 帮派积分
+    optional int32 league_rank = 9;       // 帮派排名
+    optional int32 left_time = 10;       // 剩余时间
+}
+
+message Proto50400821       // 界面信息(返回)
+{
+    optional int32 part = 1;       // 部分，分为1和2
+    optional int32 stage = 2;       // 当前段位
+    optional int32 score = 3;       // 积分
+    optional int32 attend_times = 4;       // 参与次数
+    optional int32 get_expolit = 5;       // 获得功勋
+    optional int32 draw_flag = 6;       // 是否已领取
+    optional int32 win_times = 7;       // 今日胜利几场
+    repeated int32 draw_win = 8;       // 领取胜利奖励列表
+    optional int32 state = 9;       // 状态，0表示预热时间，1表示活动剩余时间
+    optional int32 left_time = 10;       // 剩余时间
+    optional int32 left_day = 11;       // 剩余天数
+}
+
+message Proto10400823       // 排行榜
+{
+    optional int32 page = 1;       // 第几页，从1开始
+}
+
+message Proto50400823       // 排行榜(返回)
+{
+    optional int32 page = 1;       // 第几页，从1开始
+    optional int32 total = 2;       // 总页数
+    repeated ProtoLMRole rank_list = 3;       // 列表
+    optional ProtoLMRole self = 4;       // 自己
+}
+
+message Proto10401021       // 请求进入世界boss场景
+{
+    optional int32 boss_scene_id = 1;       // 世界boss场景id
+    optional int32 pos_x = 2;       // 退出点x
+    optional int32 pos_y = 3;       // 退出点y
+    optional int32 scene_id = 4;       // 退出点场景
+    optional int32 use_fly = 5;       // 是否使用飞鞋 1是 0否
+}
+
+message Proto50401022       // 获取世界boss信息(返回)
+{
+    repeated ProtoWorldBossInfo wb_info = 1;       // 世界boss状态
+    optional int32 refresh_tick = 2;       // 刷新时间
+}
+
+message Proto80401021       // 通知排行/战场信息(主动)
+{
+    repeated ProtoWorldBossRank rank_list = 1;       // 排行信息列表
+    optional int32 scene_id = 2;       // 场景id
+    optional int64 boss_id = 3;       // 怪物id
+    optional double left_blood = 4;       // boss剩余血量
+    optional int32 status = 5;       // boss状态
+    optional int32 refresh_tick = 6;       // 刷新时间
+}
+
+message Proto10401023       // 开始抢红包
+{
+    optional int32 scene_id = 1;       // boss场景id
+}
+
+message Proto50401023       // 开始抢红包(返回)
+{
+    optional int32 get_money = 1;       // 获得数量
+}
+
+message Proto80401022       // 通知抢红包(主动)
+{
+    optional string role_name = 1;       // 伤害排名第一的玩家名字
+    optional int32 scene_id = 2;       // 场景id
+    optional int32 total_money = 3;       // 可抢总金额
+    optional int32 total_player = 4;       // 总人数
+}
+
+message Proto81400110       // 礼包展示
+{
+    repeated ProtoItem items = 1;       // 物品列表
+}
+
+message Proto80401031       // 通知怪物攻城进度(主动)
+{
+    optional int32 cur_wave = 1;       // 当前波数
+    optional int32 total_wave = 2;       // 总波数
+    optional int32 left_time = 3;       // 活动剩余时间
+    optional int32 next_attack_time = 4;       // 下一波进攻时间
+    repeated ProtoItemId item = 5;       // 获取物品
+    optional int32 is_boss = 6;       // 是否boss波
+}
+
+message Proto80401023       // 通知摇骰子(主动)
+{
+    optional int32 scene_id = 1;       // 场景id
+}
+
+message Proto80401024       // 通知boss生成护盾buff(主动)
+{
+    optional int32 scene_id = 1;       // 场景id
+    optional int32 total_blood = 2;       // 护盾最大血量
+    optional int32 cur_blood = 3;       // 护盾当前血量
+}
+
+message Proto10401024       // 开始摇骰子
+{
+    optional int32 scene_id = 1;       // boss场景id
+}
+
+message Proto50401024       // 开始摇骰子(返回)
+{
+    optional int32 my_num = 1;       // 我投出的数字
+}
+
+message Proto80401025       // 通知骰子最大点数(主动)
+{
+    optional int32 scene_id = 1;       // 场景id
+    optional int32 max_num = 2;       // 最大投出数字
+    optional int64 max_num_role = 3;       // 最大点玩家id
+    optional string max_num_name = 4;       // 最大点玩家姓名
+}
+
+message Proto10400352       // 请求切换战区
+{
+    optional int32 space_id = 1;       // 战区id
+}
+
+message Proto10101010       // 跳过动画改变
+{
+    optional int32 status = 1;       // 改变后状态 1勾选 0不勾选
+}
+
+message Proto10401025       // 请求我的排名
+{
+    optional int32 scene_id = 1;       // 场景id
+}
+
+message Proto50401025       // 请求我的排名(返回)
+{
+    optional ProtoWorldBossRank self_rank = 1;       // 玩家自己的排行信息
+}
+
+

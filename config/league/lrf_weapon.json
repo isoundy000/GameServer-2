@@ -1,0 +1,478 @@
+{
+    "11": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(4级)",
+        "resources_exchange": 150,
+        "speed": 170,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 4,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    },
+    "10": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(3级)",
+        "resources_exchange": 150,
+        "speed": 165,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 3,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    },
+    "13": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(6级)",
+        "resources_exchange": 150,
+        "speed": 180,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 6,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    },
+    "12": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(5级)",
+        "resources_exchange": 150,
+        "speed": 175,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 5,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    },
+    "14": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(7级)",
+        "resources_exchange": 150,
+        "speed": 185,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 7,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    },
+    "1": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(1级)",
+        "resources_exchange": 150,
+        "speed": 155,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 1,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "3": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(3级)",
+        "resources_exchange": 150,
+        "speed": 165,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 3,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "2": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(2级)",
+        "resources_exchange": 150,
+        "speed": 160,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 2,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "5": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(5级)",
+        "resources_exchange": 150,
+        "speed": 175,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 5,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "4": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(4级)",
+        "resources_exchange": 150,
+        "speed": 170,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 4,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "7": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(7级)",
+        "resources_exchange": 150,
+        "speed": 185,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 7,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "6": {
+        "effect_name": "uiEffect/copy/503000003",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "驽车(6级)",
+        "resources_exchange": 150,
+        "speed": 180,
+        "money_exchange": 8,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 6,
+        "attack": 3000,
+        "defense": 2000,
+        "health": 45000,
+        "hickty_id": 200102,
+        "mount_rot": [
+            -20,
+            -30,
+            10
+        ],
+        "model_name": "503000003",
+        "type": 1,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            30,
+            300
+        ]
+    },
+    "9": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(2级)",
+        "resources_exchange": 150,
+        "speed": 160,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 2,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    },
+    "8": {
+        "effect_name": "uiEffect/copy/503000004",
+        "dec_a": "[ff9900]器械护盾：[-]3秒内伤害减免99%",
+        "dec_b": "[ff9900]器械升级：[-]每拆掉敌方一个防御塔，战车升级1级，移动速度得到提升",
+        "name": "投石机(1级)",
+        "resources_exchange": 150,
+        "speed": 155,
+        "money_exchange": 8,
+        "mount_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "force_hurt": 400,
+        "bind_money_exchange": 8,
+        "lv": 1,
+        "attack": 2750,
+        "defense": 2500,
+        "health": 60000,
+        "hickty_id": 200101,
+        "mount_rot": [
+            20,
+            150,
+            -10
+        ],
+        "model_name": "503000004",
+        "type": 2,
+        "effect_floder": "effects",
+        "mount_pos": [
+            0,
+            20,
+            300
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name_str": "每日充值",
+        "cond": 388,
+        "reward_id": 917081
+    },
+    "3": {
+        "name_str": "每日充值",
+        "cond": 1888,
+        "reward_id": 917083
+    },
+    "2": {
+        "name_str": "每日充值",
+        "cond": 888,
+        "reward_id": 917082
+    },
+    "5": {
+        "name_str": "每日充值",
+        "cond": 5888,
+        "reward_id": 917085
+    },
+    "4": {
+        "name_str": "每日充值",
+        "cond": 3888,
+        "reward_id": 917084
+    },
+    "6": {
+        "name_str": "每日充值",
+        "cond": 8888,
+        "reward_id": 917086
+    }
+}

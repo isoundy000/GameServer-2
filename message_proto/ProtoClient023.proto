@@ -1,0 +1,322 @@
+import "ProtoPublic.proto";
+
+message Proto51400626       // 镶嵌的宝石卸下（返回）
+{
+    optional int32 equip_id = 1;       // 被卸宝石的装备id
+    optional int32 result = 2;       // 返回结果，0为成功
+}
+
+message Proto51400627       // 获取宝石升华信息（返回）
+{
+    optional int32 level = 1;       // 等级
+    optional int32 health = 2;       // 血量
+    optional int32 attack = 3;       // 攻击力
+    optional int32 defense = 4;       // 防御
+    optional int32 attr_add_rate = 5;       // 属性加成倍率
+    optional int32 fight_force = 6;       // 战斗力
+    optional int32 is_open_sublime = 7;       // 是否开启升华功能
+}
+
+message Proto11400628       // 镶嵌的宝石升级
+{
+    optional int32 id = 1;       // 升级id
+    optional int32 equip_index = 2;       // 装备的位置
+}
+
+message Proto51400628       // 镶嵌的宝石升级（返回）
+{
+    optional int32 equip_id = 1;       // 装备ID
+    repeated ProtoGemInfo consume_gem_info = 2;       // 消耗的宝石信息列表
+}
+
+message Proto11400664       // 获取装备铸魂信息
+{
+    optional int32 index = 1;       // 装备索引
+}
+
+message Proto51400664       // 获取装备铸魂信息(返回)
+{
+    repeated MoldingNature nature_set = 1;       // 属性集合
+    optional int32 index = 2;       // 装备索引
+}
+
+message Proto80100508       // 战斗信息(主动)
+{
+    optional int32 left_time = 1;       // 剩余时间
+    optional int32 state = 2;       // 状态，0准备，1战斗
+    optional int32 first_die_times = 3;       // 二人组死亡次数
+    optional int32 second_die_times = 4;       // 四人组死亡次数
+    repeated ProtoLMRole first = 5;       // 二人组
+    repeated ProtoLMRole second = 6;       // 四人组
+}
+
+message Proto80100509       // 战斗结束(主动)
+{
+    optional int32 result = 1;       // 结果0表示输，1表示赢
+    repeated ProtoLMRole win = 2;       // 赢
+    repeated ProtoLMRole lose = 3;       // 输
+    optional int32 reward = 4;       // 奖励ID
+}
+
+message Proto50400834       // 我的战斗信息(返回)
+{
+    optional int32 state = 1;       // 0表示预热，1表示比赛中
+    optional int32 left_time = 2;       // 剩余时间
+    optional int32 score = 3;       // 积分
+    optional int32 attends = 4;       // 参与次数
+    optional string max_name = 5;       // 最高玩家
+    optional int32 max_score = 6;       // 最高积分
+    optional int32 win_reward = 7;       // 单场胜利奖励
+    optional int32 lose_reward = 8;       // 单场失败奖励
+}
+
+message Proto50400835       // 排行榜(返回)
+{
+    optional int32 cur_page = 1;       // 当前页
+    optional int32 total_page = 2;       // 总页数
+    optional ProtoLMRole self_info = 3;       // 自己排名
+    repeated ProtoLMRole rank_list = 4;       // 排行榜
+    optional ProtoRoleInfo first_info = 5;       // 第一名信息
+}
+
+message Proto51400805       // 获取角色的超级VIP信息(返回)
+{
+    optional string des_content = 1;       // 界面描述
+    optional string qq_num = 2;       // qq号
+    optional int32 is_open = 3;       // 0:未开启，1：已开启
+}
+
+message Proto51400665       // 获取当前可铸魂的所有装备信息(返回)
+{
+    repeated ProtoItem equip_info = 1;       // 装备信息
+}
+
+message Proto50101501       // 获取我的战队信息(返回)
+{
+    optional int32 is_create = 1;       // 是否已创队, 1 已创建，0 没有创建
+    optional string team_name = 2;       // 战队名称
+    optional int32 team_force = 3;       // 战队战力
+    optional int64 leader_id = 4;       // 队长ID
+    repeated ProtoRoleInfo teamer_info = 5;       // 成员信息
+    optional int32 is_signup = 6;       // 是否已报名, 0 未报名，1 已报名
+    optional int32 auto_signup = 7;       // 自动报名状态
+    optional int32 auto_accept = 8;       // 自动接收状态
+    repeated ProtoRoleInfo win_teamer = 9;       // 冠军队伍信息
+}
+
+message Proto10101502       // 创建战队
+{
+    optional string team_name = 1;       // 战队名字
+    optional int32 need_force = 2;       // 战力要求
+}
+
+message Proto51400629       // 镶嵌的宝石升华（返回）
+{
+    optional int32 result = 1;       // 返回结果，0为成功
+}
+
+message Proto10100271       // 神秘兑换-兑换奖励
+{
+    optional int32 act_id = 1;       // 活动id
+    optional int32 index = 2;       // 兑换列表索引
+}
+
+message Proto50100271       // 神秘兑换-兑换奖励(返回)
+{
+    optional int32 ret = 1;       // 0 成功 -1 失败
+    optional int32 index = 2;       // 兑换列表索引
+    optional int32 act_id = 3;       // 活动id
+}
+
+message Proto10101503       // 获取本服战队列表
+{
+    optional int32 show_no_full = 1;       // 1 表示只显示未满人的战队
+    optional int32 page = 2;       // 页数
+}
+
+message Proto50101503       // 获取本服战队列表(返回)
+{
+    repeated ProtoTravelTeam team_list = 1;       // 其他战队列表
+    optional int32 cur_page = 2;       // 当前页
+    optional int32 total_page = 3;       // 总页数
+}
+
+message Proto10101504       // 申请加入战队
+{
+    optional int64 team_id = 1;       // 战队ID
+}
+
+message Proto50101504       // 申请加入战队(返回)
+{
+    optional int64 team_id = 1;       // 队伍id
+}
+
+message Proto80101509       // 战队成员有变化通知
+{
+    optional int32 type = 1;       // 类型
+    optional string team_name = 2;       // 战队名称
+}
+
+message Proto50101505       // 获取申请入队列表（返回）
+{
+    repeated ProtoTeamer teamer_list = 1;       // 申请玩家列表
+}
+
+message Proto10101506       // 答复申请入队
+{
+    optional int64 apply_id = 1;       // 申请者角色ID
+    optional int32 reply = 2;       // 答复： 1 同意，2拒绝，3全部拒绝
+}
+
+message Proto10101507       // 转让战队队长
+{
+    optional int64 target_id = 1;       // 新队长的角色ID
+}
+
+message Proto10101508       // 踢出战队
+{
+    optional int64 teamer_id = 1;       // 被踢的队员角色ID
+}
+
+message Proto10101510       // 查看战队信息
+{
+    optional int64 team_id = 1;       // 战队ID
+}
+
+message Proto50101510       // 查看战队信息(返回)
+{
+    optional int64 team_id = 1;       // 战队ID
+    optional string team_name = 2;       // 队伍名称
+    optional string server_name = 3;       // 所在服务器名称
+    repeated ProtoTeamer teamer_list = 4;       // 队员列表
+}
+
+message Proto10101511       // 邀请玩家入战队
+{
+    optional int64 role_id = 1;       // 角色id
+}
+
+message Proto80101501       // 邀请进入战队通知
+{
+    optional int64 team_id = 1;       // 战队ID
+    optional string team_name = 2;       // 战队名字
+    optional int64 leader_id = 3;       // 队长ID（邀请者ID）
+    optional string leader_name = 4;       // 队长名字（邀请者名字）
+}
+
+message Proto10101512       // 邀请进入战队答复
+{
+    optional int64 team_id = 1;       // 战队ID
+    optional int32 reply_type = 2;       // 答复类型：1 同意，2 拒绝
+}
+
+message Proto10102062       // 捕鱼信息
+{
+    repeated int32 index = 1;       // 鱼索引
+    optional int32 type = 2;       // 0 刷新鱼群 1普通捕捉 2激光捕捉 3一网打尽
+}
+
+message Proto50102062       // 捕鱼信息(返回)
+{
+    repeated FishDetail fish_detail = 1;       // 各条鱼信息
+    optional int32 ret = 2;       // 0 成功 其他失败
+    optional int32 type = 3;       // 功能类型
+}
+
+message Proto10102063       // 同步各鱼信息
+{
+    repeated FishDetail fish_detail = 1;       // 各条鱼信息
+}
+
+message Proto50102063       // 同步各鱼信息(返回)
+{
+    repeated FishDetail fish_detail = 1;       // 各条鱼信息
+}
+
+message Proto10101515       // 战队改名/设置战力
+{
+    optional int32 need_force = 1;       // 需求战力
+    optional string name = 2;       // 战队名称
+}
+
+message Proto10101516       // 设置自动接收/报名状态
+{
+    optional int32 auto_type = 1;       // 1：接收 2：报名
+    optional int32 is_auto = 2;       // 是否自动
+}
+
+message Proto50102064       // 获取捕鱼奖励信息(返回)
+{
+    repeated FishDetail fish_detail = 1;       // 鱼信息
+}
+
+message Proto50102066       // 捕鱼积分信息(返回)
+{
+    repeated ProtoItemId item = 1;       // 积分兑换物品
+    repeated int32 arrive = 2;       // 当前领取次数
+    repeated int32 max_arrive = 3;       // 最大领取次数
+}
+
+message Proto10102065       // 捕鱼积分兑换
+{
+    optional int32 index = 1;       // 奖励索引
+}
+
+message Proto50102065       // 捕鱼积分兑换(返回)
+{
+    optional int32 ret = 1;       // 0 失败 1成功
+    optional int32 index = 2;       // 奖励索引
+}
+
+message Proto50102067       // 获取女神赐福信息(返回)
+{
+    optional int32 bless_value = 1;       // 祝福值
+    repeated ProtoServerRecord reward_record_all_server_list = 2;       // 全服奖励记录列表
+    repeated ProtoItemId reward_record_self_list = 3;       // 个人奖励记录列表
+    repeated ProtoItemExchangeTimes item_exchange_times_list = 4;       // 物品兑换次数列表
+    optional int32 surplus_time = 5;       // 活动剩余时间
+}
+
+message Proto10102068       // 赐福操作
+{
+    optional int32 bless_number = 1;       // 赐福次数
+}
+
+message Proto50102068       // 赐福操作(返回)
+{
+    optional int32 result = 1;       // 返回结果，0为成功
+}
+
+message Proto10102069       // 女神赐福兑换操作
+{
+    optional int32 exchange_item_id = 1;       // 要兑换的物品ID
+}
+
+message Proto50102069       // 女神赐福兑换操作(返回)
+{
+    optional int32 result = 1;       // 返回结果，0为成功
+}
+
+message Proto51400421       // 化神信息(返回)
+{
+    optional int32 grade = 1;       // 阶数
+    optional ProtoFightPro prop = 2;       // 属性
+    optional int32 open = 3;       // 是否开启
+}
+
+message Proto10102070       // 神秘宝箱购买钥匙
+{
+    optional int32 count = 1;       // 购买个数
+}
+
+message Proto10102071       // 神秘宝箱抽奖消耗道具
+{
+    optional int32 type = 1;       // 0:1次  1:10次 2:100次
+}
+
+message Proto50102071       // 神秘宝箱抽奖消耗道具(返回)
+{
+    optional int32 ret = 1;       // 0 失败 1成功
+}
+
+

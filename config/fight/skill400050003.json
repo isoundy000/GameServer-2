@@ -1,0 +1,282 @@
+{
+    "20": {
+        "remark": [
+            "1150"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 1150
+        }
+    },
+    "11": {
+        "remark": [
+            "700"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 700
+        }
+    },
+    "10": {
+        "remark": [
+            "650"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 650
+        }
+    },
+    "13": {
+        "remark": [
+            "800"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 800
+        }
+    },
+    "12": {
+        "remark": [
+            "750"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 750
+        }
+    },
+    "15": {
+        "remark": [
+            "900"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 900
+        }
+    },
+    "14": {
+        "remark": [
+            "850"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 850
+        }
+    },
+    "17": {
+        "remark": [
+            "1000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 1000
+        }
+    },
+    "16": {
+        "remark": [
+            "950"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 950
+        }
+    },
+    "19": {
+        "remark": [
+            "1100"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 1100
+        }
+    },
+    "18": {
+        "remark": [
+            "1050"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 1050
+        }
+    },
+    "1": {
+        "remark": [
+            "200"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 1000,
+        "name": "巨力",
+        "detail": {
+            "attack": 200
+        }
+    },
+    "3": {
+        "remark": [
+            "300"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 300
+        }
+    },
+    "2": {
+        "remark": [
+            "250"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 250
+        }
+    },
+    "5": {
+        "remark": [
+            "400"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 400
+        }
+    },
+    "4": {
+        "remark": [
+            "350"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 350
+        }
+    },
+    "7": {
+        "remark": [
+            "500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 500
+        }
+    },
+    "6": {
+        "remark": [
+            "450"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 450
+        }
+    },
+    "9": {
+        "remark": [
+            "600"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 600
+        }
+    },
+    "8": {
+        "remark": [
+            "550"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "巨力",
+        "detail": {
+            "attack": 550
+        }
+    }
+}

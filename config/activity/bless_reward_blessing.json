@@ -1,0 +1,12 @@
+{
+    "1": {
+        "reward_bless": 1,
+        "frequency": 1,
+        "need_money": 18
+    },
+    "2": {
+        "reward_bless": 11,
+        "frequency": 10,
+        "need_money": 180
+    }
+}

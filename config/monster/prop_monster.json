@@ -1,0 +1,79 @@
+{
+	"500000001":
+	{
+		/*怪物名字*/
+		"name": "monster1",
+		/*怪物形为树*/
+		"monster_tree": "bev1002.json",
+		
+		/*===================非必选项===========*/
+		/*怪物技能*/
+		"skill_set": [419202014],
+		/*怪物的标识*/
+		"flag_set":["no_move"],
+		/*自动消失时间,单位秒 */
+        "recycle_tick" : 5,
+		"patrol_path" : [[580,2620]],	// 寻路路径
+  		"patrol_no_loop" : 1
+	},
+	"501900001":
+	{
+		"name": "帮派boss1",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501900002":
+	{
+		"name": "帮派boss2",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501900003":
+	{
+		"name": "帮派boss3",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501900004":
+	{
+		"name": "帮派boss4",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501900005":
+	{
+		"name": "帮派boss5",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501905001":
+	{
+		"name": "帮派争霸大将",
+		"monster_tree": "bev2009.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501905002":
+	{
+		"name": "帮派争霸攻方资源怪",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	},
+	"501905003":
+	{
+		"name": "帮派争霸守方资源怪",
+		"monster_tree": "bev1001.json",
+		"skill_set": [400030001],
+		"flag_set":["no_aim"]
+	}
+}	
+	
+	
+	
+	

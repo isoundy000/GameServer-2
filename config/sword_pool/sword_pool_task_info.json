@@ -1,0 +1,102 @@
+{
+    "10": {
+        "name": "悬赏任务",
+        "once_exp": 1,
+        "image": "icon/functionIcon/tb_36.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 10,
+        "find_cost": 1,
+        "limit": 10,
+        "short_cut": 1
+    },
+    "1": {
+        "name": "进阶副本",
+        "once_exp": 3,
+        "image": "icon/functionIcon/tb_37.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 30,
+        "find_cost": 3,
+        "limit": 0,
+        "short_cut": 2
+    },
+    "3": {
+        "name": "经验副本（波）",
+        "once_exp": 1,
+        "image": "icon/functionIcon/tb_31.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 20,
+        "find_cost": 1,
+        "limit": 20,
+        "short_cut": 0
+    },
+    "2": {
+        "name": "剧情副本",
+        "once_exp": 5,
+        "image": "icon/functionIcon/tb_33.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 10,
+        "find_cost": 5,
+        "limit": 0,
+        "short_cut": 0
+    },
+    "5": {
+        "name": "帮派任务",
+        "once_exp": 1,
+        "image": "icon/functionIcon/tb_34.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 20,
+        "find_cost": 1,
+        "limit": 20,
+        "short_cut": 1
+    },
+    "4": {
+        "name": "日常任务",
+        "once_exp": 1,
+        "image": "icon/functionIcon/tb_25.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 20,
+        "find_cost": 1,
+        "limit": 20,
+        "short_cut": 1
+    },
+    "7": {
+        "name": "跨服副本",
+        "once_exp": 5,
+        "image": "icon/functionIcon/tb_35.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 20,
+        "find_cost": 5,
+        "limit": 20,
+        "short_cut": 0
+    },
+    "6": {
+        "name": "江湖榜",
+        "once_exp": 2,
+        "image": "icon/functionIcon/tb_26.png",
+        "cmd": "type_ui,RIVERLAKERANKINGWINDOW,null",
+        "normal_limit": 20,
+        "find_cost": 2,
+        "limit": 10,
+        "short_cut": 2
+    },
+    "9": {
+        "name": "护送美人",
+        "once_exp": 5,
+        "image": "icon/functionIcon/tb_28.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 3,
+        "find_cost": 5,
+        "limit": 3,
+        "short_cut": 1
+    },
+    "8": {
+        "name": "世界boss",
+        "once_exp": 10,
+        "image": "icon/functionIcon/tb_29.png",
+        "cmd": "type_ui,ESCORT_WINDOW,null",
+        "normal_limit": 1,
+        "find_cost": 10,
+        "limit": 1,
+        "short_cut": 0
+    }
+}

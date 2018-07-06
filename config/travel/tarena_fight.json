@@ -1,0 +1,5002 @@
+{
+    "15022": {
+        "rivial": 22,
+        "lose_point": 5,
+        "self": 15,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "9025": {
+        "rivial": 25,
+        "lose_point": -8,
+        "self": 9,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "4024": {
+        "rivial": 24,
+        "lose_point": -7,
+        "self": 4,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "4025": {
+        "rivial": 25,
+        "lose_point": -7,
+        "self": 4,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "4022": {
+        "rivial": 22,
+        "lose_point": -7,
+        "self": 4,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "4023": {
+        "rivial": 23,
+        "lose_point": -7,
+        "self": 4,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "4020": {
+        "rivial": 20,
+        "lose_point": -6,
+        "self": 4,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "4021": {
+        "rivial": 21,
+        "lose_point": -7,
+        "self": 4,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "19014": {
+        "rivial": 14,
+        "lose_point": 10,
+        "self": 19,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "19015": {
+        "rivial": 15,
+        "lose_point": 10,
+        "self": 19,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "19016": {
+        "rivial": 16,
+        "lose_point": 9,
+        "self": 19,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "19017": {
+        "rivial": 17,
+        "lose_point": 9,
+        "self": 19,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "19010": {
+        "rivial": 10,
+        "lose_point": 11,
+        "self": 19,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "19011": {
+        "rivial": 11,
+        "lose_point": 10,
+        "self": 19,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "19012": {
+        "rivial": 12,
+        "lose_point": 10,
+        "self": 19,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "19013": {
+        "rivial": 13,
+        "lose_point": 10,
+        "self": 19,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "9021": {
+        "rivial": 21,
+        "lose_point": -8,
+        "self": 9,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "19018": {
+        "rivial": 18,
+        "lose_point": 9,
+        "self": 19,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "19019": {
+        "rivial": 19,
+        "lose_point": 9,
+        "self": 19,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "9020": {
+        "rivial": 20,
+        "lose_point": -7,
+        "self": 9,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "20009": {
+        "rivial": 9,
+        "lose_point": 11,
+        "self": 20,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "20008": {
+        "rivial": 8,
+        "lose_point": 11,
+        "self": 20,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "22009": {
+        "rivial": 9,
+        "lose_point": 14,
+        "self": 22,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "22008": {
+        "rivial": 8,
+        "lose_point": 14,
+        "self": 22,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "22001": {
+        "rivial": 1,
+        "lose_point": 15,
+        "self": 22,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "22003": {
+        "rivial": 3,
+        "lose_point": 15,
+        "self": 22,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "22002": {
+        "rivial": 2,
+        "lose_point": 15,
+        "self": 22,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "22005": {
+        "rivial": 5,
+        "lose_point": 15,
+        "self": 22,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "22004": {
+        "rivial": 4,
+        "lose_point": 15,
+        "self": 22,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "22007": {
+        "rivial": 7,
+        "lose_point": 14,
+        "self": 22,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "22006": {
+        "rivial": 6,
+        "lose_point": 14,
+        "self": 22,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "13016": {
+        "rivial": 16,
+        "lose_point": 6,
+        "self": 13,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "13017": {
+        "rivial": 17,
+        "lose_point": 6,
+        "self": 13,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "13014": {
+        "rivial": 14,
+        "lose_point": 7,
+        "self": 13,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "13015": {
+        "rivial": 15,
+        "lose_point": 7,
+        "self": 13,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "13012": {
+        "rivial": 12,
+        "lose_point": 7,
+        "self": 13,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "13013": {
+        "rivial": 13,
+        "lose_point": 7,
+        "self": 13,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "13010": {
+        "rivial": 10,
+        "lose_point": 8,
+        "self": 13,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "13011": {
+        "rivial": 11,
+        "lose_point": 7,
+        "self": 13,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "8022": {
+        "rivial": 22,
+        "lose_point": -8,
+        "self": 8,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "13018": {
+        "rivial": 18,
+        "lose_point": 6,
+        "self": 13,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "13019": {
+        "rivial": 19,
+        "lose_point": 6,
+        "self": 13,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "8023": {
+        "rivial": 23,
+        "lose_point": -8,
+        "self": 8,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "12019": {
+        "rivial": 19,
+        "lose_point": 6,
+        "self": 12,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "12018": {
+        "rivial": 18,
+        "lose_point": 6,
+        "self": 12,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "17020": {
+        "rivial": 20,
+        "lose_point": 9,
+        "self": 17,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "12015": {
+        "rivial": 15,
+        "lose_point": 7,
+        "self": 12,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "12014": {
+        "rivial": 14,
+        "lose_point": 7,
+        "self": 12,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "3025": {
+        "rivial": 25,
+        "lose_point": -7,
+        "self": 3,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "12016": {
+        "rivial": 16,
+        "lose_point": 6,
+        "self": 12,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "12011": {
+        "rivial": 11,
+        "lose_point": 7,
+        "self": 12,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "12010": {
+        "rivial": 10,
+        "lose_point": 8,
+        "self": 12,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "12013": {
+        "rivial": 13,
+        "lose_point": 7,
+        "self": 12,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "12012": {
+        "rivial": 12,
+        "lose_point": 7,
+        "self": 12,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "1018": {
+        "rivial": 18,
+        "lose_point": -6,
+        "self": 1,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "1019": {
+        "rivial": 19,
+        "lose_point": -6,
+        "self": 1,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "1014": {
+        "rivial": 14,
+        "lose_point": -5,
+        "self": 1,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "1015": {
+        "rivial": 15,
+        "lose_point": -5,
+        "self": 1,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "1016": {
+        "rivial": 16,
+        "lose_point": -6,
+        "self": 1,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "1017": {
+        "rivial": 17,
+        "lose_point": -6,
+        "self": 1,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "1010": {
+        "rivial": 10,
+        "lose_point": -4,
+        "self": 1,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "1011": {
+        "rivial": 11,
+        "lose_point": -5,
+        "self": 1,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "1012": {
+        "rivial": 12,
+        "lose_point": -5,
+        "self": 1,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "1013": {
+        "rivial": 13,
+        "lose_point": -5,
+        "self": 1,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "5003": {
+        "rivial": 3,
+        "lose_point": -3,
+        "self": 5,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "5002": {
+        "rivial": 2,
+        "lose_point": -3,
+        "self": 5,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "5001": {
+        "rivial": 1,
+        "lose_point": -3,
+        "self": 5,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "5007": {
+        "rivial": 7,
+        "lose_point": -4,
+        "self": 5,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "5006": {
+        "rivial": 6,
+        "lose_point": -4,
+        "self": 5,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "5005": {
+        "rivial": 5,
+        "lose_point": -3,
+        "self": 5,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "5004": {
+        "rivial": 4,
+        "lose_point": -3,
+        "self": 5,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "5009": {
+        "rivial": 9,
+        "lose_point": -4,
+        "self": 5,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "5008": {
+        "rivial": 8,
+        "lose_point": -4,
+        "self": 5,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "3020": {
+        "rivial": 20,
+        "lose_point": -6,
+        "self": 3,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "11003": {
+        "rivial": 3,
+        "lose_point": 9,
+        "self": 11,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "11002": {
+        "rivial": 2,
+        "lose_point": 9,
+        "self": 11,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "11001": {
+        "rivial": 1,
+        "lose_point": 9,
+        "self": 11,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "11007": {
+        "rivial": 7,
+        "lose_point": 8,
+        "self": 11,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "11006": {
+        "rivial": 6,
+        "lose_point": 8,
+        "self": 11,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "11005": {
+        "rivial": 5,
+        "lose_point": 9,
+        "self": 11,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "11004": {
+        "rivial": 4,
+        "lose_point": 9,
+        "self": 11,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "11009": {
+        "rivial": 9,
+        "lose_point": 8,
+        "self": 11,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "11008": {
+        "rivial": 8,
+        "lose_point": 8,
+        "self": 11,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "10024": {
+        "rivial": 24,
+        "lose_point": -8,
+        "self": 10,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "10025": {
+        "rivial": 25,
+        "lose_point": -8,
+        "self": 10,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "10022": {
+        "rivial": 22,
+        "lose_point": -8,
+        "self": 10,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "10023": {
+        "rivial": 23,
+        "lose_point": -8,
+        "self": 10,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "10020": {
+        "rivial": 20,
+        "lose_point": -7,
+        "self": 10,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "10021": {
+        "rivial": 21,
+        "lose_point": -8,
+        "self": 10,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "10002": {
+        "rivial": 2,
+        "lose_point": -4,
+        "self": 10,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "10003": {
+        "rivial": 3,
+        "lose_point": -4,
+        "self": 10,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "8024": {
+        "rivial": 24,
+        "lose_point": -8,
+        "self": 8,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "14013": {
+        "rivial": 13,
+        "lose_point": 7,
+        "self": 14,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "8025": {
+        "rivial": 25,
+        "lose_point": -8,
+        "self": 8,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "14012": {
+        "rivial": 12,
+        "lose_point": 7,
+        "self": 14,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "7009": {
+        "rivial": 9,
+        "lose_point": -5,
+        "self": 7,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "7008": {
+        "rivial": 8,
+        "lose_point": -5,
+        "self": 7,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "20005": {
+        "rivial": 5,
+        "lose_point": 12,
+        "self": 20,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "20004": {
+        "rivial": 4,
+        "lose_point": 12,
+        "self": 20,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "20003": {
+        "rivial": 3,
+        "lose_point": 12,
+        "self": 20,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "20002": {
+        "rivial": 2,
+        "lose_point": 12,
+        "self": 20,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "20001": {
+        "rivial": 1,
+        "lose_point": 12,
+        "self": 20,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "7001": {
+        "rivial": 1,
+        "lose_point": -4,
+        "self": 7,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "9024": {
+        "rivial": 24,
+        "lose_point": -8,
+        "self": 9,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "7003": {
+        "rivial": 3,
+        "lose_point": -4,
+        "self": 7,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "7002": {
+        "rivial": 2,
+        "lose_point": -4,
+        "self": 7,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "7005": {
+        "rivial": 5,
+        "lose_point": -4,
+        "self": 7,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "7004": {
+        "rivial": 4,
+        "lose_point": -4,
+        "self": 7,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "9023": {
+        "rivial": 23,
+        "lose_point": -8,
+        "self": 9,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "7006": {
+        "rivial": 6,
+        "lose_point": -5,
+        "self": 7,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "24018": {
+        "rivial": 18,
+        "lose_point": 12,
+        "self": 24,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "24019": {
+        "rivial": 19,
+        "lose_point": 12,
+        "self": 24,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "24014": {
+        "rivial": 14,
+        "lose_point": 13,
+        "self": 24,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "24015": {
+        "rivial": 15,
+        "lose_point": 13,
+        "self": 24,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "24016": {
+        "rivial": 16,
+        "lose_point": 12,
+        "self": 24,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "24017": {
+        "rivial": 17,
+        "lose_point": 12,
+        "self": 24,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "24010": {
+        "rivial": 10,
+        "lose_point": 14,
+        "self": 24,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "24011": {
+        "rivial": 11,
+        "lose_point": 13,
+        "self": 24,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "24012": {
+        "rivial": 12,
+        "lose_point": 13,
+        "self": 24,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "24013": {
+        "rivial": 13,
+        "lose_point": 13,
+        "self": 24,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "3012": {
+        "rivial": 12,
+        "lose_point": -5,
+        "self": 3,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "3013": {
+        "rivial": 13,
+        "lose_point": -5,
+        "self": 3,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "19025": {
+        "rivial": 25,
+        "lose_point": 8,
+        "self": 19,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "19024": {
+        "rivial": 24,
+        "lose_point": 8,
+        "self": 19,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "19021": {
+        "rivial": 21,
+        "lose_point": 8,
+        "self": 19,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "19020": {
+        "rivial": 20,
+        "lose_point": 9,
+        "self": 19,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "19023": {
+        "rivial": 23,
+        "lose_point": 8,
+        "self": 19,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "19022": {
+        "rivial": 22,
+        "lose_point": 8,
+        "self": 19,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "21022": {
+        "rivial": 22,
+        "lose_point": 11,
+        "self": 21,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "21023": {
+        "rivial": 23,
+        "lose_point": 11,
+        "self": 21,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "21020": {
+        "rivial": 20,
+        "lose_point": 12,
+        "self": 21,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "21021": {
+        "rivial": 21,
+        "lose_point": 11,
+        "self": 21,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "21024": {
+        "rivial": 24,
+        "lose_point": 11,
+        "self": 21,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "21025": {
+        "rivial": 25,
+        "lose_point": 11,
+        "self": 21,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "3016": {
+        "rivial": 16,
+        "lose_point": -6,
+        "self": 3,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "3017": {
+        "rivial": 17,
+        "lose_point": -6,
+        "self": 3,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "25019": {
+        "rivial": 19,
+        "lose_point": 12,
+        "self": 25,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "25018": {
+        "rivial": 18,
+        "lose_point": 12,
+        "self": 25,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "25013": {
+        "rivial": 13,
+        "lose_point": 13,
+        "self": 25,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "25012": {
+        "rivial": 12,
+        "lose_point": 13,
+        "self": 25,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "25011": {
+        "rivial": 11,
+        "lose_point": 13,
+        "self": 25,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "25010": {
+        "rivial": 10,
+        "lose_point": 14,
+        "self": 25,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "25017": {
+        "rivial": 17,
+        "lose_point": 12,
+        "self": 25,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "25016": {
+        "rivial": 16,
+        "lose_point": 12,
+        "self": 25,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "25015": {
+        "rivial": 15,
+        "lose_point": 13,
+        "self": 25,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "25014": {
+        "rivial": 14,
+        "lose_point": 13,
+        "self": 25,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "17021": {
+        "rivial": 21,
+        "lose_point": 8,
+        "self": 17,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "18024": {
+        "rivial": 24,
+        "lose_point": 8,
+        "self": 18,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "18025": {
+        "rivial": 25,
+        "lose_point": 8,
+        "self": 18,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "18022": {
+        "rivial": 22,
+        "lose_point": 8,
+        "self": 18,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "18023": {
+        "rivial": 23,
+        "lose_point": 8,
+        "self": 18,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "18020": {
+        "rivial": 20,
+        "lose_point": 9,
+        "self": 18,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "18021": {
+        "rivial": 21,
+        "lose_point": 8,
+        "self": 18,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "23020": {
+        "rivial": 20,
+        "lose_point": 12,
+        "self": 23,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "23021": {
+        "rivial": 21,
+        "lose_point": 11,
+        "self": 23,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "23022": {
+        "rivial": 22,
+        "lose_point": 11,
+        "self": 23,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "23023": {
+        "rivial": 23,
+        "lose_point": 11,
+        "self": 23,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "23024": {
+        "rivial": 24,
+        "lose_point": 11,
+        "self": 23,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "23025": {
+        "rivial": 25,
+        "lose_point": 11,
+        "self": 23,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "17009": {
+        "rivial": 9,
+        "lose_point": 11,
+        "self": 17,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "17008": {
+        "rivial": 8,
+        "lose_point": 11,
+        "self": 17,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "8019": {
+        "rivial": 19,
+        "lose_point": -7,
+        "self": 8,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "8018": {
+        "rivial": 18,
+        "lose_point": -7,
+        "self": 8,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "8017": {
+        "rivial": 17,
+        "lose_point": -7,
+        "self": 8,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "8016": {
+        "rivial": 16,
+        "lose_point": -7,
+        "self": 8,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "8015": {
+        "rivial": 15,
+        "lose_point": -6,
+        "self": 8,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "8014": {
+        "rivial": 14,
+        "lose_point": -6,
+        "self": 8,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "8013": {
+        "rivial": 13,
+        "lose_point": -6,
+        "self": 8,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "8012": {
+        "rivial": 12,
+        "lose_point": -6,
+        "self": 8,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "8011": {
+        "rivial": 11,
+        "lose_point": -6,
+        "self": 8,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "8010": {
+        "rivial": 10,
+        "lose_point": -5,
+        "self": 8,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "8021": {
+        "rivial": 21,
+        "lose_point": -8,
+        "self": 8,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "2019": {
+        "rivial": 19,
+        "lose_point": -6,
+        "self": 2,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "2018": {
+        "rivial": 18,
+        "lose_point": -6,
+        "self": 2,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "2015": {
+        "rivial": 15,
+        "lose_point": -5,
+        "self": 2,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "2014": {
+        "rivial": 14,
+        "lose_point": -5,
+        "self": 2,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "2017": {
+        "rivial": 17,
+        "lose_point": -6,
+        "self": 2,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "2016": {
+        "rivial": 16,
+        "lose_point": -6,
+        "self": 2,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "2011": {
+        "rivial": 11,
+        "lose_point": -5,
+        "self": 2,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "2010": {
+        "rivial": 10,
+        "lose_point": -4,
+        "self": 2,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "2013": {
+        "rivial": 13,
+        "lose_point": -5,
+        "self": 2,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "2012": {
+        "rivial": 12,
+        "lose_point": -5,
+        "self": 2,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "9014": {
+        "rivial": 14,
+        "lose_point": -6,
+        "self": 9,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "9015": {
+        "rivial": 15,
+        "lose_point": -6,
+        "self": 9,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "9016": {
+        "rivial": 16,
+        "lose_point": -7,
+        "self": 9,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "9017": {
+        "rivial": 17,
+        "lose_point": -7,
+        "self": 9,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "7007": {
+        "rivial": 7,
+        "lose_point": -5,
+        "self": 7,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "9011": {
+        "rivial": 11,
+        "lose_point": -6,
+        "self": 9,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "9012": {
+        "rivial": 12,
+        "lose_point": -6,
+        "self": 9,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "9013": {
+        "rivial": 13,
+        "lose_point": -6,
+        "self": 9,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "22012": {
+        "rivial": 12,
+        "lose_point": 13,
+        "self": 22,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "22013": {
+        "rivial": 13,
+        "lose_point": 13,
+        "self": 22,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "22010": {
+        "rivial": 10,
+        "lose_point": 14,
+        "self": 22,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "22011": {
+        "rivial": 11,
+        "lose_point": 13,
+        "self": 22,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "9018": {
+        "rivial": 18,
+        "lose_point": -7,
+        "self": 9,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "9019": {
+        "rivial": 19,
+        "lose_point": -7,
+        "self": 9,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "22014": {
+        "rivial": 14,
+        "lose_point": 13,
+        "self": 22,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "22015": {
+        "rivial": 15,
+        "lose_point": 13,
+        "self": 22,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "24025": {
+        "rivial": 25,
+        "lose_point": 11,
+        "self": 24,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "24024": {
+        "rivial": 24,
+        "lose_point": 11,
+        "self": 24,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "24021": {
+        "rivial": 21,
+        "lose_point": 11,
+        "self": 24,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "24020": {
+        "rivial": 20,
+        "lose_point": 12,
+        "self": 24,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "24023": {
+        "rivial": 23,
+        "lose_point": 11,
+        "self": 24,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "24022": {
+        "rivial": 22,
+        "lose_point": 11,
+        "self": 24,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "13023": {
+        "rivial": 23,
+        "lose_point": 5,
+        "self": 13,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "13022": {
+        "rivial": 22,
+        "lose_point": 5,
+        "self": 13,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "13021": {
+        "rivial": 21,
+        "lose_point": 5,
+        "self": 13,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "13020": {
+        "rivial": 20,
+        "lose_point": 6,
+        "self": 13,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "13025": {
+        "rivial": 25,
+        "lose_point": 5,
+        "self": 13,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "13024": {
+        "rivial": 24,
+        "lose_point": 5,
+        "self": 13,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "7011": {
+        "rivial": 11,
+        "lose_point": -6,
+        "self": 7,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "3018": {
+        "rivial": 18,
+        "lose_point": -6,
+        "self": 3,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "3019": {
+        "rivial": 19,
+        "lose_point": -6,
+        "self": 3,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "12008": {
+        "rivial": 8,
+        "lose_point": 8,
+        "self": 12,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "12009": {
+        "rivial": 9,
+        "lose_point": 8,
+        "self": 12,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "12006": {
+        "rivial": 6,
+        "lose_point": 8,
+        "self": 12,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "12007": {
+        "rivial": 7,
+        "lose_point": 8,
+        "self": 12,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "12004": {
+        "rivial": 4,
+        "lose_point": 9,
+        "self": 12,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "12005": {
+        "rivial": 5,
+        "lose_point": 9,
+        "self": 12,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "12002": {
+        "rivial": 2,
+        "lose_point": 9,
+        "self": 12,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "12003": {
+        "rivial": 3,
+        "lose_point": 9,
+        "self": 12,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "3014": {
+        "rivial": 14,
+        "lose_point": -5,
+        "self": 3,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "12001": {
+        "rivial": 1,
+        "lose_point": 9,
+        "self": 12,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "1009": {
+        "rivial": 9,
+        "lose_point": -4,
+        "self": 1,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "1008": {
+        "rivial": 8,
+        "lose_point": -4,
+        "self": 1,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "1007": {
+        "rivial": 7,
+        "lose_point": -4,
+        "self": 1,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "1006": {
+        "rivial": 6,
+        "lose_point": -4,
+        "self": 1,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "1005": {
+        "rivial": 5,
+        "lose_point": -3,
+        "self": 1,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "1004": {
+        "rivial": 4,
+        "lose_point": -3,
+        "self": 1,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "1003": {
+        "rivial": 3,
+        "lose_point": -3,
+        "self": 1,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "1002": {
+        "rivial": 2,
+        "lose_point": -3,
+        "self": 1,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "1001": {
+        "rivial": 1,
+        "lose_point": -3,
+        "self": 1,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "15007": {
+        "rivial": 7,
+        "lose_point": 8,
+        "self": 15,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "15006": {
+        "rivial": 6,
+        "lose_point": 8,
+        "self": 15,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "15005": {
+        "rivial": 5,
+        "lose_point": 9,
+        "self": 15,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "15004": {
+        "rivial": 4,
+        "lose_point": 9,
+        "self": 15,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "15003": {
+        "rivial": 3,
+        "lose_point": 9,
+        "self": 15,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "15002": {
+        "rivial": 2,
+        "lose_point": 9,
+        "self": 15,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "15001": {
+        "rivial": 1,
+        "lose_point": 9,
+        "self": 15,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "15009": {
+        "rivial": 9,
+        "lose_point": 8,
+        "self": 15,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "15008": {
+        "rivial": 8,
+        "lose_point": 8,
+        "self": 15,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "11018": {
+        "rivial": 18,
+        "lose_point": 6,
+        "self": 11,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "11019": {
+        "rivial": 19,
+        "lose_point": 6,
+        "self": 11,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "11014": {
+        "rivial": 14,
+        "lose_point": 7,
+        "self": 11,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "11015": {
+        "rivial": 15,
+        "lose_point": 7,
+        "self": 11,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "11016": {
+        "rivial": 16,
+        "lose_point": 6,
+        "self": 11,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "11017": {
+        "rivial": 17,
+        "lose_point": 6,
+        "self": 11,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "11010": {
+        "rivial": 10,
+        "lose_point": 8,
+        "self": 11,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "11011": {
+        "rivial": 11,
+        "lose_point": 7,
+        "self": 11,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "11012": {
+        "rivial": 12,
+        "lose_point": 7,
+        "self": 11,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "11013": {
+        "rivial": 13,
+        "lose_point": 7,
+        "self": 11,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "23011": {
+        "rivial": 11,
+        "lose_point": 13,
+        "self": 23,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "23010": {
+        "rivial": 10,
+        "lose_point": 14,
+        "self": 23,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "23013": {
+        "rivial": 13,
+        "lose_point": 13,
+        "self": 23,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "23012": {
+        "rivial": 12,
+        "lose_point": 13,
+        "self": 23,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "23015": {
+        "rivial": 15,
+        "lose_point": 13,
+        "self": 23,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "23014": {
+        "rivial": 14,
+        "lose_point": 13,
+        "self": 23,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "23017": {
+        "rivial": 17,
+        "lose_point": 12,
+        "self": 23,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "23016": {
+        "rivial": 16,
+        "lose_point": 12,
+        "self": 23,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "23019": {
+        "rivial": 19,
+        "lose_point": 12,
+        "self": 23,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "23018": {
+        "rivial": 18,
+        "lose_point": 12,
+        "self": 23,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "14022": {
+        "rivial": 22,
+        "lose_point": 5,
+        "self": 14,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "14023": {
+        "rivial": 23,
+        "lose_point": 5,
+        "self": 14,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "14020": {
+        "rivial": 20,
+        "lose_point": 6,
+        "self": 14,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "14021": {
+        "rivial": 21,
+        "lose_point": 5,
+        "self": 14,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "14024": {
+        "rivial": 24,
+        "lose_point": 5,
+        "self": 14,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "14025": {
+        "rivial": 25,
+        "lose_point": 5,
+        "self": 14,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "10019": {
+        "rivial": 19,
+        "lose_point": -7,
+        "self": 10,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "10018": {
+        "rivial": 18,
+        "lose_point": -7,
+        "self": 10,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "10013": {
+        "rivial": 13,
+        "lose_point": -6,
+        "self": 10,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "10012": {
+        "rivial": 12,
+        "lose_point": -6,
+        "self": 10,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "10011": {
+        "rivial": 11,
+        "lose_point": -6,
+        "self": 10,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "10010": {
+        "rivial": 10,
+        "lose_point": -5,
+        "self": 10,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "10017": {
+        "rivial": 17,
+        "lose_point": -7,
+        "self": 10,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "10016": {
+        "rivial": 16,
+        "lose_point": -7,
+        "self": 10,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "10015": {
+        "rivial": 15,
+        "lose_point": -6,
+        "self": 10,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "10014": {
+        "rivial": 14,
+        "lose_point": -6,
+        "self": 10,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "2024": {
+        "rivial": 24,
+        "lose_point": -7,
+        "self": 2,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "2025": {
+        "rivial": 25,
+        "lose_point": -7,
+        "self": 2,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "2020": {
+        "rivial": 20,
+        "lose_point": -6,
+        "self": 2,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "2021": {
+        "rivial": 21,
+        "lose_point": -7,
+        "self": 2,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "2022": {
+        "rivial": 22,
+        "lose_point": -7,
+        "self": 2,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "2023": {
+        "rivial": 23,
+        "lose_point": -7,
+        "self": 2,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "20010": {
+        "rivial": 10,
+        "lose_point": 11,
+        "self": 20,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "20011": {
+        "rivial": 11,
+        "lose_point": 10,
+        "self": 20,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "20012": {
+        "rivial": 12,
+        "lose_point": 10,
+        "self": 20,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "20013": {
+        "rivial": 13,
+        "lose_point": 10,
+        "self": 20,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "20014": {
+        "rivial": 14,
+        "lose_point": 10,
+        "self": 20,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "20015": {
+        "rivial": 15,
+        "lose_point": 10,
+        "self": 20,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "20016": {
+        "rivial": 16,
+        "lose_point": 9,
+        "self": 20,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "20017": {
+        "rivial": 17,
+        "lose_point": 9,
+        "self": 20,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "20018": {
+        "rivial": 18,
+        "lose_point": 9,
+        "self": 20,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "20019": {
+        "rivial": 19,
+        "lose_point": 9,
+        "self": 20,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "4008": {
+        "rivial": 8,
+        "lose_point": -4,
+        "self": 4,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "4009": {
+        "rivial": 9,
+        "lose_point": -4,
+        "self": 4,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "4001": {
+        "rivial": 1,
+        "lose_point": -3,
+        "self": 4,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "4002": {
+        "rivial": 2,
+        "lose_point": -3,
+        "self": 4,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "4003": {
+        "rivial": 3,
+        "lose_point": -3,
+        "self": 4,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "4004": {
+        "rivial": 4,
+        "lose_point": -3,
+        "self": 4,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "4005": {
+        "rivial": 5,
+        "lose_point": -3,
+        "self": 4,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "4006": {
+        "rivial": 6,
+        "lose_point": -4,
+        "self": 4,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "4007": {
+        "rivial": 7,
+        "lose_point": -4,
+        "self": 4,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "16020": {
+        "rivial": 20,
+        "lose_point": 9,
+        "self": 16,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "16021": {
+        "rivial": 21,
+        "lose_point": 8,
+        "self": 16,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "16022": {
+        "rivial": 22,
+        "lose_point": 8,
+        "self": 16,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "16023": {
+        "rivial": 23,
+        "lose_point": 8,
+        "self": 16,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "16024": {
+        "rivial": 24,
+        "lose_point": 8,
+        "self": 16,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "16025": {
+        "rivial": 25,
+        "lose_point": 8,
+        "self": 16,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "25004": {
+        "rivial": 4,
+        "lose_point": 15,
+        "self": 25,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "25005": {
+        "rivial": 5,
+        "lose_point": 15,
+        "self": 25,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "25006": {
+        "rivial": 6,
+        "lose_point": 14,
+        "self": 25,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "25007": {
+        "rivial": 7,
+        "lose_point": 14,
+        "self": 25,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "25001": {
+        "rivial": 1,
+        "lose_point": 15,
+        "self": 25,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21019": {
+        "rivial": 19,
+        "lose_point": 12,
+        "self": 21,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "25003": {
+        "rivial": 3,
+        "lose_point": 15,
+        "self": 25,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21017": {
+        "rivial": 17,
+        "lose_point": 12,
+        "self": 21,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "21016": {
+        "rivial": 16,
+        "lose_point": 12,
+        "self": 21,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "21015": {
+        "rivial": 15,
+        "lose_point": 13,
+        "self": 21,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "21014": {
+        "rivial": 14,
+        "lose_point": 13,
+        "self": 21,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "21013": {
+        "rivial": 13,
+        "lose_point": 13,
+        "self": 21,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "21012": {
+        "rivial": 12,
+        "lose_point": 13,
+        "self": 21,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "21011": {
+        "rivial": 11,
+        "lose_point": 13,
+        "self": 21,
+        "win_point": 11,
+        "lose_reward": 607146,
+        "win_reward": 607192
+    },
+    "21010": {
+        "rivial": 10,
+        "lose_point": 14,
+        "self": 21,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "12017": {
+        "rivial": 17,
+        "lose_point": 6,
+        "self": 12,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "3024": {
+        "rivial": 24,
+        "lose_point": -7,
+        "self": 3,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "3023": {
+        "rivial": 23,
+        "lose_point": -7,
+        "self": 3,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "3022": {
+        "rivial": 22,
+        "lose_point": -7,
+        "self": 3,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "18013": {
+        "rivial": 13,
+        "lose_point": 10,
+        "self": 18,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "18012": {
+        "rivial": 12,
+        "lose_point": 10,
+        "self": 18,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "18011": {
+        "rivial": 11,
+        "lose_point": 10,
+        "self": 18,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "18010": {
+        "rivial": 10,
+        "lose_point": 11,
+        "self": 18,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "18017": {
+        "rivial": 17,
+        "lose_point": 9,
+        "self": 18,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "3021": {
+        "rivial": 21,
+        "lose_point": -7,
+        "self": 3,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "18015": {
+        "rivial": 15,
+        "lose_point": 10,
+        "self": 18,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "18014": {
+        "rivial": 14,
+        "lose_point": 10,
+        "self": 18,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "18019": {
+        "rivial": 19,
+        "lose_point": 9,
+        "self": 18,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "18018": {
+        "rivial": 18,
+        "lose_point": 9,
+        "self": 18,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "6006": {
+        "rivial": 6,
+        "lose_point": -5,
+        "self": 6,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "6007": {
+        "rivial": 7,
+        "lose_point": -5,
+        "self": 6,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "6004": {
+        "rivial": 4,
+        "lose_point": -4,
+        "self": 6,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "6005": {
+        "rivial": 5,
+        "lose_point": -4,
+        "self": 6,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "6002": {
+        "rivial": 2,
+        "lose_point": -4,
+        "self": 6,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "6003": {
+        "rivial": 3,
+        "lose_point": -4,
+        "self": 6,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "6001": {
+        "rivial": 1,
+        "lose_point": -4,
+        "self": 6,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "6008": {
+        "rivial": 8,
+        "lose_point": -5,
+        "self": 6,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "6009": {
+        "rivial": 9,
+        "lose_point": -5,
+        "self": 6,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "17018": {
+        "rivial": 18,
+        "lose_point": 9,
+        "self": 17,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "17019": {
+        "rivial": 19,
+        "lose_point": 9,
+        "self": 17,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "17012": {
+        "rivial": 12,
+        "lose_point": 10,
+        "self": 17,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "17013": {
+        "rivial": 13,
+        "lose_point": 10,
+        "self": 17,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "8020": {
+        "rivial": 20,
+        "lose_point": -7,
+        "self": 8,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17011": {
+        "rivial": 11,
+        "lose_point": 10,
+        "self": 17,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "17016": {
+        "rivial": 16,
+        "lose_point": 9,
+        "self": 17,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "17017": {
+        "rivial": 17,
+        "lose_point": 9,
+        "self": 17,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "17014": {
+        "rivial": 14,
+        "lose_point": 10,
+        "self": 17,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "17015": {
+        "rivial": 15,
+        "lose_point": 10,
+        "self": 17,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "11025": {
+        "rivial": 25,
+        "lose_point": 5,
+        "self": 11,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "11024": {
+        "rivial": 24,
+        "lose_point": 5,
+        "self": 11,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "11021": {
+        "rivial": 21,
+        "lose_point": 5,
+        "self": 11,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "11020": {
+        "rivial": 20,
+        "lose_point": 6,
+        "self": 11,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "11023": {
+        "rivial": 23,
+        "lose_point": 5,
+        "self": 11,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "11022": {
+        "rivial": 22,
+        "lose_point": 5,
+        "self": 11,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "7017": {
+        "rivial": 17,
+        "lose_point": -7,
+        "self": 7,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17001": {
+        "rivial": 1,
+        "lose_point": 12,
+        "self": 17,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17003": {
+        "rivial": 3,
+        "lose_point": 12,
+        "self": 17,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17002": {
+        "rivial": 2,
+        "lose_point": 12,
+        "self": 17,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17005": {
+        "rivial": 5,
+        "lose_point": 12,
+        "self": 17,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17004": {
+        "rivial": 4,
+        "lose_point": 12,
+        "self": 17,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "17007": {
+        "rivial": 7,
+        "lose_point": 11,
+        "self": 17,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "17006": {
+        "rivial": 6,
+        "lose_point": 11,
+        "self": 17,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "22025": {
+        "rivial": 25,
+        "lose_point": 11,
+        "self": 22,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "22024": {
+        "rivial": 24,
+        "lose_point": 11,
+        "self": 22,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "22023": {
+        "rivial": 23,
+        "lose_point": 11,
+        "self": 22,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "22022": {
+        "rivial": 22,
+        "lose_point": 11,
+        "self": 22,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "22021": {
+        "rivial": 21,
+        "lose_point": 11,
+        "self": 22,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "22020": {
+        "rivial": 20,
+        "lose_point": 12,
+        "self": 22,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "7023": {
+        "rivial": 23,
+        "lose_point": -8,
+        "self": 7,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "7022": {
+        "rivial": 22,
+        "lose_point": -8,
+        "self": 7,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "9005": {
+        "rivial": 5,
+        "lose_point": -4,
+        "self": 9,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "7020": {
+        "rivial": 20,
+        "lose_point": -7,
+        "self": 7,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "9003": {
+        "rivial": 3,
+        "lose_point": -4,
+        "self": 9,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "9002": {
+        "rivial": 2,
+        "lose_point": -4,
+        "self": 9,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "7025": {
+        "rivial": 25,
+        "lose_point": -8,
+        "self": 7,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "7024": {
+        "rivial": 24,
+        "lose_point": -8,
+        "self": 7,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "9009": {
+        "rivial": 9,
+        "lose_point": -5,
+        "self": 9,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "9008": {
+        "rivial": 8,
+        "lose_point": -5,
+        "self": 9,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "9007": {
+        "rivial": 7,
+        "lose_point": -5,
+        "self": 9,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "9006": {
+        "rivial": 6,
+        "lose_point": -5,
+        "self": 9,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "20021": {
+        "rivial": 21,
+        "lose_point": 8,
+        "self": 20,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "20020": {
+        "rivial": 20,
+        "lose_point": 9,
+        "self": 20,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "20023": {
+        "rivial": 23,
+        "lose_point": 8,
+        "self": 20,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "20022": {
+        "rivial": 22,
+        "lose_point": 8,
+        "self": 20,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "20025": {
+        "rivial": 25,
+        "lose_point": 8,
+        "self": 20,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "20024": {
+        "rivial": 24,
+        "lose_point": 8,
+        "self": 20,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "16011": {
+        "rivial": 11,
+        "lose_point": 10,
+        "self": 16,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "16010": {
+        "rivial": 10,
+        "lose_point": 11,
+        "self": 16,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "16013": {
+        "rivial": 13,
+        "lose_point": 10,
+        "self": 16,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "9004": {
+        "rivial": 4,
+        "lose_point": -4,
+        "self": 9,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "16015": {
+        "rivial": 15,
+        "lose_point": 10,
+        "self": 16,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "16014": {
+        "rivial": 14,
+        "lose_point": 10,
+        "self": 16,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "16017": {
+        "rivial": 17,
+        "lose_point": 9,
+        "self": 16,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "16016": {
+        "rivial": 16,
+        "lose_point": 9,
+        "self": 16,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "16019": {
+        "rivial": 19,
+        "lose_point": 9,
+        "self": 16,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "16018": {
+        "rivial": 18,
+        "lose_point": 9,
+        "self": 16,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "9001": {
+        "rivial": 1,
+        "lose_point": -4,
+        "self": 9,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "3005": {
+        "rivial": 5,
+        "lose_point": -3,
+        "self": 3,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "3004": {
+        "rivial": 4,
+        "lose_point": -3,
+        "self": 3,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "3007": {
+        "rivial": 7,
+        "lose_point": -4,
+        "self": 3,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "3006": {
+        "rivial": 6,
+        "lose_point": -4,
+        "self": 3,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "3001": {
+        "rivial": 1,
+        "lose_point": -3,
+        "self": 3,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "3003": {
+        "rivial": 3,
+        "lose_point": -3,
+        "self": 3,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "3002": {
+        "rivial": 2,
+        "lose_point": -3,
+        "self": 3,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "3009": {
+        "rivial": 9,
+        "lose_point": -4,
+        "self": 3,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "3008": {
+        "rivial": 8,
+        "lose_point": -4,
+        "self": 3,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "5021": {
+        "rivial": 21,
+        "lose_point": -7,
+        "self": 5,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "5020": {
+        "rivial": 20,
+        "lose_point": -6,
+        "self": 5,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "5023": {
+        "rivial": 23,
+        "lose_point": -7,
+        "self": 5,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "5022": {
+        "rivial": 22,
+        "lose_point": -7,
+        "self": 5,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "5025": {
+        "rivial": 25,
+        "lose_point": -7,
+        "self": 5,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "5024": {
+        "rivial": 24,
+        "lose_point": -7,
+        "self": 5,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "15010": {
+        "rivial": 10,
+        "lose_point": 8,
+        "self": 15,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "15011": {
+        "rivial": 11,
+        "lose_point": 7,
+        "self": 15,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "15012": {
+        "rivial": 12,
+        "lose_point": 7,
+        "self": 15,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "15013": {
+        "rivial": 13,
+        "lose_point": 7,
+        "self": 15,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "15014": {
+        "rivial": 14,
+        "lose_point": 7,
+        "self": 15,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "15015": {
+        "rivial": 15,
+        "lose_point": 7,
+        "self": 15,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "15016": {
+        "rivial": 16,
+        "lose_point": 6,
+        "self": 15,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "15017": {
+        "rivial": 17,
+        "lose_point": 6,
+        "self": 15,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "15018": {
+        "rivial": 18,
+        "lose_point": 6,
+        "self": 15,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "15019": {
+        "rivial": 19,
+        "lose_point": 6,
+        "self": 15,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "23002": {
+        "rivial": 2,
+        "lose_point": 15,
+        "self": 23,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "23003": {
+        "rivial": 3,
+        "lose_point": 15,
+        "self": 23,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "23001": {
+        "rivial": 1,
+        "lose_point": 15,
+        "self": 23,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "23006": {
+        "rivial": 6,
+        "lose_point": 14,
+        "self": 23,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "23007": {
+        "rivial": 7,
+        "lose_point": 14,
+        "self": 23,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "23004": {
+        "rivial": 4,
+        "lose_point": 15,
+        "self": 23,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "23005": {
+        "rivial": 5,
+        "lose_point": 15,
+        "self": 23,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "23008": {
+        "rivial": 8,
+        "lose_point": 14,
+        "self": 23,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "23009": {
+        "rivial": 9,
+        "lose_point": 14,
+        "self": 23,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "10004": {
+        "rivial": 4,
+        "lose_point": -4,
+        "self": 10,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "10005": {
+        "rivial": 5,
+        "lose_point": -4,
+        "self": 10,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "10006": {
+        "rivial": 6,
+        "lose_point": -5,
+        "self": 10,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "10007": {
+        "rivial": 7,
+        "lose_point": -5,
+        "self": 10,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "10001": {
+        "rivial": 1,
+        "lose_point": -4,
+        "self": 10,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "14019": {
+        "rivial": 19,
+        "lose_point": 6,
+        "self": 14,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "14018": {
+        "rivial": 18,
+        "lose_point": 6,
+        "self": 14,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "14017": {
+        "rivial": 17,
+        "lose_point": 6,
+        "self": 14,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "14016": {
+        "rivial": 16,
+        "lose_point": 6,
+        "self": 14,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "14015": {
+        "rivial": 15,
+        "lose_point": 7,
+        "self": 14,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "14014": {
+        "rivial": 14,
+        "lose_point": 7,
+        "self": 14,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "10008": {
+        "rivial": 8,
+        "lose_point": -5,
+        "self": 10,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "10009": {
+        "rivial": 9,
+        "lose_point": -5,
+        "self": 10,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "14011": {
+        "rivial": 11,
+        "lose_point": 7,
+        "self": 14,
+        "win_point": 9,
+        "lose_reward": 607140,
+        "win_reward": 607180
+    },
+    "14010": {
+        "rivial": 10,
+        "lose_point": 8,
+        "self": 14,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "16012": {
+        "rivial": 12,
+        "lose_point": 10,
+        "self": 16,
+        "win_point": 10,
+        "lose_reward": 607143,
+        "win_reward": 607186
+    },
+    "17010": {
+        "rivial": 10,
+        "lose_point": 11,
+        "self": 17,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "3010": {
+        "rivial": 10,
+        "lose_point": -4,
+        "self": 3,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "4019": {
+        "rivial": 19,
+        "lose_point": -6,
+        "self": 4,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "4018": {
+        "rivial": 18,
+        "lose_point": -6,
+        "self": 4,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "3011": {
+        "rivial": 11,
+        "lose_point": -5,
+        "self": 3,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "4013": {
+        "rivial": 13,
+        "lose_point": -5,
+        "self": 4,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "4012": {
+        "rivial": 12,
+        "lose_point": -5,
+        "self": 4,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "4011": {
+        "rivial": 11,
+        "lose_point": -5,
+        "self": 4,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "4010": {
+        "rivial": 10,
+        "lose_point": -4,
+        "self": 4,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "4017": {
+        "rivial": 17,
+        "lose_point": -6,
+        "self": 4,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "4016": {
+        "rivial": 16,
+        "lose_point": -6,
+        "self": 4,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "4015": {
+        "rivial": 15,
+        "lose_point": -5,
+        "self": 4,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "4014": {
+        "rivial": 14,
+        "lose_point": -5,
+        "self": 4,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "19009": {
+        "rivial": 9,
+        "lose_point": 11,
+        "self": 19,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "19008": {
+        "rivial": 8,
+        "lose_point": 11,
+        "self": 19,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "19003": {
+        "rivial": 3,
+        "lose_point": 12,
+        "self": 19,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "19002": {
+        "rivial": 2,
+        "lose_point": 12,
+        "self": 19,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "19001": {
+        "rivial": 1,
+        "lose_point": 12,
+        "self": 19,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "19007": {
+        "rivial": 7,
+        "lose_point": 11,
+        "self": 19,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "19006": {
+        "rivial": 6,
+        "lose_point": 11,
+        "self": 19,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "19005": {
+        "rivial": 5,
+        "lose_point": 12,
+        "self": 19,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "19004": {
+        "rivial": 4,
+        "lose_point": 12,
+        "self": 19,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "21008": {
+        "rivial": 8,
+        "lose_point": 14,
+        "self": 21,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "21009": {
+        "rivial": 9,
+        "lose_point": 14,
+        "self": 21,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "7021": {
+        "rivial": 21,
+        "lose_point": -8,
+        "self": 7,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "21001": {
+        "rivial": 1,
+        "lose_point": 15,
+        "self": 21,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21002": {
+        "rivial": 2,
+        "lose_point": 15,
+        "self": 21,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21003": {
+        "rivial": 3,
+        "lose_point": 15,
+        "self": 21,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21004": {
+        "rivial": 4,
+        "lose_point": 15,
+        "self": 21,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21005": {
+        "rivial": 5,
+        "lose_point": 15,
+        "self": 21,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "21006": {
+        "rivial": 6,
+        "lose_point": 14,
+        "self": 21,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "21007": {
+        "rivial": 7,
+        "lose_point": 14,
+        "self": 21,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "18016": {
+        "rivial": 16,
+        "lose_point": 9,
+        "self": 18,
+        "win_point": 11,
+        "lose_reward": 607145,
+        "win_reward": 607190
+    },
+    "13005": {
+        "rivial": 5,
+        "lose_point": 9,
+        "self": 13,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "13004": {
+        "rivial": 4,
+        "lose_point": 9,
+        "self": 13,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "13007": {
+        "rivial": 7,
+        "lose_point": 8,
+        "self": 13,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "13006": {
+        "rivial": 6,
+        "lose_point": 8,
+        "self": 13,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "13001": {
+        "rivial": 1,
+        "lose_point": 9,
+        "self": 13,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "13003": {
+        "rivial": 3,
+        "lose_point": 9,
+        "self": 13,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "13002": {
+        "rivial": 2,
+        "lose_point": 9,
+        "self": 13,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "18003": {
+        "rivial": 3,
+        "lose_point": 12,
+        "self": 18,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "13009": {
+        "rivial": 9,
+        "lose_point": 8,
+        "self": 13,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "13008": {
+        "rivial": 8,
+        "lose_point": 8,
+        "self": 13,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "18008": {
+        "rivial": 8,
+        "lose_point": 11,
+        "self": 18,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "18009": {
+        "rivial": 9,
+        "lose_point": 11,
+        "self": 18,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "18004": {
+        "rivial": 4,
+        "lose_point": 12,
+        "self": 18,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "18005": {
+        "rivial": 5,
+        "lose_point": 12,
+        "self": 18,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "18006": {
+        "rivial": 6,
+        "lose_point": 11,
+        "self": 18,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "18007": {
+        "rivial": 7,
+        "lose_point": 11,
+        "self": 18,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "18001": {
+        "rivial": 1,
+        "lose_point": 12,
+        "self": 18,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "18002": {
+        "rivial": 2,
+        "lose_point": 12,
+        "self": 18,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "3015": {
+        "rivial": 15,
+        "lose_point": -5,
+        "self": 3,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "6011": {
+        "rivial": 11,
+        "lose_point": -6,
+        "self": 6,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "6010": {
+        "rivial": 10,
+        "lose_point": -5,
+        "self": 6,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "6013": {
+        "rivial": 13,
+        "lose_point": -6,
+        "self": 6,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "6012": {
+        "rivial": 12,
+        "lose_point": -6,
+        "self": 6,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "6015": {
+        "rivial": 15,
+        "lose_point": -6,
+        "self": 6,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "6014": {
+        "rivial": 14,
+        "lose_point": -6,
+        "self": 6,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "6017": {
+        "rivial": 17,
+        "lose_point": -7,
+        "self": 6,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "6016": {
+        "rivial": 16,
+        "lose_point": -7,
+        "self": 6,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "6019": {
+        "rivial": 19,
+        "lose_point": -7,
+        "self": 6,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "6018": {
+        "rivial": 18,
+        "lose_point": -7,
+        "self": 6,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "5010": {
+        "rivial": 10,
+        "lose_point": -4,
+        "self": 5,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "5011": {
+        "rivial": 11,
+        "lose_point": -5,
+        "self": 5,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "5012": {
+        "rivial": 12,
+        "lose_point": -5,
+        "self": 5,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "5013": {
+        "rivial": 13,
+        "lose_point": -5,
+        "self": 5,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "17023": {
+        "rivial": 23,
+        "lose_point": 8,
+        "self": 17,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "17022": {
+        "rivial": 22,
+        "lose_point": 8,
+        "self": 17,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "5016": {
+        "rivial": 16,
+        "lose_point": -6,
+        "self": 5,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "5017": {
+        "rivial": 17,
+        "lose_point": -6,
+        "self": 5,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "5018": {
+        "rivial": 18,
+        "lose_point": -6,
+        "self": 5,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "5019": {
+        "rivial": 19,
+        "lose_point": -6,
+        "self": 5,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "25002": {
+        "rivial": 2,
+        "lose_point": 15,
+        "self": 25,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "15021": {
+        "rivial": 21,
+        "lose_point": 5,
+        "self": 15,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "15020": {
+        "rivial": 20,
+        "lose_point": 6,
+        "self": 15,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "15023": {
+        "rivial": 23,
+        "lose_point": 5,
+        "self": 15,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "21018": {
+        "rivial": 18,
+        "lose_point": 12,
+        "self": 21,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "15025": {
+        "rivial": 25,
+        "lose_point": 5,
+        "self": 15,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "15024": {
+        "rivial": 24,
+        "lose_point": 5,
+        "self": 15,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "9022": {
+        "rivial": 22,
+        "lose_point": -8,
+        "self": 9,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "25008": {
+        "rivial": 8,
+        "lose_point": 14,
+        "self": 25,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "25009": {
+        "rivial": 9,
+        "lose_point": 14,
+        "self": 25,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "17025": {
+        "rivial": 25,
+        "lose_point": 8,
+        "self": 17,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "17024": {
+        "rivial": 24,
+        "lose_point": 8,
+        "self": 17,
+        "win_point": 12,
+        "lose_reward": 607147,
+        "win_reward": 607194
+    },
+    "7018": {
+        "rivial": 18,
+        "lose_point": -7,
+        "self": 7,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "7019": {
+        "rivial": 19,
+        "lose_point": -7,
+        "self": 7,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "7016": {
+        "rivial": 16,
+        "lose_point": -7,
+        "self": 7,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "5014": {
+        "rivial": 14,
+        "lose_point": -5,
+        "self": 5,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "7014": {
+        "rivial": 14,
+        "lose_point": -6,
+        "self": 7,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "7015": {
+        "rivial": 15,
+        "lose_point": -6,
+        "self": 7,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "7012": {
+        "rivial": 12,
+        "lose_point": -6,
+        "self": 7,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "7013": {
+        "rivial": 13,
+        "lose_point": -6,
+        "self": 7,
+        "win_point": 8,
+        "lose_reward": 607137,
+        "win_reward": 607174
+    },
+    "7010": {
+        "rivial": 10,
+        "lose_point": -5,
+        "self": 7,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "5015": {
+        "rivial": 15,
+        "lose_point": -5,
+        "self": 5,
+        "win_point": 7,
+        "lose_reward": 607134,
+        "win_reward": 607168
+    },
+    "24003": {
+        "rivial": 3,
+        "lose_point": 15,
+        "self": 24,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "24002": {
+        "rivial": 2,
+        "lose_point": 15,
+        "self": 24,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "24001": {
+        "rivial": 1,
+        "lose_point": 15,
+        "self": 24,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "24007": {
+        "rivial": 7,
+        "lose_point": 14,
+        "self": 24,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "24006": {
+        "rivial": 6,
+        "lose_point": 14,
+        "self": 24,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "24005": {
+        "rivial": 5,
+        "lose_point": 15,
+        "self": 24,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "24004": {
+        "rivial": 4,
+        "lose_point": 15,
+        "self": 24,
+        "win_point": 9,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "24009": {
+        "rivial": 9,
+        "lose_point": 14,
+        "self": 24,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "24008": {
+        "rivial": 8,
+        "lose_point": 14,
+        "self": 24,
+        "win_point": 10,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "16002": {
+        "rivial": 2,
+        "lose_point": 12,
+        "self": 16,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "16003": {
+        "rivial": 3,
+        "lose_point": 12,
+        "self": 16,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "16001": {
+        "rivial": 1,
+        "lose_point": 12,
+        "self": 16,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "16006": {
+        "rivial": 6,
+        "lose_point": 11,
+        "self": 16,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "16007": {
+        "rivial": 7,
+        "lose_point": 11,
+        "self": 16,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "16004": {
+        "rivial": 4,
+        "lose_point": 12,
+        "self": 16,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "16005": {
+        "rivial": 5,
+        "lose_point": 12,
+        "self": 16,
+        "win_point": 8,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "16008": {
+        "rivial": 8,
+        "lose_point": 11,
+        "self": 16,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "16009": {
+        "rivial": 9,
+        "lose_point": 11,
+        "self": 16,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "12024": {
+        "rivial": 24,
+        "lose_point": 5,
+        "self": 12,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "12025": {
+        "rivial": 25,
+        "lose_point": 5,
+        "self": 12,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "12020": {
+        "rivial": 20,
+        "lose_point": 6,
+        "self": 12,
+        "win_point": 10,
+        "lose_reward": 607142,
+        "win_reward": 607184
+    },
+    "12021": {
+        "rivial": 21,
+        "lose_point": 5,
+        "self": 12,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "12022": {
+        "rivial": 22,
+        "lose_point": 5,
+        "self": 12,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "12023": {
+        "rivial": 23,
+        "lose_point": 5,
+        "self": 12,
+        "win_point": 11,
+        "lose_reward": 607144,
+        "win_reward": 607188
+    },
+    "25024": {
+        "rivial": 24,
+        "lose_point": 11,
+        "self": 25,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "25025": {
+        "rivial": 25,
+        "lose_point": 11,
+        "self": 25,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "25022": {
+        "rivial": 22,
+        "lose_point": 11,
+        "self": 25,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "25023": {
+        "rivial": 23,
+        "lose_point": 11,
+        "self": 25,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "25020": {
+        "rivial": 20,
+        "lose_point": 12,
+        "self": 25,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "25021": {
+        "rivial": 21,
+        "lose_point": 11,
+        "self": 25,
+        "win_point": 13,
+        "lose_reward": 607150,
+        "win_reward": 607200
+    },
+    "1025": {
+        "rivial": 25,
+        "lose_point": -7,
+        "self": 1,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "1024": {
+        "rivial": 24,
+        "lose_point": -7,
+        "self": 1,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "1021": {
+        "rivial": 21,
+        "lose_point": -7,
+        "self": 1,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "1020": {
+        "rivial": 20,
+        "lose_point": -6,
+        "self": 1,
+        "win_point": 8,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "1023": {
+        "rivial": 23,
+        "lose_point": -7,
+        "self": 1,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "1022": {
+        "rivial": 22,
+        "lose_point": -7,
+        "self": 1,
+        "win_point": 9,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "22018": {
+        "rivial": 18,
+        "lose_point": 12,
+        "self": 22,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "22019": {
+        "rivial": 19,
+        "lose_point": 12,
+        "self": 22,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "9010": {
+        "rivial": 10,
+        "lose_point": -5,
+        "self": 9,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "22016": {
+        "rivial": 16,
+        "lose_point": 12,
+        "self": 22,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "22017": {
+        "rivial": 17,
+        "lose_point": 12,
+        "self": 22,
+        "win_point": 12,
+        "lose_reward": 607148,
+        "win_reward": 607196
+    },
+    "6020": {
+        "rivial": 20,
+        "lose_point": -7,
+        "self": 6,
+        "win_point": 9,
+        "lose_reward": 607139,
+        "win_reward": 607178
+    },
+    "6021": {
+        "rivial": 21,
+        "lose_point": -8,
+        "self": 6,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "6022": {
+        "rivial": 22,
+        "lose_point": -8,
+        "self": 6,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "6023": {
+        "rivial": 23,
+        "lose_point": -8,
+        "self": 6,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "6024": {
+        "rivial": 24,
+        "lose_point": -8,
+        "self": 6,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "6025": {
+        "rivial": 25,
+        "lose_point": -8,
+        "self": 6,
+        "win_point": 10,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "14008": {
+        "rivial": 8,
+        "lose_point": 8,
+        "self": 14,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "14009": {
+        "rivial": 9,
+        "lose_point": 8,
+        "self": 14,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "14001": {
+        "rivial": 1,
+        "lose_point": 9,
+        "self": 14,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "14002": {
+        "rivial": 2,
+        "lose_point": 9,
+        "self": 14,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "14003": {
+        "rivial": 3,
+        "lose_point": 9,
+        "self": 14,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "14004": {
+        "rivial": 4,
+        "lose_point": 9,
+        "self": 14,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "14005": {
+        "rivial": 5,
+        "lose_point": 9,
+        "self": 14,
+        "win_point": 7,
+        "lose_reward": 607136,
+        "win_reward": 607172
+    },
+    "14006": {
+        "rivial": 6,
+        "lose_point": 8,
+        "self": 14,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "14007": {
+        "rivial": 7,
+        "lose_point": 8,
+        "self": 14,
+        "win_point": 8,
+        "lose_reward": 607138,
+        "win_reward": 607176
+    },
+    "8008": {
+        "rivial": 8,
+        "lose_point": -5,
+        "self": 8,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "8009": {
+        "rivial": 9,
+        "lose_point": -5,
+        "self": 8,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "8004": {
+        "rivial": 4,
+        "lose_point": -4,
+        "self": 8,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "8005": {
+        "rivial": 5,
+        "lose_point": -4,
+        "self": 8,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "8006": {
+        "rivial": 6,
+        "lose_point": -5,
+        "self": 8,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "8007": {
+        "rivial": 7,
+        "lose_point": -5,
+        "self": 8,
+        "win_point": 7,
+        "lose_reward": 607135,
+        "win_reward": 607170
+    },
+    "8001": {
+        "rivial": 1,
+        "lose_point": -4,
+        "self": 8,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "8002": {
+        "rivial": 2,
+        "lose_point": -4,
+        "self": 8,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "8003": {
+        "rivial": 3,
+        "lose_point": -4,
+        "self": 8,
+        "win_point": 6,
+        "lose_reward": 607133,
+        "win_reward": 607166
+    },
+    "20007": {
+        "rivial": 7,
+        "lose_point": 11,
+        "self": 20,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "20006": {
+        "rivial": 6,
+        "lose_point": 11,
+        "self": 20,
+        "win_point": 9,
+        "lose_reward": 607141,
+        "win_reward": 607182
+    },
+    "2002": {
+        "rivial": 2,
+        "lose_point": -3,
+        "self": 2,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "2003": {
+        "rivial": 3,
+        "lose_point": -3,
+        "self": 2,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "2001": {
+        "rivial": 1,
+        "lose_point": -3,
+        "self": 2,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "2006": {
+        "rivial": 6,
+        "lose_point": -4,
+        "self": 2,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "2007": {
+        "rivial": 7,
+        "lose_point": -4,
+        "self": 2,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "2004": {
+        "rivial": 4,
+        "lose_point": -3,
+        "self": 2,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "2005": {
+        "rivial": 5,
+        "lose_point": -3,
+        "self": 2,
+        "win_point": 5,
+        "lose_reward": 607130,
+        "win_reward": 607160
+    },
+    "2008": {
+        "rivial": 8,
+        "lose_point": -4,
+        "self": 2,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    },
+    "2009": {
+        "rivial": 9,
+        "lose_point": -4,
+        "self": 2,
+        "win_point": 6,
+        "lose_reward": 607132,
+        "win_reward": 607164
+    }
+}

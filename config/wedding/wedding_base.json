@@ -1,0 +1,81 @@
+{
+    "1": {
+        "wedding_clothes_client": [
+            [
+                216360001,
+                216360002
+            ],
+            [
+                216360001,
+                216360002
+            ],
+            [
+                216360001,
+                216360002
+            ]
+        ],
+        "intimacy_limit": 99,
+        "scene_id": 10200,
+        "wedding_reward": [
+            916027,
+            916028,
+            916029
+        ],
+        "sweet_num": 1,
+        "wedding_ring": 216310052,
+        "wedding_type_num": 3,
+        "treasures_mail_id": 40007,
+        "wedding_cost": [
+            [
+                199,
+                0
+            ],
+            [
+                0,
+                520
+            ],
+            [
+                0,
+                1314
+            ]
+        ],
+        "sweet_time": 180,
+        "mail": 40004,
+        "wedding_label": [
+            12101,
+            12102,
+            12103
+        ],
+        "buy_treasures_mail_id": 40006,
+        "scene_pos_client": [
+            7353,
+            4973
+        ],
+        "wedding_clothes": [
+            216350002,
+            216350002,
+            216350002
+        ],
+        "wedding_ring_skill": "[ffdf30]比翼双飞 {1}级(戒指每10级提升)[-]\n双剑合璧，夫妻同时在线,攻击+{2}、防御+{3}、生命+{4}\n\n[ffdf30]爱的供养(不可升级)[-]\n相濡以沫，夫妻同时在线，每3分钟增加1点甜蜜值",
+        "wed_label_num": 9,
+        "love_prove": "老公: {1}\n老婆: {2}",
+        "ring_buff_id": 30300,
+        "wedding_level": 57,
+        "shout_id": [
+            111002,
+            111003,
+            111004
+        ],
+        "scene_pos": [
+            [
+                7150,
+                5001
+            ],
+            [
+                7314,
+                5149
+            ]
+        ],
+        "wed_mail": 40005
+    }
+}

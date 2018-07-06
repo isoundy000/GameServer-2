@@ -1,0 +1,482 @@
+{
+    "20": {
+        "upgrade_goods": [
+            216130201,
+            5
+        ],
+        "name": "守护",
+        "server_force": 2400,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "720"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 720,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "11": {
+        "upgrade_goods": [
+            216130201,
+            3
+        ],
+        "name": "守护",
+        "server_force": 1125,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "450"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 450,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 285
+    },
+    "10": {
+        "upgrade_goods": [
+            216130201,
+            3
+        ],
+        "name": "守护",
+        "server_force": 840,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "420"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 420,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 60
+    },
+    "13": {
+        "upgrade_goods": [
+            216130201,
+            4
+        ],
+        "name": "守护",
+        "server_force": 1275,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "510"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 510,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 75
+    },
+    "12": {
+        "upgrade_goods": [
+            216130201,
+            3
+        ],
+        "name": "守护",
+        "server_force": 1200,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "480"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 480,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 75
+    },
+    "15": {
+        "upgrade_goods": [
+            216130201,
+            4
+        ],
+        "name": "守护",
+        "server_force": 1425,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "570"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 570,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 75
+    },
+    "14": {
+        "upgrade_goods": [
+            216130201,
+            4
+        ],
+        "name": "守护",
+        "server_force": 1350,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "540"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 540,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 75
+    },
+    "17": {
+        "upgrade_goods": [
+            216130201,
+            5
+        ],
+        "name": "守护",
+        "server_force": 2100,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "630"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 630,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "16": {
+        "upgrade_goods": [
+            216130201,
+            4
+        ],
+        "name": "守护",
+        "server_force": 2000,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "600"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 600,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 575
+    },
+    "19": {
+        "upgrade_goods": [
+            216130201,
+            5
+        ],
+        "name": "守护",
+        "server_force": 2300,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "690"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 690,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "18": {
+        "upgrade_goods": [
+            216130201,
+            5
+        ],
+        "name": "守护",
+        "server_force": 2200,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "660"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 660,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "1": {
+        "upgrade_goods": [
+            216130201,
+            1
+        ],
+        "name": "守护",
+        "server_force": 250,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "150"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 150,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 250
+    },
+    "3": {
+        "upgrade_goods": [
+            216130201,
+            1
+        ],
+        "name": "守护",
+        "server_force": 350,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "210"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 210,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 50
+    },
+    "2": {
+        "upgrade_goods": [
+            216130201,
+            1
+        ],
+        "name": "守护",
+        "server_force": 300,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "180"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 180,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 50
+    },
+    "5": {
+        "upgrade_goods": [
+            216130201,
+            2
+        ],
+        "name": "守护",
+        "server_force": 450,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "270"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 270,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 50
+    },
+    "4": {
+        "upgrade_goods": [
+            216130201,
+            1
+        ],
+        "name": "守护",
+        "server_force": 400,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "240"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 240,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 50
+    },
+    "7": {
+        "upgrade_goods": [
+            216130201,
+            2
+        ],
+        "name": "守护",
+        "server_force": 660,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "330"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 330,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 60
+    },
+    "6": {
+        "upgrade_goods": [
+            216130201,
+            2
+        ],
+        "name": "守护",
+        "server_force": 600,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "300"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 300,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "9": {
+        "upgrade_goods": [
+            216130201,
+            3
+        ],
+        "name": "守护",
+        "server_force": 780,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "390"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 390,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 60
+    },
+    "8": {
+        "upgrade_goods": [
+            216130201,
+            2
+        ],
+        "name": "守护",
+        "server_force": 720,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "360"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": 360,
+                    "id": 10021
+                }
+            ]
+        },
+        "add_fight": 60
+    }
+}

@@ -1,0 +1,117 @@
+/*
+ * GameDefine.h
+ *
+ * Created on: 2013-01-06 18:38
+ *     Author: glendy
+ */
+
+#ifndef _GAMEDEFINE_H_
+#define _GAMEDEFINE_H_
+
+#define TRANSACTION_INTERVAL        10
+#define LOGIC_PLAYER_INTERVAL       0.5
+#define LOGIC_TRANSACTION_INTERVAL  TRANSACTION_INTERVAL
+#define LOGIC_MONITOR_INTERVAL      20
+
+#define CHAT_PLAYER_INTERVAL        1
+#define CHAT_TRANSACTION_INTERVAL   TRANSACTION_INTERVAL
+#define CHAT_CHANNEL_INTERVAL       0.5
+
+#define MAP_MONSTER_INTERVAL        0.5
+#define MAP_TRANSACTION_INTERVAL    TRANSACTION_INTERVAL
+#define MAP_BROAD_INTERVAL          0.01
+#define MAP_LOGIC_INTERVAL			1.00
+#define MAP_ONE_SECOND_INTERVAL		1.00
+#define MAP_LOGIC_RANK_ON_SECOND    1.00
+#define MAP_LOGIC_ONE_MINUTE_INTERVAL	60.00
+
+#define GATE_PLAYER_INTERVAL        1
+#define GATE_TRANSACTION_INTERVAL   TRANSACTION_INTERVAL
+
+#define PI  						3.1415926535897932384626433832795
+
+#define MAX_BLOCK_SIZE      		2048
+#define MAX_NAME_LENGTH     		32
+#define MAX_COMMON_NAME_LENGTH		128
+#define MAX_ACCOUNT_LENGTH  		64
+#define MAX_AGENT_LENGTH			64
+#define MAX_SESSION_LENGTH  		64
+#define MAX_ROLE_AMOUNT     		5
+#define MAX_CHAT_CONTENT_LENGTH     50
+#define ACTI_CODE_LENGTH			12
+#define MAX_ACTI_CODE_LENGTH		32
+#define MAX_MEDIA_GIFT_DESC_LENGTH	512
+#define MSG_STR_LEN					512
+
+#define FIGHT_TIMEOUT       		0.1
+#define SYNC_KILL_INFO_TIMEOUT      1.0
+#define DEFAULT_TIMEOUT     		10
+#define SYNC_LOGIC_TIMEOUT			1
+
+#define SAVE_TIMEOUT        		60
+#define SESSION_TIMEOUT_TICK        1800
+#define MAIL_LOAD_TIMEOUT			10
+
+#define SERVICE_NAME_DEBUG  		"debug"
+#define SERVICE_NAME_LOG    		"log"
+#define SERVICE_NAME_LOGIC  		"logic"
+#define SERVICE_NAME_SAND   		"sand"
+#define SERVICE_NAME_MAP    		"map"
+#define SERVICE_NAME_CHAT   		"chat"
+#define SERVICE_NAME_AUTH   		"auth"
+#define SERVICE_NAME_GATE   		"gate"
+
+/*Mover ID分配, (0, 500000000)进程无关，（500000000，999999999）进程相关*/
+#define BASE_OFFSET_ROLE        	000000000	//玩家(0, 190000000)
+#define BASE_OFFSET_COPY_ROLE		190000000	//玩家拷贝(190000000, 200000000)
+#define BASE_OFFSET_BEAST       	200000000	//宠物(200000000, 390000000)
+#define BASE_OFFSET_COPY_BEAST		390000000	//宠物拷贝(390000000, 500000000)
+#define BASE_OFFSET_MONSTER     	500000000	//怪物(500000000, 590000000)
+#define BASE_OFFSET_EFFECT_MONSTER	590000000	//场景特效怪(590000000, 600000000)
+#define BASE_OFFSET_AIDROP			600000000	//怪物掉落(600000000, 601000000)
+#define BASE_OFFSET_EFFECT_ID     	700000000	// 特效(700000000,800000000)
+#define BASE_OFFSET_ROLE_ROBOT 		800000000	// 江湖榜机器人ID（800000000，800002000）
+#define BASE_OFFSET_END				999999999
+
+#define BASE_OFFSET_HISTORY_VOID_ID 900000000	// 离线语言的ID前缀
+
+/*对应的类型*/
+#define MOVER_TYPE_UNKOWN			0	//未知
+#define MOVER_TYPE_PLAYER			1	//玩家
+#define	MOVER_TYPE_BEAST			2 	//宠物
+#define	MOVER_TYPE_MONSTER			3 	//怪物
+#define	MOVER_TYPE_AIDROP			4	//怪物掉落
+
+#define MAX_PLAYER_LEVEL    		CONFIG_INSTANCE->top_level()
+#define MAX_SKILL_SCHEME        3
+#define MAX_SCHEME_SKILL_SIZE   5
+
+#define MAX_HOOK_SKILL_LIST    			2
+#define MAX_HOOK_SKILL_NUMBER  			7
+#define MAX_PROMOTE_FRIEND_LEVEL_GAP    5
+#define MAX_RECENT_CHAT_LIST_NUM    	30
+
+#define BOX_MAX_RECORD_COUNT			8				// 藏宝库公告记录信息条数
+#define BOX_MAX_RECORD_MAX_COUNT		1024			// 藏宝库公告记录信息清理界限
+#define BOX_OPEN_TEN					10				// 开藏宝库10次
+#define BOX_OPEN_FIFTY					50				// 开藏宝库50次
+
+#define MOUNT_UPDATE_SHAPE_LIMIT		9				// 坐骑升阶等级数
+
+#define RPM_LIST_LENGTH					10				// 副本化身招募列表长度
+#define RPM_QUERY_LIST_LENGTH			13				// 副本化身招募列表内部查询使用的长度
+
+#define DAY_PER_WEEK					7
+#define HOUR_PER_DAY					24
+#define MIN_PER_HOUR					60
+#define SEC_PER_MIN						60
+
+#define LSTORE_MAX_APPLY_HISTORY		30
+
+#define MSG_SEQUENCE_KEY				"123@key"
+
+#define BOX_MAX_VIP_GIFT				6
+#define MAX_ROOM_SCENE_SIZE 			50
+
+
+#endif //_GAMEDEFINE_H_

@@ -1,0 +1,37 @@
+{
+    "1": {
+        "content": "仙兽榜第1名",
+        "reward_type": 1,
+        "cond": [
+            1,
+            1
+        ],
+        "name": "仙兽榜第1名",
+        "reward_id": 804701
+    },
+    "3": {
+        "content": "仙兽榜第4-10名",
+        "reward_type": 1,
+        "cond": [
+            4,
+            10
+        ],
+        "name": "仙兽榜第4-10名",
+        "reward_id": 804703
+    },
+    "2": {
+        "content": "仙兽榜第2-3名",
+        "reward_type": 1,
+        "cond": [
+            2,
+            3
+        ],
+        "name": "仙兽榜第2-3名",
+        "reward_id": 804702
+    },
+    "4": {
+        "content": "仙兽达到3阶",
+        "name": "仙兽达到3阶",
+        "reward_id": 804704
+    }
+}

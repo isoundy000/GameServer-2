@@ -1,0 +1,23 @@
+{
+    "1": {
+        "name_str": "夫妻同心",
+        "cond": 39,
+        "reward_id": 917095
+    },
+    "3": {
+        "name_str": "夫妻同心",
+        "cond": 129,
+        "reward_id": 917097
+    },
+    "2": {
+        "name_str": "夫妻同心",
+        "cond": 69,
+        "reward_id": 917096
+    },
+    "4": {
+        "name_str": "夫妻同心",
+        "show_id": 132004,
+        "cond": 199,
+        "reward_id": 917098
+    }
+}

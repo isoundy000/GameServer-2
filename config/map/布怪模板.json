@@ -1,0 +1,61 @@
+[
+/*布怪：中心点模式*/
+{
+	"born_type": "center",
+	/*怪物种类ID*/
+	"monster_sort": 523010003,
+	/*怪物形为树*/
+	"monster_tree": "bev1001.json",
+	/*怪物数量*/
+	"born_count": 1,
+	/*产生范围*/
+	"born_range": 100,
+	/*中心点*/
+	"center_coordxy": [25,65],
+	/*once: 一次，unlimited:无限次数*/
+	"born_times": "unlimited",
+	
+	/*怪物技能*/
+	"skill_set": [10001, 10002],
+	/*怪物的标识*/
+	"flag_set":["no_move"]
+},
+
+/*布怪：区域模式*/
+{
+	"born_type": "area",
+	/*area index in spt*/
+	"area_index": 10,
+	/*怪物种类ID*/
+	"monster_sort": 523010003,
+	/*怪物形为树*/
+	"monster_tree": "bev1001.json",
+	/*怪物数量*/
+	"born_count": 1,
+	/*once: 一次，unlimited:无限次数*/
+	"born_times": "unlimited",
+	
+	/*怪物技能*/
+	"skill_set": [10001, 10002],
+	/*怪物的标识*/
+	"flag_set":["no_move"]
+},
+
+/*布怪：固定点模式*/
+{
+	"born_type": "fixed",
+	/*怪物种类ID*/
+	"monster_sort": 523010003,
+	/*怪物形为树*/
+	"monster_tree": "bev1002.json",
+	/*once: 一次，unlimited:无限次数*/
+	"born_times": "once", 
+	/*怪物数量，等于坐标点除以2，若没有坐标点，则不产生怪物*/
+	"born_coordxy": [25,65, 100,200],
+	
+	/*怪物技能*/
+	"skill_set": [10001, 10002],
+	/*怪物的标识*/
+	"flag_set":["no_move"]
+}
+]

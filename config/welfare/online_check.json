@@ -1,0 +1,18 @@
+{
+    "1": {
+        "online_time": 300,
+        "award_id": 100201
+    },
+    "3": {
+        "online_time": 3600,
+        "award_id": 100203
+    },
+    "2": {
+        "online_time": 1200,
+        "award_id": 100202
+    },
+    "4": {
+        "online_time": 7200,
+        "award_id": 100204
+    }
+}

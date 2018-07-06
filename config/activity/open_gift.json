@@ -1,0 +1,120 @@
+{
+    "1": {
+        "effect_name": "901200003",
+        "recharge_money": 99,
+        "mount_sca": [
+            2,
+            2.5,
+            2
+        ],
+        "mount_pos": [
+            -150,
+            -50,
+            300
+        ],
+        "is_buttom_icon": 1,
+        "model_name": "901200003",
+        "mount_rot": [
+            0,
+            0,
+            130
+        ],
+        "is_pos": 1,
+        "fight_rb": 123,
+        "reward": 915400,
+        "effect_floder": "mounts"
+    },
+    "3": {
+        "effect_name": "1600,2600",
+        "recharge_money": 500,
+        "mount_sca": [
+            1.8,
+            1.8,
+            1.8
+        ],
+        "mount_pos": [
+            -70,
+            -248,
+            500
+        ],
+        "is_buttom_icon": 1,
+        "model_name": "1600,2600",
+        "mount_rot": [
+            0,
+            -180,
+            0
+        ],
+        "is_pos": 0,
+        "fight_rb": 2000,
+        "reward": 915402,
+        "effect_floder": "roles"
+    },
+    "2": {
+        "recharge_money": 300,
+        "img_path": "kaiFu/wsth.png",
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "mount_pos": [
+            -70,
+            -130,
+            0
+        ],
+        "is_buttom_icon": 1,
+        "is_pos": 0,
+        "fight_rb": 1000,
+        "reward": 915401
+    },
+    "5": {
+        "effect_name": "905000001",
+        "recharge_money": 1980,
+        "mount_sca": [
+            3,
+            3,
+            3
+        ],
+        "mount_pos": [
+            -80,
+            -240,
+            300
+        ],
+        "is_buttom_icon": 1,
+        "model_name": "905000001",
+        "mount_rot": [
+            17,
+            -153,
+            8
+        ],
+        "is_pos": 0,
+        "fight_rb": 4000,
+        "reward": 915404,
+        "effect_floder": "mounts"
+    },
+    "4": {
+        "effect_name": "907000001",
+        "recharge_money": 980,
+        "mount_sca": [
+            2,
+            2,
+            2
+        ],
+        "mount_pos": [
+            -80,
+            -240,
+            300
+        ],
+        "is_buttom_icon": 1,
+        "model_name": "907000001",
+        "mount_rot": [
+            5,
+            -128,
+            5
+        ],
+        "is_pos": 0,
+        "fight_rb": 3000,
+        "reward": 915403,
+        "effect_floder": "mounts"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "scene_id" : 70103,
+    "name" : "跨服副本70",
+    "layout" : [
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700201,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1633,5351],[1718,5437],[1737,5552],[1683,5617],[1628,5491],[1585,5281],[1608,5412],[1535,5413],[1553,5504],[1546,5626]],
+        "fresh" : 1000,
+		"wave" : 1,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700202,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1058,5275],[1122,5338],[1147,5460],[1079,5503],[1043,5406],[1031,5323],[1011,5196],[961,5295],[982,5397],[989,5487]],
+        "fresh" : 1000,
+		"wave" : 2,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700203,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[880,4992]],
+        "fresh" : 1000,
+		"wave" : 3,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700204,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[609,4430],[738,4381],[853,4338],[644,4538],[771,4482],[884,4442],[715,4587],[858,4576],[669,4289],[758,4251]],
+        "fresh" : 1000,
+		"wave" : 4,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700205,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[666,3711],[799,3686],[567,3582],[698,3578],[817,3570],[505,3520],[637,3515],[776,3499],[656,3393],[812,3481]],
+        "fresh" : 1000,
+		"wave" : 5,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700206,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[620,3045]],
+        "fresh" : 1000,
+		"wave" : 6,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700207,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[925,2664],[1040,2669],[1118,2785],[1005,2747],[898,2747],[925,2861],[1000,2885],[1052,2911],[1065,2834],[1128,2890]],
+        "fresh" : 1000,
+		"wave" : 7,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700208,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1366,2661],[1375,2743],[1378,2809],[1421,2601],[1433,2703],[1450,2835],[1462,2889],[1505,2661],[1536,2754],[1555,2848]],
+        "fresh" : 1000,
+		"wave" : 8,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700209,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1887,2525],[1980,2602],[2025,2684],[1790,2525],[1889,2647],[1947,2711],[2001,2772],[1966,2509],[2021,2583],[2061,2665]],
+        "fresh" : 1000,
+		"wave" : 9,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501700210,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2559,2174]],
+        "fresh" : 1000,
+		"wave" : 10,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    }]
+}

@@ -1,0 +1,452 @@
+{
+    "11": {
+        "img_rb": "vip/V11_02.png",
+        "monster_extra_exp": 7000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "sweet_num": 1,
+        "boat": "0001",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 37500,
+        "img_mid": "vip/M11_03.png",
+        "boat_height": 100,
+        "fast_return": 5000,
+        "vip_type": 110,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 7000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M9_01.png",
+        "up_reward": 203011,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 300000,
+        "vip_buff": 30011,
+        "img_rt": "vip/V11_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "10": {
+        "img_rb": "vip/V10_02.png",
+        "monster_extra_exp": 6000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0001",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 32000,
+        "img_mid": "vip/M10_03.png",
+        "boat_height": 100,
+        "fast_return": 5000,
+        "vip_type": 109,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 6000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M10_01.png",
+        "up_reward": 203010,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 200000,
+        "vip_buff": 30010,
+        "img_rt": "vip/V10_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "12": {
+        "img_rb": "vip/V12_02.png",
+        "monster_extra_exp": 8000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "sweet_num": 1,
+        "boat": "0001",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 64000,
+        "img_mid": "vip/M12_03.png",
+        "boat_height": 100,
+        "fast_return": 5000,
+        "vip_type": 111,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 8000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M12_01.png",
+        "up_reward": 203012,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 500000,
+        "vip_buff": 30012,
+        "img_rt": "vip/V12_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "1": {
+        "img_rb": "vip/V1_02.png",
+        "monster_extra_exp": 2000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0000",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "img_str": "vip/M1_02.png",
+        "fight": 123,
+        "img_mid": "vip/M1_03.png",
+        "boat_height": 50,
+        "fast_return": 0,
+        "vip_type": 100,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 0,
+        "weekly_reward": 203020,
+        "free_transfer": 0,
+        "img_name": "vip/M1_01.png",
+        "up_reward": 203001,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 100,
+        "vip_buff": 30001,
+        "img_rt": "vip/V1_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "3": {
+        "img_rb": "vip/V3_02.png",
+        "monster_extra_exp": 2000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0000",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "img_str": "vip/M3_02.png",
+        "fight": 125,
+        "img_mid": "vip/M3_03.png",
+        "boat_height": 50,
+        "fast_return": 5000,
+        "vip_type": 102,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 0,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M3_01.png",
+        "up_reward": 203003,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 1000,
+        "vip_buff": 30003,
+        "img_rt": "vip/V3_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "2": {
+        "img_rb": "vip/V2_02.png",
+        "monster_extra_exp": 2000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0000",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 1000,
+        "img_mid": "vip/M2_03.png",
+        "boat_height": 50,
+        "fast_return": 0,
+        "vip_type": 101,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 0,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M2_01.png",
+        "up_reward": 203002,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 500,
+        "vip_buff": 30002,
+        "img_rt": "vip/V2_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "5": {
+        "fast_return": 5000,
+        "img_rb": "vip/V5_02.png",
+        "monster_extra_exp": 2000,
+        "img_rt": "vip/V5_01.png",
+        "effect_floder": "effects",
+        "boat": "0000",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 8650,
+        "boat_height": 50,
+        "effect_name": "uiEffect/luomo/GUI_LM_06",
+        "vip_type": 104,
+        "mount_pos": [
+            225,
+            -324,
+            -500
+        ],
+        "escort_extra_exp": 0,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M5_01.png",
+        "up_reward": 203005,
+        "mount_sca": [
+            0.90000000000000002,
+            0.90000000000000002,
+            0.90000000000000002
+        ],
+        "exp": 5000,
+        "vip_buff": 30005,
+        "mount_rot": [
+            0,
+            0,
+            0
+        ],
+        "buff_show_sort": 10001,
+        "model_name": "GUI_LM_06",
+        "hotspring_exp": 2000
+    },
+    "4": {
+        "img_rb": "vip/V4_02.png",
+        "monster_extra_exp": 2000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0000",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 2000,
+        "img_mid": "vip/M4_03.png",
+        "boat_height": 50,
+        "fast_return": 5000,
+        "vip_type": 103,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 0,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M4_01.png",
+        "up_reward": 203004,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 2000,
+        "vip_buff": 30004,
+        "img_rt": "vip/V4_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "7": {
+        "img_rb": "vip/V7_02.png",
+        "monster_extra_exp": 3000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0001",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 8000,
+        "img_mid": "vip/M7_03.png",
+        "boat_height": 100,
+        "fast_return": 5000,
+        "vip_type": 106,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 3000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M7_01.png",
+        "up_reward": 203007,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 20000,
+        "vip_buff": 30007,
+        "img_rt": "vip/V7_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "6": {
+        "img_rb": "vip/V6_02.png",
+        "monster_extra_exp": 2000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0000",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 8000,
+        "img_mid": "vip/M6_03.png",
+        "boat_height": 50,
+        "fast_return": 5000,
+        "vip_type": 105,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 2000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M6_01.png",
+        "up_reward": 203006,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 10000,
+        "vip_buff": 30006,
+        "img_rt": "vip/V6_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "9": {
+        "img_rb": "vip/V9_02.png",
+        "monster_extra_exp": 5000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0001",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 18750,
+        "img_mid": "vip/M9_03.png",
+        "boat_height": 100,
+        "fast_return": 5000,
+        "vip_type": 108,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 5000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M9_01.png",
+        "up_reward": 203009,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 100000,
+        "vip_buff": 30009,
+        "img_rt": "vip/V9_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    },
+    "8": {
+        "img_rb": "vip/V8_02.png",
+        "monster_extra_exp": 4000,
+        "mount_rot": [
+            0,
+            -140,
+            0
+        ],
+        "boat": "0001",
+        "offline_extra_exp": 0,
+        "routine_fast": 1,
+        "fight": 16000,
+        "img_mid": "vip/M8_03.png",
+        "boat_height": 100,
+        "fast_return": 5000,
+        "vip_type": 107,
+        "mount_pos": [
+            225,
+            -315,
+            -500
+        ],
+        "escort_extra_exp": 4000,
+        "weekly_reward": 203020,
+        "free_transfer": 1,
+        "img_name": "vip/M8_01.png",
+        "up_reward": 203008,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "exp": 50000,
+        "vip_buff": 30008,
+        "img_rt": "vip/V8_01.png",
+        "buff_show_sort": 10001,
+        "hotspring_exp": 2000
+    }
+}

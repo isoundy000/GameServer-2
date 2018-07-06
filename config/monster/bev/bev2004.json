@@ -1,0 +1,51 @@
+{
+	"node_name": "被动攻击怪，没有仇恨目标也会间隔攻击",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "怪物死亡之前通知boss移除属性叠加效果",
+					"node_type": "action",
+					"node_action": "notify_boss_remove_attr_action"
+				},
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "PrioSelNode",
+			"node_tree": 
+			[
+				{
+					"node_name": "攻击",
+					"ext_precond": "attack_interavel_pre",
+					"node_type": "action",
+					"node_action": "attack_action"
+				},
+				{
+					"node_name": "追逐",
+					"node_type": "action",
+					"node_action": "chase_action"
+				}
+			]
+		}
+	]
+}

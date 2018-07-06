@@ -1,0 +1,260 @@
+{
+    "2005": {
+        "name": "1980元宝",
+        "gold": 1980,
+        "rmb": 198,
+        "first_gold": 1980,
+        "rebate_times": 9999,
+        "bind_gold": 1980,
+        "type": 2,
+        "rebate_gold": 396
+    },
+    "3005": {
+        "name": "1980元宝",
+        "gold": 1980,
+        "rmb": 198,
+        "first_gold": 1980,
+        "rebate_times": 9999,
+        "bind_gold": 1980,
+        "type": 3,
+        "rebate_gold": 396
+    },
+    "3004": {
+        "name": "980元宝",
+        "gold": 980,
+        "rmb": 98,
+        "first_gold": 980,
+        "rebate_times": 9999,
+        "bind_gold": 980,
+        "type": 3,
+        "rebate_gold": 196
+    },
+    "3007": {
+        "name": "4880元宝",
+        "gold": 4880,
+        "rmb": 488,
+        "first_gold": 4880,
+        "rebate_times": 9999,
+        "bind_gold": 4880,
+        "ext_gold": 976,
+        "ext_bind_gold_des": "重磅回馈 , 另送{1}元宝",
+        "type": 3,
+        "rebate_gold": 976
+    },
+    "3006": {
+        "name": "3280元宝",
+        "gold": 3280,
+        "rmb": 328,
+        "first_gold": 3280,
+        "rebate_times": 9999,
+        "bind_gold": 3280,
+        "ext_gold": 492,
+        "ext_bind_gold_des": "超值返利 , 另送{1}元宝",
+        "type": 3,
+        "rebate_gold": 656
+    },
+    "3001": {
+        "name": "60元宝",
+        "gold": 60,
+        "rmb": 6,
+        "first_gold": 60,
+        "rebate_times": 9999,
+        "bind_gold": 60,
+        "type": 3,
+        "rebate_gold": 12
+    },
+    "3003": {
+        "name": "500元宝",
+        "gold": 500,
+        "rmb": 50,
+        "first_gold": 500,
+        "rebate_times": 9999,
+        "bind_gold": 500,
+        "type": 3,
+        "rebate_gold": 100
+    },
+    "3002": {
+        "name": "300元宝",
+        "gold": 300,
+        "rmb": 30,
+        "first_gold": 300,
+        "rebate_times": 9999,
+        "bind_gold": 300,
+        "type": 3,
+        "rebate_gold": 60
+    },
+    "3008": {
+        "name": "6480元宝",
+        "gold": 6480,
+        "rmb": 648,
+        "first_gold": 6480,
+        "rebate_times": 9999,
+        "bind_gold": 6480,
+        "ext_gold": 1620,
+        "ext_bind_gold_des": "终极钜惠 , 另送{1}元宝",
+        "type": 3,
+        "rebate_gold": 1296
+    },
+    "2008": {
+        "name": "6480元宝",
+        "gold": 6480,
+        "rmb": 648,
+        "first_gold": 6480,
+        "rebate_times": 9999,
+        "bind_gold": 6480,
+        "ext_gold": 1620,
+        "ext_bind_gold_des": "终极钜惠 , 另送{1}元宝",
+        "type": 2,
+        "rebate_gold": 1296
+    },
+    "2002": {
+        "name": "300元宝",
+        "gold": 300,
+        "rmb": 30,
+        "first_gold": 300,
+        "rebate_times": 9999,
+        "bind_gold": 300,
+        "type": 2,
+        "rebate_gold": 60
+    },
+    "2003": {
+        "name": "500元宝",
+        "gold": 500,
+        "rmb": 50,
+        "first_gold": 500,
+        "rebate_times": 9999,
+        "bind_gold": 500,
+        "type": 2,
+        "rebate_gold": 100
+    },
+    "2001": {
+        "name": "60元宝",
+        "gold": 60,
+        "rmb": 6,
+        "first_gold": 60,
+        "rebate_times": 9999,
+        "bind_gold": 60,
+        "type": 2,
+        "rebate_gold": 12
+    },
+    "2006": {
+        "name": "3280元宝",
+        "gold": 3280,
+        "rmb": 328,
+        "first_gold": 3280,
+        "rebate_times": 9999,
+        "bind_gold": 3280,
+        "ext_gold": 492,
+        "ext_bind_gold_des": "超值返利 , 另送{1}元宝",
+        "type": 2,
+        "rebate_gold": 656
+    },
+    "2007": {
+        "name": "4880元宝",
+        "gold": 4880,
+        "rmb": 488,
+        "first_gold": 4880,
+        "rebate_times": 9999,
+        "bind_gold": 4880,
+        "ext_gold": 976,
+        "ext_bind_gold_des": "重磅回馈 , 另送{1}元宝",
+        "type": 2,
+        "rebate_gold": 976
+    },
+    "2004": {
+        "name": "980元宝",
+        "gold": 980,
+        "rmb": 98,
+        "first_gold": 980,
+        "rebate_times": 9999,
+        "bind_gold": 980,
+        "type": 2,
+        "rebate_gold": 196
+    },
+    "1008": {
+        "name": "50000元宝",
+        "gold": 50000,
+        "rmb": 5000,
+        "first_gold": 0,
+        "rebate_times": 9999,
+        "bind_gold": 50000,
+        "ext_gold": 15000,
+        "ext_bind_gold_des": "终极钜惠 , 另送{1}元宝",
+        "type": 1,
+        "rebate_gold": 10000
+    },
+    "1007": {
+        "name": "20000元宝",
+        "gold": 20000,
+        "rmb": 2000,
+        "first_gold": 0,
+        "rebate_times": 9999,
+        "bind_gold": 20000,
+        "ext_gold": 5000,
+        "ext_bind_gold_des": "重磅回馈 , 另送{1}元宝",
+        "type": 1,
+        "rebate_gold": 4000
+    },
+    "1006": {
+        "name": "10000元宝",
+        "gold": 10000,
+        "rmb": 1000,
+        "first_gold": 10000,
+        "rebate_times": 9999,
+        "bind_gold": 10000,
+        "ext_gold": 2000,
+        "ext_bind_gold_des": "超值返利 , 另送{1}元宝",
+        "type": 1,
+        "rebate_gold": 2000
+    },
+    "1005": {
+        "name": "5000元宝",
+        "gold": 5000,
+        "rmb": 500,
+        "first_gold": 5000,
+        "rebate_times": 9999,
+        "bind_gold": 5000,
+        "type": 1,
+        "rebate_gold": 1000
+    },
+    "1004": {
+        "name": "1000元宝",
+        "gold": 1000,
+        "rmb": 100,
+        "first_gold": 1000,
+        "rebate_times": 9999,
+        "bind_gold": 1000,
+        "type": 1,
+        "rebate_gold": 200
+    },
+    "1003": {
+        "name": "500元宝",
+        "gold": 500,
+        "rmb": 50,
+        "first_gold": 500,
+        "rebate_times": 9999,
+        "bind_gold": 500,
+        "type": 1,
+        "rebate_gold": 100
+    },
+    "1002": {
+        "name": "300元宝",
+        "gold": 300,
+        "rmb": 30,
+        "first_gold": 300,
+        "rebate_times": 9999,
+        "bind_gold": 300,
+        "type": 1,
+        "rebate_gold": 60
+    },
+    "1001": {
+        "name": "100元宝",
+        "gold": 100,
+        "rmb": 10,
+        "first_gold": 100,
+        "rebate_times": 9999,
+        "bind_gold": 100,
+        "type": 1,
+        "rebate_gold": 20
+    }
+}

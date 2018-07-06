@@ -1,0 +1,313 @@
+import "ProtoPublic.proto";
+
+message Proto50100259       // 获取指定红包领取状态(返回)
+{
+    optional int32 open_state = 1;       // 获取当前红包领取状态
+    optional int32 activity_id = 2;       // 活动id
+    optional int32 index = 3;       // 红包索引
+}
+
+message Proto50100260       // 请求增加夫妻同心在线时间(返回)
+{
+    optional int32 index = 1;       // 活动索引
+}
+
+message Proto10100260       // 请求增加夫妻同心在线时间
+{
+    optional int32 minute = 1;       // 分钟数
+    optional int32 index = 2;       // 活动索引
+}
+
+message Proto10100261       // 天天跑酷使用物品前进
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 type = 2;       // 物品索引
+    optional int32 amount = 3;       // 数量
+}
+
+message Proto50100261       // 天天跑酷使用物品前进(返回)
+{
+    optional int32 index = 1;       // 活动索引
+    optional int32 move = 2;       // 移动距离
+    optional int32 position = 3;       // 当前位置
+}
+
+message Proto10100262       // 天天跑酷购买
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 type = 2;       // 物品索引
+    optional int32 amount = 3;       // 数量
+}
+
+message Proto50100262       // 天天跑酷购买(返回)
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto10100263       // 天天跑酷好友助跑
+{
+    optional int32 index = 1;       // 活动ID
+    optional int64 player_id = 2;       // 助跑玩家id
+}
+
+message Proto50100263       // 天天跑酷好友助跑(返回)
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto10100264       // 天天跑酷好友列表
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 page = 2;       // 页数
+}
+
+message Proto50100264       // 天天跑酷好友列表(返回)
+{
+    repeated ProtoRoleInfo role_info = 1;       // 好友列表
+    optional int32 cur_page = 2;       // 当前页
+    optional int32 total_page = 3;       // 总页数
+}
+
+message Proto10400202       // 战斗扣血
+{
+    optional int32 skill_id = 1;       // 技能ID
+    optional int32 skill_pixel_x = 2;       // 像素X
+    optional int32 skill_pixel_y = 3;       // 像素Y
+    repeated int64 target_list = 4;       // 攻击列表
+    optional int32 skill_step = 5;       // 步骤
+    optional int64 target_id = 6;       // 客户端选中ID
+    optional int32 angle = 7;       // 角度
+    optional ProtoCoord play_coord = 8;       // 坐标
+}
+
+message Proto51401901       // 华山论剑主界面信息(返回)
+{
+    optional ProtoTrvlBaseRole first_player = 1;       // 上一轮名人堂玩家
+    optional int32 tbattle_value = 2;       // 历练值
+    optional int32 state = 3;       // 活动状态：0 未开启，1 开启
+}
+
+message Proto10100265       // 绝版时装抽取奖励
+{
+    optional int32 times = 1;       // 抽取次数
+}
+
+message Proto50100265       // 绝版时装抽取奖励(返回)
+{
+    repeated ProtoItemId item = 1;       // 奖励物品
+}
+
+message Proto80404007       // 战斗结束信息(主动)
+{
+    optional int32 state = 1;       // 0表示输，1表示赢
+    optional int32 kill_flag = 2;       // 斩旗，0表示没有，1表示有
+    optional int32 fight_score = 3;       // 战斗积分
+    optional int32 rank = 4;       // 占领的城池
+    repeated int32 item = 5;       // 奖励的物品
+    optional int32 flag_reward = 6;       // 斩旗奖励
+}
+
+message Proto50400353       // 帮派争霸总排名(返回)
+{
+    repeated ProtoLeagueRankInfo total_league_rank = 1;       // 全服帮派积分排名
+}
+
+message Proto10100266       // 领取绝版时装活跃度奖励
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 index = 2;       // 领取物品索引
+}
+
+message Proto10100267       // 天天跑酷跳跃
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto50100267       // 天天跑酷跳跃(返回)
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto50100657       // 领地福利(返回)
+{
+    optional int32 rank = 1;       // 领地
+    optional int32 leader_draw = 2;       // 领主是否领取
+    repeated ProtoPairObj draw_map = 3;       // 自己领取列表
+    optional int32 today_contri = 4;       // 今天贡献
+}
+
+message Proto10100659       // 个人领取
+{
+    optional int32 index = 1;       // 索引
+}
+
+message Proto50404007       // 争霸排行榜(返回)
+{
+    repeated ProtoLeagueItem war_list = 1;       // 列表
+}
+
+message Proto10401103       // 华山论剑战场日志信息
+{
+    optional int32 refresh = 1;       // 是否重新获取；1 重新获取，0 继续读
+}
+
+message Proto50401103       // 华山论剑战场日志信息(返回)
+{
+    repeated ProtoTrvlBattleRank rank_list = 1;       // 上一场战场日志排行
+    optional ProtoTrvlBattleRank self_rank = 2;       // 自己的排行信息
+}
+
+message Proto10401104       // 华山论剑名人堂列表信息
+{
+    optional int32 refresh = 1;       // 是否重新获取；1 重新获取；0 继续获取
+}
+
+message Proto50401104       // 华山论剑名人堂列表信息(返回)
+{
+    repeated ProtoTrvlBattleRank hall_of_fame_list = 1;       // 名人堂列表
+}
+
+message Proto10401105       // 华山论剑查看玩家信息
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional int32 type = 2;       // 1 战场日志，2 名人堂，3 当前排行
+    optional int32 rank = 3;       // 列表第几行，索引从1开始，用于名人堂查看
+}
+
+message Proto50401105       // 华山论剑查看玩家信息(返回)
+{
+    optional ProtoTrvlBaseRole trvl_role = 1;       // 玩家模型信息
+}
+
+message Proto50401028       // 获取跨服世界boss信息(返回)
+{
+    repeated ProtoWorldBossInfo wb_info = 1;       // 世界boss状态
+    optional int32 refresh_tick = 2;       // 刷新时间
+}
+
+message Proto11400663       // 装备铸魂
+{
+    optional int32 times = 1;       // 铸魂次数
+    optional int32 index = 2;       // 装备索引
+}
+
+message Proto51400663       // 装备铸魂(返回)
+{
+    optional int32 index = 1;       // 装备索引
+    optional int32 nature = 2;       // 铸魂属性信息
+    optional int32 state = 3;       // 是否成功
+}
+
+message Proto50100268       // 获取宝石合成活动信息(返回)
+{
+    repeated ProtoGemInfo reward_gem_info = 1;       // 奖励的宝石信息列表
+    optional int32 is_act_open = 2;       // 0:未开启，1：已开启
+    optional int32 day = 3;       // 读取奖励的天数
+    optional int32 remain_time = 4;       // 活动剩余时间
+}
+
+message Proto10100269       // 宝石合成
+{
+    optional int32 synthesis_gem_id = 1;       // 要合成的宝石ID
+}
+
+message Proto50100269       // 宝石合成(返回)
+{
+    repeated ProtoGemInfo reward_gem_info = 1;       // 奖励的宝石信息列表
+}
+
+message Proto50100270       // 领取奖励的宝石(返回)
+{
+    repeated ProtoGemInfo reward_gem_info = 1;       // 奖励的宝石信息列表
+}
+
+message Proto11408004       // 使用离线挂机道具
+{
+    optional int32 item_id = 1;       // 道具id
+    optional int32 item_amount = 2;       // 道具个数
+}
+
+message Proto51408004       // 使用离线挂机道具(返回)
+{
+    optional int32 item_id = 1;       // 道具id
+    optional int32 left_time = 2;       // 剩余时间
+    optional int32 item_amount = 3;       // 道具个数
+}
+
+message Proto51408005       // 获取离线挂机加成信息(返回)
+{
+    repeated int32 left_time = 1;       // 挂机时间
+}
+
+message Proto80401101       // 华山论剑侧边栏信息
+{
+    optional int32 cur_floor = 1;       // 当前第几层，从1开始
+    optional int32 need_kill_amount = 2;       // 通往下层需要的击杀数
+    optional int32 kill_amount = 3;       // 当前层的击杀数
+    optional int32 score = 4;       // 当前积分
+    optional int32 award_score = 5;       // 下一奖励积分
+    optional int64 first_top_id = 6;       // 首位登顶玩家ID
+    optional string first_top_name = 7;       // 首位登顶玩家名
+    optional int32 left_sec = 8;       // 剩余秒数
+    optional int32 max_floor = 9;       // 达到最大层
+    optional int32 treasure_owner_id = 10;       // 秘宝所有者ID
+    optional string treasure_owner_name = 11;       // 秘室所有者名字
+    optional int32 treasure_left_sec = 12;       // 秘宝剩余时间
+}
+
+message Proto80401102       // 华山论剑进层通知
+{
+    optional int32 cur_floor = 1;       // 进入第几层
+}
+
+message Proto80401103       // 华山论剑退层通知
+{
+    optional int32 cur_floor = 1;       // 退到第几层
+}
+
+message Proto80401104       // 华山论剑战场结算信息
+{
+    repeated ProtoTrvlBattleRank rank_list = 1;       // 排名前三玩家信息
+    optional int32 self_rank = 2;       // 个人排名
+    optional int32 self_kill = 3;       // 个人击杀
+    optional int32 self_score = 4;       // 个人奖励历练
+}
+
+message Proto10401030       // 请求进入跨服世界boss
+{
+    optional int32 boss_scene_id = 1;       // 世界boss场景id
+}
+
+message Proto10401106       // 华山论剑当前排行榜信息
+{
+    optional int32 refresh = 1;       // 是否重新获取；1重新获取，0 继续获取
+}
+
+message Proto50401106       // 华山论剑当前排行榜信息(返回)
+{
+    repeated ProtoTrvlBattleRank rank_list = 1;       // 排行榜信息
+    optional ProtoTrvlBattleRank self_rank = 2;       // 个人排名
+}
+
+message Proto10401107       // 华山论剑夺宝记录
+{
+    optional int32 refresh = 1;       // 是否重新获取；1重新获取，0 继续
+}
+
+message Proto50401107       // 华山论剑夺宝记录(返回)
+{
+    repeated ProtoTrvlBattleRank record_list = 1;       // 记录列表
+}
+
+message Proto81400802       // 通知获得新变身(主动)
+{
+    optional int32 transfer_id = 1;       // 变身id
+}
+
+message Proto11400626       // 镶嵌的宝石卸下
+{
+    optional int32 equip_index = 1;       // 装备位置
+    optional int32 jewal_id = 2;       // 要卸下的宝石id
+}
+
+

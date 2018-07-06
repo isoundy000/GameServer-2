@@ -1,0 +1,362 @@
+{
+    "20": {
+        "remark": [
+            "1150",
+            "14.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "attack": 1150,
+            "percent": 1450,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "11": {
+        "remark": [
+            "700",
+            "10"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "attack": 700,
+            "percent": 1000,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "10": {
+        "remark": [
+            "650",
+            "9.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "attack": 650,
+            "percent": 950,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "13": {
+        "remark": [
+            "800",
+            "11"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "attack": 800,
+            "percent": 1100,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "12": {
+        "remark": [
+            "750",
+            "10.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "attack": 750,
+            "percent": 1050,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "15": {
+        "remark": [
+            "900",
+            "12"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "attack": 900,
+            "percent": 1200,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "14": {
+        "remark": [
+            "850",
+            "11.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "attack": 850,
+            "percent": 1150,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "17": {
+        "remark": [
+            "1000",
+            "13"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "attack": 1000,
+            "percent": 1300,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "16": {
+        "remark": [
+            "950",
+            "12.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "attack": 950,
+            "percent": 1250,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "19": {
+        "remark": [
+            "1100",
+            "14"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "attack": 1100,
+            "percent": 1400,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "18": {
+        "remark": [
+            "1050",
+            "13.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "attack": 1050,
+            "percent": 1350,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "1": {
+        "remark": [
+            "200",
+            "5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "attack": 200,
+            "percent": 500,
+            "blood_per": 3000
+        },
+        "add_fight": 1500
+    },
+    "3": {
+        "remark": [
+            "300",
+            "6"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "attack": 300,
+            "percent": 600,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "2": {
+        "remark": [
+            "250",
+            "5.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "attack": 250,
+            "percent": 550,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "5": {
+        "remark": [
+            "400",
+            "7"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "attack": 400,
+            "percent": 700,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "4": {
+        "remark": [
+            "350",
+            "6.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "attack": 350,
+            "percent": 650,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "7": {
+        "remark": [
+            "500",
+            "8"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "attack": 500,
+            "percent": 800,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "6": {
+        "remark": [
+            "450",
+            "7.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "attack": 450,
+            "percent": 750,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "9": {
+        "remark": [
+            "600",
+            "9"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "attack": 600,
+            "percent": 900,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "8": {
+        "remark": [
+            "550",
+            "8.5"
+        ],
+        "name": "狂击",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "attack": 550,
+            "percent": 850,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    }
+}

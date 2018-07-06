@@ -1,0 +1,132 @@
+{
+    "10": {
+        "name_str": "轮回丹",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                1,
+                1
+            ]
+        ],
+        "reward_id": 917119,
+        "act_change": 50
+    },
+    "1": {
+        "name_str": "时装",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                200,
+                1
+            ]
+        ],
+        "reward_id": 917111,
+        "act_change": 1
+    },
+    "3": {
+        "name_str": "称号-小鬼当家",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                80,
+                1
+            ]
+        ],
+        "reward_id": 917120,
+        "act_change": 1
+    },
+    "2": {
+        "name_str": "称号-端午节",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                80,
+                1
+            ]
+        ],
+        "reward_id": 917112,
+        "act_change": 1
+    },
+    "5": {
+        "name_str": "传说秘卷礼包",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                2,
+                1
+            ]
+        ],
+        "reward_id": 917114,
+        "act_change": 30
+    },
+    "4": {
+        "name_str": "强化石",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                1,
+                1
+            ]
+        ],
+        "reward_id": 917113,
+        "act_change": 50
+    },
+    "7": {
+        "name_str": "英魂升阶丹",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                12,
+                1
+            ]
+        ],
+        "reward_id": 917116,
+        "act_change": 5
+    },
+    "6": {
+        "name_str": "炼魂珠",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                5,
+                1
+            ]
+        ],
+        "reward_id": 917115,
+        "act_change": 20
+    },
+    "9": {
+        "name_str": "2倍离线经验丹",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                2,
+                1
+            ]
+        ],
+        "reward_id": 917118,
+        "act_change": 20
+    },
+    "8": {
+        "name_str": "进阶丹礼包",
+        "cond": 1,
+        "change_item": [
+            [
+                216340021,
+                2,
+                1
+            ]
+        ],
+        "reward_id": 917117,
+        "act_change": 30
+    }
+}

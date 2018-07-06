@@ -1,0 +1,88 @@
+{
+	"node_name": "全屏主动怪物",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "ParaSelNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "怪物没有目标",
+					"ext_precond": "no_aim_pre",
+					"node_type": "control",
+					"node_action": "PrioSelNode",
+					"node_tree": 
+					[
+						{
+							/*选择最近一次攻击它的玩家或全屏找一个玩家作为攻击对象*/
+							"node_name": "选择目标",
+							"ext_precond":["or", "select_mode_a", "select_mode_b"],
+							"node_type": "action", 
+							"node_action": "select_action"
+						}
+					]
+				},
+				{
+					"node_name": "怪物有目标",
+					"ext_precond": "hava_aim_pre",
+					"node_type": "control",
+					"node_action": "PrioSelNode",
+					"node_tree": 
+					[
+						{
+					        "node_name": "保持与目标一定距离",
+							"ext_precond": "aim_distance_pre",
+							"node_type": "action",
+							"node_action": "keep_away_action"
+						},
+						{
+							"node_name": "达到攻击距离",
+							"ext_precond": "attack_pre",
+							"node_type": "control",
+							"node_action": "PrioSelNode",
+							"node_tree": [{
+								"node_name": "向内圈靠近",
+								"ext_precond": "near_inner_pre",
+								"node_type": "action",
+								"node_action": "move_action"
+							},{
+								"node_name": "执行攻击",
+								"node_type": "action",
+								"node_action": "attack_action"
+							}]
+						},
+						{
+							"node_name": "追逐",
+							"ext_precond": "circle_chase_pre",
+							"node_type": "action",
+							"node_action": "chase_action"
+						}
+					]
+				}
+			]
+		}
+	]
+}

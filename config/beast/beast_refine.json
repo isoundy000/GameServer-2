@@ -1,0 +1,249 @@
+{
+	"item_id": 200001001,
+	"item_money": 35,
+	
+	/*名字*/
+	"soul_name":["天魂", "地魂", "命魂"],
+	"brocast_info":[[16, "", 1020], [24, "", 1021], [32, "", 1022]],
+	
+	/*炼魂*/
+	"beast_refine": 
+	[{
+			"level": 0,
+			"need_copper": 3500,
+			"item_amount": 1,
+			/*每级所需的炼魂值*/
+			"upgrade_value": [50,50,25],
+			/*基数为100，以下的例子的意思：（0, 60),即60％概率，增加的炼魂值为0(60, 80)，即20的概率，增加的炼魂值为1*/
+			"refine_rand": [[100, 10], [0, 8],[0, 6], [0, 4], [0, 2], [0, 0]]
+		},
+		{
+			"level": 1,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [100, 100, 50],
+			"refine_rand": [[80, 10], [10, 8],[10, 6], [0, 4], [0, 2], [0, 0]]
+		},
+		{
+			"level": 2,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [150, 150, 75],
+			"refine_rand": [[60, 10], [20, 8],[20, 6], [0, 4], [0, 2], [0, 0]]
+		},
+		{
+			"level": 3,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [200, 200, 100],
+			"refine_rand": [[40, 10], [30, 8],[30, 6], [0, 4], [0, 2], [0, 0]]
+		},
+		{
+			"level": 4,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [250, 250, 125],
+			"refine_rand": [[20, 10], [40, 8],[40, 6], [0, 4], [0, 2], [0, 0]]
+		},
+		{
+			"level": 5,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [300,300,150],
+			"refine_rand": [[0, 10], [50, 8],[50, 6], [0, 4], [0, 2], [0, 0]]
+		},
+		{
+			"level": 6,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [350,350,175],
+			"refine_rand": [[0, 10], [40, 8],[40, 6], [10, 4], [10, 2], [0, 0]]
+		},
+		{
+			"level": 7,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [400,400,200],
+			"refine_rand": [[0, 10], [30, 8],[30, 6], [20, 4], [20, 2], [0, 0]]
+		},
+		{
+			"level": 8,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [460, 460, 230],
+			"refine_rand": [[0, 10], [20, 8],[20, 6], [30, 4], [30, 2], [0, 0]]
+		},
+		{
+			"level": 9,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [520, 520, 260],
+			"refine_rand": [[0, 10], [10, 8],[10, 6], [40, 4], [40, 2], [0, 0]]
+		},
+		{
+			"level": 10,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [580, 580, 290],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [50, 4], [50, 2], [0, 0]]
+		},
+		{
+			"level": 11,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [640, 640, 320],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [45, 4], [50, 2], [5, 0]]
+		},
+		{
+			"level": 12,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [700, 700, 350],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [40, 4], [50, 2], [10, 0]]
+		},
+		{
+			"level": 13,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [760, 760, 380],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [35, 4], [50, 2], [15, 0]]
+		},
+		{
+			"level": 14,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [820, 820, 410],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [30, 4], [50, 2], [20, 0]]
+		},
+		{
+			"level": 15,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [880, 880, 440],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [25, 4], [50, 2], [25, 0]]
+		},
+		{
+			"level": 16,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [950, 950, 475],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [20, 4], [50, 2], [30, 0]]
+		},
+		{
+			"level": 17,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1020, 1020, 510],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [15, 4], [50, 2], [35, 0]]
+		},
+		{
+			"level": 18,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1090, 1090, 545],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [10, 4], [50, 2], [40, 0]]
+		},
+		{
+			"level": 19,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1160, 1160, 580],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [5, 4], [50, 2], [45, 0]]
+		},
+		{
+			"level": 20,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1230, 1230, 615],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [50, 2], [50, 0]]
+		},		
+		{
+			"level": 21,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1300, 1300, 650],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [50, 2], [50, 0]]
+		},
+		{
+			"level": 22,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1370, 1370, 685],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [46, 2], [54, 0]]
+		},
+		{
+			"level": 23,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1440, 1440, 720],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [42, 2], [58, 0]]
+		},
+		{
+			"level": 24,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1520, 1520, 760],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [38, 2], [62, 0]]
+		},
+		{
+			"level": 25,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1600, 1600, 800],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [34, 2], [66, 0]]
+		},
+		{
+			"level": 26,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1680, 1680, 840],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [31, 2], [69, 0]]
+		},
+		{
+			"level": 27,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1760, 1760, 880],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [28, 2], [72, 0]]
+		},
+		{
+			"level": 28,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1840, 1840, 920],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [25, 2], [75, 0]]
+		},
+		{
+			"level": 29,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [1920, 1920, 960],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [22, 2], [78, 0]]
+		},
+		{
+			"level": 30,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [2000, 2000, 1000],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [19, 2], [84, 0]]
+		},		
+		{
+			"level": 31,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [2080, 2080, 1040],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [13, 2], [87, 0]]
+		},
+		{
+			"level": 32,
+			"need_copper": 3500,
+			"item_amount": 1,
+			"upgrade_value": [2080, 2080, 1040],
+			"refine_rand": [[0, 10], [0, 8],[0, 6], [0, 4], [0, 2], [100, 0]]
+		}	
+	],
+	/*每级增加的属性值*/
+	"sky_soul":[0,50,100,150,200,250,300,350,400,460,520,580,640,680,760,820,880,950,1020,1090,1160,1230,1300,1370,1440,1520,1600,1680,1760,1840,1920,2000,2080],
+	"earth_soul":[0,50,100,150,200,250,300,350,400,460,520,580,640,680,760,820,880,950,1020,1090,1160,1230,1300,1370,1440,1520,1600,1680,1760,1840,1920,2000,2080],
+	"life_soul":[0,25,50,75,100,125,150,175,200,230,260,290,320,350,380,410,440,475,510,545,580,615,650,685,720,760,800,840,880,920,960,1000,1040]
+}

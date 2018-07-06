@@ -1,0 +1,824 @@
+{
+    "upgrade_copy_sweep_function_open_lv": {
+        "remark": "进阶副本扫荡等级",
+        "value": 85
+    },
+    "ice_bingfeng": {
+        "remark": "冰封特效",
+        "strValue": "ice_bingfeng"
+    },
+    "nvshen_ten": {
+        "remark": "女神赐福十次消耗",
+        "value": 180
+    },
+    "ResidueShadow_color": {
+        "remark": "残影颜色",
+        "arr": [
+            0,
+            255,
+            255,
+            255
+        ]
+    },
+    "auto_reject_time": {
+        "remark": "副本组队邀请和申请加入超时处理",
+        "value": 20
+    },
+    "world_lv_min": {
+        "remark": "世界等级条件1-大于等于世界等级",
+        "value": 62
+    },
+    "remote_attack_dis": {
+        "remark": "怪物远攻距离",
+        "value": 8
+    },
+    "hook_time": {
+        "remark": "没有操作的时候多久之后进入挂机(秒)",
+        "value": 15
+    },
+    "wedding_wait_time": {
+        "remark": "结婚功能间隔时间",
+        "value": 10
+    },
+    "nvshen_one": {
+        "remark": "女神赐福一次消耗",
+        "value": 18
+    },
+    "equip_soul_max": {
+        "remark": "装备炼魂最高等级",
+        "arr": [
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50
+        ]
+    },
+    "chat_league_interval": {
+        "remark": "帮派聊天间隔",
+        "value": 5
+    },
+    "cash_coupon_money": {
+        "remark": "代金券代替元宝数",
+        "strValue": "[724A3D]获取：跨服副本、古宝副本[-]",
+        "value": 1
+    },
+    "open_gift_day": {
+        "remark": "开服豪礼持续时间",
+        "value": 3
+    },
+    "role_volume": {
+        "remark": "人物体积半径",
+        "value": 1
+    },
+    "out_time_item_mail_id": {
+        "remark": "过期物品邮件ID",
+        "value": 10007
+    },
+    "player_panel_close_btn_lv": {
+        "remark": "角色头像的缩进框等级",
+        "value": 60
+    },
+    "Shuilongjuan": {
+        "remark": "水龙卷技能特效",
+        "strValue": "Shuilongjuan"
+    },
+    "max_role_level": {
+        "remark": "角色最高等级",
+        "value": 130
+    },
+    "ai_select_dis": {
+        "remark": "怪物仇恨范围",
+        "value": 24
+    },
+    "huashan_level_award": {
+        "remark": "华山论剑层数奖励",
+        "arr": [
+            20471,
+            20472,
+            20473,
+            20474,
+            20475,
+            20476,
+            20477,
+            20478,
+            20478
+        ]
+    },
+    "PET_HURT_COLOR": {
+        "remark": "宠物伤害闪颜色",
+        "arr": [
+            255,
+            255,
+            0,
+            160
+        ]
+    },
+    "chat_nearby_interval": {
+        "remark": "附近聊天间隔",
+        "value": 5
+    },
+    "auto_fly_lv": {
+        "remark": "自动飞鞋等级限制",
+        "value": 50
+    },
+    "cri_fly_word_dis": {
+        "remark": "暴击飘字距离",
+        "value": 350
+    },
+    "main_town_position": {
+        "remark": "返回城镇",
+        "arr": [
+            10200,
+            638,
+            1429
+        ]
+    },
+    "open_server_after": {
+        "remark": "开服7天后开启",
+        "value": 7
+    },
+    "relive_item": {
+        "remark": "复活道具",
+        "value": 216310071
+    },
+    "beast_attack_time": {
+        "remark": "灵宠攻击间隔(单位毫秒)",
+        "value": 500
+    },
+    "chat_voice_short": {
+        "remark": "语音最小长度(毫秒)",
+        "value": 1000
+    },
+    "bestrong_score_area": {
+        "remark": "我要变强，评分级别（按SSS,SS,S,A,B,C顺序）区间配置,0.95表示评分95%",
+        "arr": [
+            0.90000000000000002,
+            0.80000000000000004,
+            0.69999999999999996,
+            0.59999999999999998,
+            0.5
+        ]
+    },
+    "collect_time": {
+        "remark": "采集时间(毫秒)",
+        "value": 3000
+    },
+    "task_common_reward_guide_maxlv": {
+        "remark": "日常任务奖励面板箭头最高等级",
+        "value": 14
+    },
+    "task_login_recheck": {
+        "remark": "登入时再度检测任务"
+    },
+    "act_recharge_label": {
+        "remark": "开服充值称号奖励ID",
+        "value": 817800
+    },
+    "lunjian_openday": {
+        "remark": "论剑江湖开放开服天数",
+        "value": 10
+    },
+    "PLAYER_HURT_COLOR": {
+        "remark": "玩家伤害闪颜色",
+        "arr": [
+            255,
+            255,
+            0,
+            160
+        ]
+    },
+    "huashan_award": {
+        "remark": "决战华山奖励展示",
+        "value": 600014
+    },
+    "shout_fest_boss": {
+        "remark": "节日BOSS传闻",
+        "value": 132001
+    },
+    "boss_skill_word_time": {
+        "remark": "论剑江湖说话持续时间(毫秒)",
+        "value": 3000
+    },
+    "flash_time": {
+        "remark": "扣血颜色闪一下时间(毫秒)",
+        "value": 200
+    },
+    "limit_ids": {
+        "remark": "限制不同渠道创建角色的开服天数",
+        "arr": [
+            [
+                20,
+                8
+            ],
+            [
+                18,
+                8
+            ],
+            [
+                90,
+                7
+            ]
+        ]
+    },
+    "label_time_up_mail_id": {
+        "remark": "称号超时邮件ID",
+        "value": 30005
+    },
+    "test_command": {
+        "remark": "命令开启",
+        "value": 1
+    },
+    "dead_time": {
+        "remark": "死亡回城复活时间",
+        "value": 30
+    },
+    "tmarena_mail": {
+        "remark": "争霸天下邮件",
+        "value": 50301
+    },
+    "transfer_item": {
+        "remark": "传送道具",
+        "value": 216310011
+    },
+    "mount_mail_id": {
+        "remark": "战骑类邮件ID",
+        "value": 10006
+    },
+    "Shandian": {
+        "remark": "闪电技能特效",
+        "strValue": "Shandian"
+    },
+    "max_angry_value": {
+        "remark": "最大怒气值",
+        "value": 100
+    },
+    "bingfeng_effect": {
+        "remark": "冰封特效",
+        "strValue": "scene_icefloor"
+    },
+    "recover_blood_time": {
+        "remark": "每次回血秒数(单位秒)",
+        "value": 5
+    },
+    "max_trvl_pass": {
+        "remark": "跨服有奖最多通关次数",
+        "value": 50
+    },
+    "craft_att_pos": {
+        "remark": "帮派争霸——攻方资源坐标",
+        "arr": [
+            1446,
+            2933
+        ]
+    },
+    "sublimation_max_lv": {
+        "remark": "宝石升华最大等级",
+        "value": 50
+    },
+    "relive_protected_time": {
+        "remark": "复活保护时间",
+        "value": 4
+    },
+    "near_attack_dis": {
+        "remark": "怪物近攻距离",
+        "value": 5
+    },
+    "fish_cost_info": {
+        "remark": "捕鱼消费 索引 0刷新 1普通捕获 2激光捕获 3全捕获",
+        "arr": [
+            88,
+            28,
+            48,
+            588
+        ]
+    },
+    "chat_world_interval": {
+        "remark": "世界聊天间隔",
+        "value": 5
+    },
+    "base_speed": {
+        "remark": "基础速度",
+        "value": 330
+    },
+    "item_tips_lv": {
+        "remark": "升阶丹提示小于等级检测",
+        "value": 85
+    },
+    "Jingzhong": {
+        "remark": "金钟技能特效",
+        "strValue": "Jingzhong"
+    },
+    "special_box_key": {
+        "remark": "钥匙物品 购买最大值 购买一个钥匙消耗金币 传闻id",
+        "arr": [
+            211010001,
+            2,
+            10,
+            136016
+        ]
+    },
+    "world_playerlv_min": {
+        "remark": "世界等级条件2-大于等于人物等级",
+        "value": 40
+    },
+    "ResidueShadow_interval": {
+        "remark": "残影间隔(毫秒)",
+        "value": 100
+    },
+    "change_sex_time": {
+        "remark": "变性后24小时后才能再变性",
+        "value": 0
+    },
+    "molding_spirit_item": {
+        "remark": "铸魂使用物品增加进度",
+        "arr": [
+            216310131,
+            1,
+            1
+        ]
+    },
+    "recharge_ids": {
+        "remark": "充值渠道",
+        "arr": [
+            6,
+            7,
+            8,
+            12,
+            16,
+            18,
+            19,
+            21
+        ]
+    },
+    "drop_reason": {
+        "remark": "掉线提示类型",
+        "value": 2
+    },
+    "chat_team_interval": {
+        "remark": "队伍聊天间隔",
+        "value": 5
+    },
+    "craft_def_pos": {
+        "remark": "帮派争霸——守方资源坐标",
+        "arr": [
+            7136,
+            3098
+        ]
+    },
+    "null_legion_league": {
+        "remark": "暂无"
+    },
+    "nvshen_duihuanitem": {
+        "remark": "女神赐福兑换道具[道具id，道具数量，可兑换数量,消耗紫晶数量]",
+        "arr": [
+            [
+                215031041,
+                1,
+                1,
+                10
+            ],
+            [
+                215031042,
+                2,
+                2,
+                3
+            ],
+            [
+                215031043,
+                1,
+                5,
+                1
+            ],
+            [
+                215031043,
+                2,
+                10,
+                2
+            ],
+            [
+                215031043,
+                3,
+                15,
+                3
+            ],
+            [
+                215031043,
+                4,
+                20,
+                4
+            ]
+        ]
+    },
+    "skill_common_cd": {
+        "remark": "技能之间的公共CD(毫秒)",
+        "value": 1000
+    },
+    "boat": {
+        "remark": "没有VIP的双休船",
+        "strValue": "0000"
+    },
+    "achieve_notify_level": {
+        "remark": "成就弹窗最低等级",
+        "value": 50
+    },
+    "not_change_mode_maps": {
+        "remark": "不能切换PK模式的场景",
+        "arr": [
+            50301
+        ]
+    },
+    "open_gift_mail_id": {
+        "remark": "开服豪礼奖励邮件",
+        "value": 40010
+    },
+    "combine_activity_days": {
+        "remark": "合服7天后关闭",
+        "value": 7
+    },
+    "nvshen_reword": {
+        "remark": "女神赐福奖励展示",
+        "value": 600014
+    },
+    "fish_add_score": {
+        "remark": "获得积分 普通捕获 激光捕获 全捕获",
+        "arr": [
+            1,
+            3,
+            1
+        ]
+    },
+    "open_activity_days": {
+        "remark": "开服活动时间天数",
+        "value": 7
+    },
+    "huasha_fall": {
+        "remark": "华山死亡掉落",
+        "arr": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "Bingci": {
+        "remark": "冰刺技能特效",
+        "strValue": "Bingci"
+    },
+    "item_tips_arr": {
+        "remark": "升阶丹配置",
+        "strValue": "【道具id，类型，战骑类型，lan对应】",
+        "arr": [
+            [
+                216120111,
+                1,
+                1,
+                107810
+            ],
+            [
+                216120211,
+                1,
+                4,
+                107811
+            ],
+            [
+                216120511,
+                1,
+                2,
+                107812
+            ],
+            [
+                213200001,
+                0,
+                0,
+                107813
+            ]
+        ]
+    },
+    "jianluo_effect": {
+        "remark": "剑落特效",
+        "strValue": "gw_skill_luojian"
+    },
+    "transfer_min_dis": {
+        "remark": "最小传送范围(像素)",
+        "value": 500
+    },
+    "super_vip_mail": {
+        "remark": "超级vip邮件id",
+        "value": 10010
+    },
+    "max_vip": {
+        "remark": "vip等级上限",
+        "value": 12
+    },
+    "rama_skills2": {
+        "remark": "罗摩效果2技能列表",
+        "arr": [
+            400160002,
+            400160005,
+            400160007
+        ]
+    },
+    "rama_skills3": {
+        "remark": "罗摩效果3技能列表",
+        "arr": [
+            400160004,
+            400160006,
+            400160008
+        ]
+    },
+    "rama_skills1": {
+        "remark": "罗摩效果1技能列表",
+        "arr": [
+            400160001,
+            400160003
+        ]
+    },
+    "map_jump_speed": {
+        "remark": "地图跳跃速度",
+        "value": 400
+    },
+    "jewel_max_levle": {
+        "remark": "宝石当前最大等级",
+        "value": 10
+    },
+    "GuiChan": {
+        "remark": "鬼缠技能特效",
+        "strValue": "GuiChan"
+    },
+    "new_max_strengthen": {
+        "remark": "新强化等级上限",
+        "value": 15
+    },
+    "chat_private_interval": {
+        "remark": "会话聊天间隔",
+        "value": 2
+    },
+    "special_box_gold": {
+        "remark": "打开神秘宝箱需要金币",
+        "arr": [
+            1,
+            10,
+            100,
+            20,
+            30,
+            100
+        ]
+    },
+    "task_finish_guide_maxlv": {
+        "remark": "引导任务箭头显示最高等级",
+        "value": 9
+    },
+    "nvshen_item": {
+        "remark": "女神赐福紫晶道具",
+        "value": 216340217
+    },
+    "accelerate_validate": {
+        "remark": "外挂加速检测",
+        "value": 0
+    },
+    "boat_height": {
+        "remark": "没有VIP的双休船高度",
+        "value": 50
+    },
+    "max_equip_strengthen": {
+        "remark": "强化等级上限",
+        "value": 60
+    },
+    "chat_team_level": {
+        "remark": "队伍聊天等级",
+        "value": 1
+    },
+    "huashan_max_lv": {
+        "remark": "华山最多层数",
+        "value": 9
+    },
+    "map_exchange_num": {
+        "remark": "图谱兑换每日兑换次数",
+        "value": 2
+    },
+    "exp_vip_x2": {
+        "remark": "双倍离线经验VIP等级",
+        "value": 2
+    },
+    "exp_vip_x3": {
+        "remark": "三倍离线经验VIP等级",
+        "value": 4
+    },
+    "molding_spirit_weight": {
+        "remark": "铸魂各属性权重",
+        "arr": [
+            100,
+            100,
+            100
+        ]
+    },
+    "boss_skill_tip_time": {
+        "remark": "技能提示时间(毫秒)",
+        "value": 3000
+    },
+    "Huolongjuan": {
+        "remark": "火龙卷技能特效",
+        "strValue": "Huolongjuan"
+    },
+    "hookUnlock": {
+        "remark": "挂机任务显示等级",
+        "value": 48
+    },
+    "shout_equip_strengthen": {
+        "remark": "装备强化传闻",
+        "arr": [
+            60101,
+            10
+        ],
+        "value": 60101
+    },
+    "league_ids": {
+        "remark": "不同帮派人数的渠道",
+        "arr": [
+            18
+        ]
+    },
+    "get_fish_limit": {
+        "remark": "普通捕鱼最大值  激光捕鱼最大值",
+        "arr": [
+            1,
+            3
+        ]
+    },
+    "cash_coupon_id": {
+        "remark": "代金券物品id",
+        "value": 216310105
+    },
+    "sound_6": {
+        "remark": "窗口背景音",
+        "value": 1
+    },
+    "sound_5": {
+        "remark": "npc配音",
+        "value": 1
+    },
+    "sound_4": {
+        "remark": "ui声音播放器数量",
+        "value": 3
+    },
+    "sound_3": {
+        "remark": "特效声音播放器数量",
+        "value": 5
+    },
+    "magic_attack_time": {
+        "remark": "法器攻击间隔（单位毫秒）",
+        "value": 2500
+    },
+    "sound_1": {
+        "remark": "场景背景声音播放器数量",
+        "value": 1
+    },
+    "sound_0": {
+        "remark": "语音",
+        "value": 1
+    },
+    "chat_world_level": {
+        "remark": "世界聊天等级",
+        "value": 50
+    },
+    "task_quick_finish_const_7": {
+        "remark": "帮派任务快速完成[每环消耗元宝,返还vip,每环返还绑元]",
+        "arr": [
+            2,
+            2,
+            1
+        ]
+    },
+    "fly_word_dis": {
+        "remark": "普通飘字距离",
+        "value": 200
+    },
+    "task_quick_finish_const_3": {
+        "remark": "日常任务快速完成[每环消耗元宝,返还vip,每环返还绑元]",
+        "arr": [
+            2,
+            2,
+            1
+        ]
+    },
+    "sys_mail_name": {
+        "remark": "系统邮件"
+    },
+    "max_equip_casting": {
+        "remark": "铸造等级上限",
+        "value": 8
+    },
+    "chat_private_level": {
+        "remark": "会话聊天等级",
+        "value": 1
+    },
+    "max_jump_value": {
+        "remark": "最大跳跃值",
+        "value": 6
+    },
+    "chat_voice_len": {
+        "remark": "语音最大长度(毫秒)",
+        "value": 10000
+    },
+    "change_name_time": {
+        "remark": "改名后72小时后才能再改名",
+        "value": 72
+    },
+    "tarena_season_mail": {
+        "remark": "跨服竞技季赛奖励ID",
+        "value": 60100
+    },
+    "ice_yujing": {
+        "remark": "冰封预警",
+        "strValue": "ice_yujing"
+    },
+    "FAQIT_COLOR": {
+        "remark": "法器伤害闪颜色",
+        "arr": [
+            255,
+            255,
+            0,
+            160
+        ]
+    },
+    "change_reward": {
+        "remark": "变身领取奖励",
+        "value": 203901
+    },
+    "transfer_jump_dis": {
+        "remark": "传送的跳跃间隔",
+        "value": 1100
+    },
+    "map_jump_acc": {
+        "remark": "地图跳跃加速度",
+        "value": 1100
+    },
+    "secret_name": {
+        "remark": "神秘人名字",
+        "strValue": "神秘人"
+    },
+    "sound_2": {
+        "remark": "场景区域声音播放器数量",
+        "value": 1
+    },
+    "down_load_reward": {
+        "remark": "下载资源完成奖励",
+        "value": 20000
+    },
+    "bestrong_bar_color": {
+        "remark": "我要变强 进度条颜色区间，1表示100%进度，按“100%时绿，99%-70%时蓝，69-40%时橙，39%-0%时红”颜色排序",
+        "arr": [
+            0.98999999999999999,
+            0.68999999999999995,
+            0.39000000000000001
+        ]
+    },
+    "max_marriage_ring": {
+        "remark": "婚戒等级上限",
+        "value": 100
+    },
+    "battle_field": {
+        "remark": "杀戮战场活动ID",
+        "value": 40001
+    },
+    "rama_open_sweep": {
+        "remark": "罗摩副本开启扫荡功能需要通关层数(第几层)",
+        "value": 4
+    },
+    "chat_league_level": {
+        "remark": "帮派聊天等级",
+        "value": 1
+    },
+    "task_main_reward_guide_maxlv": {
+        "remark": "主线任务奖励面板箭头最高等级",
+        "value": 14
+    },
+    "new_main_task_id": {
+        "remark": "新手任务结束ID",
+        "value": 100104160
+    },
+    "upgrade_copy_sweep_vip_lv": {
+        "remark": "进阶副本扫荡vip",
+        "value": 7
+    },
+    "tip_lv": {
+        "remark": "智能提示出现等级",
+        "value": 28
+    }
+}

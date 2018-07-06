@@ -1,0 +1,5337 @@
+{
+    "400050001": {
+        "des": "永久提升角色[008E8C]{1}[-]血量",
+        "name": "强体",
+        "server_type": 300,
+        "skill_icon": "41001",
+        "word_name": "zi_01",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400050002": {
+        "des": "永久提升角色[008E8C]{1}[-]防御",
+        "name": "坚甲",
+        "server_type": 300,
+        "skill_icon": "41002",
+        "word_name": "zi_02",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400050003": {
+        "des": "永久提升角色[008E8C]{1}[-]攻击",
+        "name": "巨力",
+        "server_type": 300,
+        "skill_icon": "41003",
+        "word_name": "zi_03",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400050004": {
+        "des": "永久提升角色[008E8C]{1}[-]暴击伤害",
+        "name": "必杀",
+        "server_type": 300,
+        "skill_icon": "41004",
+        "word_name": "zi_04",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400110004": {
+        "skill_icon": "41904",
+        "level_type": 1,
+        "des": "仙童每次攻击时，额外造成[008E8C]{1}[-]的伤害",
+        "name": "破体",
+        "word_atlas": "skill_word"
+    },
+    "400110003": {
+        "des": "提升角色与仙兽[008E8C]{1}[-]攻击",
+        "name": "强力",
+        "server_type": 300,
+        "skill_icon": "41903",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400110002": {
+        "des": "提升角色与仙兽[008E8C]{1}[-]防御",
+        "name": "固本",
+        "server_type": 300,
+        "skill_icon": "41902",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400110001": {
+        "des": "提升角色与仙兽[008E8C]{1}[-]生命",
+        "name": "培元",
+        "server_type": 300,
+        "skill_icon": "41901",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400011003": {
+        "loop_fixed_point": 1,
+        "time_stop": 0,
+        "skill_icon": "1011",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 12,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "targetEffect": [
+            "skill03_02"
+        ],
+        "last_time": [
+            1.0,
+            1.3999999999999999,
+            1.8
+        ],
+        "object_from_server": 2,
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "default_skill": 1,
+        "object": 20,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "skill03_01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "烈焰归墟",
+        "check_flag": 1,
+        "gender": 1,
+        "sounds": [
+            [
+                "nan_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            1.03
+        ]
+    },
+    "400011002": {
+        "time_stop": 0,
+        "skill_icon": "1012",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.40000000000000002
+        ],
+        "angle": 70,
+        "aoeType": 3,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "default_skill": 1,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "skill02"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "object_from_server": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "真·火龙啸",
+        "check_flag": 1,
+        "gender": 1,
+        "sounds": [
+            [
+                "nan_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.42999999999999999
+        ]
+    },
+    "400011001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "1010",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "height": 16,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.33000000000000002
+        ],
+        "object_from_server": 2,
+        "aoeType": 4,
+        "width": 6,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "default_skill": 1,
+        "object": 8,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "skill01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "真·裂地斩",
+        "check_flag": 1,
+        "gender": 1,
+        "sounds": [
+            [
+                "nan_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.34999999999999998
+        ]
+    },
+    "400011004": {
+        "time_stop": 0,
+        "skill_icon": "1000",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nan_gongji_1"
+            ],
+            [
+                "nan_gongji_2"
+            ],
+            [
+                "nan_gongji_3"
+            ],
+            [
+                "nan_gongji_4"
+            ],
+            [
+                "nan_gongji_5"
+            ],
+            [
+                "nan_gongji_6"
+            ],
+            [
+                "nan_gongji_7"
+            ],
+            [
+                "nan_gongji_8"
+            ]
+        ],
+        "angle": 270,
+        "skill_icon_ui": "1000_ui",
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            25
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "server_type": 101,
+        "default_skill": 1,
+        "object": 4,
+        "launch_wait": 0.25,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "attack00",
+            "attack01",
+            "attack02",
+            "attack03",
+            "attack04",
+            "attack05",
+            "attack06",
+            "attack07"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.53000000000000003,
+            0.45000000000000001,
+            0.57999999999999996,
+            0.64000000000000001,
+            0.56999999999999995,
+            0.63,
+            0.62,
+            0.59999999999999998
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 8,
+        "name": "男普通攻击",
+        "check_flag": 1,
+        "gender": 1,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.45000000000000001,
+            0.38,
+            0.47999999999999998,
+            0.55000000000000004,
+            0.46999999999999997,
+            0.52000000000000002,
+            0.52000000000000002,
+            0.5
+        ]
+    },
+    "400170009": {
+        "max_times": 1,
+        "name": "无敌金身",
+        "server_type": 100,
+        "skill_icon": "60009",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 5,
+                        "name": "buff",
+                        "id": 20014
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400170008": {
+        "max_times": 1,
+        "name": "眩晕免疫",
+        "server_type": 100,
+        "skill_icon": "60008",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10,
+                        "name": "buff",
+                        "id": 20013
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400170001": {
+        "max_times": 1,
+        "distance": 5,
+        "name": "杀戮",
+        "server_type": 100,
+        "skill_icon": "60006",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 3000,
+                        "name": "direct_max_blood"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "00001",
+        "cool": 5.0
+    },
+    "400170003": {
+        "max_times": 1,
+        "distance": 5,
+        "name": "致命穿透",
+        "server_type": 100,
+        "skill_icon": "60003",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10,
+                        "percent": 50000,
+                        "name": "buff",
+                        "id": 20008
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400170002": {
+        "max_times": 1,
+        "name": "圣御",
+        "server_type": 100,
+        "skill_icon": "60009",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10,
+                        "percent": 9900,
+                        "name": "buff",
+                        "id": 20007
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400000001": {
+        "time_stop": 0,
+        "skill_icon": "skill_2",
+        "pos": 4,
+        "actions": [
+            1000,
+            1001,
+            1002
+        ],
+        "rand_step": 1,
+        "sounds": [
+            [
+                "yidong_2"
+            ]
+        ],
+        "last_time": [
+            0.5
+        ],
+        "detail": [
+            {
+                "jumpAcc": 2500,
+                "max_value": 6,
+                "interval": 30,
+                "jumpSpeed": 1000,
+                "effect": [
+                    {
+                        "name": "jump",
+                        "value": 1
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "server_type": 102,
+        "default_skill": 1,
+        "object": 1,
+        "can_move": 0,
+        "action_time": [
+            0.40000000000000002
+        ],
+        "skill_type": 6,
+        "useLvl": 1,
+        "cool": 0.10000000000000001,
+        "distance": 18,
+        "max_step": 3,
+        "name": "玩家跳跃",
+        "check_flag": 1,
+        "gender": 0
+    },
+    "400170004": {
+        "max_times": 1,
+        "name": "不动如山",
+        "server_type": 100,
+        "skill_icon": "60004",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10,
+                        "percent": 2000,
+                        "name": "buff",
+                        "id": 20009
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400170007": {
+        "max_times": 1,
+        "name": "流血免疫",
+        "server_type": 100,
+        "skill_icon": "60007",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10,
+                        "name": "buff",
+                        "id": 20012
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400170006": {
+        "max_times": 1,
+        "distance": 5,
+        "name": "强力眩晕",
+        "server_type": 100,
+        "skill_icon": "60006",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 8,
+                        "name": "buff",
+                        "id": 20011
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "00001",
+        "cool": 5.0
+    },
+    "400160008": {
+        "distance": 5,
+        "sub_rate_skill": 400100003,
+        "name": "裂命击",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][罚天火神臂][-]触发[ffdf30][裂命击][-]技能",
+        "use_rate": 5000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3,
+                        "interval": 1,
+                        "percent": -200,
+                        "name": "buff",
+                        "id": 10004
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "skill_icon": "50008",
+        "skill_type": 103,
+        "des": "攻击时[008E8C]30%[-]几率令敌人每[008E8C]1[-]秒扣血[008E8C]2%[-]，持续[008E8C]3[-]秒\n\n[ff1313]只对玩家有效[-]",
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160001": {
+        "distance": 5,
+        "sub_rate_skill": 400100001,
+        "name": "箭锁神",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][焚天龙首杖][-]触发[ffdf30][箭锁神][-]技能",
+        "use_rate": 5000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": -3000,
+                        "last": 2,
+                        "name": "buff",
+                        "id": 10001
+                    },
+                    {
+                        "percent": 500,
+                        "last": 2,
+                        "name": "buff",
+                        "id": 10002
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "skill_icon": "50001",
+        "skill_type": 101,
+        "des": "攻击时[008E8C]50%[-]几率降低敌人[008E8C]30%[-]移动速度并提升所受伤害[008E8C]5%[-]，持续[008E8C]2[-]秒\n\n[ff1313]减速只对玩家有效,提升伤害对玩家和怪物都有效[-]",
+        "type": "10011",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160002": {
+        "distance": 5,
+        "sub_rate_skill": 400100002,
+        "name": "影缚魂",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][炼狱鬼王盔][-]触发[ffdf30][影缚魂][-]技能",
+        "use_rate": 3000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 1.5,
+                        "name": "buff",
+                        "id": 126
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "sub_rate_skill_2": 401014006,
+        "skill_icon": "50002",
+        "skill_type": 102,
+        "des": "攻击时[008E8C]30%[-]几率令敌人眩晕，持续[008E8C]1.5[-]秒\n\n[ff1313]只对玩家有效[-]",
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160003": {
+        "distance": 5,
+        "sub_rate_skill": 400100001,
+        "name": "剑追影",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][冥焰凝霜鞘][-]触发[ffdf30][剑追影][-]技能",
+        "use_rate": 5000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": -3000,
+                        "last": 2,
+                        "name": "buff",
+                        "id": 10001
+                    },
+                    {
+                        "percent": 1000,
+                        "last": 2,
+                        "name": "buff",
+                        "id": 10002
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "skill_icon": "50003",
+        "skill_type": 101,
+        "des": "攻击时[008E8C]50%[-]几率降低敌人[008E8C]30%[-]移动速度并提升所受伤害[008E8C]10%[-]，持续[008E8C]2[-]秒\n\n[ff1313]减速只对玩家有效,提升伤害对玩家和怪物都有效[-]",
+        "type": "10011",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160004": {
+        "distance": 5,
+        "sub_rate_skill": 400100003,
+        "name": "破体杀",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][极寒骷魂轮][-]触发[ffdf30][破体杀][-]技能",
+        "use_rate": 3000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3,
+                        "interval": 1,
+                        "percent": -100,
+                        "name": "buff",
+                        "id": 10004
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "skill_icon": "50004",
+        "skill_type": 103,
+        "des": "攻击时[008E8C]30%[-]几率令敌人每[008E8C]1[-]秒扣血[008E8C]1%[-]，持续[008E8C]3[-]秒\n\n[ff1313]只对玩家有效[-]",
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160005": {
+        "distance": 5,
+        "sub_rate_skill": 400100002,
+        "name": "金乌眩",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][真金龙王铠][-]触发[ffdf30][金乌眩][-]技能",
+        "use_rate": 4000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 1.5,
+                        "name": "buff",
+                        "id": 126
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "sub_rate_skill_2": 401014006,
+        "skill_icon": "50005",
+        "skill_type": 102,
+        "des": "攻击时[008E8C]40%[-]几率令敌人眩晕，持续[008E8C]1.5[-]秒\n\n[ff1313]只对玩家有效[-]",
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160006": {
+        "distance": 5,
+        "sub_rate_skill": 400100003,
+        "name": "炎火噬",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][三昧真炎鞍][-]触发[ffdf30][炎火噬][-]技能",
+        "use_rate": 4000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3,
+                        "interval": 1,
+                        "percent": -150,
+                        "name": "buff",
+                        "id": 10004
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "skill_icon": "50006",
+        "skill_type": 103,
+        "des": "攻击时[008E8C]30%[-]几率令敌人每[008E8C]1[-]秒扣血[008E8C]1.5%[-]，持续[008E8C]3[-]秒\n\n[ff1313]只对玩家有效[-]",
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400160007": {
+        "distance": 5,
+        "sub_rate_skill": 400100002,
+        "name": "失心咒",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][灭神魔王心][-]触发[ffdf30][失心咒][-]技能",
+        "use_rate": 5000,
+        "object": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 1.5,
+                        "name": "buff",
+                        "id": 126
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "sub_rate_skill_2": 401014006,
+        "skill_icon": "50007",
+        "skill_type": 102,
+        "des": "攻击时[008E8C]50%[-]几率令敌人眩晕，持续[008E8C]1.5[-]秒\n\n[ff1313]只对玩家有效[-]",
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "400060003": {
+        "distance": 5,
+        "des": "攻击时[008E8C]{1}%[-]几率降低敌人[008E8C]{2}[-]攻击，持续2秒",
+        "useLvl": 1,
+        "name": "虚弱",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][魔刃][-]触发[ffdf30][虚弱][-]技能",
+        "object": 1,
+        "aoeType": 0,
+        "word_name": "zi_11",
+        "word_atlas": "skill_word",
+        "skill_icon": "41403",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "10011",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "400060002": {
+        "distance": 5,
+        "des": "攻击时[008E8C]{1}%[-]几率降低敌人[008E8C]{2}[-]韧性，持续2秒",
+        "useLvl": 1,
+        "name": "减韧",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][魔刃][-]触发[ffdf30][减韧][-]技能",
+        "object": 1,
+        "aoeType": 0,
+        "word_name": "zi_10",
+        "word_atlas": "skill_word",
+        "skill_icon": "41402",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "10011",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "400060001": {
+        "distance": 5,
+        "des": "攻击时[008E8C]{1}%[-]几率降低敌人[008E8C]{2}[-]防御，持续2秒",
+        "useLvl": 1,
+        "name": "破甲",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][魔刃][-]触发[ffdf30][破甲][-]技能",
+        "object": 1,
+        "aoeType": 0,
+        "word_name": "zi_09",
+        "word_atlas": "skill_word",
+        "skill_icon": "41401",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "10011",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "400060004": {
+        "distance": 5,
+        "des": "攻击时[008E8C]{1}%[-]几率降低敌人[008E8C]{2}[-]暴击，持续2秒",
+        "useLvl": 1,
+        "name": "威慑",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][魔刃][-]触发[ffdf30][威慑][-]技能",
+        "object": 1,
+        "aoeType": 0,
+        "word_name": "zi_12",
+        "word_atlas": "skill_word",
+        "skill_icon": "41404",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "10011",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "401013004": {
+        "time_stop": 0,
+        "skill_icon": "3021",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001,
+            2002,
+            2003
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nv_gongji_1"
+            ],
+            [
+                "nv_gongji_2"
+            ],
+            [
+                "nv_gongji_3"
+            ],
+            [
+                "nv_gongji_4"
+            ]
+        ],
+        "angle": 270,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "value_step": [
+                            150,
+                            150,
+                            150,
+                            150
+                        ],
+                        "weaken_per": -5250,
+                        "percent_step": [
+                            10500,
+                            10500,
+                            10500,
+                            10500
+                        ],
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            0,
+            0,
+            25
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "server_type": 101,
+        "object": 4,
+        "launch_wait": 0.55000000000000004,
+        "actionEffect": [
+            "wukong_effect_attack_01",
+            "wukong_effect_attack_02",
+            "wukong_effect_attack_03",
+            "wukong_effect_attack_04"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            0.80000000000000004
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 4,
+        "name": "猴子普攻",
+        "gender": 5,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]105%[-]伤害，附带[008E8C]130[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998
+        ],
+        "db_flag": 1
+    },
+    "401013005": {
+        "des": "变身持续时间:{1}\n变身冷却时间:{2}",
+        "name": "斗战胜佛",
+        "gender": 5,
+        "skill_icon": "3025",
+        "aoeType": 6,
+        "transfer_no_release": 2,
+        "actionEffect": [
+            "411110010"
+        ],
+        "skill_type": 301,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401013006": {
+        "des": "变身期间伤害加成50%\n武林擂台中此效果无效",
+        "name": "斗·爆发",
+        "server_type": 400,
+        "gender": 5,
+        "skill_icon": "3026",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 30,
+                        "percent": 5000,
+                        "name": "buff",
+                        "id": 61003
+                    }
+                ]
+            }
+        ],
+        "del_buff": 1,
+        "skill_type": 4,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401013001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3022",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.29999999999999999
+        ],
+        "angle": 70,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 11000,
+                        "player_percent": 11000,
+                        "name": "hurt",
+                        "value": 358,
+                        "weaken_per": -5500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 8,
+        "actionEffect": [
+            "wukong_effect_skill01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "object_from_server": 2,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "当头棒喝",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]110%[-]伤害，附带[008E8C]258[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.5
+        ],
+        "db_flag": 1
+    },
+    "401013002": {
+        "time_stop": 0,
+        "skill_icon": "3023",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 9,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.80000000000000004
+        ],
+        "object_from_server": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 23000,
+                        "player_percent": 23000,
+                        "name": "hurt",
+                        "value": 874,
+                        "weaken_per": -11500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "wukong_effect_skill02"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "舞棍如飞",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]230%[-]伤害，附带[008E8C]774[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.80000000000000004
+        ],
+        "db_flag": 1
+    },
+    "401013003": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3024",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 13,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.34999999999999998,
+            0.69999999999999996,
+            1.05,
+            1.3999999999999999,
+            1.75
+        ],
+        "object_from_server": 2,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 7200,
+                        "player_percent": 7200,
+                        "name": "hurt",
+                        "value": 735,
+                        "weaken_per": -3600
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 20,
+        "actionEffect": [
+            "wukong_effect_skill03"
+        ],
+        "can_move": 1,
+        "action_time": [
+            2
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "灵明石猴",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]360%[-]伤害，附带[008E8C]1950[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.5
+        ],
+        "db_flag": 1
+    },
+    "400130004": {
+        "des": "永久提升角色[008E8C]{1}%[-]伤害加深",
+        "name": "噬血",
+        "server_type": 300,
+        "skill_icon": "41504",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400130001": {
+        "des": "每次角色攻击，额外造成[008E8C]{1}[-]点无视防御伤害",
+        "name": "穿刺",
+        "server_type": 300,
+        "skill_icon": "41501",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400130003": {
+        "des": "永久提升角色[008E8C]{1}[-]点攻击，对血量低于[008E8C]30%[-]玩家，伤害加成提升[008E8C]{2}%[-]",
+        "name": "狂击",
+        "server_type": 300,
+        "skill_icon": "41503",
+        "aoeType": 5,
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400130002": {
+        "des": "永久提升角色[008E8C]{1}[-]点暴击，对血量低于[008E8C]30%[-]玩家，暴击伤害提升[008E8C]{2}%[-]",
+        "name": "爆杀",
+        "server_type": 300,
+        "skill_icon": "41502",
+        "aoeType": 5,
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "401015002": {
+        "time_stop": 0,
+        "skill_icon": "3043",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 9,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.80000000000000004
+        ],
+        "object_from_server": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 23000,
+                        "player_percent": 23000,
+                        "name": "hurt",
+                        "value": 874,
+                        "weaken_per": -11500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "lvbu_effect_skill_02"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "旋魔当空",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]230%[-]伤害，附带[008E8C]774[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.80000000000000004
+        ],
+        "db_flag": 1
+    },
+    "401015003": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3044",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 13,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.34999999999999998,
+            0.75,
+            1.1499999999999999,
+            1.55,
+            1.95,
+            2.3500000000000001
+        ],
+        "object_from_server": 2,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 6000,
+                        "player_percent": 6000,
+                        "name": "hurt",
+                        "value": 735,
+                        "weaken_per": -3600
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 20,
+        "actionEffect": [
+            "lvbu_effect_skill_03"
+        ],
+        "can_move": 0,
+        "action_time": [
+            2.3999999999999999
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "灭神图灵",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]360%[-]伤害，附带[008E8C]1950[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.5
+        ],
+        "db_flag": 1
+    },
+    "401015001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3042",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.29999999999999999
+        ],
+        "angle": 70,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 11000,
+                        "player_percent": 11000,
+                        "name": "hurt",
+                        "value": 358,
+                        "weaken_per": -5500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 8,
+        "actionEffect": [
+            "lvbu_effect_skill_01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "object_from_server": 2,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "魔威盖世",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]110%[-]伤害，附带[008E8C]258[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.5
+        ],
+        "db_flag": 1
+    },
+    "401015006": {
+        "des": "变身期间攻击加成10%\n攻击时[008E8C]10%[-]几率造成敌人[008E8C]1.5[-]秒眩晕\n眩晕几率可与古宝技能叠加",
+        "skill_icon": "3046",
+        "name": "被动眩晕",
+        "server_type": 400,
+        "gender": 5,
+        "use_rate": 1000,
+        "sub_rate_skill": 400100002,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 1.5,
+                        "name": "buff",
+                        "id": 126
+                    },
+                    {
+                        "last": 10000,
+                        "percent": 1000,
+                        "name": "buff",
+                        "id": 61005
+                    }
+                ]
+            }
+        ],
+        "del_buff": 1,
+        "sub_rate_skill_2": 401014006,
+        "db_flag": 1,
+        "skill_type": 4,
+        "level_type": 5,
+        "type": "1",
+        "passive_trigger": 1,
+        "cool": 8.0
+    },
+    "401015004": {
+        "time_stop": 0,
+        "skill_icon": "3041",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001,
+            2002,
+            2003
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nv_gongji_1"
+            ],
+            [
+                "nv_gongji_2"
+            ],
+            [
+                "nv_gongji_3"
+            ],
+            [
+                "nv_gongji_4"
+            ]
+        ],
+        "angle": 270,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "value_step": [
+                            150,
+                            150,
+                            150,
+                            150
+                        ],
+                        "weaken_per": -5250,
+                        "percent_step": [
+                            10500,
+                            10500,
+                            10500,
+                            10500
+                        ],
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            0,
+            0,
+            25
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "server_type": 101,
+        "object": 4,
+        "launch_wait": 0.55000000000000004,
+        "actionEffect": [
+            "lvbu_effect_attack_01",
+            "lvbu_effect_attack_02",
+            "lvbu_effect_attack_03",
+            "lvbu_effect_attack_04"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            0.80000000000000004
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 4,
+        "name": "吕布普攻",
+        "gender": 5,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]105%[-]伤害，附带[008E8C]130[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998
+        ],
+        "db_flag": 1
+    },
+    "401015005": {
+        "des": "变身持续时间:{1}\n变身冷却时间:{2}",
+        "name": "魔神降世",
+        "gender": 5,
+        "skill_icon": "3045",
+        "aoeType": 6,
+        "transfer_no_release": 2,
+        "actionEffect": [
+            "411110010"
+        ],
+        "skill_type": 301,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "400150002": {
+        "des": "10秒内，受到伤害减免99%",
+        "skill_icon": "400150002",
+        "name": "无双护盾",
+        "server_type": 100,
+        "db_flag": 1,
+        "object": 1,
+        "launch_wait": 0.29999999999999999,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10,
+                        "percent": 9900,
+                        "name": "buff",
+                        "id": 20003
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "skill_type": 200,
+        "useLvl": 1,
+        "type": "001",
+        "cool": 480.0
+    },
+    "400150001": {
+        "distance": 8,
+        "des": "对敌方造成其最大血量30%的伤害",
+        "skill_icon": "400150001",
+        "name": "死亡一击",
+        "server_type": 100,
+        "db_flag": 1,
+        "object": 1,
+        "launch_wait": 0.29999999999999999,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": -3000,
+                        "name": "direct_max_blood"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "skill_type": 200,
+        "useLvl": 1,
+        "type": "1",
+        "cool": 90.0
+    },
+    "400030019": {
+        "boss_skill_word": "轮回鬼手，敢在红色区域试试！",
+        "name": "鬼缠",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 20035,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030018": {
+        "boss_skill_word": "笨重金钟，敢在红色区域试试！",
+        "name": "金钟",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 20034,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030015": {
+        "boss_skill_word": "水龙狂卷，敢在红色区域试试！",
+        "name": "水龙卷",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 20031,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030017": {
+        "boss_skill_word": "寒冰尖刺，敢在红色区域试试！",
+        "name": "冰刺",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 20033,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030016": {
+        "boss_skill_word": "火龙狂卷，敢在红色区域试试！",
+        "name": "火龙卷",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 20032,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030011": {
+        "boss_skill_word": "嗜血奔腾！",
+        "name": "嗜血奔腾",
+        "server_type": 200,
+        "show_lunjian_tip": 1,
+        "launch_wait": 3.0,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3,
+                        "interval": 1,
+                        "percent": -1000,
+                        "name": "buff",
+                        "id": 20021
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 5.0
+    },
+    "400030010": {
+        "boss_skill_word": "大地重击！",
+        "name": "大地重击",
+        "server_type": 200,
+        "show_lunjian_tip": 1,
+        "launch_wait": 3.0,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 8,
+                        "name": "buff",
+                        "id": 20020
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 5.0
+    },
+    "400070002": {
+        "everyHurtEffect": [
+            "lc_skill_zhiyu"
+        ],
+        "des": "每[008E8C]30[-]秒为主人回复最大血量的[008E8C]{1}[-]",
+        "name": "治愈",
+        "fly_word": "[c2e9fc][仙童][-]触发[ffdf30][治愈][-]技能",
+        "skill_icon": "41301",
+        "word_name": "zi_16",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1,
+        "cool": 30.0
+    },
+    "400070003": {
+        "skill_icon": "41302",
+        "name": "赐福",
+        "des": "提升仙童对敌人伤害的[008E8C]{1}[-]",
+        "word_name": "zi_17",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400070001": {
+        "distance": 12,
+        "max_step": 1,
+        "name": "射箭",
+        "server_type": 101,
+        "object": 1,
+        "launch_wait": 0.29999999999999999,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "time_stop": 0,
+        "actionEffect": [
+            "LC_0{1}_Attack"
+        ],
+        "can_move": 0,
+        "action_time": [
+            1.2
+        ],
+        "actions": [
+            2000
+        ],
+        "skill_icon": "8101",
+        "skill_type": 201,
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "des": "对[008E8C]1[-]个敌人造成大量伤害，受仙童阶级影响",
+        "type": "10011",
+        "last_time": [
+            1.3999999999999999
+        ]
+    },
+    "400070004": {
+        "des": "仙童攻击时，有[008E8C]{1}[-]几率造成狂暴，5秒内必定暴击",
+        "skill_icon": "41303",
+        "name": "狂怒",
+        "server_type": 100,
+        "fly_word": "[c2e9fc][仙童][-]触发[ffdf30][狂怒][-]技能",
+        "object": 1,
+        "aoeType": 6,
+        "word_name": "zi_18",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "10011",
+        "cool": 10.0
+    },
+    "400070005": {
+        "distance": 5,
+        "des": "仙童攻击时，[008E8C]{1}%[-]触发火雷，对目标区域造成[008E8C]{2}%[-]伤害",
+        "skill_icon": "41304",
+        "name": "群爆",
+        "server_type": 100,
+        "targetEffect": [
+            "lc_skill_qunbao"
+        ],
+        "fly_word": "[c2e9fc][仙童][-]触发[ffdf30][群爆][-]技能",
+        "object": 8,
+        "aoeType": 1,
+        "word_name": "zi_24",
+        "radius": 8,
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "10011",
+        "cool": 5.0
+    },
+    "400030008": {
+        "boss_skill_word": "弱点冲击！",
+        "name": "弱点冲击",
+        "server_type": 200,
+        "show_lunjian_tip": 1,
+        "launch_wait": 3.0,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 8,
+                        "name": "buff",
+                        "value": 10000,
+                        "id": 20017
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400030009": {
+        "boss_skill_word": "恶魔狂怒！",
+        "name": "恶魔狂怒",
+        "server_type": 200,
+        "show_lunjian_tip": 1,
+        "launch_wait": 3.0,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 8,
+                        "name": "crazy_angry"
+                    },
+                    {
+                        "last": 8,
+                        "name": "buff",
+                        "value": 10000,
+                        "id": 20019
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400030006": {
+        "boss_skill_word": "神之力量！",
+        "name": "神之力量",
+        "server_type": 200,
+        "show_lunjian_tip": 1,
+        "launch_wait": 3.0,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 8,
+                        "percent": 5000,
+                        "name": "buff",
+                        "id": 20015
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400030007": {
+        "boss_skill_word": "战争护盾！",
+        "name": "战争护盾",
+        "server_type": 200,
+        "show_lunjian_tip": 1,
+        "launch_wait": 3.0,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "per_value": 1000,
+                        "last": 10,
+                        "name": "life_shield",
+                        "value": 30000,
+                        "id": 20016
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400030004": {
+        "boss_skill_word": "冰天雪地，哪里逃！",
+        "name": "怪物冰封",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 4,
+                        "name": "ice_inside",
+                        "client_buff": 130,
+                        "blood_percent": -1500,
+                        "hurt_start": 3,
+                        "rect": [
+                            2100,
+                            1582
+                        ],
+                        "center": [
+                            [
+                                935,
+                                2202
+                            ],
+                            [
+                                1851,
+                                2202
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030005": {
+        "boss_skill_word": "致命冰川，敢在红色区域试试！",
+        "name": "怪物剑落",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 131,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030002": {
+        "distance": 8,
+        "name": "怪物远程普攻",
+        "server_type": 101,
+        "object": 1,
+        "launch_wait": 0.40000000000000002,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "action_time": [
+            0.20000000000000001
+        ],
+        "actions": [
+            2
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "type": "1001",
+        "last_time": [
+            0.40000000000000002
+        ],
+        "cool": 0.10000000000000001
+    },
+    "400120001": {
+        "skill_icon": "42001",
+        "name": "减暴",
+        "fly_word": "[c2e9fc][仙翼][-]触发[ffdf30][减暴][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，受到暴击伤害减少[008E8C]{2}[-]点",
+        "aoeType": 5,
+        "word_name": "zi_32",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400120002": {
+        "skill_icon": "42002",
+        "name": "降暴",
+        "fly_word": "[c2e9fc][仙翼][-]触发[ffdf30][降暴][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，受到暴击伤害减少[008E8C]{2}%[-]",
+        "aoeType": 5,
+        "word_name": "zi_31",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400120003": {
+        "skill_icon": "42003",
+        "name": "减伤",
+        "fly_word": "[c2e9fc][仙翼][-]触发[ffdf30][减伤][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，提升角色[008E8C]{2}%[-]伤害减免",
+        "aoeType": 5,
+        "word_name": "zi_37",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400012004": {
+        "time_stop": 0,
+        "skill_icon": "2000",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nv_gongji_1"
+            ],
+            [
+                "nv_gongji_2"
+            ],
+            [
+                "nv_gongji_3"
+            ],
+            [
+                "nv_gongji_4"
+            ],
+            [
+                "nv_gongji_5"
+            ],
+            [
+                "nv_gongji_6"
+            ],
+            [
+                "nv_gongji_7"
+            ],
+            [
+                "nv_gongji_8"
+            ]
+        ],
+        "angle": 270,
+        "skill_icon_ui": "2000_ui",
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            25
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "server_type": 101,
+        "default_skill": 1,
+        "object": 4,
+        "launch_wait": 0.25,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "attack10",
+            "attack11",
+            "attack12",
+            "attack13",
+            "attack14",
+            "attack15",
+            "attack16",
+            "attack17"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.53000000000000003,
+            0.45000000000000001,
+            0.57999999999999996,
+            0.64000000000000001,
+            0.56999999999999995,
+            0.63,
+            0.62,
+            0.59999999999999998
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 8,
+        "name": "女普通攻击",
+        "check_flag": 1,
+        "gender": 2,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.45000000000000001,
+            0.38,
+            0.47999999999999998,
+            0.55000000000000004,
+            0.46999999999999997,
+            0.52000000000000002,
+            0.52000000000000002,
+            0.5
+        ]
+    },
+    "400012002": {
+        "time_stop": 0,
+        "skill_icon": "2012",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.40000000000000002
+        ],
+        "angle": 70,
+        "aoeType": 3,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "default_skill": 1,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "skill12"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "object_from_server": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "真·冰凤鸣",
+        "check_flag": 1,
+        "gender": 2,
+        "sounds": [
+            [
+                "nv_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.42999999999999999
+        ]
+    },
+    "400012003": {
+        "loop_fixed_point": 1,
+        "time_stop": 0,
+        "skill_icon": "2011",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 12,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            1.0,
+            1.3999999999999999,
+            1.8
+        ],
+        "object_from_server": 2,
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "default_skill": 1,
+        "object": 20,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "skill13"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "万化归一",
+        "check_flag": 1,
+        "gender": 2,
+        "sounds": [
+            [
+                "nv_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            1.03
+        ]
+    },
+    "400012001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "2010",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "height": 16,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.33000000000000002
+        ],
+        "object_from_server": 2,
+        "aoeType": 4,
+        "width": 6,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 1,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "default_skill": 1,
+        "object": 8,
+        "transfer_no_release": 1,
+        "actionEffect": [
+            "skill11"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "真·寒冰刺",
+        "check_flag": 1,
+        "gender": 2,
+        "sounds": [
+            [
+                "nv_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]{1}[-]伤害，附带[008E8C]{2}[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.34999999999999998
+        ]
+    },
+    "400140002": {
+        "skill_icon": "41602",
+        "name": "刚毅",
+        "fly_word": "[c2e9fc][元神][-]触发[ffdf30][刚毅][-]技能",
+        "des": "护盾消失时，提升角色[008E8C]{1}[-]点防御，持续[008E8C]3[-]秒",
+        "word_name": "zi_26",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400140003": {
+        "skill_icon": "41601",
+        "name": "灵动",
+        "fly_word": "[c2e9fc][元神][-]触发[ffdf30][灵动][-]技能",
+        "des": "护盾消失时，提升角色[008E8C]{1}[-]点闪避，持续[008E8C]3[-]秒",
+        "word_name": "zi_27",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400140001": {
+        "des": "血量低于[008E8C]30%[-]时生成一个持续[008E8C]3[-]秒的护盾，护盾生命上限[008E8C]{1}[-]，该被动技能cd为[008E8C]60[-]秒，不能抵挡战场技能伤害",
+        "name": "霸体",
+        "fly_word": "[c2e9fc][元神][-]触发[ffdf30][霸体][-]技能",
+        "skill_icon": "41604",
+        "aoeType": 5,
+        "word_name": "zi_25",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1,
+        "cool": 60.0
+    },
+    "400140004": {
+        "skill_icon": "41603",
+        "name": "复苏",
+        "fly_word": "[c2e9fc][元神][-]触发[ffdf30][复苏][-]技能",
+        "des": "护盾消失时，为玩家恢复护盾最大值的[008E8C]{1}%[-]生命值",
+        "word_name": "zi_28",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400100004": {
+        "skill_icon": "41804",
+        "name": "不屈",
+        "fly_word": "[c2e9fc][仙武][-]触发[ffdf30][不屈][-]技能",
+        "des": "受到减速、眩晕、流血时，自身防御增加[008E8C]{1}[-]，持续2秒",
+        "word_name": "zi_33",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400100002": {
+        "skill_icon": "41801",
+        "level_type": 1,
+        "des": "战斗中，有[008E8C]{1}%[-]几率免疫眩晕",
+        "name": "清心",
+        "word_atlas": "skill_word"
+    },
+    "400100003": {
+        "skill_icon": "41802",
+        "level_type": 1,
+        "des": "战斗中，有[008E8C]{1}%[-]几率免疫流血",
+        "name": "止血",
+        "word_atlas": "skill_word"
+    },
+    "400100001": {
+        "skill_icon": "41803",
+        "level_type": 1,
+        "des": "战斗中，有[008E8C]{1}%[-]几率免疫减速",
+        "name": "轻灵",
+        "word_atlas": "skill_word"
+    },
+    "400080004": {
+        "des": "攻击时[008E8C]{1}%[-]几率提升自己[008E8C]{2}[-]暴击，持续2秒",
+        "useLvl": 1,
+        "object_from_server": 1,
+        "name": "狂暴",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][神翼][-]触发[ffdf30][狂暴][-]技能",
+        "object": 1,
+        "aoeType": 6,
+        "word_name": "zi_08",
+        "word_atlas": "skill_word",
+        "skill_icon": "41104",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "001",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "400080001": {
+        "des": "攻击时[008E8C]{1}%[-]几率提升自己[008E8C]{2}[-]防御，持续2秒",
+        "useLvl": 1,
+        "object_from_server": 1,
+        "name": "守护",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][神翼][-]触发[ffdf30][守护][-]技能",
+        "object": 1,
+        "aoeType": 6,
+        "word_name": "zi_05",
+        "word_atlas": "skill_word",
+        "skill_icon": "41101",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "001",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "400080003": {
+        "des": "攻击时[008E8C]{1}%[-]几率提升自己[008E8C]{2}[-]攻击，持续2秒",
+        "useLvl": 1,
+        "object_from_server": 1,
+        "name": "强击",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][神翼][-]触发[ffdf30][强击][-]技能",
+        "object": 1,
+        "aoeType": 6,
+        "word_name": "zi_07",
+        "word_atlas": "skill_word",
+        "skill_icon": "41103",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "001",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "400080002": {
+        "des": "攻击时[008E8C]{1}%[-]几率提升自己[008E8C]{2}[-]韧性，持续2秒",
+        "useLvl": 1,
+        "object_from_server": 1,
+        "name": "坚韧",
+        "server_type": 200,
+        "fly_word": "[c2e9fc][神翼][-]触发[ffdf30][坚韧][-]技能",
+        "object": 1,
+        "aoeType": 6,
+        "word_name": "zi_06",
+        "word_atlas": "skill_word",
+        "skill_icon": "41102",
+        "skill_type": 201,
+        "level_type": 1,
+        "type": "001",
+        "passive_trigger": 1,
+        "cool": 7.0
+    },
+    "401011006": {
+        "des": "变身期间攻击加成10%",
+        "name": "战·无敌",
+        "server_type": 400,
+        "gender": 5,
+        "skill_icon": "3006",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10000,
+                        "percent": 1000,
+                        "name": "buff",
+                        "id": 61001
+                    }
+                ]
+            }
+        ],
+        "del_buff": 1,
+        "skill_type": 4,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401011004": {
+        "time_stop": 0,
+        "skill_icon": "3001",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nan_gongji_1"
+            ],
+            [
+                "nan_gongji_2"
+            ],
+            [
+                "nan_gongji_3"
+            ],
+            [
+                "nan_gongji_4"
+            ],
+            [
+                "nan_gongji_5"
+            ],
+            [
+                "nan_gongji_6"
+            ],
+            [
+                "nan_gongji_7"
+            ],
+            [
+                "nan_gongji_8"
+            ]
+        ],
+        "angle": 270,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "value_step": [
+                            150,
+                            150,
+                            150,
+                            150,
+                            150,
+                            150,
+                            150,
+                            150
+                        ],
+                        "weaken_per": -5250,
+                        "percent_step": [
+                            10500,
+                            10500,
+                            10500,
+                            10500,
+                            10500,
+                            10500,
+                            10500,
+                            10500
+                        ],
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            25
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "server_type": 101,
+        "object": 4,
+        "launch_wait": 0.25,
+        "actionEffect": [
+            "attack00",
+            "attack01",
+            "attack02",
+            "attack03",
+            "attack04",
+            "attack05",
+            "attack06",
+            "attack07"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.53000000000000003,
+            0.45000000000000001,
+            0.57999999999999996,
+            0.64000000000000001,
+            0.56999999999999995,
+            0.63,
+            0.62,
+            0.59999999999999998
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 8,
+        "name": "变身1普攻",
+        "gender": 5,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]105%[-]伤害，附带[008E8C]130[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.45000000000000001,
+            0.38,
+            0.47999999999999998,
+            0.55000000000000004,
+            0.46999999999999997,
+            0.52000000000000002,
+            0.52000000000000002,
+            0.5
+        ],
+        "db_flag": 1
+    },
+    "401011005": {
+        "des": "变身持续时间:{1}\n变身冷却时间:{2}",
+        "name": "常胜将军",
+        "gender": 5,
+        "skill_icon": "3005",
+        "aoeType": 6,
+        "transfer_no_release": 2,
+        "actionEffect": [
+            "411110010"
+        ],
+        "skill_type": 301,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401011002": {
+        "time_stop": 0,
+        "skill_icon": "3003",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.40000000000000002
+        ],
+        "angle": 70,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 23000,
+                        "player_percent": 23000,
+                        "name": "hurt",
+                        "value": 874,
+                        "weaken_per": -11500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "skill02"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "object_from_server": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "万焰剑",
+        "gender": 5,
+        "sounds": [
+            [
+                "nan_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]230%[-]伤害，附带[008E8C]774[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.42999999999999999
+        ],
+        "db_flag": 1
+    },
+    "401011003": {
+        "loop_fixed_point": 1,
+        "time_stop": 0,
+        "skill_icon": "3004",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 12,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "targetEffect": [
+            "skill03_02"
+        ],
+        "last_time": [
+            1.0,
+            1.3999999999999999,
+            1.8
+        ],
+        "object_from_server": 2,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 12000,
+                        "player_percent": 12000,
+                        "name": "hurt",
+                        "value": 735,
+                        "weaken_per": -6000
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 20,
+        "actionEffect": [
+            "skill03_01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "焰冲云霄",
+        "gender": 5,
+        "sounds": [
+            [
+                "nan_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]360%[-]伤害，附带[008E8C]1950[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            1.03
+        ],
+        "db_flag": 1
+    },
+    "401011001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3002",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "height": 16,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.33000000000000002
+        ],
+        "object_from_server": 2,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 11000,
+                        "player_percent": 11000,
+                        "name": "hurt",
+                        "value": 358,
+                        "weaken_per": -5500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 4,
+        "width": 6,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 8,
+        "actionEffect": [
+            "skill01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "火焰斩",
+        "gender": 5,
+        "sounds": [
+            [
+                "nan_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]110%[-]伤害，附带[008E8C]258[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.34999999999999998
+        ],
+        "db_flag": 1
+    },
+    "400030020": {
+        "boss_skill_word": "雷庭一闪，敢在红色区域试试！",
+        "name": "闪电",
+        "no_object_limit": 1,
+        "server_type": 200,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3.5,
+                        "name": "jian_drop",
+                        "coord": [
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ],
+                            [
+                                [
+                                    4,
+                                    90
+                                ],
+                                [
+                                    4,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    0
+                                ],
+                                [
+                                    14,
+                                    0
+                                ],
+                                [
+                                    18,
+                                    0
+                                ],
+                                [
+                                    10,
+                                    60
+                                ],
+                                [
+                                    10,
+                                    -60
+                                ]
+                            ],
+                            [
+                                [
+                                    6,
+                                    154
+                                ],
+                                [
+                                    6,
+                                    -154
+                                ],
+                                [
+                                    3,
+                                    180
+                                ],
+                                [
+                                    3,
+                                    90
+                                ],
+                                [
+                                    3,
+                                    -90
+                                ],
+                                [
+                                    6,
+                                    26
+                                ],
+                                [
+                                    6,
+                                    -26
+                                ],
+                                [
+                                    12,
+                                    14
+                                ],
+                                [
+                                    12,
+                                    -14
+                                ],
+                                [
+                                    18,
+                                    9
+                                ],
+                                [
+                                    18,
+                                    -9
+                                ],
+                                [
+                                    24,
+                                    7
+                                ],
+                                [
+                                    24,
+                                    -7
+                                ],
+                                [
+                                    30,
+                                    5
+                                ],
+                                [
+                                    30,
+                                    -5
+                                ]
+                            ]
+                        ],
+                        "client_buff": 20036,
+                        "r": 3,
+                        "blood_percent": -2000,
+                        "hurt_start": 3
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "type": "1",
+        "cool": 1.0
+    },
+    "400030021": {
+        "distance": 16,
+        "everyHurtEffect": [
+            "FQ_lighting01_hit"
+        ],
+        "max_step": 1,
+        "name": "防御塔普攻",
+        "server_type": 101,
+        "everyEffect": [
+            "FQ_lighting01"
+        ],
+        "object": 1,
+        "launch_wait": 0.29999999999999999,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "actionEffect": [
+            "FQ_lighting01_hit"
+        ],
+        "action_time": [
+            1.2
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "type": "1",
+        "last_time": [
+            1.3999999999999999
+        ]
+    },
+    "400030022": {
+        "time_stop": 0,
+        "skill_icon": "1000",
+        "pos": 0,
+        "actions": [
+            2
+        ],
+        "radius": 20,
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            1.3999999999999999
+        ],
+        "skill_icon_ui": "1000_ui",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "type": "10011",
+        "server_type": 101,
+        "object": 1,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "FIGHT_nujian"
+        ],
+        "can_move": 0,
+        "action_time": [
+            1.2
+        ],
+        "skill_type": 5,
+        "distance": 20,
+        "max_step": 1,
+        "name": "弩车普攻",
+        "db_flag": 1
+    },
+    "400030023": {
+        "time_stop": 0,
+        "skill_icon": "1000",
+        "pos": 0,
+        "actions": [
+            2
+        ],
+        "radius": 20,
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            1.3999999999999999
+        ],
+        "skill_icon_ui": "1000_ui",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "type": "10011",
+        "server_type": 101,
+        "object": 1,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "FIGHT_fireBall"
+        ],
+        "can_move": 0,
+        "action_time": [
+            1.2
+        ],
+        "skill_type": 5,
+        "distance": 20,
+        "max_step": 1,
+        "name": "投石车普攻",
+        "db_flag": 1
+    },
+    "400170005": {
+        "max_times": 1,
+        "name": "生命护盾",
+        "server_type": 100,
+        "skill_icon": "60005",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "per_value": 2000,
+                        "last": 10,
+                        "name": "life_shield",
+                        "value": 10000,
+                        "id": 20010
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "type": "001",
+        "cool": 5.0
+    },
+    "400120004": {
+        "des": "永久提升角色[008E8C]{1}%[-]伤害减免",
+        "name": "金身",
+        "server_type": 300,
+        "skill_icon": "42004",
+        "word_atlas": "skill_word",
+        "level_type": 1
+    },
+    "400030003": {
+        "distance": 5,
+        "name": "怪物护罩",
+        "server_type": 100,
+        "object": 1,
+        "aoeType": 6,
+        "type": "001",
+        "cool": 10.0
+    },
+    "401180002": {
+        "name": "城池战弃车",
+        "server_type": 100,
+        "gender": 5,
+        "skill_icon": "401180002",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "name": "quit_region_transfer"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 6,
+        "db_flag": 1,
+        "skill_type": 301,
+        "type": "001",
+        "cool": 1.0
+    },
+    "401180001": {
+        "word_name": "zi_19",
+        "name": "城池战护盾",
+        "server_type": 100,
+        "gender": 5,
+        "skill_icon": "401180001",
+        "pos": 1,
+        "aoeType": 6,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 3,
+                        "percent": 9900,
+                        "name": "buff",
+                        "id": 20022
+                    }
+                ]
+            }
+        ],
+        "db_flag": 1,
+        "word_atlas": "skill_word",
+        "skill_type": 1,
+        "type": "001",
+        "cool": 20.0
+    },
+    "400030001": {
+        "distance": 5,
+        "name": "怪物近程普攻",
+        "server_type": 101,
+        "object": 1,
+        "launch_wait": 0.40000000000000002,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 0,
+        "action_time": [
+            0.20000000000000001
+        ],
+        "actions": [
+            2
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "type": "1001",
+        "last_time": [
+            0.40000000000000002
+        ],
+        "cool": 0.10000000000000001
+    },
+    "400090004": {
+        "skill_icon": "41203",
+        "name": "灵巧",
+        "fly_word": "[c2e9fc][宝器][-]触发[ffdf30][灵巧][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，提升自己[008E8C]{2}[-]闪避",
+        "aoeType": 5,
+        "word_name": "zi_21",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400090005": {
+        "skill_icon": "41204",
+        "name": "聚力",
+        "fly_word": "[c2e9fc][宝器][-]触发[ffdf30][聚力][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，提升自己[008E8C]{2}[-]攻击",
+        "aoeType": 5,
+        "word_name": "zi_22",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400090001": {
+        "distance": 12,
+        "everyHurtEffect": [
+            "FQ_lighting0{1}_hit"
+        ],
+        "max_step": 1,
+        "name": "闪电",
+        "server_type": 101,
+        "everyEffect": [
+            "FQ_lighting0{1}"
+        ],
+        "object": 5,
+        "launch_wait": 0.29999999999999999,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "percent": 10000,
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 1,
+        "actionEffect": [
+            "FQ_lighting0{1}_hit"
+        ],
+        "action_time": [
+            1.2
+        ],
+        "radius": 7,
+        "skill_icon": "8001",
+        "des": "对[008E8C]5[-]个敌人造成大量伤害，受宝器阶级影响",
+        "type": "10011",
+        "last_time": [
+            1.3999999999999999
+        ]
+    },
+    "400090002": {
+        "skill_icon": "41201",
+        "name": "护盾",
+        "fly_word": "[c2e9fc][宝器][-]触发[ffdf30][护盾][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，提升自己[008E8C]{2}[-]防御",
+        "aoeType": 5,
+        "word_name": "zi_19",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "400090003": {
+        "skill_icon": "41202",
+        "name": "护体",
+        "fly_word": "[c2e9fc][宝器][-]触发[ffdf30][护体][-]技能",
+        "des": "血量低于[008E8C]{1}%[-]时，提升自己[008E8C]{2}[-]韧性",
+        "aoeType": 5,
+        "word_name": "zi_20",
+        "word_atlas": "skill_word",
+        "skill_type": 201,
+        "level_type": 1
+    },
+    "401012003": {
+        "loop_fixed_point": 1,
+        "time_stop": 0,
+        "skill_icon": "3014",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 13,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.67000000000000004,
+            0.81999999999999995,
+            0.98999999999999999
+        ],
+        "object_from_server": 2,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 12000,
+                        "player_percent": 12000,
+                        "name": "hurt",
+                        "value": 735,
+                        "weaken_per": -6000
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 20,
+        "actionEffect": [
+            "411110012"
+        ],
+        "can_move": 0,
+        "action_time": [
+            1
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "一夫当关",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]360%[-]伤害，附带[008E8C]1950[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.69999999999999996
+        ],
+        "db_flag": 1
+    },
+    "401012002": {
+        "time_stop": 0,
+        "skill_icon": "3013",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 9,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.29999999999999999
+        ],
+        "object_from_server": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 23000,
+                        "player_percent": 23000,
+                        "name": "hurt",
+                        "value": 874,
+                        "weaken_per": -11500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "411110013"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.67000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "坠星枪法",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]230%[-]伤害，附带[008E8C]774[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.29999999999999999
+        ],
+        "db_flag": 1
+    },
+    "401012001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3012",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.40000000000000002
+        ],
+        "angle": 70,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 11000,
+                        "player_percent": 11000,
+                        "name": "hurt",
+                        "value": 358,
+                        "weaken_per": -5500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 8,
+        "actionEffect": [
+            "411110011"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.82999999999999996
+        ],
+        "skill_type": 1,
+        "object_from_server": 2,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "回马三枪",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]110%[-]伤害，附带[008E8C]258[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.40000000000000002
+        ],
+        "db_flag": 1
+    },
+    "401012006": {
+        "des": "变身期间打怪经验增加100%",
+        "name": "武神·增益",
+        "server_type": 400,
+        "gender": 5,
+        "skill_icon": "3016",
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "last": 10000,
+                        "percent": 10000,
+                        "name": "buff",
+                        "id": 61002
+                    }
+                ]
+            }
+        ],
+        "del_buff": 1,
+        "skill_type": 4,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401012005": {
+        "des": "变身持续时间:{1}\n变身冷却时间:{2}",
+        "name": "武神临凡",
+        "gender": 5,
+        "skill_icon": "3015",
+        "aoeType": 6,
+        "transfer_no_release": 2,
+        "actionEffect": [
+            "411110010"
+        ],
+        "skill_type": 301,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401012004": {
+        "time_stop": 0,
+        "skill_icon": "3011",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nv_gongji_1"
+            ],
+            [
+                "nv_gongji_2"
+            ]
+        ],
+        "angle": 270,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "value_step": [
+                            150,
+                            150
+                        ],
+                        "weaken_per": -5250,
+                        "percent_step": [
+                            10500,
+                            10500
+                        ],
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            25
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "server_type": 101,
+        "object": 4,
+        "launch_wait": 0.20000000000000001,
+        "actionEffect": [
+            "transform1_a1",
+            "transform2_a1"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.77000000000000002,
+            0.29999999999999999
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 2,
+        "name": "赵云普攻",
+        "gender": 5,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]105%[-]伤害，附带[008E8C]130[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.75,
+            0.29999999999999999
+        ],
+        "db_flag": 1
+    },
+    "401014001": {
+        "loop_fixed_point": 1,
+        "time_stop": 1,
+        "skill_icon": "3032",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 1,
+        "actions": [
+            2008
+        ],
+        "radius": 17,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.40000000000000002
+        ],
+        "angle": 70,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 11000,
+                        "player_percent": 11000,
+                        "name": "hurt",
+                        "value": 358,
+                        "weaken_per": -5500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            45
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 8,
+        "actionEffect": [
+            "guanyu_effect_skill_01"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "object_from_server": 2,
+        "useLvl": 4,
+        "is_loop": 1,
+        "cool": 3.0,
+        "distance": 5,
+        "name": "青龙斩",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_1"
+            ]
+        ],
+        "des": "对[008E8C]8个[-]目标造成[008E8C]110%[-]伤害，附带[008E8C]258[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.40000000000000002
+        ],
+        "db_flag": 1
+    },
+    "401014003": {
+        "loop_fixed_point": 1,
+        "time_stop": 0,
+        "skill_icon": "3034",
+        "shake_time": [
+            0.14999999999999999
+        ],
+        "pos": 3,
+        "actions": [
+            2010
+        ],
+        "radius": 13,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.67000000000000004,
+            0.81999999999999995,
+            0.98999999999999999
+        ],
+        "object_from_server": 2,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 12000,
+                        "player_percent": 12000,
+                        "name": "hurt",
+                        "value": 735,
+                        "weaken_per": -6000
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            55
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 20,
+        "actionEffect": [
+            "guanyu_effect_skill_03"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.82999999999999996
+        ],
+        "skill_type": 1,
+        "useLvl": 11,
+        "is_loop": 1,
+        "cool": 10.0,
+        "distance": 5,
+        "name": "伏龙翔天",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_3"
+            ]
+        ],
+        "des": "对[008E8C]20个[-]目标造成[008E8C]360%[-]伤害，附带[008E8C]1950[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.69999999999999996
+        ],
+        "db_flag": 1
+    },
+    "401014002": {
+        "time_stop": 0,
+        "skill_icon": "3033",
+        "shake_time": [
+            0.10000000000000001
+        ],
+        "pos": 2,
+        "actions": [
+            2009
+        ],
+        "radius": 9,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01"
+        ],
+        "last_time": [
+            0.29999999999999999
+        ],
+        "object_from_server": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "ai_percent": 23000,
+                        "player_percent": 23000,
+                        "name": "hurt",
+                        "value": 874,
+                        "weaken_per": -11500
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "shake_gapPos": [
+            35
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "no_object_limit": 1,
+        "server_type": 100,
+        "object": 15,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "guanyu_effect_skill_02"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.80000000000000004
+        ],
+        "skill_type": 1,
+        "useLvl": 7,
+        "cool": 6.0,
+        "distance": 5,
+        "name": "武圣之力",
+        "gender": 5,
+        "sounds": [
+            [
+                "nv_jineng_2"
+            ]
+        ],
+        "des": "对[008E8C]15个[-]目标造成[008E8C]230%[-]伤害，附带[008E8C]774[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.29999999999999999
+        ],
+        "db_flag": 1
+    },
+    "401014005": {
+        "des": "变身持续时间:{1}\n变身冷却时间:{2}",
+        "name": "汉寿亭侯",
+        "gender": 5,
+        "skill_icon": "3035",
+        "aoeType": 6,
+        "transfer_no_release": 2,
+        "actionEffect": [
+            "411110010"
+        ],
+        "skill_type": 301,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "401014004": {
+        "time_stop": 0,
+        "skill_icon": "3031",
+        "shake_time": [
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001,
+            0.10000000000000001
+        ],
+        "pos": 0,
+        "actions": [
+            2000,
+            2001,
+            2002,
+            2003
+        ],
+        "radius": 5,
+        "onrushRange": [
+            3,
+            15
+        ],
+        "injuryEffect": [
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01",
+            "getHitBlood01"
+        ],
+        "sounds": [
+            [
+                "nv_gongji_1"
+            ],
+            [
+                "nv_gongji_2"
+            ],
+            [
+                "nv_gongji_3"
+            ],
+            [
+                "nv_gongji_4"
+            ]
+        ],
+        "angle": 270,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "value_step": [
+                            150,
+                            150,
+                            150,
+                            150
+                        ],
+                        "weaken_per": -5250,
+                        "percent_step": [
+                            10500,
+                            10500,
+                            10500,
+                            10500
+                        ],
+                        "name": "hurt"
+                    }
+                ]
+            }
+        ],
+        "aoeType": 3,
+        "shake_gapPos": [
+            0,
+            0,
+            0,
+            25
+        ],
+        "level_type": 5,
+        "type": "10011",
+        "server_type": 101,
+        "object": 4,
+        "launch_wait": 0.20000000000000001,
+        "actionEffect": [
+            "guanyu_effect_attack_01",
+            "guanyu_effect_attack_02",
+            "guanyu_effect_attack_03",
+            "guanyu_effect_attack_04"
+        ],
+        "can_move": 0,
+        "action_time": [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998
+        ],
+        "skill_type": 5,
+        "object_from_server": 0,
+        "useLvl": 1,
+        "cool": 0.40000000000000002,
+        "distance": 5,
+        "max_step": 4,
+        "name": "关羽普攻",
+        "gender": 5,
+        "des": "对[008E8C]4个[-]目标造成[008E8C]105%[-]伤害，附带[008E8C]130[-]点无视防御伤害，对非选中目标伤害降低",
+        "shake_delay": [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998
+        ],
+        "db_flag": 1
+    },
+    "400020001": {
+        "skill_icon": "1099",
+        "pos": 4,
+        "radius": 1000,
+        "sounds": [
+            [
+                "jineng_1"
+            ]
+        ],
+        "last_time": [
+            0.40000000000000002
+        ],
+        "fullscreen": 1,
+        "detail": [
+            {
+                "effect": [
+                    {
+                        "reMark": "神罗天征",
+                        "percent": 10000,
+                        "name": "hurt",
+                        "value": 50000
+                    }
+                ]
+            }
+        ],
+        "aoeType": 2,
+        "type": "0001",
+        "no_object_limit": 1,
+        "server_type": 103,
+        "default_skill": 1,
+        "object": 50,
+        "launch_wait": 0.29999999999999999,
+        "actionEffect": [
+            "skill00_anger1"
+        ],
+        "action_time": [
+            0.40000000000000002
+        ],
+        "skill_type": 2,
+        "useLvl": 16,
+        "distance": 15,
+        "name": "神罗天征",
+        "check_flag": 1,
+        "gender": 0,
+        "des": "对[008E8C]50个[-]目标造成[008E8C]400%[-]伤害，附带[008E8C]50000点[-]点无视防御伤害"
+    },
+    "401014006": {
+        "des": "变身期间攻击加成10%\n免疫眩晕几率增加20%",
+        "name": "晕眩免疫",
+        "server_type": 400,
+        "gender": 5,
+        "skill_icon": "3036",
+        "detail": [
+            {
+                "percent": 2000,
+                "effect": [
+                    {
+                        "last": 10000,
+                        "percent": 1000,
+                        "name": "buff",
+                        "id": 61004
+                    }
+                ]
+            }
+        ],
+        "del_buff": 1,
+        "level_type": 5,
+        "db_flag": 1
+    },
+    "400040001": {
+        "skill_icon": "21001",
+        "name": "攻击",
+        "check_flag": 1,
+        "default_skill": 1,
+        "server_type": 300,
+        "skill_type": 4,
+        "level_type": 1,
+        "des": "永久提升角色[008E8C]{1}[-]攻击"
+    },
+    "400040003": {
+        "skill_icon": "21003",
+        "name": "生命",
+        "check_flag": 1,
+        "default_skill": 1,
+        "server_type": 300,
+        "skill_type": 4,
+        "level_type": 1,
+        "des": "永久提升角色[008E8C]{1}[-]生命"
+    },
+    "400040002": {
+        "skill_icon": "21002",
+        "name": "防御",
+        "check_flag": 1,
+        "default_skill": 1,
+        "server_type": 300,
+        "skill_type": 4,
+        "level_type": 1,
+        "des": "永久提升角色[008E8C]{1}[-]防御"
+    },
+    "400040005": {
+        "skill_icon": "21005",
+        "name": "闪避",
+        "check_flag": 1,
+        "default_skill": 1,
+        "server_type": 300,
+        "skill_type": 4,
+        "level_type": 1,
+        "des": "永久提升角色[008E8C]{1}[-]闪避"
+    },
+    "400040004": {
+        "skill_icon": "21004",
+        "name": "命中",
+        "check_flag": 1,
+        "default_skill": 1,
+        "server_type": 300,
+        "skill_type": 4,
+        "level_type": 1,
+        "des": "永久提升角色[008E8C]{1}[-]命中"
+    },
+    "400040007": {
+        "skill_icon": "21007",
+        "name": "韧性",
+        "check_flag": 1,
+        "default_skill": 1,
+        "server_type": 300,
+        "skill_type": 4,
+        "level_type": 1,
+        "des": "永久提升角色[008E8C]{1}[-]韧性"
+    },
+    "400040006": {
+        "des": "永久提升角色[008E8C]{1}[-]暴击",
+        "max_step": 1350000,
+        "name": "暴击",
+        "server_type": 300,
+        "default_skill": 1,
+        "check_flag": 1,
+        "rand_step": 4970960,
+        "skill_type": 4,
+        "level_type": 1,
+        "skill_icon": "21006"
+    }
+}

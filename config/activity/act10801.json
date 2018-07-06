@@ -1,0 +1,79 @@
+{
+    "1": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    },
+    "3": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    },
+    "2": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    },
+    "5": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    },
+    "4": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    },
+    "7": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    },
+    "6": {
+        "name": "累计登录",
+        "content": "累计登录",
+        "item": "绑定元宝",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_type": 0,
+        "reward_id": 213110001
+    }
+}

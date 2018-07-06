@@ -1,0 +1,48 @@
+{
+	"node_name": "燃烧区域根结点",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+	
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "PrioSelNode",
+			"node_tree" : 
+			[
+                {
+                    "node_name" : "定时回收",
+                    "ext_precond" : "recycle_tick_pre",
+                    "ext_field_name_1" : "recycle_tick",
+                    "node_type" : "action",
+                    "node_action" : "recycle_action"
+                },
+				{
+					"node_name": "不断攻击",
+					"node_type": "action", 
+					"node_action": "attack_action"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+    "md5_key" : "hhsy_dev_s001a_123!@qwe",
+    "server_flag": "jy001",	// 配置服务器的flag
+	"open_date" : 20170215,
+	"open_time" : 090000,
+    "log" : "1111111",
+    "special": "local",
+    "run_machine" : "machine-alpha",
+    "machine_list" : [{
+        "name" : "machine-alpha",
+        "host" : "127.0.0.1",
+        "nic" : "eth0"
+    }],
+    "mongo_machine" : {
+        "host" : "127.0.0.1",
+        "port" : 27017
+    },
+    "mysql_machine" : {
+        "host" : "127.0.0.1",
+        "port" : 3306,
+        "usr" : "root",
+        "pwd" : "Rocv~*MM"
+    },
+    "php_center" : {
+	    "php_center_host" : "10.21.210.235",
+	    "php_center_port" : 80,
+	    "php_center_url" : "/hhsy/center/api.php?r=levelinfo",
+	    "php_url" : "/hhsy/center/api.php",
+	    "php_center_key" : "bfe57445e8cf98ae53732bf5412ab0b1"
+    }
+}

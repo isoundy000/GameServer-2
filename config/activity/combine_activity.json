@@ -1,0 +1,352 @@
+{
+    "30305": {
+        "second_type": 5,
+        "red_point": 11625,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 5
+    },
+    "30304": {
+        "second_type": 4,
+        "red_point": 11624,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 4
+    },
+    "30307": {
+        "second_type": 7,
+        "red_point": 11627,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 7
+    },
+    "30306": {
+        "second_type": 6,
+        "red_point": 11626,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 6
+    },
+    "30301": {
+        "second_type": 1,
+        "red_point": 11621,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 1
+    },
+    "30303": {
+        "second_type": 3,
+        "red_point": 11623,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 3
+    },
+    "30302": {
+        "second_type": 2,
+        "red_point": 11622,
+        "name": "累充奖励",
+        "first_type": 33,
+        "act_title": "累充奖励",
+        "open_time": 2
+    },
+    "30401": {
+        "second_type": 1,
+        "name": "消费排行",
+        "first_type": 34,
+        "act_title": "消费排行",
+        "mail": 50001,
+        "start_cond": 588,
+        "cond_type": 4,
+        "open_time": [
+            1,
+            2,
+            3
+        ]
+    },
+    "30601": {
+        "second_type": 1,
+        "first_type": 36,
+        "name": "合服兑换",
+        "act_title": "合服兑换",
+        "open_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    "30509": {
+        "second_type": 7,
+        "red_point": 11649,
+        "name": "仙兽进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "仙兽进阶",
+        "open_time": 7
+    },
+    "30508": {
+        "second_type": 9,
+        "red_point": 11648,
+        "name": "灵兽进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "灵兽进阶",
+        "open_time": 6
+    },
+    "30503": {
+        "second_type": 3,
+        "red_point": 11643,
+        "name": "魔刃进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "魔刃进阶",
+        "open_time": 3
+    },
+    "30502": {
+        "second_type": 2,
+        "red_point": 11642,
+        "name": "神翼进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "神翼进阶",
+        "open_time": 2
+    },
+    "30501": {
+        "second_type": 1,
+        "red_point": 11641,
+        "name": "骑宠进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "骑宠进阶",
+        "open_time": 1
+    },
+    "30507": {
+        "second_type": 6,
+        "red_point": 11647,
+        "name": "仙武进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "仙武进阶",
+        "open_time": 6
+    },
+    "30506": {
+        "second_type": 8,
+        "red_point": 11646,
+        "name": "仙翼进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "仙翼进阶",
+        "open_time": 5
+    },
+    "30505": {
+        "second_type": 5,
+        "red_point": 11645,
+        "name": "仙童进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "仙童进阶",
+        "open_time": 5
+    },
+    "30504": {
+        "second_type": 4,
+        "red_point": 11644,
+        "name": "宝器进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "宝器进阶",
+        "open_time": 4
+    },
+    "30701": {
+        "second_type": 1,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 1
+    },
+    "30703": {
+        "second_type": 3,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 3
+    },
+    "30702": {
+        "second_type": 2,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 2
+    },
+    "30705": {
+        "second_type": 5,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 5
+    },
+    "30704": {
+        "second_type": 4,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 4
+    },
+    "30707": {
+        "second_type": 7,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 7
+    },
+    "30706": {
+        "second_type": 6,
+        "first_type": 37,
+        "name": "合服商城",
+        "act_title": "合服商城",
+        "open_time": 6
+    },
+    "30510": {
+        "second_type": 10,
+        "red_point": 11650,
+        "name": "元神进阶",
+        "first_type": 35,
+        "redraw": 1,
+        "act_title": "元神进阶",
+        "open_time": 7
+    },
+    "30204": {
+        "second_type": 4,
+        "red_point": 11614,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 4
+    },
+    "30205": {
+        "second_type": 5,
+        "red_point": 11615,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 5
+    },
+    "30206": {
+        "second_type": 6,
+        "red_point": 11616,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 6
+    },
+    "30207": {
+        "second_type": 7,
+        "red_point": 11617,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 7
+    },
+    "30201": {
+        "second_type": 1,
+        "red_point": 11611,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 1
+    },
+    "30202": {
+        "second_type": 2,
+        "red_point": 11612,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 2
+    },
+    "30203": {
+        "second_type": 3,
+        "red_point": 11613,
+        "name": "首冲团购",
+        "first_type": 32,
+        "act_title": "首冲团购",
+        "cond_type": 3,
+        "open_time": 3
+    },
+    "30107": {
+        "second_type": 7,
+        "red_point": 11607,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 7
+    },
+    "30106": {
+        "second_type": 6,
+        "red_point": 11606,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 6
+    },
+    "30105": {
+        "second_type": 5,
+        "red_point": 11605,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 5
+    },
+    "30104": {
+        "second_type": 4,
+        "red_point": 11604,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 4
+    },
+    "30103": {
+        "second_type": 3,
+        "red_point": 11603,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 3
+    },
+    "30102": {
+        "second_type": 2,
+        "red_point": 11602,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 2
+    },
+    "30101": {
+        "second_type": 1,
+        "red_point": 11601,
+        "name": "登录奖励",
+        "first_type": 31,
+        "record_value": 1,
+        "act_title": "登录奖励",
+        "open_time": 1
+    }
+}

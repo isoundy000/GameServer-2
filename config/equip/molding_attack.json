@@ -1,0 +1,359 @@
+{
+    "30": {
+        "full_nature": 620,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "30级攻击",
+        "nature": 600
+    },
+    "28": {
+        "full_nature": 580,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "28级攻击",
+        "nature": 560
+    },
+    "29": {
+        "full_nature": 600,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "29级攻击",
+        "nature": 580
+    },
+    "24": {
+        "full_nature": 500,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "24级攻击",
+        "nature": 480
+    },
+    "25": {
+        "full_nature": 520,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "25级攻击",
+        "nature": 500
+    },
+    "26": {
+        "full_nature": 540,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "26级攻击",
+        "nature": 520
+    },
+    "27": {
+        "full_nature": 560,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "27级攻击",
+        "nature": 540
+    },
+    "20": {
+        "full_nature": 420,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "20级攻击",
+        "nature": 400
+    },
+    "21": {
+        "full_nature": 440,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "21级攻击",
+        "nature": 420
+    },
+    "48": {
+        "full_nature": 980,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "48级攻击",
+        "nature": 960
+    },
+    "49": {
+        "full_nature": 1000,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "49级攻击",
+        "nature": 980
+    },
+    "46": {
+        "full_nature": 940,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "46级攻击",
+        "nature": 920
+    },
+    "47": {
+        "full_nature": 960,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "47级攻击",
+        "nature": 940
+    },
+    "44": {
+        "full_nature": 900,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "44级攻击",
+        "nature": 880
+    },
+    "45": {
+        "full_nature": 920,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "45级攻击",
+        "nature": 900
+    },
+    "42": {
+        "full_nature": 860,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "42级攻击",
+        "nature": 840
+    },
+    "43": {
+        "full_nature": 880,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "43级攻击",
+        "nature": 860
+    },
+    "40": {
+        "full_nature": 820,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "40级攻击",
+        "nature": 800
+    },
+    "41": {
+        "full_nature": 840,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "41级攻击",
+        "nature": 820
+    },
+    "1": {
+        "full_nature": 40,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "1级攻击",
+        "nature": 20
+    },
+    "0": {
+        "full_nature": 20,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "0级攻击",
+        "nature": 0
+    },
+    "3": {
+        "full_nature": 80,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "3级攻击",
+        "nature": 60
+    },
+    "2": {
+        "full_nature": 60,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "2级攻击",
+        "nature": 40
+    },
+    "5": {
+        "full_nature": 120,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "5级攻击",
+        "nature": 100
+    },
+    "4": {
+        "full_nature": 100,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "4级攻击",
+        "nature": 80
+    },
+    "7": {
+        "full_nature": 160,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "7级攻击",
+        "nature": 140
+    },
+    "6": {
+        "full_nature": 140,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "6级攻击",
+        "nature": 120
+    },
+    "9": {
+        "full_nature": 200,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "9级攻击",
+        "nature": 180
+    },
+    "8": {
+        "full_nature": 180,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "8级攻击",
+        "nature": 160
+    },
+    "13": {
+        "full_nature": 280,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "13级攻击",
+        "nature": 260
+    },
+    "12": {
+        "full_nature": 260,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "12级攻击",
+        "nature": 240
+    },
+    "14": {
+        "full_nature": 300,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "14级攻击",
+        "nature": 280
+    },
+    "11": {
+        "full_nature": 240,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "11级攻击",
+        "nature": 220
+    },
+    "10": {
+        "full_nature": 220,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "10级攻击",
+        "nature": 200
+    },
+    "39": {
+        "full_nature": 800,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "39级攻击",
+        "nature": 780
+    },
+    "38": {
+        "full_nature": 780,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "38级攻击",
+        "nature": 760
+    },
+    "15": {
+        "full_nature": 320,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "15级攻击",
+        "nature": 300
+    },
+    "22": {
+        "full_nature": 460,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "22级攻击",
+        "nature": 440
+    },
+    "17": {
+        "full_nature": 360,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "17级攻击",
+        "nature": 340
+    },
+    "16": {
+        "full_nature": 340,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "16级攻击",
+        "nature": 320
+    },
+    "19": {
+        "full_nature": 400,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "19级攻击",
+        "nature": 380
+    },
+    "18": {
+        "full_nature": 380,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "18级攻击",
+        "nature": 360
+    },
+    "31": {
+        "full_nature": 640,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "31级攻击",
+        "nature": 620
+    },
+    "23": {
+        "full_nature": 480,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "23级攻击",
+        "nature": 460
+    },
+    "37": {
+        "full_nature": 760,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "37级攻击",
+        "nature": 740
+    },
+    "36": {
+        "full_nature": 740,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "36级攻击",
+        "nature": 720
+    },
+    "35": {
+        "full_nature": 720,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "35级攻击",
+        "nature": 700
+    },
+    "34": {
+        "full_nature": 700,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "34级攻击",
+        "nature": 680
+    },
+    "33": {
+        "full_nature": 680,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "33级攻击",
+        "nature": 660
+    },
+    "32": {
+        "full_nature": 660,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "32级攻击",
+        "nature": 640
+    },
+    "50": {
+        "full_nature": 1020,
+        "red_grade": 13,
+        "cond": 0,
+        "name": "50级攻击",
+        "nature": 1000
+    }
+}

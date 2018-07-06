@@ -1,0 +1,366 @@
+import "ProtoPublic.proto";
+
+message Proto50102016       // 开启密宗九字格子(返回)
+{
+    optional int32 column = 1;       // 列数
+    optional int32 num = 2;       // 第几个
+    optional int32 is_num = 3;       // 1 非文字 2 文字
+    optional int32 type = 4;       // 是否全开 1是 0否
+    repeated ProtoSlotInfo slot_info = 5;       // 格子信息
+}
+
+message Proto10102017       // 领取密宗九字奖励
+{
+    optional int32 reward_type = 1;       // 1 点亮6字奖励 2 真言奖励
+}
+
+message Proto50102017       // 领取密宗九字奖励(返回)
+{
+    optional int32 reward_type = 1;       // 1 点亮6字奖励 2 真言奖励
+    optional int32 nine_word_reward = 2;       // 真言奖励
+}
+
+message Proto10102018       // 获取排行榜数据
+{
+    optional int32 rank_type = 1;       // 排行榜类型
+    optional int32 activity_id = 2;       // 活动id
+    optional int32 page = 3;       // 页数
+}
+
+message Proto50102018       // 获取排行榜数据(返回)
+{
+    repeated ProtoActRankInfo rank_info = 1;       // 活动排行榜
+    optional int32 rank_type = 2;       // 排行榜类型
+    optional int32 activity_id = 3;       // 活动id
+    optional int32 cur_page = 4;       // 当前页
+    optional int32 total_page = 5;       // 总页数
+}
+
+message Proto10102031       // 神仙鉴宝面板信息
+{
+    optional int32 activity_id = 1;       // 活动id
+}
+
+message Proto50102031       // 神仙鉴宝面板信息（返回）
+{
+    repeated ProtoPersonRecord person_record = 1;       // 个人记录
+    repeated ProtoServerRecord server_record = 2;       // 全服记录
+    optional int32 activity_id = 3;       // 活动id
+    optional int32 left_tick = 4;       // 剩余时间
+    repeated ProtoSlotInfo slot_info = 5;       // 格子信息（第一个放中间 没有鉴宝为空）
+    repeated ProtoItem fina_item = 6;       // 最终奖励
+    optional ProtoThreeObj other_info = 7;       // 其他信息
+}
+
+message Proto50102033       // 神仙鉴宝换宝（返回）
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 id = 2;       // 换宝的格子id
+    repeated ProtoSlotInfo slot_info = 3;       // 这次换宝的格子信息
+    optional ProtoThreeObj other_info = 4;       // 其他信息
+}
+
+message Proto10102033       // 神仙鉴宝换宝
+{
+    optional int32 id = 1;       // 换宝的格子id
+}
+
+message Proto50102032       // 神仙鉴宝鉴宝（返回）
+{
+    optional int32 activity_id = 1;       // 活动id
+    repeated ProtoSlotInfo slot_info = 2;       // 格子信息
+    optional ProtoThreeObj other_info = 3;       // 其他信息
+}
+
+message Proto50102034       // 神仙鉴宝领取奖励（返回）
+{
+    repeated ProtoItem item_list = 1;       // 获得奖励
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto10102041       // 幸运砸蛋进行砸蛋
+{
+    optional int32 slot_id = 1;       // 格子位置(不传为全部砸开)
+}
+
+message Proto50102041       // 幸运砸蛋进行砸蛋(返回)
+{
+    optional int32 slot_id = 1;       // 格子位置(不传为全部砸开)
+    repeated ProtoSlotInfo slot_info = 2;       // 格子信息
+}
+
+message Proto80100112       // 击杀你的玩家
+{
+    optional int64 fighter_id = 1;       // ID
+    optional string fighter_name = 2;       // 名字
+    optional int32 mover_type = 3;       // 类型
+    optional int32 force = 4;       // 战力
+}
+
+message Proto50100509       // 出售记录(返回)
+{
+    repeated ProtoThreeObj sell_log = 1;       // 记录
+}
+
+message Proto10100510       // 吆喝
+{
+    optional string item = 1;       // 物品
+    optional int32 amount = 2;       // 数量
+    optional int32 total = 3;       // 总价
+}
+
+message Proto50102101       // 获取帮派副本波数奖励(返回)
+{
+    repeated ProtoWaveReward wave_reward = 1;       // 波数奖励信息
+    optional ProtoWavePlayer wave_player = 2;       // 玩家波数信息
+}
+
+message Proto10102102       // 领取帮派副本波数奖励
+{
+    optional int32 wave = 1;       // 波数
+    optional int32 is_total = 2;       // 是否一键领取 1 是 0 否
+}
+
+message Proto50102102       // 领取帮派副本波数奖励(返回)
+{
+    optional int32 wave = 1;       // 波数
+    repeated ProtoWaveReward wave_info = 2;       // 波数奖励信息
+    optional int32 is_total = 3;       // 是否一键领取
+}
+
+message Proto10102103       // 帮派副本助威鼓舞
+{
+    optional int64 role_id = 1;       // 对象角色id
+    optional int32 type = 2;       // 1：助威 2：鼓舞
+}
+
+message Proto50102103       // 帮派副本助威鼓舞(返回)
+{
+    optional int64 role_id = 1;       // 对象角色id
+    optional int32 type = 2;       // 1：助威 2：鼓舞
+    optional int32 cheer = 3;       // 助威次数
+    optional int32 encourage = 4;       // 鼓舞次数
+    optional ProtoCheerRecord cheer_record = 5;       // 记录
+}
+
+message Proto50102104       // 获取助威鼓舞面板(返回)
+{
+    optional int32 cheer = 1;       // 助威次数
+    optional int32 encourage = 2;       // 鼓舞次数
+    optional int32 be_cheer = 3;       // 受助威次数
+    optional int32 be_encourage = 4;       // 受鼓舞次数
+    optional ProtoPlayerCheer my_cheer = 5;       // 自己的信息
+    repeated ProtoPlayerCheer player_info = 6;       // 角色助威鼓舞信息
+    repeated ProtoCheerRecord cheer_record = 7;       // 助威鼓舞记录
+}
+
+message Proto80400389       // 开服天数信息
+{
+    optional int32 main_type = 1;       // 活动类型
+    optional int32 open_days = 2;       // 开服天数
+    optional int32 absolute_days = 3;       // 绝对天数
+}
+
+message Proto11400124       // 领取开服豪礼奖励
+{
+    optional int32 location_id = 1;       // 位置
+}
+
+message Proto51400123       // 获取开服豪礼面板信息(返回)
+{
+    optional int32 recharge_amount = 1;       // 充值金额
+    repeated int32 draw_location = 2;       // 已领取的位置
+    optional int32 left_tick = 3;       // 活动剩余时间
+}
+
+message Proto51400124       // 领取开服豪礼奖励(返回)
+{
+    optional int32 location_id = 1;       // 位置
+}
+
+message Proto10102105       // 进入帮派副本
+{
+    optional int32 script_sort = 1;       // 副本配置ID
+}
+
+message Proto10102051       // 获取每日冲榜活动
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 page = 2;       // 页数
+}
+
+message Proto50102051       // 获取每日冲榜活动(返回)
+{
+    optional int32 left_tick = 1;       // 剩余时间
+    repeated ProtoRechargeRank rank_info = 2;       // 总排名信息
+    optional ProtoRechargeRank my_rank = 3;       // 我的排名信息
+    optional int32 cur_page = 4;       // 当前页
+    optional int32 total_page = 5;       // 总页数
+}
+
+message Proto10400942       // 获取论剑江湖排行榜
+{
+    optional int32 page = 1;       // 页数
+}
+
+message Proto50400942       // 获取论剑江湖排行榜(返回)
+{
+    optional int32 cur_page = 1;       // 当前页
+    optional int32 total_page = 2;       // 总页数
+    repeated ProtoLegendTopRank sword_rank = 3;       // 排行榜数据
+    optional ProtoLegendTopRank my_rank = 4;       // 我的数据
+}
+
+message Proto80400929       // 副本完成通知(新)
+{
+    optional int32 flag = 1;       // 副本完成标识. 1 完成 2 失败
+    optional int32 scipt_sort = 2;       // 副本id
+    optional int32 used_tick = 3;       // 累计耗时
+    optional int32 exp = 4;       // 获得经验
+    optional int32 copper = 5;       // 获得铜钱
+    repeated ProtoItem item = 6;       // 获得道具
+    repeated int32 star_level = 7;       // 星级
+    optional int32 is_first_pass = 8;       // 是否首次打副本；1 （首次失败或成功时提示）
+    optional int32 ai_score = 9;       // AI副本奖励积分
+    optional int32 rescue_amount = 10;       // 灵兽岛拯救的宠物数量
+    optional int32 present_sort = 11;       // 当前副本id(镇魔塔)
+    optional int32 next_sort = 12;       // 下级副本id(镇魔塔)
+    optional int32 no_card = 13;       // 不能获取翻牌奖励
+    optional int32 begin_wave = 14;       // 开始波数(经验、罗摩副本)
+    optional int32 end_wave = 15;       // 结束波数(经验、罗摩副本)
+    optional int32 cur_floor = 16;       // 第几层(问鼎江湖、武林论剑)
+    optional int32 mult = 17;       // 奖励倍数
+}
+
+message Proto51401209       // 请求副本扫荡界面信息(新)(返回)
+{
+    optional int32 script_sort = 1;       // 副本id
+    optional int32 script_type = 2;       // 副本类型
+    repeated ProtoItem item_list = 3;       // 通关物品
+    repeated ProtoItem drop_list = 4;       // 掉落奖励
+    optional int32 is_show_card = 5;       // 是否显示模拟抽牌
+    optional int32 card_index = 6;       // 模拟抽中的牌索引，从0开始
+    repeated ProtoItem card_list = 7;       // 模拟牌内容
+    optional int32 is_vip_rate = 8;       // 是否VIP多倍
+    optional int32 savvy = 9;       // 当前未领取悟性
+    optional int32 reset_times = 10;       // 重置次数(进阶副本)
+    optional int32 top_floor = 11;       // 通过层数(问鼎江湖)
+    optional int32 pass_wave = 12;       // 通过波数(经验、罗摩)
+    optional int32 pass_chapter = 13;       // 通过章节(经验、罗摩)
+    repeated ProtoCleanInfo clean_item = 14;       // 副本id区分奖励
+}
+
+message Proto51400136       // 红装/密卷兑换入口(返回)
+{
+    optional int32 type = 1;       // 类型 1：红装 2：密卷
+    optional int32 exchange_id = 2;       // 兑换id
+    optional int32 amount = 3;       // 数量
+}
+
+message Proto11400136       // 传说/密卷兑换入口
+{
+    optional int32 type = 1;       // 类型 1：传说 2：密卷
+    optional int32 exchange_id = 2;       // 兑换id
+    optional int32 amount = 3;       // 数量
+}
+
+message Proto10400943       // 设置论剑武林技能id
+{
+    optional int32 index = 1;       // 伙伴id
+}
+
+message Proto50400943       // 设置论剑武林技能id(返回)
+{
+    optional int32 index = 1;       // 伙伴id
+}
+
+message Proto10100216       // 累计登录信息状态列表
+{
+    optional int32 act_info = 1;       // 0:设置全部 1:倍率 2:个位数 3:十位数 4:百位数
+    optional int32 act_index = 2;       // 活动索引
+}
+
+message Proto50102201       // 获取每日活动列表(返回)
+{
+    repeated int32 activity_set = 1;       // 活动id列表
+}
+
+message Proto50102202       // 获取全民双倍信息(返回)
+{
+    optional int32 value1 = 1;       // 类型1
+    optional int32 value2 = 2;       // 类型2
+    optional int32 left_tick = 3;       // 剩余时间
+}
+
+message Proto50102019       // 获取充值返元宝活动信息(返回)
+{
+    optional int64 begin_tick = 1;       // 开始时间
+    optional int64 end_tick = 2;       // 结束时间
+}
+
+message Proto11408001       // 获取挂机信息
+{
+    optional int64 player_id = 1;       // 
+}
+
+message Proto11408002       // 挂机申请
+{
+    optional int32 offlinehook_drug_id = 1;       // 
+    optional int32 offlinehook_drug_count = 2;       // 
+    optional int64 surplus_time = 3;       // 
+    optional int32 package_type = 4;       // 背包类型
+    optional int32 index = 5;       // 物品索引
+}
+
+message Proto51408001       // 挂机消息请求返回
+{
+    optional int64 surplus_time = 1;       // 剩余时间
+    optional int64 offlinehook_exp = 2;       // 可获得离线经验
+    repeated ProtoItemId offlinehook_reward = 3;       // 离线挂机获得道具
+    optional int64 offlinehook_time = 4;       // 上次挂机时间
+}
+
+message Proto11408003       // 领取挂机奖励
+{
+    optional int64 player_id = 1;       // 
+}
+
+message Proto51408002       // 玩家挂架请求返回
+{
+    optional int32 reply = 1;       // 1成功
+    optional string error_tips = 2;       // 错误提示
+}
+
+message Proto51408003       // 请求奖励返回
+{
+    optional int32 reply = 1;       // 1成功
+}
+
+message Proto80400390       // 更新帮派贡献(主动)
+{
+    optional int32 cur_contri = 1;       // 帮派贡献
+}
+
+message Proto50404001       // 请求帮派界面信息返回
+{
+    optional int64 next_league_fight_time = 1;       // 下次领地战斗开启时间
+    optional string enemy_league_name = 2;       // 敌对帮派名
+    repeated ProtoLeagueItem league_list_info = 3;       // 帮派列表
+    optional int32 next_region_land_id = 4;       // 下次争夺的地
+    optional int32 self_league_rank = 5;       // 自己帮派排名
+    optional int32 is_activity_time = 6;       // 是否是在活动时间
+    repeated ProtoLeagueItem cur_league_list = 7;       // 当前帮派列表
+}
+
+message Proto50404002       // 竞猜界面信息返回
+{
+    repeated ProtoLeagueItem bet_league_list_info = 1;       // 所有参与竞赛帮派
+    optional int32 league_isWin = 2;       // 0表示未结束，1表示结束
+    optional int64 support_league_id = 3;       // 所支持的帮派id
+    optional int32 left_time = 4;       // 开始竞猜的时间倒计时
+    optional int32 state = 5;       // 状态，0表示不可以竞猜，1表示可以竞猜
+    optional int32 win_reward = 6;       // 赢奖励
+    optional int32 attend_reward = 7;       // 参与奖励
+}
+
+

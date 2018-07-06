@@ -1,0 +1,52 @@
+{
+    "1": {
+        "illus_group_list": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+        ],
+        "illus_class_description": "野外地图掉落的图谱",
+        "group_size": 2,
+        "illus_class_name": "野外图谱",
+        "min_lv": 25
+    },
+    "3": {
+        "illus_group_list": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308
+        ],
+        "illus_class_description": "罗摩副本掉落的图谱",
+        "group_size": 2,
+        "illus_class_name": "罗摩图谱",
+        "min_lv": 58
+    },
+    "2": {
+        "illus_group_list": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208
+        ],
+        "illus_class_description": "跨服副本掉落的图谱",
+        "group_size": 2,
+        "illus_class_name": "跨服图谱",
+        "min_lv": 50
+    }
+}

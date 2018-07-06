@@ -1,0 +1,344 @@
+import "ProtoPublic.proto";
+
+message Proto80400917       // 四相祭坛副本激活对应属性
+{
+    optional int32 sort = 1;       // 杀死对应BOSS激活的属性
+    optional int32 tip_id = 2;       // 图标索引, 从1开始
+}
+
+message Proto11401805       // 领取累积充值奖励
+{
+    optional int32 reward_index = 1;       // 奖励索引
+}
+
+message Proto81401804       // 通知累积充值信息
+{
+    optional int32 show_icon = 1;       // 显示图标？
+    optional int64 total = 2;       // 累积充值
+    optional int64 target = 3;       // 当前目标
+    repeated int32 reward_states = 4;       // 奖励状态
+}
+
+message Proto80400366       // 等待时间(主动)
+{
+    optional int32 left_time = 1;       // 剩余时间
+    optional int32 active_time = 2;       // 剩余活动时间
+    optional int32 is_first = 3;       // 是否是第一次
+}
+
+message Proto80400367       // 公告奖励提示( 主动)
+{
+    optional int32 tips_state = 1;       // 1表示显示，2表示闪烁
+}
+
+message Proto11400152       // 请求功能消耗的元宝
+{
+    repeated ProtoItem item_list = 1;       // 需要消耗道具列表
+    optional ProtoMoney money = 2;       // 需要消耗的金钱
+}
+
+message Proto51400152       // 请求功能消耗的元宝(返回)
+{
+    optional int32 need_gold = 1;       // 需要消耗的元宝
+}
+
+message Proto80400368       // 仙盟活动第一次(主动)
+{
+    optional int32 active_type = 1;       // 活动类型
+    optional int32 is_first = 2;       // 是否第一次
+}
+
+message Proto11400614       // 神炼
+{
+    optional int32 index = 1;       // 背包位置
+}
+
+message Proto51400614       // 神炼(返回)
+{
+    optional int32 item_id = 1;       // 装备ID
+}
+
+message Proto80400369       // 圣火经验(主动)
+{
+    optional int32 left_time = 1;       // 剩余时间
+    optional int32 add_exp = 2;       // 增加的经验
+    optional int32 left_open_time = 3;       // 剩余开启时间
+    optional int32 cur_blood = 4;       // 当前血量
+    optional int32 total_blood = 5;       // 总血量
+    optional int32 total_add = 6;       // 总经验加成
+    optional int32 type = 7;       // 进入标志，0表示否，1表示是
+    optional int32 fight_type = 8;       // 攻守状态，0表示攻，1表示守
+    optional string legue_name = 9;       // 仙盟名称
+}
+
+message Proto11400615       // 装备数值差
+{
+    optional int32 index = 1;       // 位置
+}
+
+message Proto51400615       // 装备数值差(返回)
+{
+    optional int32 diff_value = 1;       // 差值
+}
+
+message Proto11400120       // 角色重命名
+{
+    optional int32 index = 1;       // 背包位置
+    optional string name = 2;       // 新名
+}
+
+message Proto11400121       // 仙盟重命名
+{
+    optional int32 index = 1;       // 位置
+    optional string name = 2;       // 新名
+}
+
+message Proto80401302       // 准备进入下一层提示
+{
+    optional int32 left_sec = 1;       // 剩余多少秒
+}
+
+message Proto80401303       // 掉回上一层提示
+{
+    optional int32 floor = 1;       // 掉回第几层
+}
+
+message Proto50401302       // 获取追踪界面信息(返回)
+{
+    optional int32 cur_floor = 1;       // 当前层数
+    optional int32 my_rank = 2;       // 我的排名
+    optional int32 my_exploit = 3;       // 个人功勋
+    optional int32 total_kill = 4;       // 总击杀数
+    optional int32 cur_kill_player = 5;       // 当前层已击杀目标
+    optional int32 floor_kill_player = 6;       // 当前层需要击杀的目标数
+    optional int32 cur_bekill_amount = 7;       // 当前层被击杀次数
+    optional int32 bekill_amount = 8;       // 退出当前层的总被杀数
+    optional int32 per_sec = 9;       // 每多少秒
+    optional int32 per_exploit = 10;       // 每次获得多少功勋
+    optional int32 left_tick = 11;       // 剩余时间，单位秒
+}
+
+message Proto10401303       // 获取巅峰之战排行
+{
+    optional int32 is_fresh = 1;       // 1 重新第一页获取；0 取继续的10条记录
+}
+
+message Proto50401303       // 获取巅峰之战排行（返回）
+{
+    optional int32 my_rank = 1;       // 我的排名
+    repeated ProtoPeakWarRank peak_war_list = 2;       // 排行列表
+}
+
+message Proto11400007       // 打开精采活动
+{
+    optional int32 act_index = 1;       // 活动id（索引）
+}
+
+message Proto51400007       // 打开精采活动(返回)
+{
+    optional PActTypeItem act_detail = 1;       // 每个活动详细内容
+}
+
+message Proto11400008       // 领取精彩的奖励
+{
+    optional int32 act_index = 1;       // 活动id（索引）
+    optional int32 reward_index = 2;       // 奖励索引
+    optional int32 reward_num = 3;       // 领取奖励的数量
+}
+
+message Proto51400008       // 领取奖励(返回)
+{
+    optional int32 act_index = 1;       // 活动id（索引）
+    repeated ProtoPairObj reward_info = 2;       // 奖励情况，（id表示奖励的索引，value表示奖励的个数）
+}
+
+message Proto80400372       // 通知精彩活动图标
+{
+    optional int32 state = 1;       // 状态
+    optional int32 effect = 2;       // 是否有特效
+    optional int32 index = 3;       // 第几个有奖；应该为哪一个活动索引（或活动id）有奖励
+}
+
+message Proto80400115       // 修正进入场景时space_id
+{
+    optional int32 space_id = 1;       // 修正自己的空间ID
+}
+
+message Proto10100633       // 水晶仙盟列表
+{
+    optional int32 page_index = 1;       // 第几页，从1开始
+}
+
+message Proto50100633       // 水晶仙盟列表（返回）
+{
+    optional int32 page_index = 1;       // 第几页，从1开始
+    optional int32 total_page = 2;       // 总页数
+    repeated ProtoLeagueItem league_set = 3;       // 仙盟
+}
+
+message Proto10400324       // 篝火进入其他仙盟
+{
+    optional int64 league_id = 1;       // 仙盟ID
+}
+
+message Proto10100648       // 是否是同一仙盟
+{
+    optional int64 role_id = 1;       // 玩家ID
+}
+
+message Proto50100648       // 是否是同一仙盟(返回)
+{
+    optional int32 same_flag = 1;       // 是否相同，0表示否，1表示是
+}
+
+message Proto10401522       // 开启运镖
+{
+    optional int32 type = 1;       // 运镖等级
+}
+
+message Proto50401522       // 开启运镖(返回)
+{
+    optional int64 ai_id = 1;       // 护送ID
+    optional int64 start_tick = 2;       // 开始时间
+    optional int64 player_id = 3;       // 玩家ID
+    optional string player_name = 4;       // 玩家名字
+    optional int32 type = 5;       // 宝箱等级
+}
+
+message Proto50401523       // 打开运镖界面(返回)
+{
+    optional int32 escort_times = 1;       // 运镖剩余次数
+    optional int32 rob_times = 2;       // 打劫剩余次数
+    optional int32 protect_times = 3;       // 保护剩余次数
+    optional int32 wish_times = 4;       // 祝福次数
+    optional int32 convoy_exp = 5;       // 护送经验
+    optional int32 cur_level = 6;       // 当前品质
+    optional int32 time_limit = 7;       // 时间上限
+    optional int64 start_tick = 8;       // 开始护送时间 没有为0
+    optional int64 ai_id = 9;       // 护送id 没有为0
+    repeated string protect_name_list = 10;       // 保护者名字列表
+    repeated int64 protect_id_list = 11;       // 保护者ID列表
+    optional int64 protect_player_id = 12;       // 保护人ID
+    optional string protect_player_name = 13;       // 保护人名字
+    optional int64 stop_protect_id = 14;       // 取消保护ID
+    optional string stop_protect_name = 15;       // 取消保护名字
+}
+
+message Proto80400373       // 个人运镖信息
+{
+    optional int32 cur_progress = 1;       // 当前进度
+    optional int32 left_time = 2;       // 剩余时间
+}
+
+message Proto50400007       // 获取玩家信息(返回)
+{
+    optional int32 kill_value = 1;       // 杀戮值
+    optional int32 color = 2;       // 颜色
+}
+
+message Proto80400375       // 受到攻击提示
+{
+    optional string attackor = 1;       // 攻击者
+    optional int64 attackor_id = 2;       // 攻击者ID
+}
+
+message Proto10600104       // 删除角色
+{
+    optional int64 role_id = 1;       // 要删除的角色ID
+}
+
+message Proto80400224       // 物体进入僵直状态通知
+{
+    optional int64 mover_id = 1;       // 进入僵直的物体ID
+    optional double hard_tick = 2;       // 僵直持续秒数
+}
+
+message Proto10400117       // 请求突进
+{
+    optional int64 target_id = 1;       // 需要突进的目标
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+    optional int32 skill_id = 4;       // 技能ID
+    optional int64 attack_id = 5;       // 攻击ID，只有受击才需要发
+    optional int32 dart_type = 6;       // 突进类型，0表示被击退或被拉，1表示突进
+}
+
+message Proto50400117       // 请求突进(返回)
+{
+    optional int32 need_correct = 1;       // 是否需要修正，1 需要修正
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+}
+
+message Proto80400225       // 向周围玩家播放突进动作
+{
+    optional int64 mover_id = 1;       // 物体ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+    optional int64 attack_id = 4;       // 攻击ID，只有受击才有攻击ID
+    optional int32 dart_type = 5;       // 突进类型，0表示被击退或被拉，1表示突进
+}
+
+message Proto51400343       // 获取日常环式任务系统状态(返回)
+{
+    optional int32 status = 1;       // 状态：0 未开始，1 正在进行，2 完成，3所有环式任务完成
+}
+
+message Proto51400344       // 获取日常环式任务面板信息(返回)
+{
+    optional int32 extra_exp = 1;       // 20环完成后额外奖励的经验
+    repeated ProtoItem extra_item = 2;       // 20环完成后额外奖励的道具
+    optional ProtoMoney fast_gold = 3;       // 一键完成需要的元宝
+    optional int32 routine_task_index = 4;       // 当前正在进行第几环，值从1开始，0表示没有开始
+    optional int32 total_routine_size = 5;       // 每天最大的环数
+    optional ProtoTaskInfo routine_task = 6;       // 当前任务信息
+    optional ProtoMoney double_award_money = 7;       // 双倍奖励需要的元宝
+    optional ProtoMoney extra_money = 8;       // 20环完成后额外奖励的金钱
+    optional ProtoMoney task_award_money = 9;       // 任务奖励的铜钱
+    optional int32 task_award_exp = 10;       // 任务奖励的经验
+    repeated ProtoItem task_award_item = 11;       // 任务奖励的道具
+    optional ProtoTaskInfo next_routine_task = 12;       // 下一个任务信息
+    optional int32 award_id = 13;       // 任务奖励ID
+    optional int32 extra_award_id = 14;       // 20环完成后额外的奖励
+}
+
+message Proto10400711       // 技能升级
+{
+    optional int32 skill_id = 1;       // 要升级的技能ID
+}
+
+message Proto50400711       // 技能升级(返回)
+{
+    optional int32 skill_id = 1;       // 要升级的技能ID
+    optional int32 skill_level = 2;       // 技能等级
+    optional int32 savvy = 3;       // 剩余悟性
+}
+
+message Proto80400803       // VIP升级主动通知
+{
+    optional int32 vip_type = 1;       // 提升后的vip等级
+}
+
+message Proto11400616       // 装备继承
+{
+    optional int32 operate = 1;       // 操作类型：1继承强化属性，2继承洗练属性，4继承幸运属性
+    optional int32 auto_buy = 2;       // 材料不足自动购买，1自动购买，0不自动购买
+    optional ProtoPackageItem src_item = 3;       // 继承前装备的信息
+    optional ProtoPackageItem des_item = 4;       // 继承后装备的信息
+}
+
+message Proto51400616       // 装备继承(回复)
+{
+    optional int32 item_des_id = 1;       // 子装备id（继承后装备id）
+    optional int32 result = 2;       // 返回结果，0为成功
+    optional int32 cost_money = 3;       // 消耗元宝的数量
+    optional int32 cost_item = 4;       // 消耗继承石的数量
+}
+
+message Proto11400617       // 装备镶嵌宝石
+{
+    optional int32 equip_index = 1;       // 装备位置
+    optional int32 jewal_index = 2;       // 宝石位置
+}
+
+

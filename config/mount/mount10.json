@@ -1,0 +1,961 @@
+{
+    "10": {
+        "toughness": 443,
+        "model2": "TianGang10",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 100,
+        "crit": 590,
+        "name_pic": "0105.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 3689,
+        "attack": 7378,
+        "health": 73780,
+        "dodge": 590,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 738,
+        "ability": 200,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "name": "元神10阶",
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "ex_param": 3,
+        "reduction_multi": 1500,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang10",
+        "fail_prop": {
+            "attack": 8
+        },
+        "model_name": "GUI_TianGang10"
+    },
+    "1": {
+        "toughness": 5,
+        "model2": "TianGang01",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 0,
+        "ex_param": 3,
+        "crit": 7,
+        "name_pic": "0088.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 44,
+        "attack": 88,
+        "health": 880,
+        "dodge": 7,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 9,
+        "ability": 0,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神1阶",
+        "success": [
+            [
+                0,
+                59,
+                0
+            ],
+            [
+                60,
+                72,
+                10000
+            ],
+            [
+                73,
+                80,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111002,
+            216111001
+        ],
+        "amount": 2,
+        "reduction_multi": 0,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang01",
+        "reward": 201101,
+        "model_name": "GUI_TianGang01"
+    },
+    "3": {
+        "toughness": 27,
+        "model2": "TIanGang03",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 0,
+        "ex_param": 3,
+        "crit": 36,
+        "name_pic": "0090.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 224,
+        "add_skill": 400140001,
+        "attack": 448,
+        "health": 4480,
+        "dodge": 36,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 45,
+        "ability": 5,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神3阶",
+        "success": [
+            [
+                0,
+                134,
+                0
+            ],
+            [
+                135,
+                148,
+                450
+            ],
+            [
+                149,
+                157,
+                4000
+            ],
+            [
+                158,
+                173,
+                10000
+            ],
+            [
+                174,
+                198,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "model_name": "GUI_TianGang03",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111002,
+            216111001
+        ],
+        "amount": 4,
+        "reduction_multi": 0,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang03",
+        "reward": 201103,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "2": {
+        "toughness": 16,
+        "model2": "TIanGang02",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 0,
+        "ex_param": 3,
+        "crit": 22,
+        "name_pic": "0089.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 134,
+        "attack": 268,
+        "health": 2680,
+        "dodge": 22,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 27,
+        "ability": 0,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神2阶",
+        "success": [
+            [
+                0,
+                89,
+                0
+            ],
+            [
+                90,
+                99,
+                500
+            ],
+            [
+                100,
+                102,
+                4000
+            ],
+            [
+                103,
+                115,
+                10000
+            ],
+            [
+                116,
+                129,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111002,
+            216111001
+        ],
+        "amount": 3,
+        "reduction_multi": 0,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang02",
+        "reward": 201102,
+        "model_name": "GUI_TianGang02"
+    },
+    "5": {
+        "toughness": 86,
+        "model2": "TIanGang05",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 15,
+        "ex_param": 3,
+        "crit": 115,
+        "name_pic": "0092.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 719,
+        "add_skill": 400140003,
+        "attack": 1438,
+        "health": 14380,
+        "dodge": 115,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 144,
+        "ability": 30,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神5阶",
+        "success": [
+            [
+                0,
+                316,
+                0
+            ],
+            [
+                317,
+                349,
+                350
+            ],
+            [
+                350,
+                370,
+                4000
+            ],
+            [
+                371,
+                407,
+                10000
+            ],
+            [
+                408,
+                464,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "model_name": "GUI_TianGang05",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111002,
+            216111001
+        ],
+        "amount": 6,
+        "reduction_multi": 200,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang05",
+        "reward": 201105,
+        "fail_prop": {
+            "attack": 6
+        }
+    },
+    "4": {
+        "toughness": 54,
+        "model2": "TIanGang04",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 5,
+        "ex_param": 3,
+        "crit": 72,
+        "name_pic": "0091.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 449,
+        "add_skill": 400140002,
+        "attack": 898,
+        "health": 8980,
+        "dodge": 72,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 90,
+        "ability": 15,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神4阶",
+        "success": [
+            [
+                0,
+                198,
+                0
+            ],
+            [
+                199,
+                219,
+                400
+            ],
+            [
+                220,
+                232,
+                4000
+            ],
+            [
+                233,
+                255,
+                10000
+            ],
+            [
+                256,
+                291,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "model_name": "GUI_TianGang04",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111002,
+            216111001
+        ],
+        "amount": 5,
+        "reduction_multi": 0,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang04",
+        "reward": 201104,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "7": {
+        "toughness": 189,
+        "model2": "TIanGang07",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 45,
+        "ex_param": 3,
+        "crit": 252,
+        "name_pic": "0094.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 1574,
+        "add_skill": 400140004,
+        "attack": 3148,
+        "health": 31480,
+        "dodge": 252,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 315,
+        "ability": 60,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神7阶",
+        "success": [
+            [
+                0,
+                726,
+                0
+            ],
+            [
+                727,
+                802,
+                250
+            ],
+            [
+                803,
+                849,
+                4000
+            ],
+            [
+                850,
+                934,
+                10000
+            ],
+            [
+                935,
+                1063,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "model_name": "GUI_TianGang07",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111003,
+            216111002,
+            216111001
+        ],
+        "amount": 8,
+        "reduction_multi": 500,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang07",
+        "reward": 201107,
+        "fail_prop": {
+            "attack": 7
+        }
+    },
+    "6": {
+        "toughness": 135,
+        "model2": "TIanGang06",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 30,
+        "ex_param": 3,
+        "crit": 180,
+        "name_pic": "0093.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 1124,
+        "attack": 2248,
+        "health": 22480,
+        "dodge": 180,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 225,
+        "ability": 45,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神6阶",
+        "success": [
+            [
+                0,
+                471,
+                0
+            ],
+            [
+                472,
+                520,
+                300
+            ],
+            [
+                521,
+                551,
+                4000
+            ],
+            [
+                552,
+                606,
+                10000
+            ],
+            [
+                607,
+                690,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "fail_prop": {
+            "attack": 6
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111002,
+            216111001
+        ],
+        "amount": 7,
+        "reduction_multi": 200,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang06",
+        "reward": 201106,
+        "model_name": "GUI_TianGang06"
+    },
+    "9": {
+        "toughness": 335,
+        "model2": "TIanGang09",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 80,
+        "ex_param": 3,
+        "crit": 446,
+        "name_pic": "0104.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 2789,
+        "attack": 5578,
+        "health": 55780,
+        "dodge": 446,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 558,
+        "ability": 130,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神9阶",
+        "success": [
+            [
+                0,
+                1540,
+                0
+            ],
+            [
+                1541,
+                1700,
+                150
+            ],
+            [
+                1701,
+                1800,
+                4000
+            ],
+            [
+                1801,
+                1980,
+                10000
+            ],
+            [
+                1981,
+                2251,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "fail_prop": {
+            "attack": 8
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111003,
+            216111002,
+            216111001
+        ],
+        "amount": 10,
+        "reduction_multi": 1000,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang09",
+        "reward": 201109,
+        "model_name": "GUI_TianGang09"
+    },
+    "8": {
+        "toughness": 254,
+        "model2": "TIanGang08",
+        "sca": [
+            1,
+            1,
+            1
+        ],
+        "pos": [
+            -70,
+            390,
+            1000
+        ],
+        "ability_item": 216121001,
+        "growth": 60,
+        "ex_param": 3,
+        "crit": 338,
+        "name_pic": "0095.png",
+        "rot": [
+            0,
+            0,
+            0
+        ],
+        "growth_item": 216121002,
+        "defence": 2114,
+        "attack": 4228,
+        "health": 42280,
+        "dodge": 338,
+        "update_sca": [
+            1,
+            1,
+            1
+        ],
+        "hit": 423,
+        "ability": 80,
+        "update_rot": [
+            0,
+            0,
+            0
+        ],
+        "update_pos": [
+            -194,
+            44,
+            0
+        ],
+        "name": "元神8阶",
+        "success": [
+            [
+                0,
+                1089,
+                0
+            ],
+            [
+                1090,
+                1203,
+                200
+            ],
+            [
+                1204,
+                1274,
+                4000
+            ],
+            [
+                1275,
+                1401,
+                10000
+            ],
+            [
+                1402,
+                1594,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            127010101,
+            127020101,
+            127030101
+        ],
+        "fail_prop": {
+            "attack": 7
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216111003,
+            216111002,
+            216111001
+        ],
+        "amount": 9,
+        "reduction_multi": 500,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "GUI_TianGang08",
+        "reward": 201108,
+        "model_name": "GUI_TianGang08"
+    }
+}

@@ -1,0 +1,1136 @@
+{
+    "60": {
+        "remark": [
+            "630"
+        ],
+        "upgrade_goods": [
+            216010005,
+            16
+        ],
+        "add_fight": 9450,
+        "name": "闪避",
+        "detail": {
+            "dodge": 630
+        }
+    },
+    "61": {
+        "remark": [
+            "640"
+        ],
+        "upgrade_goods": [
+            216010005,
+            16
+        ],
+        "add_fight": 9600,
+        "name": "闪避",
+        "detail": {
+            "dodge": 640
+        }
+    },
+    "62": {
+        "remark": [
+            "650"
+        ],
+        "upgrade_goods": [
+            216010005,
+            16
+        ],
+        "add_fight": 9750,
+        "name": "闪避",
+        "detail": {
+            "dodge": 650
+        }
+    },
+    "63": {
+        "remark": [
+            "660"
+        ],
+        "upgrade_goods": [
+            216010005,
+            16
+        ],
+        "add_fight": 9900,
+        "name": "闪避",
+        "detail": {
+            "dodge": 660
+        }
+    },
+    "64": {
+        "remark": [
+            "670"
+        ],
+        "upgrade_goods": [
+            216010005,
+            18
+        ],
+        "add_fight": 10050,
+        "name": "闪避",
+        "detail": {
+            "dodge": 670
+        }
+    },
+    "65": {
+        "remark": [
+            "680"
+        ],
+        "upgrade_goods": [
+            216010005,
+            18
+        ],
+        "add_fight": 10200,
+        "name": "闪避",
+        "detail": {
+            "dodge": 680
+        }
+    },
+    "66": {
+        "remark": [
+            "690"
+        ],
+        "upgrade_goods": [
+            216010005,
+            18
+        ],
+        "add_fight": 10350,
+        "name": "闪避",
+        "detail": {
+            "dodge": 690
+        }
+    },
+    "67": {
+        "remark": [
+            "700"
+        ],
+        "upgrade_goods": [
+            216010005,
+            18
+        ],
+        "add_fight": 10500,
+        "name": "闪避",
+        "detail": {
+            "dodge": 700
+        }
+    },
+    "68": {
+        "remark": [
+            "710"
+        ],
+        "upgrade_goods": [
+            216010005,
+            18
+        ],
+        "add_fight": 10650,
+        "name": "闪避",
+        "detail": {
+            "dodge": 710
+        }
+    },
+    "69": {
+        "remark": [
+            "720"
+        ],
+        "upgrade_goods": [
+            216010005,
+            20
+        ],
+        "add_fight": 10800,
+        "name": "闪避",
+        "detail": {
+            "dodge": 720
+        }
+    },
+    "24": {
+        "remark": [
+            "270"
+        ],
+        "upgrade_goods": [
+            216010005,
+            6
+        ],
+        "add_fight": 4050,
+        "name": "闪避",
+        "detail": {
+            "dodge": 270
+        }
+    },
+    "25": {
+        "remark": [
+            "280"
+        ],
+        "upgrade_goods": [
+            216010005,
+            6
+        ],
+        "add_fight": 4200,
+        "name": "闪避",
+        "detail": {
+            "dodge": 280
+        }
+    },
+    "26": {
+        "remark": [
+            "290"
+        ],
+        "upgrade_goods": [
+            216010005,
+            6
+        ],
+        "add_fight": 4350,
+        "name": "闪避",
+        "detail": {
+            "dodge": 290
+        }
+    },
+    "27": {
+        "remark": [
+            "300"
+        ],
+        "upgrade_goods": [
+            216010005,
+            6
+        ],
+        "add_fight": 4500,
+        "name": "闪避",
+        "detail": {
+            "dodge": 300
+        }
+    },
+    "20": {
+        "remark": [
+            "230"
+        ],
+        "upgrade_goods": [
+            216010005,
+            5
+        ],
+        "add_fight": 3450,
+        "name": "闪避",
+        "detail": {
+            "dodge": 230
+        }
+    },
+    "21": {
+        "remark": [
+            "240"
+        ],
+        "upgrade_goods": [
+            216010005,
+            5
+        ],
+        "add_fight": 3600,
+        "name": "闪避",
+        "detail": {
+            "dodge": 240
+        }
+    },
+    "22": {
+        "remark": [
+            "250"
+        ],
+        "upgrade_goods": [
+            216010005,
+            5
+        ],
+        "add_fight": 3750,
+        "name": "闪避",
+        "detail": {
+            "dodge": 250
+        }
+    },
+    "23": {
+        "remark": [
+            "260"
+        ],
+        "upgrade_goods": [
+            216010005,
+            5
+        ],
+        "add_fight": 3900,
+        "name": "闪避",
+        "detail": {
+            "dodge": 260
+        }
+    },
+    "28": {
+        "remark": [
+            "310"
+        ],
+        "upgrade_goods": [
+            216010005,
+            6
+        ],
+        "add_fight": 4650,
+        "name": "闪避",
+        "detail": {
+            "dodge": 310
+        }
+    },
+    "29": {
+        "remark": [
+            "320"
+        ],
+        "upgrade_goods": [
+            216010005,
+            7
+        ],
+        "add_fight": 4800,
+        "name": "闪避",
+        "detail": {
+            "dodge": 320
+        }
+    },
+    "0": {
+        "remark": [
+            "0"
+        ],
+        "upgrade_goods": [
+            216010005,
+            1
+        ],
+        "add_fight": 0,
+        "name": "闪避",
+        "detail": {
+            "dodge": 0
+        }
+    },
+    "2": {
+        "remark": [
+            "50"
+        ],
+        "upgrade_goods": [
+            216010005,
+            1
+        ],
+        "add_fight": 750,
+        "name": "闪避",
+        "detail": {
+            "dodge": 50
+        }
+    },
+    "4": {
+        "remark": [
+            "70"
+        ],
+        "upgrade_goods": [
+            216010005,
+            2
+        ],
+        "add_fight": 1050,
+        "name": "闪避",
+        "detail": {
+            "dodge": 70
+        }
+    },
+    "6": {
+        "remark": [
+            "90"
+        ],
+        "upgrade_goods": [
+            216010005,
+            2
+        ],
+        "add_fight": 1350,
+        "name": "闪避",
+        "detail": {
+            "dodge": 90
+        }
+    },
+    "8": {
+        "remark": [
+            "110"
+        ],
+        "upgrade_goods": [
+            216010005,
+            2
+        ],
+        "add_fight": 1650,
+        "name": "闪避",
+        "detail": {
+            "dodge": 110
+        }
+    },
+    "15": {
+        "remark": [
+            "180"
+        ],
+        "upgrade_goods": [
+            216010005,
+            4
+        ],
+        "add_fight": 2700,
+        "name": "闪避",
+        "detail": {
+            "dodge": 180
+        }
+    },
+    "14": {
+        "remark": [
+            "170"
+        ],
+        "upgrade_goods": [
+            216010005,
+            4
+        ],
+        "add_fight": 2550,
+        "name": "闪避",
+        "detail": {
+            "dodge": 170
+        }
+    },
+    "11": {
+        "remark": [
+            "140"
+        ],
+        "upgrade_goods": [
+            216010005,
+            3
+        ],
+        "add_fight": 2100,
+        "name": "闪避",
+        "detail": {
+            "dodge": 140
+        }
+    },
+    "10": {
+        "remark": [
+            "130"
+        ],
+        "upgrade_goods": [
+            216010005,
+            3
+        ],
+        "add_fight": 1950,
+        "name": "闪避",
+        "detail": {
+            "dodge": 130
+        }
+    },
+    "13": {
+        "remark": [
+            "160"
+        ],
+        "upgrade_goods": [
+            216010005,
+            3
+        ],
+        "add_fight": 2400,
+        "name": "闪避",
+        "detail": {
+            "dodge": 160
+        }
+    },
+    "12": {
+        "remark": [
+            "150"
+        ],
+        "upgrade_goods": [
+            216010005,
+            3
+        ],
+        "add_fight": 2250,
+        "name": "闪避",
+        "detail": {
+            "dodge": 150
+        }
+    },
+    "59": {
+        "remark": [
+            "620"
+        ],
+        "upgrade_goods": [
+            216010005,
+            16
+        ],
+        "add_fight": 9300,
+        "name": "闪避",
+        "detail": {
+            "dodge": 620
+        }
+    },
+    "58": {
+        "remark": [
+            "610"
+        ],
+        "upgrade_goods": [
+            216010005,
+            14
+        ],
+        "add_fight": 9150,
+        "name": "闪避",
+        "detail": {
+            "dodge": 610
+        }
+    },
+    "17": {
+        "remark": [
+            "200"
+        ],
+        "upgrade_goods": [
+            216010005,
+            4
+        ],
+        "add_fight": 3000,
+        "name": "闪避",
+        "detail": {
+            "dodge": 200
+        }
+    },
+    "16": {
+        "remark": [
+            "190"
+        ],
+        "upgrade_goods": [
+            216010005,
+            4
+        ],
+        "add_fight": 2850,
+        "name": "闪避",
+        "detail": {
+            "dodge": 190
+        }
+    },
+    "19": {
+        "remark": [
+            "220"
+        ],
+        "upgrade_goods": [
+            216010005,
+            5
+        ],
+        "add_fight": 3300,
+        "name": "闪避",
+        "detail": {
+            "dodge": 220
+        }
+    },
+    "54": {
+        "remark": [
+            "570"
+        ],
+        "upgrade_goods": [
+            216010005,
+            14
+        ],
+        "add_fight": 8550,
+        "name": "闪避",
+        "detail": {
+            "dodge": 570
+        }
+    },
+    "57": {
+        "remark": [
+            "600"
+        ],
+        "upgrade_goods": [
+            216010005,
+            14
+        ],
+        "add_fight": 9000,
+        "name": "闪避",
+        "detail": {
+            "dodge": 600
+        }
+    },
+    "56": {
+        "remark": [
+            "590"
+        ],
+        "upgrade_goods": [
+            216010005,
+            14
+        ],
+        "add_fight": 8850,
+        "name": "闪避",
+        "detail": {
+            "dodge": 590
+        }
+    },
+    "51": {
+        "remark": [
+            "540"
+        ],
+        "upgrade_goods": [
+            216010005,
+            12
+        ],
+        "add_fight": 8100,
+        "name": "闪避",
+        "detail": {
+            "dodge": 540
+        }
+    },
+    "50": {
+        "remark": [
+            "530"
+        ],
+        "upgrade_goods": [
+            216010005,
+            12
+        ],
+        "add_fight": 7950,
+        "name": "闪避",
+        "detail": {
+            "dodge": 530
+        }
+    },
+    "53": {
+        "remark": [
+            "560"
+        ],
+        "upgrade_goods": [
+            216010005,
+            12
+        ],
+        "add_fight": 8400,
+        "name": "闪避",
+        "detail": {
+            "dodge": 560
+        }
+    },
+    "52": {
+        "remark": [
+            "550"
+        ],
+        "upgrade_goods": [
+            216010005,
+            12
+        ],
+        "add_fight": 8250,
+        "name": "闪避",
+        "detail": {
+            "dodge": 550
+        }
+    },
+    "55": {
+        "remark": [
+            "580"
+        ],
+        "upgrade_goods": [
+            216010005,
+            14
+        ],
+        "add_fight": 8700,
+        "name": "闪避",
+        "detail": {
+            "dodge": 580
+        }
+    },
+    "18": {
+        "remark": [
+            "210"
+        ],
+        "upgrade_goods": [
+            216010005,
+            4
+        ],
+        "add_fight": 3150,
+        "name": "闪避",
+        "detail": {
+            "dodge": 210
+        }
+    },
+    "80": {
+        "remark": [
+            "830"
+        ],
+        "upgrade_goods": [
+            216010005,
+            24
+        ],
+        "add_fight": 12450,
+        "name": "闪避",
+        "detail": {
+            "dodge": 830
+        }
+    },
+    "48": {
+        "remark": [
+            "510"
+        ],
+        "upgrade_goods": [
+            216010005,
+            10
+        ],
+        "add_fight": 7650,
+        "name": "闪避",
+        "detail": {
+            "dodge": 510
+        }
+    },
+    "49": {
+        "remark": [
+            "520"
+        ],
+        "upgrade_goods": [
+            216010005,
+            12
+        ],
+        "add_fight": 7800,
+        "name": "闪避",
+        "detail": {
+            "dodge": 520
+        }
+    },
+    "46": {
+        "remark": [
+            "490"
+        ],
+        "upgrade_goods": [
+            216010005,
+            10
+        ],
+        "add_fight": 7350,
+        "name": "闪避",
+        "detail": {
+            "dodge": 490
+        }
+    },
+    "47": {
+        "remark": [
+            "500"
+        ],
+        "upgrade_goods": [
+            216010005,
+            10
+        ],
+        "add_fight": 7500,
+        "name": "闪避",
+        "detail": {
+            "dodge": 500
+        }
+    },
+    "44": {
+        "remark": [
+            "470"
+        ],
+        "upgrade_goods": [
+            216010005,
+            10
+        ],
+        "add_fight": 7050,
+        "name": "闪避",
+        "detail": {
+            "dodge": 470
+        }
+    },
+    "45": {
+        "remark": [
+            "480"
+        ],
+        "upgrade_goods": [
+            216010005,
+            10
+        ],
+        "add_fight": 7200,
+        "name": "闪避",
+        "detail": {
+            "dodge": 480
+        }
+    },
+    "42": {
+        "remark": [
+            "450"
+        ],
+        "upgrade_goods": [
+            216010005,
+            9
+        ],
+        "add_fight": 6750,
+        "name": "闪避",
+        "detail": {
+            "dodge": 450
+        }
+    },
+    "43": {
+        "remark": [
+            "460"
+        ],
+        "upgrade_goods": [
+            216010005,
+            9
+        ],
+        "add_fight": 6900,
+        "name": "闪避",
+        "detail": {
+            "dodge": 460
+        }
+    },
+    "40": {
+        "remark": [
+            "430"
+        ],
+        "upgrade_goods": [
+            216010005,
+            9
+        ],
+        "add_fight": 6450,
+        "name": "闪避",
+        "detail": {
+            "dodge": 430
+        }
+    },
+    "41": {
+        "remark": [
+            "440"
+        ],
+        "upgrade_goods": [
+            216010005,
+            9
+        ],
+        "add_fight": 6600,
+        "name": "闪避",
+        "detail": {
+            "dodge": 440
+        }
+    },
+    "1": {
+        "remark": [
+            "40"
+        ],
+        "upgrade_goods": [
+            216010005,
+            1
+        ],
+        "add_fight": 600,
+        "name": "闪避",
+        "detail": {
+            "dodge": 40
+        }
+    },
+    "3": {
+        "remark": [
+            "60"
+        ],
+        "upgrade_goods": [
+            216010005,
+            1
+        ],
+        "add_fight": 900,
+        "name": "闪避",
+        "detail": {
+            "dodge": 60
+        }
+    },
+    "5": {
+        "remark": [
+            "80"
+        ],
+        "upgrade_goods": [
+            216010005,
+            2
+        ],
+        "add_fight": 1200,
+        "name": "闪避",
+        "detail": {
+            "dodge": 80
+        }
+    },
+    "7": {
+        "remark": [
+            "100"
+        ],
+        "upgrade_goods": [
+            216010005,
+            2
+        ],
+        "add_fight": 1500,
+        "name": "闪避",
+        "detail": {
+            "dodge": 100
+        }
+    },
+    "9": {
+        "remark": [
+            "120"
+        ],
+        "upgrade_goods": [
+            216010005,
+            3
+        ],
+        "add_fight": 1800,
+        "name": "闪避",
+        "detail": {
+            "dodge": 120
+        }
+    },
+    "77": {
+        "remark": [
+            "800"
+        ],
+        "upgrade_goods": [
+            216010005,
+            22
+        ],
+        "add_fight": 12000,
+        "name": "闪避",
+        "detail": {
+            "dodge": 800
+        }
+    },
+    "76": {
+        "remark": [
+            "790"
+        ],
+        "upgrade_goods": [
+            216010005,
+            22
+        ],
+        "add_fight": 11850,
+        "name": "闪避",
+        "detail": {
+            "dodge": 790
+        }
+    },
+    "75": {
+        "remark": [
+            "780"
+        ],
+        "upgrade_goods": [
+            216010005,
+            22
+        ],
+        "add_fight": 11700,
+        "name": "闪避",
+        "detail": {
+            "dodge": 780
+        }
+    },
+    "74": {
+        "remark": [
+            "770"
+        ],
+        "upgrade_goods": [
+            216010005,
+            22
+        ],
+        "add_fight": 11550,
+        "name": "闪避",
+        "detail": {
+            "dodge": 770
+        }
+    },
+    "73": {
+        "remark": [
+            "760"
+        ],
+        "upgrade_goods": [
+            216010005,
+            20
+        ],
+        "add_fight": 11400,
+        "name": "闪避",
+        "detail": {
+            "dodge": 760
+        }
+    },
+    "72": {
+        "remark": [
+            "750"
+        ],
+        "upgrade_goods": [
+            216010005,
+            20
+        ],
+        "add_fight": 11250,
+        "name": "闪避",
+        "detail": {
+            "dodge": 750
+        }
+    },
+    "71": {
+        "remark": [
+            "740"
+        ],
+        "upgrade_goods": [
+            216010005,
+            20
+        ],
+        "add_fight": 11100,
+        "name": "闪避",
+        "detail": {
+            "dodge": 740
+        }
+    },
+    "70": {
+        "remark": [
+            "730"
+        ],
+        "upgrade_goods": [
+            216010005,
+            20
+        ],
+        "add_fight": 10950,
+        "name": "闪避",
+        "detail": {
+            "dodge": 730
+        }
+    },
+    "79": {
+        "remark": [
+            "820"
+        ],
+        "upgrade_goods": [
+            216010005,
+            24
+        ],
+        "add_fight": 12300,
+        "name": "闪避",
+        "detail": {
+            "dodge": 820
+        }
+    },
+    "78": {
+        "remark": [
+            "810"
+        ],
+        "upgrade_goods": [
+            216010005,
+            22
+        ],
+        "add_fight": 12150,
+        "name": "闪避",
+        "detail": {
+            "dodge": 810
+        }
+    },
+    "39": {
+        "remark": [
+            "420"
+        ],
+        "upgrade_goods": [
+            216010005,
+            9
+        ],
+        "add_fight": 6300,
+        "name": "闪避",
+        "detail": {
+            "dodge": 420
+        }
+    },
+    "38": {
+        "remark": [
+            "410"
+        ],
+        "upgrade_goods": [
+            216010005,
+            8
+        ],
+        "add_fight": 6150,
+        "name": "闪避",
+        "detail": {
+            "dodge": 410
+        }
+    },
+    "33": {
+        "remark": [
+            "360"
+        ],
+        "upgrade_goods": [
+            216010005,
+            7
+        ],
+        "add_fight": 5400,
+        "name": "闪避",
+        "detail": {
+            "dodge": 360
+        }
+    },
+    "32": {
+        "remark": [
+            "350"
+        ],
+        "upgrade_goods": [
+            216010005,
+            7
+        ],
+        "add_fight": 5250,
+        "name": "闪避",
+        "detail": {
+            "dodge": 350
+        }
+    },
+    "31": {
+        "remark": [
+            "340"
+        ],
+        "upgrade_goods": [
+            216010005,
+            7
+        ],
+        "add_fight": 5100,
+        "name": "闪避",
+        "detail": {
+            "dodge": 340
+        }
+    },
+    "30": {
+        "remark": [
+            "330"
+        ],
+        "upgrade_goods": [
+            216010005,
+            7
+        ],
+        "add_fight": 4950,
+        "name": "闪避",
+        "detail": {
+            "dodge": 330
+        }
+    },
+    "37": {
+        "remark": [
+            "400"
+        ],
+        "upgrade_goods": [
+            216010005,
+            8
+        ],
+        "add_fight": 6000,
+        "name": "闪避",
+        "detail": {
+            "dodge": 400
+        }
+    },
+    "36": {
+        "remark": [
+            "390"
+        ],
+        "upgrade_goods": [
+            216010005,
+            8
+        ],
+        "add_fight": 5850,
+        "name": "闪避",
+        "detail": {
+            "dodge": 390
+        }
+    },
+    "35": {
+        "remark": [
+            "380"
+        ],
+        "upgrade_goods": [
+            216010005,
+            8
+        ],
+        "add_fight": 5700,
+        "name": "闪避",
+        "detail": {
+            "dodge": 380
+        }
+    },
+    "34": {
+        "remark": [
+            "370"
+        ],
+        "upgrade_goods": [
+            216010005,
+            8
+        ],
+        "add_fight": 5550,
+        "name": "闪避",
+        "detail": {
+            "dodge": 370
+        }
+    }
+}

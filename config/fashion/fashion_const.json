@@ -1,0 +1,33 @@
+{
+    "change_mail": {
+        "remark": "时装转换经验邮件id",
+        "value": 50002
+    },
+    "color_exp": {
+        "remark": "染色经验加成",
+        "value": 100
+    },
+    "active_exp": {
+        "remark": "激活时装经验加成",
+        "value": 100
+    },
+    "amount": {
+        "remark": "染色消耗数量",
+        "value": 200
+    },
+    "lost_fashion_mail": {
+        "remark": "时装失效邮件id",
+        "value": 40002
+    },
+    "exp_path": {
+        "remark": "经验获取途径"
+    },
+    "item_id": {
+        "remark": "染色物品id",
+        "value": 216310061
+    },
+    "send_fashion_mail": {
+        "remark": "时装补发邮件id",
+        "value": 40003
+    }
+}

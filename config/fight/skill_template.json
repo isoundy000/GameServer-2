@@ -1,0 +1,365 @@
+﻿/*
+* 这个文件里没有说明的字段也许会在下面的文件里有说明
+* h2/h2_planning/配置文件/服务端配置文件/config/fight/skill_template.json
+*/
+{
+    "410000001" : {
+       	"name" : "普通攻击",
+        "reMark" : "自动攻击最近的目标,造成对方伤害{0},回复自身血量{1}",
+
+		/* 
+		* (可选) 0当前目标，1以目标为圆心, 2以自身为圆心, 
+		* 3以自身为扁形圆心, 4当前自身方形范围，需要填写长，宽！ 
+		* 5自身主人, 6自身, 7中立,
+		* 8自身场景左侧对象, 9自身场景右侧对象, 10以自身为环形圆心,
+		* 11  以BOSS为攻击对象, 12 以全部玩家为攻击对象,
+		* 13  以目标为矩形中心
+		* 14  从伤害列表中随机一个在线玩家
+		*/		
+		"aoeType" : 1,	
+
+		"ai_delay" : 1,	// (可选)　怪物首次触发前等待时间
+		"safe_area" : 1,// (可选)　要进行安全区域检查
+		"difference_sex" : 1, //男女动作分开，则填写1！
+		"fullscreen" : 1, 	// (可选) 全屏技能标识
+		"angle": 70,		//角度
+		
+		"object_from_server" : 1,	// 是否由服务端搜索可攻击对象(可选)
+		"no_object_limit" : 1, // (可选) 有该字段且值为1时表示不需要预先发攻击对象的技能；
+		
+		"type" : "1001111",	//*  1             0         0        1         1				  1					1
+									//* 敌方       友方	  自己   Boss    小怪	   宠物主人	  施放给中立者
+		"effect_id" : [410000001,410000001,410000001],//技能效果ID
+		
+		"actionState" : 2,	//用哪个攻击动作   普通攻击2,  近程技能攻击6, 远程技能攻击7
+		"actionEffect" : "attack",	//用哪个动作特效   普通攻击attack,  近程技能攻击skill_attack_near, 远程技能攻击skill_attack_far
+		"effect_timing" : [0,0,1],// 技能特效播放时机：没有或者为0==随着动作！1=击中模型时播放！
+		"effect_position" : [0,0,1], //技能特效播放位置，0是攻击者的位置，1是被攻击者的位置！
+		"injuryEffect" : "dj",	//受伤动作特效(以文件名命名)
+		"action_attack_timing" : [0.5,0.5,0.5,0.5,0.5,0.5],//特效在动作进行到时间点的时候播放，即特效播放时间，同时也是攻击时间点，受伤害动作播放时间点！！男，女，男女，交替！怪物宠物只有一个，使用[0.5]！最多3位小数点！
+		"shake_point_of_time" : 1, // 1 表示在动作攻击帧触发震屏，0或者不填写表示在特效动作帧触发震屏！
+		"last_time":[0.4,0.4,0.4,0.4,0.4,0.4],//技能的动作持续时间，及下一个技能的接受时间延迟！男，女，男，女的交替！
+		/* (可选) 如果该技能由区域伤害AI施放，并且要播放技能特效则该值设置为1 */
+		"effect_ai_skill" : 1,
+
+		/*freeze_skills 与 freeze_skills_exclude 只能选择一种其中配置方式*/
+		"freeze_skills": [419000002,419010005], // 冻结技能列表 
+    	"freeze_skills_exclude": [419000001],	// 冻结技能排除列表(冻结所有技能，列表中指定的除外)
+    	"freeze_last": 3,	// 冻结持续时间
+
+		"useLvl" : 1,	// 使用等级
+		"career" : 1, 	// 职业限制，0 不限制，1 战士 2 法师 3 刺客 4 道士
+		"cool" : 1,		// 冷却时间
+		"launch_wait" : 0.5, // 技能播放特效时间,该时间后才自动触发扣血
+		"prepare" : 0.5,// (可选)技能的可被打断时间
+		"no_avoid" : 0, // (可选)是否必中, 0不是必中,1必中
+		"magic" : 10,	// (可选)使用消耗法
+		"max_step" : 3, // (可选)伤害技能的分步
+		"distance" : 3,	// (可选)施放距离,默认为3
+		"radius" : 4,	// (可选)技能圈半径,默认为4
+		"inner_radius" : 4,	// (可选)技能环形 内半径,默认为4
+		"outer_radius" : 8,	// (可选)技能环形 外半径,默认为4, 小于 inner_radius 时调整为 inner_radius+4
+		"object" : 10,   // (可选)攻击对象数,默认为1
+		"move_speed" : 100, // （可选）移动速度每秒100像素,
+		"lend_skill": [1000, 3000, 100],	//(可选) 向主人借用技能
+		"combine_skill" : 410000001, 	// [可选] 连招技能
+		"launch_once" : 1,	// AI技能只触发一次；
+		
+		"is_mutual" : 1,	// (可选) 互斥技能标识（字段为1时表示施放过程不能使用技能）
+		"mutual_last" : 10, // (可选) 互斥技能状态持续时间,单位秒
+		"mutual_freq" : 0.1, // (可选) 互斥技能的攻击频率
+		
+		"guide_tick" : 3,    // (可选)怪物技能的引导时间,3秒
+		"notify_guide" : 1,	  // (可选)是否有进度条提示：0 没有，1 有进度条且有文字提示，2 只有进度条没有文字提示
+		"can_stop_guide" : 1, // (可选)是否可打断引导，默认不可以，1时可以打断
+
+		/*(可选) 为1时表示为循环触发技能, 另见 loop_freq, loop_last */
+		"is_loop" : 1,
+		"loop_freq" : 0.5, 	// (可选)循环触发技能的触发间隔
+	    "loop_last" : 12, 	// (可选)循环触发技能的持续时间
+		"shake_time" : 0.3, //震动时间（之前那技能是2s） 
+		"shake_gapPos" : 3,  //幅度(之前那技能是3)，数字越大，幅度越大
+		"force_shake" : 1, 	//可不用填写，但是有该字段表示所有人看到这个技能都会震动！
+		
+		"width" : 3,    // 方形范围的宽度，单位格子
+		"height" : 4,   // 方形范围的长度，单位格子
+		
+		"stop_guide_by_skill" : [410000001],	// 可被哪些技能打断引导
+		
+		"defender_stiff" : 0.5,	// 被攻击者出现硬直0.5秒
+		
+		"passive_trigger" : 1,  // 被动触发
+		"use_rate" : 10,        // 被动触发概率: 10%
+		
+		// 给受击者加一个buff特效
+		"view_buff" : { 
+			"id" : 15,		// BUFF特效ID
+			"last" : 10		// BUFF显示的持续时间
+		},
+		// 给自己者加一个buff特效
+		"self_view_buff" : {
+			"id" : 15,		// BUFF特效ID
+			"last" : 10,		// BUFF显示的持续时间
+			"after_view_buff" : {	// BUFF消失后，再给自己加另一个特效
+				"id" : 36,
+				"last" : 10
+			}	
+		},
+		
+		"detail" : [{
+			/*  技能提示语 */
+            "skill_note": {
+            	"times_range": [2,3],	// [2,3] 表示每施放 2-3 次(含3次)后再播放
+            	"text_id": [419010005]	// 提示语ID，配置多个时会随机选择
+            },
+			"effect" : [{
+				"name" : "hurt",	// 使用伤害公式计算伤害
+				"addition_effect":[{"name":"dizzy","last":1}],	// 有伤害时附带的效果，闪避时不触发；
+				"condition" : {
+					"skill_id" : 42100002,  // (可选)装备指定的被动技能时触发的效果
+					"skill_step" : 3,   // (可选)技能步骤第几步才触发的效果
+					"rate" : 40,	// (可选)触发效果概率
+					"blood_percent" : 40,       // (可选)剩余40%的血量时触发此效果
+					"defender_status" : [1],	// (可选)被攻击者持有的状态下才触发
+					"attackor_status" : [1]	// (可选)攻击者持有的状态下才触发
+				},
+				"times" : {         // 叠加效果
+					"skill_step" : 3,   // 第几步产生叠加效果
+					"value" : 2,    // 叠加次数
+					"rate" : 40     // 叠加效果触发的概率
+				},
+				"value_step" : [100,200,300],   // (可选)第步的伤害
+				"percent_step" : [70,85,105],	// (可选)第几步的伤害百分比
+				"value" : 5000,	// (可选)直接增加伤害值
+				"percent" : 50,	// (可选)增加50%
+				"ai_value":50,			//怪物伤害增加值
+				"ai_percent":100,		//怪物伤害万分比
+				"player_value":5000,		//玩家伤害增加值
+				"player_percent":10000,	//玩家伤害万分比
+				"weaken_per":-1000000,	//减弱万分比
+				"last": 10						//(可选) 持续时间		
+			},{
+				"name" : "jump",   // 跳跃
+				"avoid_last" : 1,
+				"value" : 2
+			},{
+				"name" : "blood",   // 血灵丹效果
+				"last" : 36000,
+				"interval" : 1,
+				"value" : 10000
+			},{
+				"name" : "max_blood",   // 修改最大血量
+				"accumulate_times" : 5, // (可选)可叠加次数, 默认为不叠加
+				"last" : 30,
+				"value" : 1000,         // 正为增加，负为减少
+				"percent" : 40
+			},{
+				"name" : "direct_blood",    // 直接修改血，按当前血量计算百分比
+				"accumulate_times" : 5, 	// (可选)可叠加次数, 默认为不叠加
+				"value" : 1000,             // 正数为加血，负数为扣血
+				"percent" : 40
+			},{
+				/* 注意：该效果直接更改玩家血量，不会经过伤害公式计算，所以玩家的免伤等效果无效 */
+				"name" : "direct_max_blood", // 直接修改血，按最大血量计算百分比
+				"accumulate_times" : 5, 	// (可选)可叠加次数, 默认为不叠加
+				"value" : 1000,             // 正数为加血，负数为扣血
+				"percent" : 40,		// 按最大血量百分比加(扣)血
+				"safe_area_percent" : 20	// 安全区域时的数值(前提：safe_area == 1)
+			},{
+				"name" : "speed",           // 修改当前速度
+				"last" : 30,
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "silence",         // 沉默, 无法使用技能
+				"last" : 30
+			},{
+				"name" : "stay",            // 定身, 无法移动
+				"last" : 30
+			},{
+				"name" : "dizzy",           // 眩晕, 无法攻击,无法移动,无法吃药(TODO)
+				"last" : 30
+			},{
+				"name" : "supperman",       // 无敌, 
+				"last" : 30
+			},{
+				"name" : "attack",          // 修改攻击,正为增加,负为减少
+				"accumulate_times" : 5, 	// (可选)可叠加次数, 默认为不叠加
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "defence",         // 修改防御,正为增加,负为减少
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "crit",        // 修改暴击
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "self_crit_rate",        // 修改暴击率（扣完韧性后的暴击率）
+				"crit_hurt" : 0.4,	// 暴击伤害倍数加成，在1.5的基本上增加0.4
+				"value" : 1000,
+				"percent" : 40,
+				"last" : 10
+			},{
+				"name" : "toughness",       // 修改韧性
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "hit",             // 修改命中
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "avoid",           // 修改闪避
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "hurtdeep",        // 伤害加深
+				"value" : 1000,             // 直接伤害值
+				"percent" : 40              // 伤害加深百分比
+			},{
+				"name" : "exempt",          // 免伤
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "magic_hurt",      // 剩余能量的伤害
+				"percent" : 150             // 能量转化的百分比
+			},{
+				"name" : "d_magic_hurt",   // 直接扣减能量,转化为伤害
+				"hurt_percent" : 40,       // 实际能量转化为伤害的百分比
+				"value" : 1000,            // 直接扣减对方固定能量值
+				"percent" : 40             // 直接扣减对方已有的能量百分比
+			},{
+				"name" : "magic",           // 天山仙露效果（同血灵丹）
+				"last" : 3600,
+				"interval" : 1,
+				"value" : 100000
+			},{
+				"name" : "max_magic",       // 修改最大能量上限值
+				"last" : 100,
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "direct_magic",    // 修改能量,按当前法值计算百分比
+				"last" : 10,
+				"interval" : 1,
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "direct_max_magic", // 修改能量,按最大法值计算百分比
+				"last" : 10,
+				"interval" : 1,
+				"value" : 1000,
+				"percent" : 40
+			},{
+				"name" : "rebound_hurt",     // 伤害反弹,按伤害值计算
+				"clear_no_summon" : 1,	//(可选) 若为1，在召唤出的小怪死亡后,状态消失
+				"percent" : 40          // 反弹实际伤害值的百分比
+			},{
+				"name" : "rebound_defence", // 伤害反弹,按防御值计算
+				"percent" : 40         // 反弹防御值的百分比
+			},{
+				"name" : "skilldistance",   // 被动技能的攻击距离修改
+				"value" : 10,           // 单位格子
+				"percent" : 40
+			},{
+				"name" : "relive"		// 解除减益状态
+			},{
+				"name" : "direct_hurt",
+				"reMark" : "附加攻击力50%的直接扣血值",
+				"percent" : 50,
+				"last" : 10, // (可选)该字段没有时直接扣一次血
+				"interval" : 2
+			},{
+				"name" : "area_hurt",       // 召唤一个区域伤害的特效
+				"sort" : 50000001
+			},{
+				"name" : "summon",      // 召唤普通怪
+				"sort" : [500000005],     // 怪物ID
+				"max_summon_amount" : 5,	// 最多同时召唤5只
+				"kill_caller" : 1       // 是否杀死召唤者
+			},{
+				"name" : "pull"       	// 拉近（把被攻击者拉到身边）
+			},{
+				"name" : "push",         // 击退（把被攻击者推到离自身多少像素远处）
+				"range" : 300
+			},{
+				"name" : "forward",      // 突进（只把自己直接向前冲多少像素）
+				"range" : 300
+			},{
+				"name" : "assault",      // 冲锋（自己直接向前冲多少像素,同时将路么上不强过自己的玩家向前推）
+				"range" : 300
+			},{
+				"name" : "backward",     // 后退（自己直接向后退多少像素）
+				"range" : 300
+			},{ 
+				"name" : "nseal",       // 封印(新手无效) 
+				"last" : 20             // 持续时间
+			},{ 
+				"name" : "nserious",    // 重伤(无效) 
+				"last" : 20
+			},{ 
+				"name" : "nresidual",   // 残雷(无效) 
+				"last" : 20
+			},{ 
+				"name" : "nangry",    // 真神怒(无效) 
+				"last" : 20
+			},{ 
+				"name" : "ncover",    // 混元罩(无效) 
+				"last" : 20
+			},{ 
+				"name" : "nstay",    // 定身(无效) 
+				"last" : 20
+			},{ 
+				"name" : "clean",    // 清除buff
+				"sort" : [21,22]			// buff id 
+			},{
+				"name" : "self_magic",  // 直接给技能触发者修改蓝
+				"value" : 100,		// 正为加蓝，负为减蓝
+				"percent" : 20		// 最大蓝的百分比
+			},{
+				"name" : "self_blood",  // 怪物技能用的直接给自己修改血量
+				"value" : 100,		// 正为加血，负为减血
+				"percent" : 20		// 最大血量的百分比
+			},{
+            			"name": "immune",	// 免疫伤害， 但仍然会有反伤效果
+		            	"last" : 9999,
+            			"clear_no_summon": 1
+		  	},{
+                "name" : "hurt_max_blood",	// 按受击者的最大血量百分比计算伤害
+                "reMark" : "造成受攻击者自身最大生命80%的伤害！",
+                "percent" : 80
+			},{
+                "name" : "self_stay",
+                "reMark" : "给自己定身的状态,持续3秒",
+                "last" : 3
+            },{
+                "name" : "shield",
+                "reMark" : "护盾吸收生命值上限5%的伤害,持续10秒",
+                "view_buff_id" : 24,    // buff特效ID
+                "percent" : 5,
+                "break_hurt_range" : 6,
+                "last" : 10
+            },{
+                "name" : "percy",
+                "reMark" : "神火技能, 集齐3个触发一次伤害，并消失, 持续10秒",
+                "view_buff_id" : 24,    // buff特效ID
+                "value" : 3,
+                "magic_percent" : 10,
+                "ext_hurt" : 100,
+                "last" : 10
+            },{
+                "name" : "flash_avoid",
+                "reMark" : "疾闪，持续时间内闪避时有反击伤害",
+                "percent" : 20,
+                "hurt_rate" : 5,
+                "last" : 10
+            },{
+				"reMark" : "石化玩家",
+                "name" : "stone_player",
+                "tips_id" : 20,    // 石化图标ID
+                "last" : 20
+			}] 
+        }]
+    }
+}

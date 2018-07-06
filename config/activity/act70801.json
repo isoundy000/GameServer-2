@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name_str": "攻打世界首领\n[e010ff]1[-]次",
+        "cond": 1,
+        "task_id": 1,
+        "reward_id": 917101
+    },
+    "3": {
+        "name_str": "护送[e010ff]3[-]次",
+        "cond": 3,
+        "task_id": 3,
+        "reward_id": 917103
+    },
+    "2": {
+        "name_str": "击杀50级以上怪物[e010ff]2000[-]只",
+        "cond": 2000,
+        "task_id": 2,
+        "reward_id": 917102
+    },
+    "5": {
+        "name_str": "消耗元宝",
+        "cond": 10,
+        "task_id": 7,
+        "reward_id": 917105
+    },
+    "4": {
+        "name_str": "消耗绑定元宝",
+        "cond": 500,
+        "task_id": 6,
+        "reward_id": 917104
+    }
+}

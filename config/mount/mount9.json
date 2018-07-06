@@ -1,0 +1,960 @@
+{
+    "10": {
+        "toughness": 462,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -98,
+            287,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 100,
+        "crit": 616,
+        "name_pic": "0099.png",
+        "rot": [
+            17,
+            -140,
+            12
+        ],
+        "growth_item": 216120902,
+        "damage_multi": 1500,
+        "defence": 3849,
+        "attack": 7698,
+        "health": 76980,
+        "dodge": 616,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 770,
+        "ability": 200,
+        "update_rot": [
+            17,
+            -128,
+            12
+        ],
+        "name": "灵兽10阶",
+        "update_pos": [
+            -211,
+            -104,
+            -500
+        ],
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "ex_param": 2,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000009",
+        "fail_prop": {
+            "attack": 8
+        },
+        "model_name": "905000009"
+    },
+    "216310096": {
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000001",
+        "name": "通天之灵",
+        "model_name": "905000001"
+    },
+    "1": {
+        "toughness": 6,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -105,
+            283,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 0,
+        "ex_param": 2,
+        "crit": 8,
+        "name_pic": "0072.png",
+        "rot": [
+            17,
+            -153,
+            8
+        ],
+        "growth_item": 216120902,
+        "ability": 0,
+        "defence": 49,
+        "attack": 98,
+        "health": 980,
+        "dodge": 8,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 10,
+        "damage_multi": 0,
+        "update_rot": [
+            17,
+            -153,
+            8
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "灵兽1阶",
+        "success": [
+            [
+                0,
+                59,
+                0
+            ],
+            [
+                60,
+                72,
+                10000
+            ],
+            [
+                73,
+                80,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110902,
+            216110901
+        ],
+        "amount": 2,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000000",
+        "reward": 201091,
+        "model_name": "905000000"
+    },
+    "3": {
+        "toughness": 30,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -105,
+            288,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 0,
+        "ex_param": 2,
+        "crit": 40,
+        "name_pic": "0074.png",
+        "rot": [
+            17,
+            -127,
+            11
+        ],
+        "growth_item": 216120902,
+        "ability": 5,
+        "defence": 249,
+        "add_skill": 400130001,
+        "attack": 498,
+        "health": 4980,
+        "dodge": 40,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 50,
+        "damage_multi": 0,
+        "update_rot": [
+            17,
+            -127,
+            11
+        ],
+        "update_pos": [
+            -221,
+            -83,
+            -500
+        ],
+        "name": "灵兽3阶",
+        "success": [
+            [
+                0,
+                134,
+                0
+            ],
+            [
+                135,
+                148,
+                450
+            ],
+            [
+                149,
+                157,
+                4000
+            ],
+            [
+                158,
+                173,
+                10000
+            ],
+            [
+                174,
+                198,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "model_name": "905000003",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110902,
+            216110901
+        ],
+        "amount": 4,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000003",
+        "reward": 201093,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "2": {
+        "toughness": 18,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -105,
+            254,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 0,
+        "ex_param": 2,
+        "crit": 24,
+        "name_pic": "0073.png",
+        "rot": [
+            17,
+            -136,
+            11
+        ],
+        "growth_item": 216120902,
+        "ability": 0,
+        "defence": 149,
+        "attack": 298,
+        "health": 2980,
+        "dodge": 24,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 30,
+        "damage_multi": 0,
+        "update_rot": [
+            17,
+            -136,
+            11
+        ],
+        "update_pos": [
+            -221,
+            -103,
+            -500
+        ],
+        "name": "灵兽2阶",
+        "success": [
+            [
+                0,
+                89,
+                0
+            ],
+            [
+                90,
+                99,
+                500
+            ],
+            [
+                100,
+                102,
+                4000
+            ],
+            [
+                103,
+                115,
+                10000
+            ],
+            [
+                116,
+                129,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110902,
+            216110901
+        ],
+        "amount": 3,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000002",
+        "reward": 201092,
+        "model_name": "905000002"
+    },
+    "5": {
+        "toughness": 96,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -105,
+            241,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 15,
+        "ex_param": 2,
+        "crit": 128,
+        "name_pic": "0076.png",
+        "rot": [
+            17,
+            -149,
+            12
+        ],
+        "growth_item": 216120902,
+        "ability": 30,
+        "defence": 799,
+        "add_skill": 400130003,
+        "attack": 1598,
+        "health": 15980,
+        "dodge": 128,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 160,
+        "damage_multi": 200,
+        "update_rot": [
+            17,
+            -149,
+            12
+        ],
+        "update_pos": [
+            -231,
+            -141,
+            -500
+        ],
+        "name": "灵兽5阶",
+        "success": [
+            [
+                0,
+                316,
+                0
+            ],
+            [
+                317,
+                349,
+                350
+            ],
+            [
+                350,
+                370,
+                4000
+            ],
+            [
+                371,
+                407,
+                10000
+            ],
+            [
+                408,
+                464,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "model_name": "905000005",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110902,
+            216110901
+        ],
+        "amount": 6,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000005",
+        "reward": 201095,
+        "fail_prop": {
+            "attack": 6
+        }
+    },
+    "4": {
+        "toughness": 60,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -105,
+            241,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 5,
+        "ex_param": 2,
+        "crit": 80,
+        "name_pic": "0075.png",
+        "rot": [
+            17,
+            -149,
+            12
+        ],
+        "growth_item": 216120902,
+        "ability": 15,
+        "defence": 499,
+        "add_skill": 400130002,
+        "attack": 998,
+        "health": 9980,
+        "dodge": 80,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 100,
+        "damage_multi": 0,
+        "update_rot": [
+            17,
+            -149,
+            12
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "灵兽4阶",
+        "success": [
+            [
+                0,
+                198,
+                0
+            ],
+            [
+                199,
+                219,
+                400
+            ],
+            [
+                220,
+                232,
+                4000
+            ],
+            [
+                233,
+                255,
+                10000
+            ],
+            [
+                256,
+                291,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "model_name": "905000004",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110902,
+            216110901
+        ],
+        "amount": 5,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000004",
+        "reward": 201094,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "7": {
+        "toughness": 210,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -70,
+            241,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 45,
+        "ex_param": 2,
+        "crit": 280,
+        "name_pic": "0078.png",
+        "rot": [
+            17,
+            -135,
+            -5
+        ],
+        "growth_item": 216120902,
+        "ability": 60,
+        "defence": 1749,
+        "add_skill": 400130004,
+        "attack": 3498,
+        "health": 34980,
+        "dodge": 280,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 350,
+        "damage_multi": 500,
+        "update_rot": [
+            17,
+            -149,
+            12
+        ],
+        "update_pos": [
+            -231,
+            -141,
+            -500
+        ],
+        "name": "灵兽7阶",
+        "success": [
+            [
+                0,
+                726,
+                0
+            ],
+            [
+                727,
+                802,
+                250
+            ],
+            [
+                803,
+                849,
+                4000
+            ],
+            [
+                850,
+                934,
+                10000
+            ],
+            [
+                935,
+                1063,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "model_name": "905000007",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110903,
+            216110902,
+            216110901
+        ],
+        "amount": 8,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000007",
+        "reward": 201097,
+        "fail_prop": {
+            "attack": 7
+        }
+    },
+    "6": {
+        "toughness": 150,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -90,
+            241,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 30,
+        "ex_param": 2,
+        "crit": 200,
+        "name_pic": "0077.png",
+        "rot": [
+            17,
+            -135,
+            6
+        ],
+        "growth_item": 216120902,
+        "ability": 45,
+        "defence": 1249,
+        "attack": 2498,
+        "health": 24980,
+        "dodge": 200,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 250,
+        "damage_multi": 200,
+        "update_rot": [
+            17,
+            -135,
+            6
+        ],
+        "update_pos": [
+            -215,
+            -141,
+            -500
+        ],
+        "name": "灵兽6阶",
+        "success": [
+            [
+                0,
+                471,
+                0
+            ],
+            [
+                472,
+                520,
+                300
+            ],
+            [
+                521,
+                551,
+                4000
+            ],
+            [
+                552,
+                606,
+                10000
+            ],
+            [
+                607,
+                690,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "fail_prop": {
+            "attack": 6
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110902,
+            216110901
+        ],
+        "amount": 7,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000006",
+        "reward": 201096,
+        "model_name": "905000006"
+    },
+    "9": {
+        "toughness": 372,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -98,
+            287,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 80,
+        "ex_param": 2,
+        "crit": 496,
+        "name_pic": "0099.png",
+        "rot": [
+            17,
+            -140,
+            12
+        ],
+        "growth_item": 216120902,
+        "ability": 130,
+        "defence": 3099,
+        "attack": 6198,
+        "health": 61980,
+        "dodge": 496,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 620,
+        "damage_multi": 1000,
+        "update_rot": [
+            17,
+            -128,
+            12
+        ],
+        "update_pos": [
+            -211,
+            -104,
+            -500
+        ],
+        "name": "灵兽9阶",
+        "success": [
+            [
+                0,
+                1540,
+                0
+            ],
+            [
+                1541,
+                1700,
+                150
+            ],
+            [
+                1701,
+                1800,
+                4000
+            ],
+            [
+                1801,
+                1980,
+                10000
+            ],
+            [
+                1981,
+                2251,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "fail_prop": {
+            "attack": 8
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110903,
+            216110902,
+            216110901
+        ],
+        "amount": 10,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000009",
+        "reward": 201099,
+        "model_name": "905000009"
+    },
+    "8": {
+        "toughness": 282,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            -155,
+            160,
+            1000
+        ],
+        "ability_item": 216120901,
+        "growth": 60,
+        "ex_param": 2,
+        "crit": 376,
+        "name_pic": "0079.png",
+        "rot": [
+            17,
+            -128,
+            12
+        ],
+        "growth_item": 216120902,
+        "ability": 80,
+        "defence": 2349,
+        "attack": 4698,
+        "health": 46980,
+        "dodge": 376,
+        "update_sca": [
+            3,
+            3,
+            3
+        ],
+        "hit": 470,
+        "damage_multi": 500,
+        "update_rot": [
+            17,
+            -128,
+            12
+        ],
+        "update_pos": [
+            -268,
+            -243,
+            -500
+        ],
+        "name": "灵兽8阶",
+        "success": [
+            [
+                0,
+                1089,
+                0
+            ],
+            [
+                1090,
+                1203,
+                200
+            ],
+            [
+                1204,
+                1274,
+                4000
+            ],
+            [
+                1275,
+                1401,
+                10000
+            ],
+            [
+                1402,
+                1594,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            126010101,
+            126020101,
+            126030101
+        ],
+        "fail_prop": {
+            "attack": 7
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110903,
+            216110902,
+            216110901
+        ],
+        "amount": 9,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "905000008",
+        "reward": 201098,
+        "model_name": "905000008"
+    }
+}

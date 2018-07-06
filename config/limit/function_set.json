@@ -1,0 +1,1286 @@
+{
+    "fun_magic": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "法器系统",
+        "referenceId": "tu_03fq",
+        "task_id": 100103030,
+        "altas": "guide",
+        "priority": 27,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/roleIcon",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_sec_kill": {
+        "priority": 74,
+        "remark": "限时秒杀",
+        "open_level": 50
+    },
+    "fun_magic_taste": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "法器系统体验",
+        "model_rot": [
+            0,
+            -140,
+            0
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100103010,
+        "left_model_rot": [
+            0,
+            0,
+            0
+        ],
+        "describe": [
+            [
+                "roleWindow/_0025_bq01.png",
+                200
+            ],
+            [
+                "roleWindow/_0024_bq02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            127.3,
+            -500
+        ],
+        "priority": 26,
+        "model_sca": [
+            4.5,
+            4.5,
+            4.5
+        ],
+        "model_path": "/mounts/902000001",
+        "show_left_txt": "宝器",
+        "left_model_sca": [
+            4,
+            4,
+            4
+        ],
+        "left_model_pos": [
+            0,
+            75,
+            800
+        ],
+        "show_left": 1,
+        "model_name": "902000001",
+        "name_icon": "roleWindow/_0026_bq.png",
+        "showLv": 26
+    },
+    "fun_marriage": {
+        "show_interval": 999,
+        "remark": "姻缘",
+        "model_rot": [
+            0,
+            0,
+            0
+        ],
+        "open_level": 57,
+        "left_model_rot": [
+            0,
+            0,
+            0
+        ],
+        "model_pos": [
+            16.649999999999999,
+            140,
+            -500
+        ],
+        "priority": 58,
+        "model_sca": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "model_path": "/effects/uiEffect/luomo/GUI_Jiehun",
+        "show_left_txt": "婚姻",
+        "left_model_sca": [
+            0.80000000000000004,
+            0.80000000000000004,
+            0.80000000000000004
+        ],
+        "left_model_pos": [
+            16.399999999999999,
+            60,
+            800
+        ],
+        "show_left": 2,
+        "model_name": "GUI_Jiehun",
+        "showLv": 57
+    },
+    "fun_act_change": {
+        "priority": 81,
+        "remark": "红装兑换",
+        "open_level": 1
+    },
+    "fun_quick_buy": {
+        "priority": 24,
+        "remark": "快速购买窗口",
+        "open_level": 23,
+        "task_id": 100102020
+    },
+    "fun_beast_taste": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "灵宠系统体验",
+        "model_rot": [
+            0,
+            -180,
+            0
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100103125,
+        "left_model_rot": [
+            0,
+            -180,
+            0
+        ],
+        "describe": [
+            [
+                "roleWindow/_0022_xt01.png",
+                200
+            ],
+            [
+                "roleWindow/_0021_xt02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            -30,
+            -500
+        ],
+        "priority": 32,
+        "model_sca": [
+            3,
+            3,
+            3
+        ],
+        "model_path": "/mounts/700000001",
+        "show_left_txt": "仙童",
+        "left_model_sca": [
+            1.5,
+            1.5,
+            1.5
+        ],
+        "left_model_pos": [
+            0,
+            0,
+            800
+        ],
+        "show_left": 1,
+        "model_name": "700000001",
+        "name_icon": "roleWindow/_0023_xt.png",
+        "showLv": 38
+    },
+    "fun_league": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "帮派系统",
+        "referenceId": "icon_faction",
+        "task_id": 100104001,
+        "priority": 41,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/factionIcon",
+        "stop_move_when_unlock": 1,
+        "show_left": 0,
+        "showLv": 42
+    },
+    "fun_first_recharge": {
+        "priority": 9,
+        "remark": "今日首充",
+        "show_left": 0,
+        "open_level": 10
+    },
+    "fun_equip_Strengthen": {
+        "priority": 34,
+        "remark": "锻造-强化",
+        "show_left": 0,
+        "open_level": 40
+    },
+    "fun_100_return": {
+        "priority": 42,
+        "remark": "百倍返利",
+        "show_left": 0,
+        "open_level": 43
+    },
+    "fun_illiusion": {
+        "sound": "hongbao_1",
+        "show_interval": 2,
+        "remark": "图鉴",
+        "referenceId": "icon_book",
+        "task_id": 100105045,
+        "priority": 56,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/bookIcon",
+        "stop_move_when_unlock": 1,
+        "show_left": 0,
+        "showLv": 52
+    },
+    "fun_skill": {
+        "priority": 1,
+        "remark": "技能",
+        "referenceId": "icon_skill",
+        "show_left": 0,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/skillIcon"
+    },
+    "fun_lucky_wheel": {
+        "priority": 52,
+        "remark": "幸运转盘",
+        "open_level": 50
+    },
+    "fun_legend_script": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "问鼎江湖",
+        "referenceId": "tu_11wdjh",
+        "task_id": 100103150,
+        "altas": "guide",
+        "priority": 39,
+        "target_pos": "mainUI/mainPanel/topRightPanel/funcIconPanel/gameObject/fuben",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_equip_7": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得护腿",
+        "referenceId": "10250200",
+        "task_id": 100101070,
+        "new_show_txt": {
+            "1": "精炼·狻猊护腿",
+            "2": "精炼·狻猊护腿"
+        },
+        "altas": "item1",
+        "priority": 16,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ6",
+        "stop_move_when_unlock": 1
+    },
+    "fun_bestrong": {
+        "priority": 84,
+        "remark": "我要变强",
+        "open_level": 50
+    },
+    "fun_advance_script": {
+        "priority": 23,
+        "remark": "进阶副本",
+        "show_left": 0,
+        "task_id": 100102010
+    },
+    "fun_mount_taste": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "战骑系统体验",
+        "model_rot": [
+            0,
+            -140,
+            0
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100101010,
+        "left_model_rot": [
+            0,
+            -140,
+            0
+        ],
+        "describe": [
+            [
+                "roleWindow/_0028_qc01.png",
+                200
+            ],
+            [
+                "roleWindow/_0027_qc02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            16.649999999999999,
+            -19.170000000000002,
+            -500
+        ],
+        "priority": 10,
+        "model_sca": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "model_path": "/mounts/600000001",
+        "show_left_txt": "骑宠",
+        "left_model_sca": [
+            0.80000000000000004,
+            0.80000000000000004,
+            0.80000000000000004
+        ],
+        "left_model_pos": [
+            0,
+            0,
+            800
+        ],
+        "show_left": 1,
+        "model_name": "600000001",
+        "name_icon": "roleWindow/_0029_qc.png",
+        "showLv": 11
+    },
+    "fun_beast_equip": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "灵武系统",
+        "model_rot": [
+            -21.359999999999999,
+            90,
+            1.8300000000000001
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100107080,
+        "left_model_rot": [
+            -21.359999999999999,
+            90,
+            1.8300000000000001
+        ],
+        "describe": [
+            [
+                "roleWindow/_0010_xw01.png",
+                200
+            ],
+            [
+                "roleWindow/_0009_xw02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            138.94,
+            800
+        ],
+        "priority": 61,
+        "model_sca": [
+            3,
+            3,
+            3
+        ],
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/roleIcon",
+        "model_path": "/mounts/700000001",
+        "show_left_txt": "仙武",
+        "left_model_sca": [
+            1.8999999999999999,
+            1.8999999999999999,
+            1.8999999999999999
+        ],
+        "left_model_pos": [
+            0,
+            71.700000000000003,
+            800
+        ],
+        "show_left": 2,
+        "model_name": "908000001",
+        "name_icon": "roleWindow/_0011_xw.png",
+        "showLv": 65
+    },
+    "fun_god_equip": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "神兵系统",
+        "model_rot": [
+            0,
+            0,
+            41
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100107001,
+        "left_model_rot": [
+            0,
+            0,
+            47.899999999999999
+        ],
+        "describe": [
+            [
+                "roleWindow/_0019_mr01.png",
+                200
+            ],
+            [
+                "roleWindow/_0018_mr02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            92.900000000000006,
+            194.90000000000001,
+            -500
+        ],
+        "priority": 60,
+        "model_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "model_path": "/mounts/901200001",
+        "show_left_txt": "魔刃",
+        "left_model_sca": [
+            1.5,
+            1.5,
+            1.5
+        ],
+        "left_model_pos": [
+            37.700000000000003,
+            104.7,
+            800
+        ],
+        "show_left": 2,
+        "model_name": "901200001",
+        "name_icon": "roleWindow/_0020_mr.png",
+        "showLv": 60
+    },
+    "fun_gold_treasures": {
+        "priority": 53,
+        "remark": "元宝宝匣",
+        "open_level": 50
+    },
+    "fun_advance_treasures": {
+        "priority": 54,
+        "remark": "进阶宝匣",
+        "open_level": 50
+    },
+    "fun_invest": {
+        "priority": 47,
+        "remark": "投资",
+        "open_level": 48
+    },
+    "fun_equip_4": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得护腕",
+        "referenceId": "10220200",
+        "task_id": 100106065,
+        "new_show_txt": {
+            "1": "精炼·狻猊护腕",
+            "2": "精炼·狻猊护腕"
+        },
+        "altas": "item1",
+        "priority": 8,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ3",
+        "stop_move_when_unlock": 1
+    },
+    "fun_jianchi": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "剑池",
+        "referenceId": "icon_jianchi",
+        "open_level": 48,
+        "task_id": 100104135,
+        "priority": 46,
+        "target_pos": "mainUI/mainPanel/playerPanel/icon_jianchi",
+        "stop_move_when_unlock": 1,
+        "show_left": 0,
+        "showLv": 48
+    },
+    "fun_exp_script": {
+        "priority": 30,
+        "remark": "经验副本",
+        "show_left": 0,
+        "task_id": 100103090,
+        "showLv": 34
+    },
+    "fun_equip_forging": {
+        "priority": 63,
+        "remark": "锻造-红装锻造",
+        "open_level": 70
+    },
+    "fun_market": {
+        "priority": 78,
+        "remark": "市场",
+        "open_level": 54
+    },
+    "fun_fashion": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "时装",
+        "model_rot": [
+            10,
+            -180,
+            0
+        ],
+        "open_level": 36,
+        "task_id": 100103110,
+        "model_pos": [
+            0,
+            -25,
+            -500
+        ],
+        "priority": 31,
+        "stop_move_when_unlock": 1,
+        "model_path": "/roles/1100,/roles/2100",
+        "model_sca": [
+            2,
+            2,
+            2
+        ],
+        "model_name": "1100x2100"
+    },
+    "fun_equip_5": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得战盔",
+        "referenceId": "10230200",
+        "task_id": 100101035,
+        "new_show_txt": {
+            "1": "精炼·狻猊战盔",
+            "2": "精炼·狻猊战盔"
+        },
+        "altas": "item1",
+        "priority": 13,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ4",
+        "stop_move_when_unlock": 1
+    },
+    "fun_story_script": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "剧情副本",
+        "referenceId": "tu_13jq",
+        "task_id": 100104075,
+        "altas": "guide",
+        "priority": 43,
+        "target_pos": "mainUI/mainPanel/topRightPanel/funcIconPanel/gameObject/fuben",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_open_activity": {
+        "priority": 19,
+        "remark": "开服活动",
+        "show_left": 0,
+        "open_level": 20
+    },
+    "fun_luckhitegg": {
+        "priority": 79,
+        "remark": "幸运砸蛋",
+        "open_level": 50
+    },
+    "fun_equip_1": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得武器",
+        "referenceId": "10100300",
+        "task_id": 100106005,
+        "new_show_txt": {
+            "1": "卓越·万仞剑",
+            "2": "卓越·万仞剑"
+        },
+        "altas": "item1",
+        "priority": 2,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ0",
+        "stop_move_when_unlock": 1
+    },
+    "fun_maze_treasure": {
+        "priority": 76,
+        "remark": "天帝宝库",
+        "open_level": 50
+    },
+    "fun_beast_wing": {
+        "sound": "gongneng_1",
+        "show_interval": 8,
+        "remark": "灵羽系统",
+        "model_rot": [
+            0,
+            180,
+            0
+        ],
+        "open_level": 75,
+        "left_model_rot": [
+            0,
+            -180,
+            0
+        ],
+        "describe": [
+            [
+                "roleWindow/_0007_xy01.png",
+                200
+            ],
+            [
+                "roleWindow/_0006_xy02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            75,
+            -500
+        ],
+        "priority": 69,
+        "model_sca": [
+            3.5,
+            3.5,
+            3.5
+        ],
+        "model_path": "/mounts/906000000",
+        "show_left_txt": "仙翼",
+        "left_model_sca": [
+            1.8,
+            1.8,
+            1.8
+        ],
+        "left_model_pos": [
+            0,
+            50,
+            800
+        ],
+        "stop_move_when_unlock": 1,
+        "show_left": 2,
+        "model_name": "906000000",
+        "name_icon": "roleWindow/_0008_xy.png",
+        "showLv": 75
+    },
+    "fun_equip_6": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得战甲",
+        "referenceId": "10240200",
+        "task_id": 100101050,
+        "new_show_txt": {
+            "1": "精炼·狻猊战甲",
+            "2": "精炼·狻猊战甲"
+        },
+        "altas": "item1",
+        "priority": 14,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ5",
+        "stop_move_when_unlock": 1
+    },
+    "fun_return_act": {
+        "priority": 55,
+        "remark": "返利大厅",
+        "open_level": 50
+    },
+    "fun_first_skill": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "第一个技能",
+        "referenceId": "{1}010",
+        "task_id": 100106020,
+        "new_show_txt": {
+            "1": "真·裂地斩",
+            "2": "真·寒冰刺"
+        },
+        "priority": 4,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/SkillPanel/skillicon1",
+        "stop_move_when_unlock": 1
+    },
+    "fun_equip_2": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得项链",
+        "referenceId": "10200200",
+        "task_id": 100106015,
+        "new_show_txt": {
+            "1": "精炼·紫晶坠子",
+            "2": "精炼·紫晶坠子"
+        },
+        "altas": "item1",
+        "priority": 3,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ1",
+        "stop_move_when_unlock": 1
+    },
+    "fun_equip_3": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得戒指",
+        "referenceId": "10210200",
+        "task_id": 100106050,
+        "new_show_txt": {
+            "1": "精炼·墨玉王戒",
+            "2": "精炼·墨玉王戒"
+        },
+        "altas": "item1",
+        "priority": 6,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ2",
+        "stop_move_when_unlock": 1
+    },
+    "fun_equip_Refine": {
+        "priority": 38,
+        "remark": "锻造-精炼",
+        "show_left": 0,
+        "open_level": 40
+    },
+    "fun_spring_festival": {
+        "priority": 72,
+        "remark": "春节",
+        "open_level": 50
+    },
+    "fun_equip_8": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "获得战靴",
+        "referenceId": "10260200",
+        "task_id": 100101115,
+        "new_show_txt": {
+            "1": "精炼·狻猊战靴",
+            "2": "精炼·狻猊战靴"
+        },
+        "altas": "item1",
+        "priority": 18,
+        "show_equ_list": 1,
+        "target_pos": "window/SHOW_NEW_WINDOW/content/Equ7",
+        "stop_move_when_unlock": 1
+    },
+    "fun_battle_hall": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "战场大厅",
+        "referenceId": "zhanchang",
+        "open_level": 46,
+        "priority": 44,
+        "target_pos": "mainUI/mainPanel/topRightPanel/funcIconPanel/gameObject/zhanchang",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_second_skill": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "第二个技能",
+        "referenceId": "{1}012",
+        "task_id": 100106055,
+        "new_show_txt": {
+            "1": "真·火龙啸",
+            "2": "真·冰凤鸣"
+        },
+        "priority": 7,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/SkillPanel/skillicon2",
+        "stop_move_when_unlock": 1
+    },
+    "fun_wing": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "仙羽系统",
+        "model_rot": [
+            0,
+            -180,
+            0
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100105100,
+        "left_model_rot": [
+            0,
+            -180,
+            0
+        ],
+        "describe": [
+            [
+                "roleWindow/_0016_sy01.png",
+                200
+            ],
+            [
+                "roleWindow/_0015_sy02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            -30,
+            -500
+        ],
+        "priority": 57,
+        "model_sca": [
+            3,
+            3,
+            3
+        ],
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/roleIcon",
+        "model_path": "/mounts/900000000",
+        "show_left_txt": "神翼",
+        "left_model_sca": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "left_model_pos": [
+            0,
+            17,
+            800
+        ],
+        "show_left": 1,
+        "model_name": "900000000",
+        "name_icon": "roleWindow/_0017_sy.png",
+        "showLv": 55
+    },
+    "fun_equip_melting": {
+        "priority": 37,
+        "remark": "锻造-熔炼",
+        "show_left": 0,
+        "open_level": 40
+    },
+    "fun_ninewords_act": {
+        "priority": 77,
+        "remark": "密宗九字",
+        "open_level": 50
+    },
+    "fun_achieve": {
+        "priority": 66,
+        "remark": "成就",
+        "open_level": 40
+    },
+    "fun_beast_mount": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "灵骑系统",
+        "model_rot": [
+            5,
+            -128,
+            5
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100107140,
+        "left_model_rot": [
+            5,
+            -128,
+            5
+        ],
+        "describe": [
+            [
+                "roleWindow/_0013_xs01.png",
+                200
+            ],
+            [
+                "roleWindow/_0012_xs02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            -19.399999999999999,
+            800
+        ],
+        "priority": 62,
+        "model_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/roleIcon",
+        "model_path": "/mounts/907000000",
+        "show_left_txt": "仙兽",
+        "left_model_sca": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "left_model_pos": [
+            0,
+            5.54,
+            800
+        ],
+        "show_left": 2,
+        "model_name": "907000000",
+        "name_icon": "roleWindow/_0014_xs.png",
+        "showLv": 68
+    },
+    "fun_god_cast": {
+        "priority": 65,
+        "remark": "神铸按钮",
+        "open_level": 40
+    },
+    "fun_bag": {
+        "priority": 12,
+        "remark": "背包",
+        "task_id": 100101020
+    },
+    "fun_third_skill": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "第三个技能",
+        "referenceId": "{1}011",
+        "task_id": 100101020,
+        "new_show_txt": {
+            "1": "烈焰归墟",
+            "2": "万化归一"
+        },
+        "priority": 11,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/SkillPanel/skillicon3",
+        "stop_move_when_unlock": 1
+    },
+    "fun_welfare": {
+        "priority": 25,
+        "remark": "福利",
+        "show_left": 0,
+        "open_level": 25
+    },
+    "fun_transfer": {
+        "priority": 83,
+        "remark": "变身",
+        "open_level": 44,
+        "showLv": 48
+    },
+    "fun_beast_mao": {
+        "sound": "gongneng_1",
+        "show_interval": 8,
+        "remark": "灵猫系统",
+        "model_rot": [
+            17,
+            -153,
+            8
+        ],
+        "open_level": 78,
+        "left_model_rot": [
+            17,
+            -134,
+            8
+        ],
+        "describe": [
+            [
+                "roleWindow/_0004_ls02.png",
+                200
+            ],
+            [
+                "roleWindow/_0003_ls01.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            0,
+            -19.399999999999999,
+            800
+        ],
+        "priority": 70,
+        "model_sca": [
+            3,
+            3,
+            3
+        ],
+        "model_path": "/mounts/905000000",
+        "show_left_txt": "灵兽",
+        "left_model_sca": [
+            2,
+            2,
+            2
+        ],
+        "left_model_pos": [
+            0,
+            -7.5,
+            800
+        ],
+        "stop_move_when_unlock": 1,
+        "show_left": 2,
+        "model_name": "905000000",
+        "name_icon": "roleWindow/_0005_ls.png",
+        "showLv": 78
+    },
+    "fun_rama": {
+        "sound": "hongbao_1",
+        "show_interval": 5,
+        "remark": "罗摩",
+        "model_rot": [
+            0,
+            0,
+            0
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100106040,
+        "left_model_rot": [
+            21,
+            25.300000000000001,
+            11.300000000000001
+        ],
+        "describe": [
+            [
+                "roleWindow/_0031_gb01.png",
+                200
+            ],
+            [
+                "roleWindow/_0030_gb02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            16.649999999999999,
+            152,
+            -500
+        ],
+        "priority": 5,
+        "model_sca": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/loserIcon",
+        "model_path": "/effects/uiEffect/luomo/GUI_LM_01",
+        "show_left_txt": "古宝",
+        "left_model_sca": [
+            0.69999999999999996,
+            0.69999999999999996,
+            0.69999999999999996
+        ],
+        "left_model_pos": [
+            16.399999999999999,
+            63,
+            800
+        ],
+        "show_left": 1,
+        "model_name": "GUI_LM_01",
+        "name_icon": "roleWindow/_0032_gb.png",
+        "showLv": 6
+    },
+    "fun_travel_script": {
+        "priority": 51,
+        "remark": "多人副本",
+        "show_left": 0,
+        "open_level": 50
+    },
+    "fun_beast": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "灵宠系统",
+        "referenceId": "tu_15lc",
+        "task_id": 100103160,
+        "altas": "guide",
+        "priority": 40,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/roleIcon",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_treasurehouse": {
+        "priority": 67,
+        "remark": "藏宝阁",
+        "open_level": 1
+    },
+    "fun_equip_gemstone": {
+        "priority": 35,
+        "remark": "锻造-宝石",
+        "show_left": 0,
+        "open_level": 40
+    },
+    "fun_equip_Synthesis": {
+        "priority": 36,
+        "remark": "锻造-合成",
+        "show_left": 0,
+        "open_level": 40
+    },
+    "fun_mount": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "战骑系统",
+        "referenceId": "tu_01zq",
+        "task_id": 100102005,
+        "altas": "guide",
+        "priority": 21,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/roleIcon",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_script": {
+        "priority": 22,
+        "remark": "副本",
+        "show_left": 0,
+        "task_id": 100102010
+    },
+    "fun_rama_script": {
+        "sound": "gongneng_2",
+        "show_interval": 2,
+        "remark": "古宝地窟",
+        "referenceId": "tu_12lm",
+        "open_level": 58,
+        "altas": "guide",
+        "priority": 59,
+        "target_pos": "mainUI/mainPanel/topRightPanel/funcIconPanel/gameObject/fuben",
+        "stop_move_when_unlock": 1,
+        "show_left": 0
+    },
+    "fun_travel": {
+        "priority": 48,
+        "remark": "跨服",
+        "show_left": 0,
+        "open_level": 50
+    },
+    "fun_cabinets_curiosity": {
+        "priority": 75,
+        "remark": "藏珍阁",
+        "open_level": 50
+    },
+    "fun_7_login": {
+        "priority": 20,
+        "remark": "七天登陆",
+        "show_left": 0,
+        "open_level": 20
+    },
+    "fun_equip_soul": {
+        "priority": 64,
+        "remark": "神铸-炼魂",
+        "open_level": 70
+    },
+    "fun_equip": {
+        "sound": "gongneng_2",
+        "show_interval": 3,
+        "remark": "锻造",
+        "referenceId": "icon_meel",
+        "task_id": 100103145,
+        "priority": 33,
+        "target_pos": "mainUI/mainPanel/SkillIconPanel/MainPanel/meelIcon",
+        "stop_move_when_unlock": 1,
+        "show_left": 1,
+        "showLv": 40
+    },
+    "fun_lantern_festival": {
+        "priority": 73,
+        "remark": "元宵",
+        "open_level": 50
+    },
+    "fun_7_discount_shop": {
+        "priority": 82,
+        "remark": "七折商店",
+        "open_level": 50
+    },
+    "fun_kaifu_trailer": {
+        "priority": 80,
+        "remark": "开服预告",
+        "open_level": 49
+    },
+    "fun_arena": {
+        "priority": 45,
+        "remark": "江湖榜",
+        "open_level": 46
+    },
+    "fun_activity": {
+        "priority": 49,
+        "remark": "活动",
+        "show_left": 0,
+        "task_id": 100104160
+    },
+    "fun_screen_skill": {
+        "priority": 29,
+        "remark": "全屏技能",
+        "task_id": 100103075
+    },
+    "fun_tian_gang": {
+        "sound": "gongneng_1",
+        "show_interval": 8,
+        "remark": "天罡系统",
+        "model_rot": [
+            0,
+            0,
+            0
+        ],
+        "open_level": 80,
+        "left_model_rot": [
+            0,
+            0,
+            0
+        ],
+        "describe": [
+            [
+                "roleWindow/_0001_ys01.png",
+                200
+            ],
+            [
+                "roleWindow/_0000_ys02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            40,
+            134,
+            800
+        ],
+        "priority": 71,
+        "model_sca": [
+            1,
+            1,
+            1
+        ],
+        "model_path": "/mounts/GUI_TianGang01",
+        "show_left_txt": "元神",
+        "left_model_sca": [
+            0.5,
+            0.5,
+            0.5
+        ],
+        "left_model_pos": [
+            20,
+            85,
+            800
+        ],
+        "stop_move_when_unlock": 1,
+        "show_left": 2,
+        "model_name": "GUI_TianGang01",
+        "name_icon": "roleWindow/_0002_ys.png",
+        "showLv": 80
+    },
+    "fun_chat": {
+        "priority": 28,
+        "remark": "聊天功能",
+        "show_left": 0,
+        "open_level": 30
+    },
+    "fun_god_equip_taste": {
+        "sound": "hongbao_1",
+        "show_interval": 8,
+        "remark": "神兵系统体验",
+        "model_rot": [
+            0,
+            0,
+            41
+        ],
+        "stop_move_when_unlock": 1,
+        "task_id": 100101105,
+        "left_model_rot": [
+            0,
+            0,
+            47.899999999999999
+        ],
+        "describe": [
+            [
+                "roleWindow/_0019_mr01.png",
+                200
+            ],
+            [
+                "roleWindow/_0018_mr02.png",
+                200
+            ]
+        ],
+        "model_pos": [
+            92.900000000000006,
+            194.90000000000001,
+            -500
+        ],
+        "priority": 17,
+        "model_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "model_path": "/mounts/901200001",
+        "show_left_txt": "魔刃",
+        "left_model_sca": [
+            1.5,
+            1.5,
+            1.5
+        ],
+        "left_model_pos": [
+            37.700000000000003,
+            104.7,
+            800
+        ],
+        "show_left": 1,
+        "model_name": "901200001",
+        "name_icon": "roleWindow/_0020_mr.png",
+        "showLv": 18
+    },
+    "fun_xuanji": {
+        "priority": 68,
+        "remark": "璇玑宝箱",
+        "open_level": 70
+    },
+    "fun_rank": {
+        "priority": 50,
+        "remark": "排行榜",
+        "show_left": 0,
+        "open_level": 50
+    },
+    "fun_hook": {
+        "priority": 15,
+        "remark": "挂机",
+        "task_id": 100101060
+    }
+}

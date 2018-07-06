@@ -1,0 +1,282 @@
+{
+    "20": {
+        "remark": [
+            "11500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 11500
+        }
+    },
+    "11": {
+        "remark": [
+            "7000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 7000
+        }
+    },
+    "10": {
+        "remark": [
+            "6500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 6500
+        }
+    },
+    "13": {
+        "remark": [
+            "8000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 8000
+        }
+    },
+    "12": {
+        "remark": [
+            "7500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 7500
+        }
+    },
+    "15": {
+        "remark": [
+            "9000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 9000
+        }
+    },
+    "14": {
+        "remark": [
+            "8500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 8500
+        }
+    },
+    "17": {
+        "remark": [
+            "10000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 10000
+        }
+    },
+    "16": {
+        "remark": [
+            "9500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 9500
+        }
+    },
+    "19": {
+        "remark": [
+            "11000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 11000
+        }
+    },
+    "18": {
+        "remark": [
+            "10500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 10500
+        }
+    },
+    "1": {
+        "remark": [
+            "2000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 1000,
+        "name": "强体",
+        "detail": {
+            "health": 2000
+        }
+    },
+    "3": {
+        "remark": [
+            "3000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 3000
+        }
+    },
+    "2": {
+        "remark": [
+            "2500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 2500
+        }
+    },
+    "5": {
+        "remark": [
+            "4000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 4000
+        }
+    },
+    "4": {
+        "remark": [
+            "3500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 3500
+        }
+    },
+    "7": {
+        "remark": [
+            "5000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 5000
+        }
+    },
+    "6": {
+        "remark": [
+            "4500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 4500
+        }
+    },
+    "9": {
+        "remark": [
+            "6000"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 6000
+        }
+    },
+    "8": {
+        "remark": [
+            "5500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 250,
+        "name": "强体",
+        "detail": {
+            "health": 5500
+        }
+    }
+}

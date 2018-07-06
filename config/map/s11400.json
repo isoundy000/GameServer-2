@@ -1,0 +1,111 @@
+{
+    "scene_id" : 11400,
+    "name" : "晨曦森林",
+	"layout" : [{
+        "born_type" : "center",
+        "monster_sort" : 500140001,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [3902,14654],
+        "born_times" : "unlimited",
+		"skill_set" : [400030001]
+       
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140002,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [3742,9821],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140003,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [1342,11469],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140004,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [1265,6576],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140005,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [4866,5991],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140006,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [5908,6830],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140007,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [7245,10388],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500140008,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [7007,3557],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "center",
+        "monster_sort" : 500140009,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [5117,1251],
+        "born_times" : "unlimited",
+		"skill_set" : [400030001]
+       
+    },
+	{
+        "born_type" : "center",
+        "monster_sort" : 500140010,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [3314,3034],
+        "born_times" : "unlimited",
+		"skill_set" : [400030001]
+       
+    }
+	]
+}

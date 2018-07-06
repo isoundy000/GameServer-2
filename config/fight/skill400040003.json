@@ -1,0 +1,1136 @@
+{
+    "60": {
+        "remark": [
+            "25200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            16
+        ],
+        "add_fight": 12600,
+        "name": "生命",
+        "detail": {
+            "health": 25200
+        }
+    },
+    "61": {
+        "remark": [
+            "25600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            16
+        ],
+        "add_fight": 12800,
+        "name": "生命",
+        "detail": {
+            "health": 25600
+        }
+    },
+    "62": {
+        "remark": [
+            "26000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            16
+        ],
+        "add_fight": 13000,
+        "name": "生命",
+        "detail": {
+            "health": 26000
+        }
+    },
+    "63": {
+        "remark": [
+            "26400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            16
+        ],
+        "add_fight": 13200,
+        "name": "生命",
+        "detail": {
+            "health": 26400
+        }
+    },
+    "64": {
+        "remark": [
+            "26800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            18
+        ],
+        "add_fight": 13400,
+        "name": "生命",
+        "detail": {
+            "health": 26800
+        }
+    },
+    "65": {
+        "remark": [
+            "27200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            18
+        ],
+        "add_fight": 13600,
+        "name": "生命",
+        "detail": {
+            "health": 27200
+        }
+    },
+    "66": {
+        "remark": [
+            "27600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            18
+        ],
+        "add_fight": 13800,
+        "name": "生命",
+        "detail": {
+            "health": 27600
+        }
+    },
+    "67": {
+        "remark": [
+            "28000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            18
+        ],
+        "add_fight": 14000,
+        "name": "生命",
+        "detail": {
+            "health": 28000
+        }
+    },
+    "68": {
+        "remark": [
+            "28400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            18
+        ],
+        "add_fight": 14200,
+        "name": "生命",
+        "detail": {
+            "health": 28400
+        }
+    },
+    "69": {
+        "remark": [
+            "28800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            20
+        ],
+        "add_fight": 14400,
+        "name": "生命",
+        "detail": {
+            "health": 28800
+        }
+    },
+    "24": {
+        "remark": [
+            "10800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            6
+        ],
+        "add_fight": 5400,
+        "name": "生命",
+        "detail": {
+            "health": 10800
+        }
+    },
+    "25": {
+        "remark": [
+            "11200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            6
+        ],
+        "add_fight": 5600,
+        "name": "生命",
+        "detail": {
+            "health": 11200
+        }
+    },
+    "26": {
+        "remark": [
+            "11600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            6
+        ],
+        "add_fight": 5800,
+        "name": "生命",
+        "detail": {
+            "health": 11600
+        }
+    },
+    "27": {
+        "remark": [
+            "12000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            6
+        ],
+        "add_fight": 6000,
+        "name": "生命",
+        "detail": {
+            "health": 12000
+        }
+    },
+    "20": {
+        "remark": [
+            "9200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            5
+        ],
+        "add_fight": 4600,
+        "name": "生命",
+        "detail": {
+            "health": 9200
+        }
+    },
+    "21": {
+        "remark": [
+            "9600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            5
+        ],
+        "add_fight": 4800,
+        "name": "生命",
+        "detail": {
+            "health": 9600
+        }
+    },
+    "22": {
+        "remark": [
+            "10000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            5
+        ],
+        "add_fight": 5000,
+        "name": "生命",
+        "detail": {
+            "health": 10000
+        }
+    },
+    "23": {
+        "remark": [
+            "10400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            5
+        ],
+        "add_fight": 5200,
+        "name": "生命",
+        "detail": {
+            "health": 10400
+        }
+    },
+    "28": {
+        "remark": [
+            "12400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            6
+        ],
+        "add_fight": 6200,
+        "name": "生命",
+        "detail": {
+            "health": 12400
+        }
+    },
+    "29": {
+        "remark": [
+            "12800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            7
+        ],
+        "add_fight": 6400,
+        "name": "生命",
+        "detail": {
+            "health": 12800
+        }
+    },
+    "0": {
+        "remark": [
+            "0"
+        ],
+        "upgrade_goods": [
+            216010001,
+            1
+        ],
+        "add_fight": 0,
+        "name": "生命",
+        "detail": {
+            "health": 0
+        }
+    },
+    "2": {
+        "remark": [
+            "2000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            1
+        ],
+        "add_fight": 1000,
+        "name": "生命",
+        "detail": {
+            "health": 2000
+        }
+    },
+    "4": {
+        "remark": [
+            "2800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            2
+        ],
+        "add_fight": 1400,
+        "name": "生命",
+        "detail": {
+            "health": 2800
+        }
+    },
+    "6": {
+        "remark": [
+            "3600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            2
+        ],
+        "add_fight": 1800,
+        "name": "生命",
+        "detail": {
+            "health": 3600
+        }
+    },
+    "8": {
+        "remark": [
+            "4400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            2
+        ],
+        "add_fight": 2200,
+        "name": "生命",
+        "detail": {
+            "health": 4400
+        }
+    },
+    "15": {
+        "remark": [
+            "7200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            4
+        ],
+        "add_fight": 3600,
+        "name": "生命",
+        "detail": {
+            "health": 7200
+        }
+    },
+    "14": {
+        "remark": [
+            "6800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            4
+        ],
+        "add_fight": 3400,
+        "name": "生命",
+        "detail": {
+            "health": 6800
+        }
+    },
+    "11": {
+        "remark": [
+            "5600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            3
+        ],
+        "add_fight": 2800,
+        "name": "生命",
+        "detail": {
+            "health": 5600
+        }
+    },
+    "10": {
+        "remark": [
+            "5200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            3
+        ],
+        "add_fight": 2600,
+        "name": "生命",
+        "detail": {
+            "health": 5200
+        }
+    },
+    "13": {
+        "remark": [
+            "6400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            3
+        ],
+        "add_fight": 3200,
+        "name": "生命",
+        "detail": {
+            "health": 6400
+        }
+    },
+    "12": {
+        "remark": [
+            "6000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            3
+        ],
+        "add_fight": 3000,
+        "name": "生命",
+        "detail": {
+            "health": 6000
+        }
+    },
+    "59": {
+        "remark": [
+            "24800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            16
+        ],
+        "add_fight": 12400,
+        "name": "生命",
+        "detail": {
+            "health": 24800
+        }
+    },
+    "58": {
+        "remark": [
+            "24400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            14
+        ],
+        "add_fight": 12200,
+        "name": "生命",
+        "detail": {
+            "health": 24400
+        }
+    },
+    "17": {
+        "remark": [
+            "8000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            4
+        ],
+        "add_fight": 4000,
+        "name": "生命",
+        "detail": {
+            "health": 8000
+        }
+    },
+    "16": {
+        "remark": [
+            "7600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            4
+        ],
+        "add_fight": 3800,
+        "name": "生命",
+        "detail": {
+            "health": 7600
+        }
+    },
+    "19": {
+        "remark": [
+            "8800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            5
+        ],
+        "add_fight": 4400,
+        "name": "生命",
+        "detail": {
+            "health": 8800
+        }
+    },
+    "54": {
+        "remark": [
+            "22800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            14
+        ],
+        "add_fight": 11400,
+        "name": "生命",
+        "detail": {
+            "health": 22800
+        }
+    },
+    "57": {
+        "remark": [
+            "24000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            14
+        ],
+        "add_fight": 12000,
+        "name": "生命",
+        "detail": {
+            "health": 24000
+        }
+    },
+    "56": {
+        "remark": [
+            "23600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            14
+        ],
+        "add_fight": 11800,
+        "name": "生命",
+        "detail": {
+            "health": 23600
+        }
+    },
+    "51": {
+        "remark": [
+            "21600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            12
+        ],
+        "add_fight": 10800,
+        "name": "生命",
+        "detail": {
+            "health": 21600
+        }
+    },
+    "50": {
+        "remark": [
+            "21200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            12
+        ],
+        "add_fight": 10600,
+        "name": "生命",
+        "detail": {
+            "health": 21200
+        }
+    },
+    "53": {
+        "remark": [
+            "22400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            12
+        ],
+        "add_fight": 11200,
+        "name": "生命",
+        "detail": {
+            "health": 22400
+        }
+    },
+    "52": {
+        "remark": [
+            "22000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            12
+        ],
+        "add_fight": 11000,
+        "name": "生命",
+        "detail": {
+            "health": 22000
+        }
+    },
+    "55": {
+        "remark": [
+            "23200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            14
+        ],
+        "add_fight": 11600,
+        "name": "生命",
+        "detail": {
+            "health": 23200
+        }
+    },
+    "18": {
+        "remark": [
+            "8400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            4
+        ],
+        "add_fight": 4200,
+        "name": "生命",
+        "detail": {
+            "health": 8400
+        }
+    },
+    "80": {
+        "remark": [
+            "33200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            24
+        ],
+        "add_fight": 16600,
+        "name": "生命",
+        "detail": {
+            "health": 33200
+        }
+    },
+    "48": {
+        "remark": [
+            "20400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            10
+        ],
+        "add_fight": 10200,
+        "name": "生命",
+        "detail": {
+            "health": 20400
+        }
+    },
+    "49": {
+        "remark": [
+            "20800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            12
+        ],
+        "add_fight": 10400,
+        "name": "生命",
+        "detail": {
+            "health": 20800
+        }
+    },
+    "46": {
+        "remark": [
+            "19600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            10
+        ],
+        "add_fight": 9800,
+        "name": "生命",
+        "detail": {
+            "health": 19600
+        }
+    },
+    "47": {
+        "remark": [
+            "20000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            10
+        ],
+        "add_fight": 10000,
+        "name": "生命",
+        "detail": {
+            "health": 20000
+        }
+    },
+    "44": {
+        "remark": [
+            "18800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            10
+        ],
+        "add_fight": 9400,
+        "name": "生命",
+        "detail": {
+            "health": 18800
+        }
+    },
+    "45": {
+        "remark": [
+            "19200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            10
+        ],
+        "add_fight": 9600,
+        "name": "生命",
+        "detail": {
+            "health": 19200
+        }
+    },
+    "42": {
+        "remark": [
+            "18000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            9
+        ],
+        "add_fight": 9000,
+        "name": "生命",
+        "detail": {
+            "health": 18000
+        }
+    },
+    "43": {
+        "remark": [
+            "18400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            9
+        ],
+        "add_fight": 9200,
+        "name": "生命",
+        "detail": {
+            "health": 18400
+        }
+    },
+    "40": {
+        "remark": [
+            "17200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            9
+        ],
+        "add_fight": 8600,
+        "name": "生命",
+        "detail": {
+            "health": 17200
+        }
+    },
+    "41": {
+        "remark": [
+            "17600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            9
+        ],
+        "add_fight": 8800,
+        "name": "生命",
+        "detail": {
+            "health": 17600
+        }
+    },
+    "1": {
+        "remark": [
+            "1600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            1
+        ],
+        "add_fight": 800,
+        "name": "生命",
+        "detail": {
+            "health": 1600
+        }
+    },
+    "3": {
+        "remark": [
+            "2400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            1
+        ],
+        "add_fight": 1200,
+        "name": "生命",
+        "detail": {
+            "health": 2400
+        }
+    },
+    "5": {
+        "remark": [
+            "3200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            2
+        ],
+        "add_fight": 1600,
+        "name": "生命",
+        "detail": {
+            "health": 3200
+        }
+    },
+    "7": {
+        "remark": [
+            "4000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            2
+        ],
+        "add_fight": 2000,
+        "name": "生命",
+        "detail": {
+            "health": 4000
+        }
+    },
+    "9": {
+        "remark": [
+            "4800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            3
+        ],
+        "add_fight": 2400,
+        "name": "生命",
+        "detail": {
+            "health": 4800
+        }
+    },
+    "77": {
+        "remark": [
+            "32000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            22
+        ],
+        "add_fight": 16000,
+        "name": "生命",
+        "detail": {
+            "health": 32000
+        }
+    },
+    "76": {
+        "remark": [
+            "31600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            22
+        ],
+        "add_fight": 15800,
+        "name": "生命",
+        "detail": {
+            "health": 31600
+        }
+    },
+    "75": {
+        "remark": [
+            "31200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            22
+        ],
+        "add_fight": 15600,
+        "name": "生命",
+        "detail": {
+            "health": 31200
+        }
+    },
+    "74": {
+        "remark": [
+            "30800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            22
+        ],
+        "add_fight": 15400,
+        "name": "生命",
+        "detail": {
+            "health": 30800
+        }
+    },
+    "73": {
+        "remark": [
+            "30400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            20
+        ],
+        "add_fight": 15200,
+        "name": "生命",
+        "detail": {
+            "health": 30400
+        }
+    },
+    "72": {
+        "remark": [
+            "30000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            20
+        ],
+        "add_fight": 15000,
+        "name": "生命",
+        "detail": {
+            "health": 30000
+        }
+    },
+    "71": {
+        "remark": [
+            "29600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            20
+        ],
+        "add_fight": 14800,
+        "name": "生命",
+        "detail": {
+            "health": 29600
+        }
+    },
+    "70": {
+        "remark": [
+            "29200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            20
+        ],
+        "add_fight": 14600,
+        "name": "生命",
+        "detail": {
+            "health": 29200
+        }
+    },
+    "79": {
+        "remark": [
+            "32800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            24
+        ],
+        "add_fight": 16400,
+        "name": "生命",
+        "detail": {
+            "health": 32800
+        }
+    },
+    "78": {
+        "remark": [
+            "32400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            22
+        ],
+        "add_fight": 16200,
+        "name": "生命",
+        "detail": {
+            "health": 32400
+        }
+    },
+    "39": {
+        "remark": [
+            "16800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            9
+        ],
+        "add_fight": 8400,
+        "name": "生命",
+        "detail": {
+            "health": 16800
+        }
+    },
+    "38": {
+        "remark": [
+            "16400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            8
+        ],
+        "add_fight": 8200,
+        "name": "生命",
+        "detail": {
+            "health": 16400
+        }
+    },
+    "33": {
+        "remark": [
+            "14400"
+        ],
+        "upgrade_goods": [
+            216010001,
+            7
+        ],
+        "add_fight": 7200,
+        "name": "生命",
+        "detail": {
+            "health": 14400
+        }
+    },
+    "32": {
+        "remark": [
+            "14000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            7
+        ],
+        "add_fight": 7000,
+        "name": "生命",
+        "detail": {
+            "health": 14000
+        }
+    },
+    "31": {
+        "remark": [
+            "13600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            7
+        ],
+        "add_fight": 6800,
+        "name": "生命",
+        "detail": {
+            "health": 13600
+        }
+    },
+    "30": {
+        "remark": [
+            "13200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            7
+        ],
+        "add_fight": 6600,
+        "name": "生命",
+        "detail": {
+            "health": 13200
+        }
+    },
+    "37": {
+        "remark": [
+            "16000"
+        ],
+        "upgrade_goods": [
+            216010001,
+            8
+        ],
+        "add_fight": 8000,
+        "name": "生命",
+        "detail": {
+            "health": 16000
+        }
+    },
+    "36": {
+        "remark": [
+            "15600"
+        ],
+        "upgrade_goods": [
+            216010001,
+            8
+        ],
+        "add_fight": 7800,
+        "name": "生命",
+        "detail": {
+            "health": 15600
+        }
+    },
+    "35": {
+        "remark": [
+            "15200"
+        ],
+        "upgrade_goods": [
+            216010001,
+            8
+        ],
+        "add_fight": 7600,
+        "name": "生命",
+        "detail": {
+            "health": 15200
+        }
+    },
+    "34": {
+        "remark": [
+            "14800"
+        ],
+        "upgrade_goods": [
+            216010001,
+            8
+        ],
+        "add_fight": 7400,
+        "name": "生命",
+        "detail": {
+            "health": 14800
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "308": {
+        "illus_group_name": "罗摩组8",
+        "illus_list": [
+            217031001,
+            217031002,
+            217031003
+        ],
+        "illus_group_description": "罗摩组8",
+        "open_lv": 100,
+        "illus_size": 3,
+        "pic_id": 308,
+        "wordpic_id": 3308
+    },
+    "201": {
+        "illus_group_name": "跨服组1",
+        "illus_list": [
+            217020501,
+            217020502,
+            217020503
+        ],
+        "illus_group_description": "跨服组1",
+        "open_lv": 50,
+        "illus_size": 3,
+        "pic_id": 201,
+        "wordpic_id": 2201
+    },
+    "203": {
+        "illus_group_name": "跨服组3",
+        "illus_list": [
+            217020701,
+            217020702,
+            217020703
+        ],
+        "illus_group_description": "跨服组3",
+        "open_lv": 70,
+        "illus_size": 3,
+        "pic_id": 203,
+        "wordpic_id": 2203
+    },
+    "202": {
+        "illus_group_name": "跨服组2",
+        "illus_list": [
+            217020601,
+            217020602,
+            217020603
+        ],
+        "illus_group_description": "跨服组2",
+        "open_lv": 60,
+        "illus_size": 3,
+        "pic_id": 202,
+        "wordpic_id": 2202
+    },
+    "205": {
+        "illus_group_name": "跨服组5",
+        "illus_list": [
+            217020901,
+            217020902,
+            217020903
+        ],
+        "illus_group_description": "跨服组5",
+        "open_lv": 90,
+        "illus_size": 3,
+        "pic_id": 205,
+        "wordpic_id": 2205
+    },
+    "204": {
+        "illus_group_name": "跨服组4",
+        "illus_list": [
+            217020801,
+            217020802,
+            217020803
+        ],
+        "illus_group_description": "跨服组4",
+        "open_lv": 80,
+        "illus_size": 3,
+        "pic_id": 204,
+        "wordpic_id": 2204
+    },
+    "207": {
+        "illus_group_name": "跨服组7",
+        "illus_list": [
+            217021101,
+            217021102,
+            217021103
+        ],
+        "illus_group_description": "跨服组7",
+        "open_lv": 110,
+        "illus_size": 3,
+        "pic_id": 207,
+        "wordpic_id": 2207
+    },
+    "206": {
+        "illus_group_name": "跨服组6",
+        "illus_list": [
+            217021001,
+            217021002,
+            217021003
+        ],
+        "illus_group_description": "跨服组6",
+        "open_lv": 100,
+        "illus_size": 3,
+        "pic_id": 206,
+        "wordpic_id": 2206
+    },
+    "301": {
+        "illus_group_name": "罗摩组1",
+        "illus_list": [
+            217030581,
+            217030582,
+            217030583
+        ],
+        "illus_group_description": "罗摩组1",
+        "open_lv": 58,
+        "illus_size": 3,
+        "pic_id": 301,
+        "wordpic_id": 3301
+    },
+    "302": {
+        "illus_group_name": "罗摩组2",
+        "illus_list": [
+            217030621,
+            217030622,
+            217030623
+        ],
+        "illus_group_description": "罗摩组2",
+        "open_lv": 62,
+        "illus_size": 3,
+        "pic_id": 302,
+        "wordpic_id": 3302
+    },
+    "303": {
+        "illus_group_name": "罗摩组3",
+        "illus_list": [
+            217030661,
+            217030662,
+            217030663
+        ],
+        "illus_group_description": "罗摩组3",
+        "open_lv": 66,
+        "illus_size": 3,
+        "pic_id": 303,
+        "wordpic_id": 3303
+    },
+    "304": {
+        "illus_group_name": "罗摩组4",
+        "illus_list": [
+            217030701,
+            217030702,
+            217030703
+        ],
+        "illus_group_description": "罗摩组4",
+        "open_lv": 70,
+        "illus_size": 3,
+        "pic_id": 304,
+        "wordpic_id": 3304
+    },
+    "305": {
+        "illus_group_name": "罗摩组5",
+        "illus_list": [
+            217030751,
+            217030752,
+            217030753
+        ],
+        "illus_group_description": "罗摩组5",
+        "open_lv": 75,
+        "illus_size": 3,
+        "pic_id": 305,
+        "wordpic_id": 3305
+    },
+    "306": {
+        "illus_group_name": "罗摩组6",
+        "illus_list": [
+            217030801,
+            217030802,
+            217030803
+        ],
+        "illus_group_description": "罗摩组6",
+        "open_lv": 80,
+        "illus_size": 3,
+        "pic_id": 306,
+        "wordpic_id": 3306
+    },
+    "307": {
+        "illus_group_name": "罗摩组7",
+        "illus_list": [
+            217030901,
+            217030902,
+            217030903
+        ],
+        "illus_group_description": "罗摩组7",
+        "open_lv": 90,
+        "illus_size": 3,
+        "pic_id": 307,
+        "wordpic_id": 3307
+    },
+    "108": {
+        "illus_group_name": "野外组8",
+        "illus_list": [
+            217011011,
+            217011012,
+            217011013,
+            217011014,
+            217011015
+        ],
+        "illus_group_description": "野外组8",
+        "open_lv": 101,
+        "illus_size": 5,
+        "pic_id": 108,
+        "wordpic_id": 1108
+    },
+    "109": {
+        "illus_group_name": "野外组9",
+        "illus_list": [
+            217011111,
+            217011112,
+            217011113,
+            217011114,
+            217011115
+        ],
+        "illus_group_description": "野外组9",
+        "open_lv": 111,
+        "illus_size": 5,
+        "pic_id": 103,
+        "wordpic_id": 1103
+    },
+    "110": {
+        "illus_group_name": "野外组10",
+        "illus_list": [
+            217011211,
+            217011212,
+            217011213,
+            217011214,
+            217011215
+        ],
+        "illus_group_description": "野外组10",
+        "open_lv": 121,
+        "illus_size": 5,
+        "pic_id": 106,
+        "wordpic_id": 1106
+    },
+    "102": {
+        "illus_group_name": "野外组2",
+        "illus_list": [
+            217010401,
+            217010402,
+            217010403,
+            217010404,
+            217010405
+        ],
+        "illus_group_description": "野外组2",
+        "open_lv": 42,
+        "illus_size": 5,
+        "pic_id": 102,
+        "wordpic_id": 1102
+    },
+    "103": {
+        "illus_group_name": "野外组3",
+        "illus_list": [
+            217010541,
+            217010542,
+            217010543,
+            217010544,
+            217010545
+        ],
+        "illus_group_description": "野外组3",
+        "open_lv": 48,
+        "illus_size": 5,
+        "pic_id": 103,
+        "wordpic_id": 1103
+    },
+    "101": {
+        "illus_group_name": "野外组1",
+        "illus_list": [
+            217010301,
+            217010302,
+            217010303,
+            217010304,
+            217010305
+        ],
+        "illus_group_description": "野外组1",
+        "open_lv": 25,
+        "illus_size": 5,
+        "pic_id": 101,
+        "wordpic_id": 1101
+    },
+    "106": {
+        "illus_group_name": "野外组6",
+        "illus_list": [
+            217010851,
+            217010852,
+            217010853,
+            217010854,
+            217010855
+        ],
+        "illus_group_description": "野外组6",
+        "open_lv": 81,
+        "illus_size": 5,
+        "pic_id": 106,
+        "wordpic_id": 1106
+    },
+    "107": {
+        "illus_group_name": "野外组7",
+        "illus_list": [
+            217010951,
+            217010952,
+            217010953,
+            217010954,
+            217010955
+        ],
+        "illus_group_description": "野外组7",
+        "open_lv": 91,
+        "illus_size": 5,
+        "pic_id": 107,
+        "wordpic_id": 1107
+    },
+    "104": {
+        "illus_group_name": "野外组4",
+        "illus_list": [
+            217010651,
+            217010652,
+            217010653,
+            217010654,
+            217010655
+        ],
+        "illus_group_description": "野外组4",
+        "open_lv": 59,
+        "illus_size": 5,
+        "pic_id": 104,
+        "wordpic_id": 1104
+    },
+    "105": {
+        "illus_group_name": "野外组5",
+        "illus_list": [
+            217010751,
+            217010752,
+            217010753,
+            217010754,
+            217010755
+        ],
+        "illus_group_description": "野外组5",
+        "open_lv": 71,
+        "illus_size": 5,
+        "pic_id": 105,
+        "wordpic_id": 1105
+    },
+    "208": {
+        "illus_group_name": "跨服组8",
+        "illus_list": [
+            217021201,
+            217021202,
+            217021203
+        ],
+        "illus_group_description": "跨服组8",
+        "open_lv": 120,
+        "illus_size": 3,
+        "pic_id": 208,
+        "wordpic_id": 2208
+    }
+}

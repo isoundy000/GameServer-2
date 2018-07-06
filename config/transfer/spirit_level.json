@@ -1,0 +1,5102 @@
+{
+    "91": {
+        "dodge": 116,
+        "upgrade": 50,
+        "hit": 139,
+        "toughness": 99,
+        "level": 91,
+        "attack": 1390,
+        "defence": 1390,
+        "health": 13900,
+        "crit": 116,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "90": {
+        "dodge": 113,
+        "upgrade": 50,
+        "hit": 136,
+        "toughness": 97,
+        "level": 90,
+        "attack": 1360,
+        "defence": 1360,
+        "health": 13600,
+        "crit": 113,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "93": {
+        "dodge": 121,
+        "upgrade": 50,
+        "hit": 145,
+        "toughness": 103,
+        "level": 93,
+        "attack": 1450,
+        "defence": 1450,
+        "health": 14500,
+        "crit": 121,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "92": {
+        "dodge": 118,
+        "upgrade": 50,
+        "hit": 142,
+        "toughness": 101,
+        "level": 92,
+        "attack": 1420,
+        "defence": 1420,
+        "health": 14200,
+        "crit": 118,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "95": {
+        "dodge": 125,
+        "upgrade": 50,
+        "hit": 151,
+        "toughness": 106,
+        "level": 95,
+        "attack": 1510,
+        "defence": 1510,
+        "health": 15100,
+        "crit": 125,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "94": {
+        "dodge": 123,
+        "upgrade": 50,
+        "hit": 148,
+        "toughness": 104,
+        "level": 94,
+        "attack": 1480,
+        "defence": 1480,
+        "health": 14800,
+        "crit": 123,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "97": {
+        "dodge": 130,
+        "upgrade": 50,
+        "hit": 157,
+        "toughness": 110,
+        "level": 97,
+        "attack": 1570,
+        "defence": 1570,
+        "health": 15700,
+        "crit": 130,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "8": {
+        "dodge": 7,
+        "upgrade": 20,
+        "hit": 8,
+        "toughness": 7,
+        "level": 8,
+        "attack": 80,
+        "defence": 80,
+        "health": 800,
+        "crit": 7,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "96": {
+        "dodge": 128,
+        "upgrade": 50,
+        "hit": 154,
+        "toughness": 108,
+        "level": 96,
+        "attack": 1540,
+        "defence": 1540,
+        "health": 15400,
+        "crit": 128,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "68": {
+        "dodge": 74,
+        "upgrade": 40,
+        "hit": 87,
+        "toughness": 68,
+        "level": 68,
+        "attack": 874,
+        "defence": 874,
+        "health": 8740,
+        "crit": 74,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "120": {
+        "dodge": 202,
+        "upgrade": 60,
+        "hit": 247,
+        "toughness": 164,
+        "level": 120,
+        "attack": 2470,
+        "defence": 2470,
+        "health": 24700,
+        "crit": 202,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "121": {
+        "dodge": 206,
+        "upgrade": 70,
+        "hit": 252,
+        "toughness": 167,
+        "level": 121,
+        "attack": 2521,
+        "defence": 2521,
+        "health": 25210,
+        "crit": 206,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "122": {
+        "dodge": 210,
+        "upgrade": 70,
+        "hit": 257,
+        "toughness": 170,
+        "level": 122,
+        "attack": 2572,
+        "defence": 2572,
+        "health": 25720,
+        "crit": 210,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "123": {
+        "dodge": 214,
+        "upgrade": 70,
+        "hit": 262,
+        "toughness": 173,
+        "level": 123,
+        "attack": 2623,
+        "defence": 2623,
+        "health": 26230,
+        "crit": 214,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "124": {
+        "dodge": 218,
+        "upgrade": 70,
+        "hit": 267,
+        "toughness": 176,
+        "level": 124,
+        "attack": 2674,
+        "defence": 2674,
+        "health": 26740,
+        "crit": 218,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "125": {
+        "dodge": 223,
+        "upgrade": 70,
+        "hit": 272,
+        "toughness": 179,
+        "level": 125,
+        "attack": 2725,
+        "defence": 2725,
+        "health": 27250,
+        "crit": 223,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "126": {
+        "dodge": 227,
+        "upgrade": 70,
+        "hit": 277,
+        "toughness": 182,
+        "level": 126,
+        "attack": 2776,
+        "defence": 2776,
+        "health": 27760,
+        "crit": 227,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "127": {
+        "dodge": 231,
+        "upgrade": 70,
+        "hit": 282,
+        "toughness": 185,
+        "level": 127,
+        "attack": 2827,
+        "defence": 2827,
+        "health": 28270,
+        "crit": 231,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "128": {
+        "dodge": 235,
+        "upgrade": 70,
+        "hit": 287,
+        "toughness": 188,
+        "level": 128,
+        "attack": 2878,
+        "defence": 2878,
+        "health": 28780,
+        "crit": 235,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "129": {
+        "dodge": 239,
+        "upgrade": 70,
+        "hit": 292,
+        "toughness": 191,
+        "level": 129,
+        "attack": 2929,
+        "defence": 2929,
+        "health": 29290,
+        "crit": 239,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "298": {
+        "dodge": 1901,
+        "upgrade": 240,
+        "hit": 2351,
+        "toughness": 1447,
+        "level": 298,
+        "attack": 23516,
+        "defence": 23516,
+        "health": 235160,
+        "crit": 1901,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "299": {
+        "dodge": 1916,
+        "upgrade": 240,
+        "hit": 2370,
+        "toughness": 1459,
+        "level": 299,
+        "attack": 23703,
+        "defence": 23703,
+        "health": 237030,
+        "crit": 1916,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "296": {
+        "dodge": 1871,
+        "upgrade": 240,
+        "hit": 2314,
+        "toughness": 1425,
+        "level": 296,
+        "attack": 23142,
+        "defence": 23142,
+        "health": 231420,
+        "crit": 1871,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "297": {
+        "dodge": 1886,
+        "upgrade": 240,
+        "hit": 2332,
+        "toughness": 1436,
+        "level": 297,
+        "attack": 23329,
+        "defence": 23329,
+        "health": 233290,
+        "crit": 1886,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "294": {
+        "dodge": 1841,
+        "upgrade": 240,
+        "hit": 2276,
+        "toughness": 1403,
+        "level": 294,
+        "attack": 22768,
+        "defence": 22768,
+        "health": 227680,
+        "crit": 1841,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "295": {
+        "dodge": 1856,
+        "upgrade": 240,
+        "hit": 2295,
+        "toughness": 1414,
+        "level": 295,
+        "attack": 22955,
+        "defence": 22955,
+        "health": 229550,
+        "crit": 1856,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "292": {
+        "dodge": 1811,
+        "upgrade": 240,
+        "hit": 2239,
+        "toughness": 1380,
+        "level": 292,
+        "attack": 22394,
+        "defence": 22394,
+        "health": 223940,
+        "crit": 1811,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "293": {
+        "dodge": 1826,
+        "upgrade": 240,
+        "hit": 2258,
+        "toughness": 1391,
+        "level": 293,
+        "attack": 22581,
+        "defence": 22581,
+        "health": 225810,
+        "crit": 1826,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "290": {
+        "dodge": 1781,
+        "upgrade": 230,
+        "hit": 2202,
+        "toughness": 1358,
+        "level": 290,
+        "attack": 22020,
+        "defence": 22020,
+        "health": 220200,
+        "crit": 1781,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "291": {
+        "dodge": 1796,
+        "upgrade": 240,
+        "hit": 2220,
+        "toughness": 1369,
+        "level": 291,
+        "attack": 22207,
+        "defence": 22207,
+        "health": 222070,
+        "crit": 1796,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "199": {
+        "dodge": 699,
+        "upgrade": 140,
+        "hit": 868,
+        "toughness": 536,
+        "level": 199,
+        "attack": 8683,
+        "defence": 8683,
+        "health": 86830,
+        "crit": 699,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "198": {
+        "dodge": 691,
+        "upgrade": 140,
+        "hit": 857,
+        "toughness": 530,
+        "level": 198,
+        "attack": 8576,
+        "defence": 8576,
+        "health": 85760,
+        "crit": 691,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "195": {
+        "dodge": 665,
+        "upgrade": 140,
+        "hit": 825,
+        "toughness": 511,
+        "level": 195,
+        "attack": 8255,
+        "defence": 8255,
+        "health": 82550,
+        "crit": 665,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "194": {
+        "dodge": 656,
+        "upgrade": 140,
+        "hit": 814,
+        "toughness": 504,
+        "level": 194,
+        "attack": 8148,
+        "defence": 8148,
+        "health": 81480,
+        "crit": 656,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "197": {
+        "dodge": 682,
+        "upgrade": 140,
+        "hit": 846,
+        "toughness": 524,
+        "level": 197,
+        "attack": 8469,
+        "defence": 8469,
+        "health": 84690,
+        "crit": 682,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "196": {
+        "dodge": 673,
+        "upgrade": 140,
+        "hit": 836,
+        "toughness": 517,
+        "level": 196,
+        "attack": 8362,
+        "defence": 8362,
+        "health": 83620,
+        "crit": 673,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "191": {
+        "dodge": 631,
+        "upgrade": 140,
+        "hit": 782,
+        "toughness": 485,
+        "level": 191,
+        "attack": 7827,
+        "defence": 7827,
+        "health": 78270,
+        "crit": 631,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "190": {
+        "dodge": 622,
+        "upgrade": 130,
+        "hit": 772,
+        "toughness": 479,
+        "level": 190,
+        "attack": 7720,
+        "defence": 7720,
+        "health": 77200,
+        "crit": 622,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "193": {
+        "dodge": 648,
+        "upgrade": 140,
+        "hit": 804,
+        "toughness": 498,
+        "level": 193,
+        "attack": 8041,
+        "defence": 8041,
+        "health": 80410,
+        "crit": 648,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "192": {
+        "dodge": 639,
+        "upgrade": 140,
+        "hit": 793,
+        "toughness": 492,
+        "level": 192,
+        "attack": 7934,
+        "defence": 7934,
+        "health": 79340,
+        "crit": 639,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "270": {
+        "dodge": 1501,
+        "upgrade": 210,
+        "hit": 1852,
+        "toughness": 1138,
+        "level": 270,
+        "attack": 18520,
+        "defence": 18520,
+        "health": 185200,
+        "crit": 1501,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "271": {
+        "dodge": 1515,
+        "upgrade": 220,
+        "hit": 1869,
+        "toughness": 1149,
+        "level": 271,
+        "attack": 18691,
+        "defence": 18691,
+        "health": 186910,
+        "crit": 1515,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "272": {
+        "dodge": 1528,
+        "upgrade": 220,
+        "hit": 1886,
+        "toughness": 1160,
+        "level": 272,
+        "attack": 18862,
+        "defence": 18862,
+        "health": 188620,
+        "crit": 1528,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "273": {
+        "dodge": 1542,
+        "upgrade": 220,
+        "hit": 1903,
+        "toughness": 1171,
+        "level": 273,
+        "attack": 19033,
+        "defence": 19033,
+        "health": 190330,
+        "crit": 1542,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "274": {
+        "dodge": 1556,
+        "upgrade": 220,
+        "hit": 1920,
+        "toughness": 1182,
+        "level": 274,
+        "attack": 19204,
+        "defence": 19204,
+        "health": 192040,
+        "crit": 1556,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "275": {
+        "dodge": 1570,
+        "upgrade": 220,
+        "hit": 1937,
+        "toughness": 1193,
+        "level": 275,
+        "attack": 19375,
+        "defence": 19375,
+        "health": 193750,
+        "crit": 1570,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "276": {
+        "dodge": 1583,
+        "upgrade": 220,
+        "hit": 1954,
+        "toughness": 1204,
+        "level": 276,
+        "attack": 19546,
+        "defence": 19546,
+        "health": 195460,
+        "crit": 1583,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "277": {
+        "dodge": 1597,
+        "upgrade": 220,
+        "hit": 1971,
+        "toughness": 1215,
+        "level": 277,
+        "attack": 19717,
+        "defence": 19717,
+        "health": 197170,
+        "crit": 1597,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "278": {
+        "dodge": 1611,
+        "upgrade": 220,
+        "hit": 1988,
+        "toughness": 1226,
+        "level": 278,
+        "attack": 19888,
+        "defence": 19888,
+        "health": 198880,
+        "crit": 1611,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "279": {
+        "dodge": 1624,
+        "upgrade": 220,
+        "hit": 2005,
+        "toughness": 1237,
+        "level": 279,
+        "attack": 20059,
+        "defence": 20059,
+        "health": 200590,
+        "crit": 1624,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "3": {
+        "dodge": 2,
+        "upgrade": 20,
+        "hit": 3,
+        "toughness": 2,
+        "level": 3,
+        "attack": 30,
+        "defence": 30,
+        "health": 300,
+        "crit": 2,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "108": {
+        "dodge": 161,
+        "upgrade": 50,
+        "hit": 195,
+        "toughness": 133,
+        "level": 108,
+        "attack": 1956,
+        "defence": 1956,
+        "health": 19560,
+        "crit": 161,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "109": {
+        "dodge": 164,
+        "upgrade": 50,
+        "hit": 199,
+        "toughness": 135,
+        "level": 109,
+        "attack": 1993,
+        "defence": 1993,
+        "health": 19930,
+        "crit": 164,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "102": {
+        "dodge": 143,
+        "upgrade": 50,
+        "hit": 173,
+        "toughness": 120,
+        "level": 102,
+        "attack": 1734,
+        "defence": 1734,
+        "health": 17340,
+        "crit": 143,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "103": {
+        "dodge": 146,
+        "upgrade": 50,
+        "hit": 177,
+        "toughness": 122,
+        "level": 103,
+        "attack": 1771,
+        "defence": 1771,
+        "health": 17710,
+        "crit": 146,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "100": {
+        "dodge": 137,
+        "upgrade": 50,
+        "hit": 166,
+        "toughness": 115,
+        "level": 100,
+        "attack": 1660,
+        "defence": 1660,
+        "health": 16600,
+        "crit": 137,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "101": {
+        "dodge": 140,
+        "upgrade": 50,
+        "hit": 169,
+        "toughness": 117,
+        "level": 101,
+        "attack": 1697,
+        "defence": 1697,
+        "health": 16970,
+        "crit": 140,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "106": {
+        "dodge": 155,
+        "upgrade": 50,
+        "hit": 188,
+        "toughness": 128,
+        "level": 106,
+        "attack": 1882,
+        "defence": 1882,
+        "health": 18820,
+        "crit": 155,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "107": {
+        "dodge": 158,
+        "upgrade": 50,
+        "hit": 191,
+        "toughness": 131,
+        "level": 107,
+        "attack": 1919,
+        "defence": 1919,
+        "health": 19190,
+        "crit": 158,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "104": {
+        "dodge": 149,
+        "upgrade": 50,
+        "hit": 180,
+        "toughness": 124,
+        "level": 104,
+        "attack": 1808,
+        "defence": 1808,
+        "health": 18080,
+        "crit": 149,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "105": {
+        "dodge": 152,
+        "upgrade": 50,
+        "hit": 184,
+        "toughness": 126,
+        "level": 105,
+        "attack": 1845,
+        "defence": 1845,
+        "health": 18450,
+        "crit": 152,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "39": {
+        "dodge": 38,
+        "upgrade": 60,
+        "hit": 41,
+        "toughness": 38,
+        "level": 39,
+        "attack": 418,
+        "defence": 418,
+        "health": 4180,
+        "crit": 38,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "38": {
+        "dodge": 37,
+        "upgrade": 60,
+        "hit": 40,
+        "toughness": 37,
+        "level": 38,
+        "attack": 406,
+        "defence": 406,
+        "health": 4060,
+        "crit": 37,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "33": {
+        "dodge": 32,
+        "upgrade": 40,
+        "hit": 34,
+        "toughness": 32,
+        "level": 33,
+        "attack": 346,
+        "defence": 346,
+        "health": 3460,
+        "crit": 32,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "32": {
+        "dodge": 31,
+        "upgrade": 40,
+        "hit": 33,
+        "toughness": 31,
+        "level": 32,
+        "attack": 334,
+        "defence": 334,
+        "health": 3340,
+        "crit": 31,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "31": {
+        "dodge": 30,
+        "upgrade": 40,
+        "hit": 32,
+        "toughness": 30,
+        "level": 31,
+        "attack": 322,
+        "defence": 322,
+        "health": 3220,
+        "crit": 30,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "30": {
+        "dodge": 29,
+        "upgrade": 40,
+        "hit": 31,
+        "toughness": 29,
+        "level": 30,
+        "attack": 310,
+        "defence": 310,
+        "health": 3100,
+        "crit": 29,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "37": {
+        "dodge": 36,
+        "upgrade": 60,
+        "hit": 39,
+        "toughness": 36,
+        "level": 37,
+        "attack": 394,
+        "defence": 394,
+        "health": 3940,
+        "crit": 36,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "36": {
+        "dodge": 35,
+        "upgrade": 60,
+        "hit": 38,
+        "toughness": 35,
+        "level": 36,
+        "attack": 382,
+        "defence": 382,
+        "health": 3820,
+        "crit": 35,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "35": {
+        "dodge": 34,
+        "upgrade": 40,
+        "hit": 37,
+        "toughness": 34,
+        "level": 35,
+        "attack": 370,
+        "defence": 370,
+        "health": 3700,
+        "crit": 34,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "34": {
+        "dodge": 33,
+        "upgrade": 40,
+        "hit": 35,
+        "toughness": 33,
+        "level": 34,
+        "attack": 358,
+        "defence": 358,
+        "health": 3580,
+        "crit": 33,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "60": {
+        "dodge": 63,
+        "upgrade": 40,
+        "hit": 73,
+        "toughness": 59,
+        "level": 60,
+        "attack": 730,
+        "defence": 730,
+        "health": 7300,
+        "crit": 63,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "61": {
+        "dodge": 64,
+        "upgrade": 40,
+        "hit": 74,
+        "toughness": 60,
+        "level": 61,
+        "attack": 748,
+        "defence": 748,
+        "health": 7480,
+        "crit": 64,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "258": {
+        "dodge": 1346,
+        "upgrade": 200,
+        "hit": 1658,
+        "toughness": 1012,
+        "level": 258,
+        "attack": 16580,
+        "defence": 16580,
+        "health": 165800,
+        "crit": 1346,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "259": {
+        "dodge": 1358,
+        "upgrade": 200,
+        "hit": 1673,
+        "toughness": 1023,
+        "level": 259,
+        "attack": 16735,
+        "defence": 16735,
+        "health": 167350,
+        "crit": 1358,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "64": {
+        "dodge": 69,
+        "upgrade": 40,
+        "hit": 80,
+        "toughness": 64,
+        "level": 64,
+        "attack": 802,
+        "defence": 802,
+        "health": 8020,
+        "crit": 69,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "65": {
+        "dodge": 70,
+        "upgrade": 40,
+        "hit": 82,
+        "toughness": 65,
+        "level": 65,
+        "attack": 820,
+        "defence": 820,
+        "health": 8200,
+        "crit": 70,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "66": {
+        "dodge": 72,
+        "upgrade": 40,
+        "hit": 83,
+        "toughness": 66,
+        "level": 66,
+        "attack": 838,
+        "defence": 838,
+        "health": 8380,
+        "crit": 72,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "67": {
+        "dodge": 73,
+        "upgrade": 40,
+        "hit": 85,
+        "toughness": 67,
+        "level": 67,
+        "attack": 856,
+        "defence": 856,
+        "health": 8560,
+        "crit": 73,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "252": {
+        "dodge": 1272,
+        "upgrade": 200,
+        "hit": 1565,
+        "toughness": 956,
+        "level": 252,
+        "attack": 15650,
+        "defence": 15650,
+        "health": 156500,
+        "crit": 1272,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "69": {
+        "dodge": 76,
+        "upgrade": 40,
+        "hit": 89,
+        "toughness": 69,
+        "level": 69,
+        "attack": 892,
+        "defence": 892,
+        "health": 8920,
+        "crit": 76,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "250": {
+        "dodge": 1247,
+        "upgrade": 190,
+        "hit": 1534,
+        "toughness": 936,
+        "level": 250,
+        "attack": 15340,
+        "defence": 15340,
+        "health": 153400,
+        "crit": 1247,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "251": {
+        "dodge": 1259,
+        "upgrade": 200,
+        "hit": 1549,
+        "toughness": 945,
+        "level": 251,
+        "attack": 15495,
+        "defence": 15495,
+        "health": 154950,
+        "crit": 1259,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "256": {
+        "dodge": 1321,
+        "upgrade": 200,
+        "hit": 1627,
+        "toughness": 994,
+        "level": 256,
+        "attack": 16270,
+        "defence": 16270,
+        "health": 162700,
+        "crit": 1321,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "257": {
+        "dodge": 1334,
+        "upgrade": 200,
+        "hit": 1642,
+        "toughness": 1003,
+        "level": 257,
+        "attack": 16425,
+        "defence": 16425,
+        "health": 164250,
+        "crit": 1334,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "254": {
+        "dodge": 1296,
+        "upgrade": 200,
+        "hit": 1596,
+        "toughness": 974,
+        "level": 254,
+        "attack": 15960,
+        "defence": 15960,
+        "health": 159600,
+        "crit": 1296,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "255": {
+        "dodge": 1309,
+        "upgrade": 200,
+        "hit": 1611,
+        "toughness": 983,
+        "level": 255,
+        "attack": 16115,
+        "defence": 16115,
+        "health": 161150,
+        "crit": 1309,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "6": {
+        "dodge": 5,
+        "upgrade": 20,
+        "hit": 6,
+        "toughness": 5,
+        "level": 6,
+        "attack": 60,
+        "defence": 60,
+        "health": 600,
+        "crit": 5,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "99": {
+        "dodge": 135,
+        "upgrade": 50,
+        "hit": 163,
+        "toughness": 113,
+        "level": 99,
+        "attack": 1630,
+        "defence": 1630,
+        "health": 16300,
+        "crit": 135,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "98": {
+        "dodge": 133,
+        "upgrade": 50,
+        "hit": 160,
+        "toughness": 112,
+        "level": 98,
+        "attack": 1600,
+        "defence": 1600,
+        "health": 16000,
+        "crit": 133,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 16,
+        "gold_cost": 320
+    },
+    "168": {
+        "dodge": 457,
+        "upgrade": 110,
+        "hit": 565,
+        "toughness": 355,
+        "level": 168,
+        "attack": 5654,
+        "defence": 5654,
+        "health": 56540,
+        "crit": 457,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "169": {
+        "dodge": 463,
+        "upgrade": 110,
+        "hit": 573,
+        "toughness": 360,
+        "level": 169,
+        "attack": 5737,
+        "defence": 5737,
+        "health": 57370,
+        "crit": 463,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "164": {
+        "dodge": 430,
+        "upgrade": 110,
+        "hit": 532,
+        "toughness": 335,
+        "level": 164,
+        "attack": 5322,
+        "defence": 5322,
+        "health": 53220,
+        "crit": 430,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "165": {
+        "dodge": 437,
+        "upgrade": 110,
+        "hit": 540,
+        "toughness": 340,
+        "level": 165,
+        "attack": 5405,
+        "defence": 5405,
+        "health": 54050,
+        "crit": 437,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "166": {
+        "dodge": 444,
+        "upgrade": 110,
+        "hit": 548,
+        "toughness": 345,
+        "level": 166,
+        "attack": 5488,
+        "defence": 5488,
+        "health": 54880,
+        "crit": 444,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "167": {
+        "dodge": 450,
+        "upgrade": 110,
+        "hit": 557,
+        "toughness": 350,
+        "level": 167,
+        "attack": 5571,
+        "defence": 5571,
+        "health": 55710,
+        "crit": 450,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "160": {
+        "dodge": 404,
+        "upgrade": 100,
+        "hit": 499,
+        "toughness": 315,
+        "level": 160,
+        "attack": 4990,
+        "defence": 4990,
+        "health": 49900,
+        "crit": 404,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "161": {
+        "dodge": 410,
+        "upgrade": 110,
+        "hit": 507,
+        "toughness": 320,
+        "level": 161,
+        "attack": 5073,
+        "defence": 5073,
+        "health": 50730,
+        "crit": 410,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "162": {
+        "dodge": 417,
+        "upgrade": 110,
+        "hit": 515,
+        "toughness": 325,
+        "level": 162,
+        "attack": 5156,
+        "defence": 5156,
+        "health": 51560,
+        "crit": 417,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "163": {
+        "dodge": 424,
+        "upgrade": 110,
+        "hit": 523,
+        "toughness": 330,
+        "level": 163,
+        "attack": 5239,
+        "defence": 5239,
+        "health": 52390,
+        "crit": 424,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "41": {
+        "dodge": 40,
+        "upgrade": 60,
+        "hit": 44,
+        "toughness": 40,
+        "level": 41,
+        "attack": 444,
+        "defence": 444,
+        "health": 4440,
+        "crit": 40,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "238": {
+        "dodge": 1107,
+        "upgrade": 180,
+        "hit": 1359,
+        "toughness": 831,
+        "level": 238,
+        "attack": 13592,
+        "defence": 13592,
+        "health": 135920,
+        "crit": 1107,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "239": {
+        "dodge": 1118,
+        "upgrade": 180,
+        "hit": 1373,
+        "toughness": 839,
+        "level": 239,
+        "attack": 13731,
+        "defence": 13731,
+        "health": 137310,
+        "crit": 1118,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "234": {
+        "dodge": 1062,
+        "upgrade": 180,
+        "hit": 1303,
+        "toughness": 798,
+        "level": 234,
+        "attack": 13036,
+        "defence": 13036,
+        "health": 130360,
+        "crit": 1062,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "235": {
+        "dodge": 1074,
+        "upgrade": 180,
+        "hit": 1317,
+        "toughness": 806,
+        "level": 235,
+        "attack": 13175,
+        "defence": 13175,
+        "health": 131750,
+        "crit": 1074,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "236": {
+        "dodge": 1085,
+        "upgrade": 180,
+        "hit": 1331,
+        "toughness": 814,
+        "level": 236,
+        "attack": 13314,
+        "defence": 13314,
+        "health": 133140,
+        "crit": 1085,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "237": {
+        "dodge": 1096,
+        "upgrade": 180,
+        "hit": 1345,
+        "toughness": 823,
+        "level": 237,
+        "attack": 13453,
+        "defence": 13453,
+        "health": 134530,
+        "crit": 1096,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "230": {
+        "dodge": 1018,
+        "upgrade": 170,
+        "hit": 1248,
+        "toughness": 764,
+        "level": 230,
+        "attack": 12480,
+        "defence": 12480,
+        "health": 124800,
+        "crit": 1018,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "231": {
+        "dodge": 1029,
+        "upgrade": 180,
+        "hit": 1261,
+        "toughness": 773,
+        "level": 231,
+        "attack": 12619,
+        "defence": 12619,
+        "health": 126190,
+        "crit": 1029,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "232": {
+        "dodge": 1040,
+        "upgrade": 180,
+        "hit": 1275,
+        "toughness": 781,
+        "level": 232,
+        "attack": 12758,
+        "defence": 12758,
+        "health": 127580,
+        "crit": 1040,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "233": {
+        "dodge": 1051,
+        "upgrade": 180,
+        "hit": 1289,
+        "toughness": 789,
+        "level": 233,
+        "attack": 12897,
+        "defence": 12897,
+        "health": 128970,
+        "crit": 1051,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "1": {
+        "dodge": 0,
+        "upgrade": 20,
+        "hit": 0,
+        "toughness": 0,
+        "level": 1,
+        "attack": 10,
+        "defence": 10,
+        "health": 100,
+        "crit": 0,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "9": {
+        "dodge": 8,
+        "upgrade": 20,
+        "hit": 9,
+        "toughness": 8,
+        "level": 9,
+        "attack": 90,
+        "defence": 90,
+        "health": 900,
+        "crit": 8,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "146": {
+        "dodge": 322,
+        "upgrade": 90,
+        "hit": 397,
+        "toughness": 254,
+        "level": 146,
+        "attack": 3972,
+        "defence": 3972,
+        "health": 39720,
+        "crit": 322,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "147": {
+        "dodge": 328,
+        "upgrade": 90,
+        "hit": 403,
+        "toughness": 258,
+        "level": 147,
+        "attack": 4039,
+        "defence": 4039,
+        "health": 40390,
+        "crit": 328,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "144": {
+        "dodge": 312,
+        "upgrade": 90,
+        "hit": 383,
+        "toughness": 246,
+        "level": 144,
+        "attack": 3838,
+        "defence": 3838,
+        "health": 38380,
+        "crit": 312,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "145": {
+        "dodge": 317,
+        "upgrade": 90,
+        "hit": 390,
+        "toughness": 250,
+        "level": 145,
+        "attack": 3905,
+        "defence": 3905,
+        "health": 39050,
+        "crit": 317,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "142": {
+        "dodge": 301,
+        "upgrade": 90,
+        "hit": 370,
+        "toughness": 238,
+        "level": 142,
+        "attack": 3704,
+        "defence": 3704,
+        "health": 37040,
+        "crit": 301,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "143": {
+        "dodge": 306,
+        "upgrade": 90,
+        "hit": 377,
+        "toughness": 242,
+        "level": 143,
+        "attack": 3771,
+        "defence": 3771,
+        "health": 37710,
+        "crit": 306,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "140": {
+        "dodge": 290,
+        "upgrade": 80,
+        "hit": 357,
+        "toughness": 230,
+        "level": 140,
+        "attack": 3570,
+        "defence": 3570,
+        "health": 35700,
+        "crit": 290,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "141": {
+        "dodge": 295,
+        "upgrade": 90,
+        "hit": 363,
+        "toughness": 234,
+        "level": 141,
+        "attack": 3637,
+        "defence": 3637,
+        "health": 36370,
+        "crit": 295,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "148": {
+        "dodge": 333,
+        "upgrade": 90,
+        "hit": 410,
+        "toughness": 262,
+        "level": 148,
+        "attack": 4106,
+        "defence": 4106,
+        "health": 41060,
+        "crit": 333,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "149": {
+        "dodge": 338,
+        "upgrade": 90,
+        "hit": 417,
+        "toughness": 266,
+        "level": 149,
+        "attack": 4173,
+        "defence": 4173,
+        "health": 41730,
+        "crit": 338,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "47": {
+        "dodge": 47,
+        "upgrade": 60,
+        "hit": 52,
+        "toughness": 46,
+        "level": 47,
+        "attack": 528,
+        "defence": 528,
+        "health": 5280,
+        "crit": 47,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "216": {
+        "dodge": 866,
+        "upgrade": 160,
+        "hit": 1067,
+        "toughness": 656,
+        "level": 216,
+        "attack": 10678,
+        "defence": 10678,
+        "health": 106780,
+        "crit": 866,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "217": {
+        "dodge": 877,
+        "upgrade": 160,
+        "hit": 1080,
+        "toughness": 664,
+        "level": 217,
+        "attack": 10801,
+        "defence": 10801,
+        "health": 108010,
+        "crit": 877,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "214": {
+        "dodge": 844,
+        "upgrade": 160,
+        "hit": 1043,
+        "toughness": 641,
+        "level": 214,
+        "attack": 10432,
+        "defence": 10432,
+        "health": 104320,
+        "crit": 844,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "215": {
+        "dodge": 855,
+        "upgrade": 160,
+        "hit": 1055,
+        "toughness": 649,
+        "level": 215,
+        "attack": 10555,
+        "defence": 10555,
+        "health": 105550,
+        "crit": 855,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "212": {
+        "dodge": 822,
+        "upgrade": 160,
+        "hit": 1018,
+        "toughness": 627,
+        "level": 212,
+        "attack": 10186,
+        "defence": 10186,
+        "health": 101860,
+        "crit": 822,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "213": {
+        "dodge": 833,
+        "upgrade": 160,
+        "hit": 1030,
+        "toughness": 634,
+        "level": 213,
+        "attack": 10309,
+        "defence": 10309,
+        "health": 103090,
+        "crit": 833,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "210": {
+        "dodge": 802,
+        "upgrade": 150,
+        "hit": 994,
+        "toughness": 612,
+        "level": 210,
+        "attack": 9940,
+        "defence": 9940,
+        "health": 99400,
+        "crit": 802,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "211": {
+        "dodge": 813,
+        "upgrade": 160,
+        "hit": 1006,
+        "toughness": 619,
+        "level": 211,
+        "attack": 10063,
+        "defence": 10063,
+        "health": 100630,
+        "crit": 813,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "218": {
+        "dodge": 886,
+        "upgrade": 160,
+        "hit": 1092,
+        "toughness": 671,
+        "level": 218,
+        "attack": 10924,
+        "defence": 10924,
+        "health": 109240,
+        "crit": 886,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "219": {
+        "dodge": 897,
+        "upgrade": 160,
+        "hit": 1104,
+        "toughness": 678,
+        "level": 219,
+        "attack": 11047,
+        "defence": 11047,
+        "health": 110470,
+        "crit": 897,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "133": {
+        "dodge": 257,
+        "upgrade": 80,
+        "hit": 315,
+        "toughness": 205,
+        "level": 133,
+        "attack": 3157,
+        "defence": 3157,
+        "health": 31570,
+        "crit": 257,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "132": {
+        "dodge": 252,
+        "upgrade": 80,
+        "hit": 309,
+        "toughness": 201,
+        "level": 132,
+        "attack": 3098,
+        "defence": 3098,
+        "health": 30980,
+        "crit": 252,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "131": {
+        "dodge": 248,
+        "upgrade": 80,
+        "hit": 303,
+        "toughness": 198,
+        "level": 131,
+        "attack": 3039,
+        "defence": 3039,
+        "health": 30390,
+        "crit": 248,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "130": {
+        "dodge": 243,
+        "upgrade": 70,
+        "hit": 298,
+        "toughness": 194,
+        "level": 130,
+        "attack": 2980,
+        "defence": 2980,
+        "health": 29800,
+        "crit": 243,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "137": {
+        "dodge": 276,
+        "upgrade": 80,
+        "hit": 339,
+        "toughness": 219,
+        "level": 137,
+        "attack": 3393,
+        "defence": 3393,
+        "health": 33930,
+        "crit": 276,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "136": {
+        "dodge": 271,
+        "upgrade": 80,
+        "hit": 333,
+        "toughness": 216,
+        "level": 136,
+        "attack": 3334,
+        "defence": 3334,
+        "health": 33340,
+        "crit": 271,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "135": {
+        "dodge": 267,
+        "upgrade": 80,
+        "hit": 327,
+        "toughness": 212,
+        "level": 135,
+        "attack": 3275,
+        "defence": 3275,
+        "health": 32750,
+        "crit": 267,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "134": {
+        "dodge": 262,
+        "upgrade": 80,
+        "hit": 321,
+        "toughness": 208,
+        "level": 134,
+        "attack": 3216,
+        "defence": 3216,
+        "health": 32160,
+        "crit": 262,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "139": {
+        "dodge": 285,
+        "upgrade": 80,
+        "hit": 351,
+        "toughness": 226,
+        "level": 139,
+        "attack": 3511,
+        "defence": 3511,
+        "health": 35110,
+        "crit": 285,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "138": {
+        "dodge": 281,
+        "upgrade": 80,
+        "hit": 345,
+        "toughness": 223,
+        "level": 138,
+        "attack": 3452,
+        "defence": 3452,
+        "health": 34520,
+        "crit": 281,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "24": {
+        "dodge": 23,
+        "upgrade": 40,
+        "hit": 24,
+        "toughness": 23,
+        "level": 24,
+        "attack": 244,
+        "defence": 244,
+        "health": 2440,
+        "crit": 23,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "25": {
+        "dodge": 24,
+        "upgrade": 40,
+        "hit": 25,
+        "toughness": 24,
+        "level": 25,
+        "attack": 255,
+        "defence": 255,
+        "health": 2550,
+        "crit": 24,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "26": {
+        "dodge": 25,
+        "upgrade": 40,
+        "hit": 26,
+        "toughness": 25,
+        "level": 26,
+        "attack": 266,
+        "defence": 266,
+        "health": 2660,
+        "crit": 25,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "27": {
+        "dodge": 26,
+        "upgrade": 40,
+        "hit": 27,
+        "toughness": 26,
+        "level": 27,
+        "attack": 277,
+        "defence": 277,
+        "health": 2770,
+        "crit": 26,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "20": {
+        "dodge": 19,
+        "upgrade": 40,
+        "hit": 20,
+        "toughness": 19,
+        "level": 20,
+        "attack": 200,
+        "defence": 200,
+        "health": 2000,
+        "crit": 19,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "21": {
+        "dodge": 20,
+        "upgrade": 40,
+        "hit": 21,
+        "toughness": 20,
+        "level": 21,
+        "attack": 211,
+        "defence": 211,
+        "health": 2110,
+        "crit": 20,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "22": {
+        "dodge": 21,
+        "upgrade": 40,
+        "hit": 22,
+        "toughness": 21,
+        "level": 22,
+        "attack": 222,
+        "defence": 222,
+        "health": 2220,
+        "crit": 21,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "23": {
+        "dodge": 22,
+        "upgrade": 40,
+        "hit": 23,
+        "toughness": 22,
+        "level": 23,
+        "attack": 233,
+        "defence": 233,
+        "health": 2330,
+        "crit": 22,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "28": {
+        "dodge": 27,
+        "upgrade": 40,
+        "hit": 28,
+        "toughness": 27,
+        "level": 28,
+        "attack": 288,
+        "defence": 288,
+        "health": 2880,
+        "crit": 27,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "29": {
+        "dodge": 28,
+        "upgrade": 40,
+        "hit": 29,
+        "toughness": 28,
+        "level": 29,
+        "attack": 299,
+        "defence": 299,
+        "health": 2990,
+        "crit": 28,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "289": {
+        "dodge": 1767,
+        "upgrade": 230,
+        "hit": 2184,
+        "toughness": 1347,
+        "level": 289,
+        "attack": 21841,
+        "defence": 21841,
+        "health": 218410,
+        "crit": 1767,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "288": {
+        "dodge": 1752,
+        "upgrade": 230,
+        "hit": 2166,
+        "toughness": 1336,
+        "level": 288,
+        "attack": 21662,
+        "defence": 21662,
+        "health": 216620,
+        "crit": 1752,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "4": {
+        "dodge": 3,
+        "upgrade": 20,
+        "hit": 4,
+        "toughness": 3,
+        "level": 4,
+        "attack": 40,
+        "defence": 40,
+        "health": 400,
+        "crit": 3,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "281": {
+        "dodge": 1652,
+        "upgrade": 230,
+        "hit": 2040,
+        "toughness": 1259,
+        "level": 281,
+        "attack": 20409,
+        "defence": 20409,
+        "health": 204090,
+        "crit": 1652,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "280": {
+        "dodge": 1638,
+        "upgrade": 220,
+        "hit": 2023,
+        "toughness": 1248,
+        "level": 280,
+        "attack": 20230,
+        "defence": 20230,
+        "health": 202300,
+        "crit": 1638,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "283": {
+        "dodge": 1681,
+        "upgrade": 230,
+        "hit": 2076,
+        "toughness": 1281,
+        "level": 283,
+        "attack": 20767,
+        "defence": 20767,
+        "health": 207670,
+        "crit": 1681,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "282": {
+        "dodge": 1667,
+        "upgrade": 230,
+        "hit": 2058,
+        "toughness": 1270,
+        "level": 282,
+        "attack": 20588,
+        "defence": 20588,
+        "health": 205880,
+        "crit": 1667,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "285": {
+        "dodge": 1710,
+        "upgrade": 230,
+        "hit": 2112,
+        "toughness": 1303,
+        "level": 285,
+        "attack": 21125,
+        "defence": 21125,
+        "health": 211250,
+        "crit": 1710,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "284": {
+        "dodge": 1695,
+        "upgrade": 230,
+        "hit": 2094,
+        "toughness": 1292,
+        "level": 284,
+        "attack": 20946,
+        "defence": 20946,
+        "health": 209460,
+        "crit": 1695,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "287": {
+        "dodge": 1738,
+        "upgrade": 230,
+        "hit": 2148,
+        "toughness": 1325,
+        "level": 287,
+        "attack": 21483,
+        "defence": 21483,
+        "health": 214830,
+        "crit": 1738,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "286": {
+        "dodge": 1724,
+        "upgrade": 230,
+        "hit": 2130,
+        "toughness": 1314,
+        "level": 286,
+        "attack": 21304,
+        "defence": 21304,
+        "health": 213040,
+        "crit": 1724,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "263": {
+        "dodge": 1410,
+        "upgrade": 210,
+        "hit": 1737,
+        "toughness": 1063,
+        "level": 263,
+        "attack": 17379,
+        "defence": 17379,
+        "health": 173790,
+        "crit": 1410,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "262": {
+        "dodge": 1397,
+        "upgrade": 210,
+        "hit": 1721,
+        "toughness": 1052,
+        "level": 262,
+        "attack": 17216,
+        "defence": 17216,
+        "health": 172160,
+        "crit": 1397,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "261": {
+        "dodge": 1384,
+        "upgrade": 210,
+        "hit": 1705,
+        "toughness": 1043,
+        "level": 261,
+        "attack": 17053,
+        "defence": 17053,
+        "health": 170530,
+        "crit": 1384,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "260": {
+        "dodge": 1371,
+        "upgrade": 200,
+        "hit": 1689,
+        "toughness": 1032,
+        "level": 260,
+        "attack": 16890,
+        "defence": 16890,
+        "health": 168900,
+        "crit": 1371,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "267": {
+        "dodge": 1462,
+        "upgrade": 210,
+        "hit": 1803,
+        "toughness": 1105,
+        "level": 267,
+        "attack": 18031,
+        "defence": 18031,
+        "health": 180310,
+        "crit": 1462,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "266": {
+        "dodge": 1449,
+        "upgrade": 210,
+        "hit": 1786,
+        "toughness": 1096,
+        "level": 266,
+        "attack": 17868,
+        "defence": 17868,
+        "health": 178680,
+        "crit": 1449,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "265": {
+        "dodge": 1436,
+        "upgrade": 210,
+        "hit": 1770,
+        "toughness": 1085,
+        "level": 265,
+        "attack": 17705,
+        "defence": 17705,
+        "health": 177050,
+        "crit": 1436,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "264": {
+        "dodge": 1423,
+        "upgrade": 210,
+        "hit": 1754,
+        "toughness": 1074,
+        "level": 264,
+        "attack": 17542,
+        "defence": 17542,
+        "health": 175420,
+        "crit": 1423,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "269": {
+        "dodge": 1488,
+        "upgrade": 210,
+        "hit": 1835,
+        "toughness": 1127,
+        "level": 269,
+        "attack": 18357,
+        "defence": 18357,
+        "health": 183570,
+        "crit": 1488,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "268": {
+        "dodge": 1475,
+        "upgrade": 210,
+        "hit": 1819,
+        "toughness": 1116,
+        "level": 268,
+        "attack": 18194,
+        "defence": 18194,
+        "health": 181940,
+        "crit": 1475,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "59": {
+        "dodge": 62,
+        "upgrade": 40,
+        "hit": 71,
+        "toughness": 58,
+        "level": 59,
+        "attack": 714,
+        "defence": 714,
+        "health": 7140,
+        "crit": 62,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "58": {
+        "dodge": 60,
+        "upgrade": 40,
+        "hit": 69,
+        "toughness": 57,
+        "level": 58,
+        "attack": 698,
+        "defence": 698,
+        "health": 6980,
+        "crit": 60,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "55": {
+        "dodge": 57,
+        "upgrade": 60,
+        "hit": 65,
+        "toughness": 54,
+        "level": 55,
+        "attack": 650,
+        "defence": 650,
+        "health": 6500,
+        "crit": 57,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "54": {
+        "dodge": 55,
+        "upgrade": 60,
+        "hit": 63,
+        "toughness": 53,
+        "level": 54,
+        "attack": 634,
+        "defence": 634,
+        "health": 6340,
+        "crit": 55,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "57": {
+        "dodge": 59,
+        "upgrade": 40,
+        "hit": 68,
+        "toughness": 56,
+        "level": 57,
+        "attack": 682,
+        "defence": 682,
+        "health": 6820,
+        "crit": 59,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "56": {
+        "dodge": 58,
+        "upgrade": 40,
+        "hit": 66,
+        "toughness": 55,
+        "level": 56,
+        "attack": 666,
+        "defence": 666,
+        "health": 6660,
+        "crit": 58,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "51": {
+        "dodge": 51,
+        "upgrade": 60,
+        "hit": 58,
+        "toughness": 50,
+        "level": 51,
+        "attack": 586,
+        "defence": 586,
+        "health": 5860,
+        "crit": 51,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "50": {
+        "dodge": 50,
+        "upgrade": 60,
+        "hit": 57,
+        "toughness": 49,
+        "level": 50,
+        "attack": 570,
+        "defence": 570,
+        "health": 5700,
+        "crit": 50,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "53": {
+        "dodge": 54,
+        "upgrade": 60,
+        "hit": 61,
+        "toughness": 52,
+        "level": 53,
+        "attack": 618,
+        "defence": 618,
+        "health": 6180,
+        "crit": 54,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "52": {
+        "dodge": 53,
+        "upgrade": 60,
+        "hit": 60,
+        "toughness": 51,
+        "level": 52,
+        "attack": 602,
+        "defence": 602,
+        "health": 6020,
+        "crit": 53,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "63": {
+        "dodge": 67,
+        "upgrade": 40,
+        "hit": 78,
+        "toughness": 63,
+        "level": 63,
+        "attack": 784,
+        "defence": 784,
+        "health": 7840,
+        "crit": 67,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "115": {
+        "dodge": 185,
+        "upgrade": 60,
+        "hit": 225,
+        "toughness": 151,
+        "level": 115,
+        "attack": 2250,
+        "defence": 2250,
+        "health": 22500,
+        "crit": 185,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "114": {
+        "dodge": 181,
+        "upgrade": 60,
+        "hit": 220,
+        "toughness": 148,
+        "level": 114,
+        "attack": 2206,
+        "defence": 2206,
+        "health": 22060,
+        "crit": 181,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "88": {
+        "dodge": 109,
+        "upgrade": 50,
+        "hit": 131,
+        "toughness": 94,
+        "level": 88,
+        "attack": 1312,
+        "defence": 1312,
+        "health": 13120,
+        "crit": 109,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "89": {
+        "dodge": 111,
+        "upgrade": 50,
+        "hit": 133,
+        "toughness": 96,
+        "level": 89,
+        "attack": 1336,
+        "defence": 1336,
+        "health": 13360,
+        "crit": 111,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "111": {
+        "dodge": 170,
+        "upgrade": 60,
+        "hit": 207,
+        "toughness": 140,
+        "level": 111,
+        "attack": 2074,
+        "defence": 2074,
+        "health": 20740,
+        "crit": 170,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "110": {
+        "dodge": 167,
+        "upgrade": 50,
+        "hit": 203,
+        "toughness": 137,
+        "level": 110,
+        "attack": 2030,
+        "defence": 2030,
+        "health": 20300,
+        "crit": 167,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "113": {
+        "dodge": 177,
+        "upgrade": 60,
+        "hit": 216,
+        "toughness": 145,
+        "level": 113,
+        "attack": 2162,
+        "defence": 2162,
+        "health": 21620,
+        "crit": 177,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "112": {
+        "dodge": 174,
+        "upgrade": 60,
+        "hit": 211,
+        "toughness": 143,
+        "level": 112,
+        "attack": 2118,
+        "defence": 2118,
+        "health": 21180,
+        "crit": 174,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "82": {
+        "dodge": 98,
+        "upgrade": 50,
+        "hit": 116,
+        "toughness": 86,
+        "level": 82,
+        "attack": 1168,
+        "defence": 1168,
+        "health": 11680,
+        "crit": 98,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "83": {
+        "dodge": 100,
+        "upgrade": 50,
+        "hit": 119,
+        "toughness": 87,
+        "level": 83,
+        "attack": 1192,
+        "defence": 1192,
+        "health": 11920,
+        "crit": 100,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "80": {
+        "dodge": 94,
+        "upgrade": 50,
+        "hit": 112,
+        "toughness": 83,
+        "level": 80,
+        "attack": 1120,
+        "defence": 1120,
+        "health": 11200,
+        "crit": 94,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "81": {
+        "dodge": 96,
+        "upgrade": 50,
+        "hit": 114,
+        "toughness": 84,
+        "level": 81,
+        "attack": 1144,
+        "defence": 1144,
+        "health": 11440,
+        "crit": 96,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "119": {
+        "dodge": 199,
+        "upgrade": 60,
+        "hit": 242,
+        "toughness": 161,
+        "level": 119,
+        "attack": 2426,
+        "defence": 2426,
+        "health": 24260,
+        "crit": 199,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "118": {
+        "dodge": 195,
+        "upgrade": 60,
+        "hit": 238,
+        "toughness": 158,
+        "level": 118,
+        "attack": 2382,
+        "defence": 2382,
+        "health": 23820,
+        "crit": 195,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "84": {
+        "dodge": 102,
+        "upgrade": 50,
+        "hit": 121,
+        "toughness": 88,
+        "level": 84,
+        "attack": 1216,
+        "defence": 1216,
+        "health": 12160,
+        "crit": 102,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "85": {
+        "dodge": 104,
+        "upgrade": 50,
+        "hit": 124,
+        "toughness": 90,
+        "level": 85,
+        "attack": 1240,
+        "defence": 1240,
+        "health": 12400,
+        "crit": 104,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "7": {
+        "dodge": 6,
+        "upgrade": 20,
+        "hit": 7,
+        "toughness": 6,
+        "level": 7,
+        "attack": 70,
+        "defence": 70,
+        "health": 700,
+        "crit": 6,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "300": {
+        "dodge": 1931,
+        "upgrade": 240,
+        "hit": 2389,
+        "toughness": 1470,
+        "level": 300,
+        "attack": 23890,
+        "defence": 23890,
+        "health": 238900,
+        "crit": 1931,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "245": {
+        "dodge": 1188,
+        "upgrade": 190,
+        "hit": 1460,
+        "toughness": 892,
+        "level": 245,
+        "attack": 14605,
+        "defence": 14605,
+        "health": 146050,
+        "crit": 1188,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "244": {
+        "dodge": 1176,
+        "upgrade": 190,
+        "hit": 1445,
+        "toughness": 883,
+        "level": 244,
+        "attack": 14458,
+        "defence": 14458,
+        "health": 144580,
+        "crit": 1176,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "247": {
+        "dodge": 1211,
+        "upgrade": 190,
+        "hit": 1489,
+        "toughness": 909,
+        "level": 247,
+        "attack": 14899,
+        "defence": 14899,
+        "health": 148990,
+        "crit": 1211,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "246": {
+        "dodge": 1200,
+        "upgrade": 190,
+        "hit": 1475,
+        "toughness": 901,
+        "level": 246,
+        "attack": 14752,
+        "defence": 14752,
+        "health": 147520,
+        "crit": 1200,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "241": {
+        "dodge": 1141,
+        "upgrade": 190,
+        "hit": 1401,
+        "toughness": 857,
+        "level": 241,
+        "attack": 14017,
+        "defence": 14017,
+        "health": 140170,
+        "crit": 1141,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "240": {
+        "dodge": 1129,
+        "upgrade": 180,
+        "hit": 1387,
+        "toughness": 848,
+        "level": 240,
+        "attack": 13870,
+        "defence": 13870,
+        "health": 138700,
+        "crit": 1129,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "243": {
+        "dodge": 1164,
+        "upgrade": 190,
+        "hit": 1431,
+        "toughness": 874,
+        "level": 243,
+        "attack": 14311,
+        "defence": 14311,
+        "health": 143110,
+        "crit": 1164,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "242": {
+        "dodge": 1153,
+        "upgrade": 190,
+        "hit": 1416,
+        "toughness": 865,
+        "level": 242,
+        "attack": 14164,
+        "defence": 14164,
+        "health": 141640,
+        "crit": 1153,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "249": {
+        "dodge": 1235,
+        "upgrade": 190,
+        "hit": 1519,
+        "toughness": 927,
+        "level": 249,
+        "attack": 15193,
+        "defence": 15193,
+        "health": 151930,
+        "crit": 1235,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "248": {
+        "dodge": 1223,
+        "upgrade": 190,
+        "hit": 1504,
+        "toughness": 918,
+        "level": 248,
+        "attack": 15046,
+        "defence": 15046,
+        "health": 150460,
+        "crit": 1223,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "179": {
+        "dodge": 536,
+        "upgrade": 120,
+        "hit": 663,
+        "toughness": 414,
+        "level": 179,
+        "attack": 6639,
+        "defence": 6639,
+        "health": 66390,
+        "crit": 536,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "178": {
+        "dodge": 528,
+        "upgrade": 120,
+        "hit": 654,
+        "toughness": 408,
+        "level": 178,
+        "attack": 6548,
+        "defence": 6548,
+        "health": 65480,
+        "crit": 528,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "177": {
+        "dodge": 521,
+        "upgrade": 120,
+        "hit": 645,
+        "toughness": 403,
+        "level": 177,
+        "attack": 6457,
+        "defence": 6457,
+        "health": 64570,
+        "crit": 521,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "176": {
+        "dodge": 514,
+        "upgrade": 120,
+        "hit": 636,
+        "toughness": 397,
+        "level": 176,
+        "attack": 6366,
+        "defence": 6366,
+        "health": 63660,
+        "crit": 514,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "175": {
+        "dodge": 507,
+        "upgrade": 120,
+        "hit": 627,
+        "toughness": 392,
+        "level": 175,
+        "attack": 6275,
+        "defence": 6275,
+        "health": 62750,
+        "crit": 507,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "174": {
+        "dodge": 499,
+        "upgrade": 120,
+        "hit": 618,
+        "toughness": 387,
+        "level": 174,
+        "attack": 6184,
+        "defence": 6184,
+        "health": 61840,
+        "crit": 499,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "173": {
+        "dodge": 492,
+        "upgrade": 120,
+        "hit": 609,
+        "toughness": 381,
+        "level": 173,
+        "attack": 6093,
+        "defence": 6093,
+        "health": 60930,
+        "crit": 492,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "172": {
+        "dodge": 485,
+        "upgrade": 120,
+        "hit": 600,
+        "toughness": 376,
+        "level": 172,
+        "attack": 6002,
+        "defence": 6002,
+        "health": 60020,
+        "crit": 485,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "171": {
+        "dodge": 477,
+        "upgrade": 120,
+        "hit": 591,
+        "toughness": 370,
+        "level": 171,
+        "attack": 5911,
+        "defence": 5911,
+        "health": 59110,
+        "crit": 477,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "170": {
+        "dodge": 470,
+        "upgrade": 110,
+        "hit": 582,
+        "toughness": 365,
+        "level": 170,
+        "attack": 5820,
+        "defence": 5820,
+        "health": 58200,
+        "crit": 470,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "253": {
+        "dodge": 1284,
+        "upgrade": 200,
+        "hit": 1580,
+        "toughness": 965,
+        "level": 253,
+        "attack": 15805,
+        "defence": 15805,
+        "health": 158050,
+        "crit": 1284,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "182": {
+        "dodge": 559,
+        "upgrade": 130,
+        "hit": 692,
+        "toughness": 431,
+        "level": 182,
+        "attack": 6928,
+        "defence": 6928,
+        "health": 69280,
+        "crit": 559,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "183": {
+        "dodge": 567,
+        "upgrade": 130,
+        "hit": 702,
+        "toughness": 437,
+        "level": 183,
+        "attack": 7027,
+        "defence": 7027,
+        "health": 70270,
+        "crit": 567,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "180": {
+        "dodge": 543,
+        "upgrade": 120,
+        "hit": 673,
+        "toughness": 419,
+        "level": 180,
+        "attack": 6730,
+        "defence": 6730,
+        "health": 67300,
+        "crit": 543,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "181": {
+        "dodge": 551,
+        "upgrade": 130,
+        "hit": 682,
+        "toughness": 425,
+        "level": 181,
+        "attack": 6829,
+        "defence": 6829,
+        "health": 68290,
+        "crit": 551,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "186": {
+        "dodge": 590,
+        "upgrade": 130,
+        "hit": 732,
+        "toughness": 455,
+        "level": 186,
+        "attack": 7324,
+        "defence": 7324,
+        "health": 73240,
+        "crit": 590,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "187": {
+        "dodge": 598,
+        "upgrade": 130,
+        "hit": 742,
+        "toughness": 461,
+        "level": 187,
+        "attack": 7423,
+        "defence": 7423,
+        "health": 74230,
+        "crit": 598,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "184": {
+        "dodge": 575,
+        "upgrade": 130,
+        "hit": 712,
+        "toughness": 443,
+        "level": 184,
+        "attack": 7126,
+        "defence": 7126,
+        "health": 71260,
+        "crit": 575,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "185": {
+        "dodge": 583,
+        "upgrade": 130,
+        "hit": 722,
+        "toughness": 449,
+        "level": 185,
+        "attack": 7225,
+        "defence": 7225,
+        "health": 72250,
+        "crit": 583,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "188": {
+        "dodge": 606,
+        "upgrade": 130,
+        "hit": 752,
+        "toughness": 467,
+        "level": 188,
+        "attack": 7522,
+        "defence": 7522,
+        "health": 75220,
+        "crit": 606,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "189": {
+        "dodge": 614,
+        "upgrade": 130,
+        "hit": 762,
+        "toughness": 473,
+        "level": 189,
+        "attack": 7621,
+        "defence": 7621,
+        "health": 76210,
+        "crit": 614,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "229": {
+        "dodge": 1007,
+        "upgrade": 170,
+        "hit": 1234,
+        "toughness": 756,
+        "level": 229,
+        "attack": 12349,
+        "defence": 12349,
+        "health": 123490,
+        "crit": 1007,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "228": {
+        "dodge": 996,
+        "upgrade": 170,
+        "hit": 1221,
+        "toughness": 749,
+        "level": 228,
+        "attack": 12218,
+        "defence": 12218,
+        "health": 122180,
+        "crit": 996,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "227": {
+        "dodge": 985,
+        "upgrade": 170,
+        "hit": 1208,
+        "toughness": 741,
+        "level": 227,
+        "attack": 12087,
+        "defence": 12087,
+        "health": 120870,
+        "crit": 985,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "226": {
+        "dodge": 974,
+        "upgrade": 170,
+        "hit": 1195,
+        "toughness": 733,
+        "level": 226,
+        "attack": 11956,
+        "defence": 11956,
+        "health": 119560,
+        "crit": 974,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "225": {
+        "dodge": 963,
+        "upgrade": 170,
+        "hit": 1182,
+        "toughness": 725,
+        "level": 225,
+        "attack": 11825,
+        "defence": 11825,
+        "health": 118250,
+        "crit": 963,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "224": {
+        "dodge": 952,
+        "upgrade": 170,
+        "hit": 1169,
+        "toughness": 717,
+        "level": 224,
+        "attack": 11694,
+        "defence": 11694,
+        "health": 116940,
+        "crit": 952,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "223": {
+        "dodge": 941,
+        "upgrade": 170,
+        "hit": 1156,
+        "toughness": 709,
+        "level": 223,
+        "attack": 11563,
+        "defence": 11563,
+        "health": 115630,
+        "crit": 941,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "222": {
+        "dodge": 930,
+        "upgrade": 170,
+        "hit": 1143,
+        "toughness": 701,
+        "level": 222,
+        "attack": 11432,
+        "defence": 11432,
+        "health": 114320,
+        "crit": 930,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "221": {
+        "dodge": 919,
+        "upgrade": 170,
+        "hit": 1130,
+        "toughness": 694,
+        "level": 221,
+        "attack": 11301,
+        "defence": 11301,
+        "health": 113010,
+        "crit": 919,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "220": {
+        "dodge": 908,
+        "upgrade": 160,
+        "hit": 1117,
+        "toughness": 686,
+        "level": 220,
+        "attack": 11170,
+        "defence": 11170,
+        "health": 111700,
+        "crit": 908,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "11": {
+        "dodge": 10,
+        "upgrade": 20,
+        "hit": 11,
+        "toughness": 10,
+        "level": 11,
+        "attack": 110,
+        "defence": 110,
+        "health": 1100,
+        "crit": 10,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "10": {
+        "dodge": 9,
+        "upgrade": 20,
+        "hit": 10,
+        "toughness": 9,
+        "level": 10,
+        "attack": 100,
+        "defence": 100,
+        "health": 1000,
+        "crit": 9,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "13": {
+        "dodge": 12,
+        "upgrade": 20,
+        "hit": 13,
+        "toughness": 12,
+        "level": 13,
+        "attack": 130,
+        "defence": 130,
+        "health": 1300,
+        "crit": 12,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "12": {
+        "dodge": 11,
+        "upgrade": 20,
+        "hit": 12,
+        "toughness": 11,
+        "level": 12,
+        "attack": 120,
+        "defence": 120,
+        "health": 1200,
+        "crit": 11,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "15": {
+        "dodge": 14,
+        "upgrade": 20,
+        "hit": 15,
+        "toughness": 14,
+        "level": 15,
+        "attack": 150,
+        "defence": 150,
+        "health": 1500,
+        "crit": 14,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "14": {
+        "dodge": 13,
+        "upgrade": 20,
+        "hit": 14,
+        "toughness": 13,
+        "level": 14,
+        "attack": 140,
+        "defence": 140,
+        "health": 1400,
+        "crit": 13,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "17": {
+        "dodge": 16,
+        "upgrade": 40,
+        "hit": 17,
+        "toughness": 16,
+        "level": 17,
+        "attack": 170,
+        "defence": 170,
+        "health": 1700,
+        "crit": 16,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "16": {
+        "dodge": 15,
+        "upgrade": 40,
+        "hit": 16,
+        "toughness": 15,
+        "level": 16,
+        "attack": 160,
+        "defence": 160,
+        "health": 1600,
+        "crit": 15,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "19": {
+        "dodge": 18,
+        "upgrade": 40,
+        "hit": 19,
+        "toughness": 18,
+        "level": 19,
+        "attack": 190,
+        "defence": 190,
+        "health": 1900,
+        "crit": 18,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "18": {
+        "dodge": 17,
+        "upgrade": 40,
+        "hit": 18,
+        "toughness": 17,
+        "level": 18,
+        "attack": 180,
+        "defence": 180,
+        "health": 1800,
+        "crit": 17,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "117": {
+        "dodge": 192,
+        "upgrade": 60,
+        "hit": 233,
+        "toughness": 156,
+        "level": 117,
+        "attack": 2338,
+        "defence": 2338,
+        "health": 23380,
+        "crit": 192,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "116": {
+        "dodge": 188,
+        "upgrade": 60,
+        "hit": 229,
+        "toughness": 153,
+        "level": 116,
+        "attack": 2294,
+        "defence": 2294,
+        "health": 22940,
+        "crit": 188,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "151": {
+        "dodge": 350,
+        "upgrade": 100,
+        "hit": 431,
+        "toughness": 274,
+        "level": 151,
+        "attack": 4315,
+        "defence": 4315,
+        "health": 43150,
+        "crit": 350,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "150": {
+        "dodge": 344,
+        "upgrade": 90,
+        "hit": 424,
+        "toughness": 270,
+        "level": 150,
+        "attack": 4240,
+        "defence": 4240,
+        "health": 42400,
+        "crit": 344,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "153": {
+        "dodge": 362,
+        "upgrade": 100,
+        "hit": 446,
+        "toughness": 283,
+        "level": 153,
+        "attack": 4465,
+        "defence": 4465,
+        "health": 44650,
+        "crit": 362,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "152": {
+        "dodge": 356,
+        "upgrade": 100,
+        "hit": 439,
+        "toughness": 279,
+        "level": 152,
+        "attack": 4390,
+        "defence": 4390,
+        "health": 43900,
+        "crit": 356,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "155": {
+        "dodge": 374,
+        "upgrade": 100,
+        "hit": 461,
+        "toughness": 292,
+        "level": 155,
+        "attack": 4615,
+        "defence": 4615,
+        "health": 46150,
+        "crit": 374,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "154": {
+        "dodge": 368,
+        "upgrade": 100,
+        "hit": 454,
+        "toughness": 288,
+        "level": 154,
+        "attack": 4540,
+        "defence": 4540,
+        "health": 45400,
+        "crit": 368,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "157": {
+        "dodge": 386,
+        "upgrade": 100,
+        "hit": 476,
+        "toughness": 301,
+        "level": 157,
+        "attack": 4765,
+        "defence": 4765,
+        "health": 47650,
+        "crit": 386,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "156": {
+        "dodge": 380,
+        "upgrade": 100,
+        "hit": 469,
+        "toughness": 297,
+        "level": 156,
+        "attack": 4690,
+        "defence": 4690,
+        "health": 46900,
+        "crit": 380,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "159": {
+        "dodge": 398,
+        "upgrade": 100,
+        "hit": 491,
+        "toughness": 310,
+        "level": 159,
+        "attack": 4915,
+        "defence": 4915,
+        "health": 49150,
+        "crit": 398,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "158": {
+        "dodge": 392,
+        "upgrade": 100,
+        "hit": 484,
+        "toughness": 306,
+        "level": 158,
+        "attack": 4840,
+        "defence": 4840,
+        "health": 48400,
+        "crit": 392,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "62": {
+        "dodge": 66,
+        "upgrade": 40,
+        "hit": 76,
+        "toughness": 61,
+        "level": 62,
+        "attack": 766,
+        "defence": 766,
+        "health": 7660,
+        "crit": 66,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "48": {
+        "dodge": 48,
+        "upgrade": 60,
+        "hit": 54,
+        "toughness": 47,
+        "level": 48,
+        "attack": 542,
+        "defence": 542,
+        "health": 5420,
+        "crit": 48,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "49": {
+        "dodge": 49,
+        "upgrade": 60,
+        "hit": 55,
+        "toughness": 48,
+        "level": 49,
+        "attack": 556,
+        "defence": 556,
+        "health": 5560,
+        "crit": 49,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "46": {
+        "dodge": 46,
+        "upgrade": 60,
+        "hit": 51,
+        "toughness": 45,
+        "level": 46,
+        "attack": 514,
+        "defence": 514,
+        "health": 5140,
+        "crit": 46,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "86": {
+        "dodge": 106,
+        "upgrade": 50,
+        "hit": 126,
+        "toughness": 91,
+        "level": 86,
+        "attack": 1264,
+        "defence": 1264,
+        "health": 12640,
+        "crit": 106,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "44": {
+        "dodge": 43,
+        "upgrade": 60,
+        "hit": 48,
+        "toughness": 43,
+        "level": 44,
+        "attack": 486,
+        "defence": 486,
+        "health": 4860,
+        "crit": 43,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "45": {
+        "dodge": 45,
+        "upgrade": 60,
+        "hit": 50,
+        "toughness": 44,
+        "level": 45,
+        "attack": 500,
+        "defence": 500,
+        "health": 5000,
+        "crit": 45,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "42": {
+        "dodge": 41,
+        "upgrade": 60,
+        "hit": 45,
+        "toughness": 41,
+        "level": 42,
+        "attack": 458,
+        "defence": 458,
+        "health": 4580,
+        "crit": 41,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "43": {
+        "dodge": 42,
+        "upgrade": 60,
+        "hit": 47,
+        "toughness": 42,
+        "level": 43,
+        "attack": 472,
+        "defence": 472,
+        "health": 4720,
+        "crit": 42,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "40": {
+        "dodge": 39,
+        "upgrade": 60,
+        "hit": 43,
+        "toughness": 39,
+        "level": 40,
+        "attack": 430,
+        "defence": 430,
+        "health": 4300,
+        "crit": 39,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "87": {
+        "dodge": 108,
+        "upgrade": 50,
+        "hit": 128,
+        "toughness": 93,
+        "level": 87,
+        "attack": 1288,
+        "defence": 1288,
+        "health": 12880,
+        "crit": 108,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 12,
+        "gold_cost": 240
+    },
+    "5": {
+        "dodge": 4,
+        "upgrade": 20,
+        "hit": 5,
+        "toughness": 4,
+        "level": 5,
+        "attack": 50,
+        "defence": 50,
+        "health": 500,
+        "crit": 4,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    },
+    "201": {
+        "dodge": 717,
+        "upgrade": 150,
+        "hit": 890,
+        "toughness": 550,
+        "level": 201,
+        "attack": 8905,
+        "defence": 8905,
+        "health": 89050,
+        "crit": 717,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "200": {
+        "dodge": 708,
+        "upgrade": 140,
+        "hit": 879,
+        "toughness": 543,
+        "level": 200,
+        "attack": 8790,
+        "defence": 8790,
+        "health": 87900,
+        "crit": 708,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "203": {
+        "dodge": 735,
+        "upgrade": 150,
+        "hit": 913,
+        "toughness": 564,
+        "level": 203,
+        "attack": 9135,
+        "defence": 9135,
+        "health": 91350,
+        "crit": 735,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "202": {
+        "dodge": 726,
+        "upgrade": 150,
+        "hit": 902,
+        "toughness": 557,
+        "level": 202,
+        "attack": 9020,
+        "defence": 9020,
+        "health": 90200,
+        "crit": 726,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "205": {
+        "dodge": 755,
+        "upgrade": 150,
+        "hit": 936,
+        "toughness": 577,
+        "level": 205,
+        "attack": 9365,
+        "defence": 9365,
+        "health": 93650,
+        "crit": 755,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "204": {
+        "dodge": 746,
+        "upgrade": 150,
+        "hit": 925,
+        "toughness": 571,
+        "level": 204,
+        "attack": 9250,
+        "defence": 9250,
+        "health": 92500,
+        "crit": 746,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "207": {
+        "dodge": 773,
+        "upgrade": 150,
+        "hit": 959,
+        "toughness": 591,
+        "level": 207,
+        "attack": 9595,
+        "defence": 9595,
+        "health": 95950,
+        "crit": 773,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "206": {
+        "dodge": 764,
+        "upgrade": 150,
+        "hit": 948,
+        "toughness": 584,
+        "level": 206,
+        "attack": 9480,
+        "defence": 9480,
+        "health": 94800,
+        "crit": 764,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "209": {
+        "dodge": 793,
+        "upgrade": 150,
+        "hit": 982,
+        "toughness": 605,
+        "level": 209,
+        "attack": 9825,
+        "defence": 9825,
+        "health": 98250,
+        "crit": 793,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "208": {
+        "dodge": 782,
+        "upgrade": 150,
+        "hit": 971,
+        "toughness": 598,
+        "level": 208,
+        "attack": 9710,
+        "defence": 9710,
+        "health": 97100,
+        "crit": 782,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 20,
+        "gold_cost": 400
+    },
+    "77": {
+        "dodge": 89,
+        "upgrade": 50,
+        "hit": 105,
+        "toughness": 79,
+        "level": 77,
+        "attack": 1057,
+        "defence": 1057,
+        "health": 10570,
+        "crit": 89,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "76": {
+        "dodge": 87,
+        "upgrade": 50,
+        "hit": 103,
+        "toughness": 78,
+        "level": 76,
+        "attack": 1036,
+        "defence": 1036,
+        "health": 10360,
+        "crit": 87,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "75": {
+        "dodge": 86,
+        "upgrade": 50,
+        "hit": 101,
+        "toughness": 76,
+        "level": 75,
+        "attack": 1015,
+        "defence": 1015,
+        "health": 10150,
+        "crit": 86,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "74": {
+        "dodge": 84,
+        "upgrade": 50,
+        "hit": 99,
+        "toughness": 75,
+        "level": 74,
+        "attack": 994,
+        "defence": 994,
+        "health": 9940,
+        "crit": 84,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "73": {
+        "dodge": 82,
+        "upgrade": 50,
+        "hit": 97,
+        "toughness": 74,
+        "level": 73,
+        "attack": 973,
+        "defence": 973,
+        "health": 9730,
+        "crit": 82,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "72": {
+        "dodge": 81,
+        "upgrade": 50,
+        "hit": 95,
+        "toughness": 73,
+        "level": 72,
+        "attack": 952,
+        "defence": 952,
+        "health": 9520,
+        "crit": 81,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "71": {
+        "dodge": 79,
+        "upgrade": 50,
+        "hit": 93,
+        "toughness": 71,
+        "level": 71,
+        "attack": 931,
+        "defence": 931,
+        "health": 9310,
+        "crit": 79,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "70": {
+        "dodge": 77,
+        "upgrade": 40,
+        "hit": 91,
+        "toughness": 70,
+        "level": 70,
+        "attack": 910,
+        "defence": 910,
+        "health": 9100,
+        "crit": 77,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "79": {
+        "dodge": 92,
+        "upgrade": 50,
+        "hit": 109,
+        "toughness": 81,
+        "level": 79,
+        "attack": 1099,
+        "defence": 1099,
+        "health": 10990,
+        "crit": 92,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "78": {
+        "dodge": 91,
+        "upgrade": 50,
+        "hit": 107,
+        "toughness": 80,
+        "level": 78,
+        "attack": 1078,
+        "defence": 1078,
+        "health": 10780,
+        "crit": 91,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 10,
+        "gold_cost": 200
+    },
+    "2": {
+        "dodge": 1,
+        "upgrade": 20,
+        "hit": 2,
+        "toughness": 1,
+        "level": 2,
+        "attack": 20,
+        "defence": 20,
+        "health": 200,
+        "crit": 1,
+        "spirit": [
+            9,
+            11
+        ],
+        "item_cost": 5,
+        "gold_cost": 100
+    }
+}

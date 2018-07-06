@@ -1,0 +1,342 @@
+{
+    "20": {
+        "remark": [
+            "30",
+            "14.5"
+        ],
+        "name": "减伤",
+        "server_force": 5750,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1450,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "11": {
+        "remark": [
+            "30",
+            "10"
+        ],
+        "name": "减伤",
+        "server_force": 3500,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 1000,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "10": {
+        "remark": [
+            "30",
+            "9.5"
+        ],
+        "name": "减伤",
+        "server_force": 3250,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 950,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "13": {
+        "remark": [
+            "30",
+            "11"
+        ],
+        "name": "减伤",
+        "server_force": 4000,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1100,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "12": {
+        "remark": [
+            "30",
+            "10.5"
+        ],
+        "name": "减伤",
+        "server_force": 3750,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 1050,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "15": {
+        "remark": [
+            "30",
+            "12"
+        ],
+        "name": "减伤",
+        "server_force": 4500,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1200,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "14": {
+        "remark": [
+            "30",
+            "11.5"
+        ],
+        "name": "减伤",
+        "server_force": 4250,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1150,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "17": {
+        "remark": [
+            "30",
+            "13"
+        ],
+        "name": "减伤",
+        "server_force": 5000,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1300,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "16": {
+        "remark": [
+            "30",
+            "12.5"
+        ],
+        "name": "减伤",
+        "server_force": 4750,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1250,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "19": {
+        "remark": [
+            "30",
+            "14"
+        ],
+        "name": "减伤",
+        "server_force": 5500,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1400,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "18": {
+        "remark": [
+            "30",
+            "13.5"
+        ],
+        "name": "减伤",
+        "server_force": 5250,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1350,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "1": {
+        "remark": [
+            "30",
+            "5"
+        ],
+        "name": "减伤",
+        "server_force": 1000,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 500,
+            "blood_per": 3000
+        },
+        "add_fight": 1000
+    },
+    "3": {
+        "remark": [
+            "30",
+            "6"
+        ],
+        "name": "减伤",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 600,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "2": {
+        "remark": [
+            "30",
+            "5.5"
+        ],
+        "name": "减伤",
+        "server_force": 1250,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 550,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "5": {
+        "remark": [
+            "30",
+            "7"
+        ],
+        "name": "减伤",
+        "server_force": 2000,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 700,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "4": {
+        "remark": [
+            "30",
+            "6.5"
+        ],
+        "name": "减伤",
+        "server_force": 1750,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 650,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "7": {
+        "remark": [
+            "30",
+            "8"
+        ],
+        "name": "减伤",
+        "server_force": 2500,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 800,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "6": {
+        "remark": [
+            "30",
+            "7.5"
+        ],
+        "name": "减伤",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 750,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "9": {
+        "remark": [
+            "30",
+            "9"
+        ],
+        "name": "减伤",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 900,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "8": {
+        "remark": [
+            "30",
+            "8.5"
+        ],
+        "name": "减伤",
+        "server_force": 2750,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 850,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    }
+}

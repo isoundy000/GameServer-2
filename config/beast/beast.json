@@ -1,0 +1,47 @@
+{
+    "70000001" : {
+        "name" : "小海龟",
+        "attack" : 0,
+        "hit" : 0,
+        "crit" : 0,
+        "ability" : 41,
+        "skill_list" : [418100031,418100026],
+		"transform":0//基础属性转化率
+    },
+	"70000002": {
+		"name": "弑神兽",
+		"attack": 0,
+		"hit":0,
+		"crit": 0,
+		"ability": 61,
+		"skill_list":[418100007,418100017,418100047],
+		"transform":0//基础属性转化率
+	},
+	"70000003": {
+		"name": "桃桃",
+		"attack": 0,
+		"hit":0,
+		"crit": 0,
+		"ability": 22,
+		"skill_list":[418100001],
+		"transform":0//基础属性转化率
+	},
+	"70000004": {
+		"name": "暗夜死神",
+		"attack": 0,
+		"hit":0,
+		"crit": 0,
+		"ability": 51,
+		"skill_list":[418100021,418100011],
+		"transform":0//基础属性转化率
+	},
+	"70000005": {
+		"name": "大圣",
+		"attack": 0,
+		"hit":0,
+		"crit": 0,
+		"ability": 41,
+		"skill_list":[418100011,418100016],
+		"transform":0//基础属性转化率
+	}
+}

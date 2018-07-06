@@ -1,0 +1,351 @@
+import "ProtoPublic.proto";
+
+message Proto10404003       // 竞猜支持
+{
+    optional int64 support_league_id = 1;       // 帮派ID
+}
+
+message Proto10102060       // 获取扭蛋活动信息
+{
+    optional int32 activity_id = 1;       // 活动索引
+}
+
+message Proto10102061       // 领取扭蛋奖励
+{
+    optional int32 activity_id = 1;       // 活动索引
+    optional int32 count = 2;       // 扭蛋次数 默认1次
+}
+
+message Proto50102060       // 获取扭蛋活动信息(返回)
+{
+    optional int32 activity_id = 1;       // 活动索引
+    repeated ProtoServerRecord server_record = 2;       // 全服记录
+    repeated ProtoPersonRecord person_record = 3;       // 个人记录
+    optional int32 left_tick = 4;       // 剩余时间
+    optional int32 draw_free_times = 5;       // 今天剩余可领免费次数
+    optional int32 today_buy_times = 6;       // 今天已领取次数
+    optional int32 today_recharge_gold = 7;       // 今天累计充值
+}
+
+message Proto50102061       // 领取扭蛋奖励(返回)
+{
+    optional int32 activity_id = 1;       // 活动索引
+    repeated ProtoItem item = 2;       // 物品
+}
+
+message Proto51403001       // 获取英魂信息面板(返回)
+{
+    optional int32 level = 1;       // 英魂等级
+    optional int32 exp = 2;       // 英魂值
+    optional int32 stage = 3;       // 等阶
+    optional int32 gold_times = 4;       // 元宝聚精次数
+}
+
+message Proto11403002       // 进行聚精
+{
+    optional int32 type = 1;       // 1:普通聚精 2:元宝聚精
+}
+
+message Proto51403002       // 进行聚精(返回)
+{
+    optional int32 level = 1;       // 英魂等级
+    optional int32 exp = 2;       // 英魂值
+    optional int32 type = 3;       // 1:普通聚精 2:元宝聚精
+    optional int32 gold_times = 4;       // 元宝聚精次数
+    optional int32 mult = 5;       // 暴击倍数
+}
+
+message Proto51403003       // 进行升阶(返回)
+{
+    optional int32 level = 1;       // 英魂等级
+    optional int32 exp = 2;       // 英魂值
+    optional int32 stage = 3;       // 等阶
+}
+
+message Proto10400921       // 副本一键重置
+{
+    optional int32 script_type = 1;       // 副本类型
+}
+
+message Proto50400921       // 副本一键重置(返回)
+{
+    optional int32 script_type = 1;       // 副本类型
+    repeated ProtoScriptReset reset_info = 2;       // 重置信息
+}
+
+message Proto10100217       // 获取后台活动列表
+{
+    optional int32 first_type = 1;       // 活动类型
+}
+
+message Proto50100217       // 获取后台活动列表(返回)
+{
+    optional int32 first_type = 1;       // 活动类型
+    repeated ProtoBackActName act_name_list = 2;       // 活动名字列表
+}
+
+message Proto10100218       // 获取某个后台活动信息
+{
+    optional int32 act_id = 1;       // 活动ID
+}
+
+message Proto50100218       // 获取某个后台活动信息（返回）
+{
+    optional int32 act_id = 1;       // 活动ID
+    optional int32 system_tick = 2;       // 当前服务端时间
+    optional ProtoBackActInfo act_info = 3;       // 活动详细信息
+    optional int32 accu_recharge = 4;       // 累计充值
+    optional int32 accu_consum = 5;       // 累计消费
+}
+
+message Proto10100219       // 领取某个后台活动奖励
+{
+    optional int32 act_id = 1;       // 活动ID
+    optional int32 reward_id = 2;       // 奖励项ID
+}
+
+message Proto80100201       // 后台活动图标
+{
+    repeated int32 show_type = 1;       // 开启的活动类型
+    repeated int32 reward_show_type = 2;       // 有奖励的活动类型
+}
+
+message Proto51403004       // 获取变身信息面板(返回)
+{
+    repeated ProtoTransferClient transfer = 1;       // 变身信息
+    optional int32 select_id = 2;       // 正在使用的变身id
+    optional int32 is_in_cool = 3;       // 是否处于冷却中
+    optional int32 is_in_transfer = 4;       // 是否处于变身中
+    optional int64 transfer_tick = 5;       // 变身开始时间
+    optional int32 last = 6;       // 变身持续时间
+    optional int32 cool = 7;       // 冷却剩余cd
+    optional int32 open_reward = 8;       // 开启奖励 0没领 1已领
+}
+
+message Proto50100636       // 请求是否在弹劾期间(返回)
+{
+    optional int32 left_tick = 1;       // 剩余时间
+}
+
+message Proto11403005       // 切换变身
+{
+    optional int32 transfer_id = 1;       // 变身id
+}
+
+message Proto51403005       // 切换变身(返回)
+{
+    optional int32 tansfer_id = 1;       // 变身id
+}
+
+message Proto51403006       // 使用变身(返回)
+{
+    optional int64 transfer_tick = 1;       // 变身开始时间
+    optional int32 last = 2;       // 变身持续时间
+    optional int32 transfer_id = 3;       // 变身id
+}
+
+message Proto10100220       // 获取聚宝盘信息
+{
+    optional int32 activity_id = 1;       // 活动ID
+}
+
+message Proto50100220       // 获取聚宝盆信息(返回)
+{
+    repeated PActTastList task_list = 1;       // 任务列表
+    optional int32 person_gold = 2;       // 个人聚宝盆金额
+    optional int32 server_gold = 3;       // 全服聚宝盆金额
+    optional int32 activity_left_time = 4;       // 活动剩余时间
+    optional int32 today_left_time = 5;       // 今天剩余时间
+    optional int32 person_gold_plus = 6;       // 个人聚宝盆金额加成比例
+    repeated int32 act_reward_item = 7;       // 全服各阶段奖励
+    optional int32 is_open = 8;       // 活动是否开启
+}
+
+message Proto10100221       // 聚宝盆领取全服奖励
+{
+    optional int32 activity_id = 1;       // 活动ID
+    optional int32 index = 2;       // 全服奖励对应阶段
+}
+
+message Proto10404005       // 请求兑换攻城器械
+{
+    optional int32 buy_type = 1;       // 1资源点，2元宝，3绑元
+    optional int32 hickty_id = 2;       // 请求兑换的器械id
+}
+
+message Proto80404006       // 玩家战斗信息(主动)
+{
+    optional int64 player_score = 1;       // 个人积分
+    optional string my_league = 2;       // 帮派名字
+    optional int64 league_score = 3;       // 帮派积分
+    optional int64 my_res_score = 4;       // 我的资源积分
+    optional int32 crt_hickty_level = 5;       // 可变身等级
+    optional int64 center_relive_belongto = 6;       // 中间复活点的所属帮派 0中立 1敌方 2我方
+    optional int64 center_relive_crt_blood = 7;       // 复活点当前的血量
+    optional string enemy_league = 8;       // 对方帮派名字
+    optional int64 enemy_league_score = 9;       // 对方帮派的积分
+    repeated int64 flags_crt_blood = 10;       // 双方的旗子血量，第一个代表自己，第二个代表敌人
+    repeated int64 tower_surplus_num = 11;       // 剩余塔量，第一个代表自己，第二个代表敌人
+    optional int32 left_time = 12;       // 剩余时间
+    optional int32 camp_id = 13;       // 自己阵营ID，1表示左边，2表示右边
+    optional int32 reward_id = 14;       // 奖励ID
+    optional int32 arrive_score = 15;       // 需要东达到积分
+}
+
+message Proto81400801       // 通知变身续费(主动)
+{
+    optional int32 transfer_id = 1;       // 变身id
+}
+
+message Proto50404006       // 退出变身
+{
+    optional int32 reply = 1;       // 1 成功，-1玩家当前没有变身
+}
+
+message Proto51403007       // 领取变身开启奖励(返回)
+{
+    optional int32 open_reward = 1;       // 开启奖励 0没领 1已领
+}
+
+message Proto11403008       // 变身购买
+{
+    optional int32 transfer_id = 1;       // 变身id
+}
+
+message Proto51403008       // 变身购买(返回)
+{
+    optional int32 transfer_id = 1;       // 变身id
+}
+
+message Proto10100222       // 获取后台跨服排行信息
+{
+    optional int32 act_id = 1;       // 活动ID
+    optional int32 page = 2;       // 页码
+}
+
+message Proto50100222       // 获取后台跨服排行信息（返回）
+{
+    optional int32 first_type = 1;       // 活动类型
+    optional int32 system_tick = 2;       // 系统当前时间
+    optional ProtoBackActInfo act_info = 3;       // 活动信息
+    repeated ProtoRechargeRank rank_info = 4;       // 充值排行信息
+    optional ProtoRechargeRank my_rank = 5;       // 自己的信息
+    optional int32 cur_page = 6;       // 当前页码
+    optional int32 total_page = 7;       // 总页码
+}
+
+message Proto50100251       // 五一活动列表(返回)
+{
+    repeated int32 act_list = 1;       // 活动列表
+    optional int32 type = 2;       // 活动主类型
+}
+
+message Proto50100252       // 获取单个五一活动(返回)
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 left_tick = 2;       // 活动剩余时间
+    optional int32 night_tick = 3;       // 今晚0点时间
+    optional string name = 4;       // 活动名字
+    optional string title = 5;       // 活动标题
+    optional int32 first_type = 6;       // 活动第一类型
+    optional int32 second_type = 7;       // 活动第二类型
+    optional int32 start_cond = 8;       // 起始条件
+    optional ProtoLimitValue limit_value = 9;       // 条件限制值
+    repeated MayRewardInfo reward_info = 10;       // 奖励详细
+    repeated ActOpenLimitTime open_time = 11;       // 活动时间段开启状态
+    repeated int32 act_open_times = 12;       // 活动开放次数,对应活动时间段
+    optional int32 continuity_login_day = 13;       // 连续登陆天数
+    optional int32 sub_value = 14;       // 第一附加值
+    optional int32 second_sub = 15;       // 第二附加值
+    optional int32 third_sub = 16;       // 第三附件值
+    repeated ProtoRunRole role_info = 17;       // 跑酷玩家列表
+    repeated ProtoAllRedActInfo all_red_info = 18;       // 所有红包状态信息
+    optional int32 daily_cumulative_recharge = 19;       // 今日累计充值
+    optional ProtoMayFashionInfo act_fashion_info = 20;       // 绝版时装活动信息
+    repeated PActTastList task_info = 21;       // 任务信息
+    optional int32 reward_show_id = 22;       // 奖励展示id
+}
+
+message Proto10100252       // 获取单个五一活动
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto10100253       // 领取五一活动奖励
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 reward_index = 2;       // 奖励索引
+}
+
+message Proto50100253       // 领取五一活动奖励(返回)
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto10100254       // 五一活动购买
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 buy_index = 2;       // 购买索引
+    optional int32 amount = 3;       // 购买数量
+}
+
+message Proto50100254       // 五一活动购买(返回)
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto50100255       // 获取抢红包活动信息(返回)
+{
+    optional int32 red_packet_money = 1;       // 红包总金额
+    optional int32 person_count = 2;       // 一个红包可抢人数
+}
+
+message Proto10100255       // 获取抢红包活动信息
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 index = 2;       // 红包索引
+}
+
+message Proto10100256       // 领取红包奖励
+{
+    optional int32 index = 1;       // 红包索引
+}
+
+message Proto50100256       // 领取红包奖励(返回)
+{
+    repeated ProtoRedPacketInfo red_packet_info = 1;       // 当前获得红包金额的玩家信息
+    optional int32 red_packet_max = 2;       // 红包金额分配总个数
+    optional int32 bing_money = 3;       // 红包总共元宝数
+    optional int32 self_money = 4;       // 自己获得数量
+}
+
+message Proto10100257       // 获取每日登录活动信息
+{
+    optional int32 activity_id = 1;       // 活动id
+}
+
+message Proto10100258       // 领取每日登录奖励
+{
+    optional int32 type = 1;       // 领取登陆奖励：1，领取连续登陆奖励：2
+}
+
+message Proto50100257       // 获取每日登录活动信息（返回）
+{
+    required int32 login_reward = 1;       // 登陆奖励的可领取次数
+    required int32 continuity_login_reward = 2;       // 连续登陆奖励的可领取次数
+    required int32 continuity_login_day = 3;       // 连续登陆天数
+}
+
+message Proto50100258       // 领取每日登陆奖励（返回）
+{
+    required int32 login_reward = 1;       // 登陆奖励的可领取次数
+    required int32 continuity_login_reward = 2;       // 连续登陆奖励的可领取次数
+}
+
+message Proto10100259       // 获取指定红包领取状态
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 index = 2;       // 红包索引
+}
+
+

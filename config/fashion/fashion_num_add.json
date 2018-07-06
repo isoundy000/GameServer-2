@@ -1,0 +1,302 @@
+{
+    "30": {
+        "attack": 1200,
+        "num": 30,
+        "health": 12000,
+        "defence": 600
+    },
+    "28": {
+        "attack": 1120,
+        "num": 28,
+        "health": 11200,
+        "defence": 560
+    },
+    "29": {
+        "attack": 1160,
+        "num": 29,
+        "health": 11600,
+        "defence": 580
+    },
+    "24": {
+        "attack": 960,
+        "num": 24,
+        "health": 9600,
+        "defence": 480
+    },
+    "25": {
+        "attack": 1000,
+        "num": 25,
+        "health": 10000,
+        "defence": 500
+    },
+    "26": {
+        "attack": 1040,
+        "num": 26,
+        "health": 10400,
+        "defence": 520
+    },
+    "27": {
+        "attack": 1080,
+        "num": 27,
+        "health": 10800,
+        "defence": 540
+    },
+    "20": {
+        "attack": 800,
+        "num": 20,
+        "health": 8000,
+        "defence": 400
+    },
+    "21": {
+        "attack": 840,
+        "num": 21,
+        "health": 8400,
+        "defence": 420
+    },
+    "48": {
+        "attack": 1920,
+        "num": 48,
+        "health": 19200,
+        "defence": 960
+    },
+    "49": {
+        "attack": 1960,
+        "num": 49,
+        "health": 19600,
+        "defence": 980
+    },
+    "46": {
+        "attack": 1840,
+        "num": 46,
+        "health": 18400,
+        "defence": 920
+    },
+    "47": {
+        "attack": 1880,
+        "num": 47,
+        "health": 18800,
+        "defence": 940
+    },
+    "44": {
+        "attack": 1760,
+        "num": 44,
+        "health": 17600,
+        "defence": 880
+    },
+    "45": {
+        "attack": 1800,
+        "num": 45,
+        "health": 18000,
+        "defence": 900
+    },
+    "42": {
+        "attack": 1680,
+        "num": 42,
+        "health": 16800,
+        "defence": 840
+    },
+    "43": {
+        "attack": 1720,
+        "num": 43,
+        "health": 17200,
+        "defence": 860
+    },
+    "40": {
+        "attack": 1600,
+        "num": 40,
+        "health": 16000,
+        "defence": 800
+    },
+    "41": {
+        "attack": 1640,
+        "num": 41,
+        "health": 16400,
+        "defence": 820
+    },
+    "1": {
+        "attack": 40,
+        "num": 1,
+        "health": 400,
+        "defence": 20
+    },
+    "3": {
+        "attack": 120,
+        "num": 3,
+        "health": 1200,
+        "defence": 60
+    },
+    "2": {
+        "attack": 80,
+        "num": 2,
+        "health": 800,
+        "defence": 40
+    },
+    "5": {
+        "attack": 200,
+        "num": 5,
+        "health": 2000,
+        "defence": 100
+    },
+    "4": {
+        "attack": 160,
+        "num": 4,
+        "health": 1600,
+        "defence": 80
+    },
+    "7": {
+        "attack": 280,
+        "num": 7,
+        "health": 2800,
+        "defence": 140
+    },
+    "6": {
+        "attack": 240,
+        "num": 6,
+        "health": 2400,
+        "defence": 120
+    },
+    "9": {
+        "attack": 360,
+        "num": 9,
+        "health": 3600,
+        "defence": 180
+    },
+    "8": {
+        "attack": 320,
+        "num": 8,
+        "health": 3200,
+        "defence": 160
+    },
+    "13": {
+        "attack": 520,
+        "num": 13,
+        "health": 5200,
+        "defence": 260
+    },
+    "12": {
+        "attack": 480,
+        "num": 12,
+        "health": 4800,
+        "defence": 240
+    },
+    "14": {
+        "attack": 560,
+        "num": 14,
+        "health": 5600,
+        "defence": 280
+    },
+    "11": {
+        "attack": 440,
+        "num": 11,
+        "health": 4400,
+        "defence": 220
+    },
+    "10": {
+        "attack": 400,
+        "num": 10,
+        "health": 4000,
+        "defence": 200
+    },
+    "39": {
+        "attack": 1560,
+        "num": 39,
+        "health": 15600,
+        "defence": 780
+    },
+    "38": {
+        "attack": 1520,
+        "num": 38,
+        "health": 15200,
+        "defence": 760
+    },
+    "15": {
+        "attack": 600,
+        "num": 15,
+        "health": 6000,
+        "defence": 300
+    },
+    "22": {
+        "attack": 880,
+        "num": 22,
+        "health": 8800,
+        "defence": 440
+    },
+    "17": {
+        "attack": 680,
+        "num": 17,
+        "health": 6800,
+        "defence": 340
+    },
+    "16": {
+        "attack": 640,
+        "num": 16,
+        "health": 6400,
+        "defence": 320
+    },
+    "19": {
+        "attack": 760,
+        "num": 19,
+        "health": 7600,
+        "defence": 380
+    },
+    "18": {
+        "attack": 720,
+        "num": 18,
+        "health": 7200,
+        "defence": 360
+    },
+    "31": {
+        "attack": 1240,
+        "num": 31,
+        "health": 12400,
+        "defence": 620
+    },
+    "23": {
+        "attack": 920,
+        "num": 23,
+        "health": 9200,
+        "defence": 460
+    },
+    "37": {
+        "attack": 1480,
+        "num": 37,
+        "health": 14800,
+        "defence": 740
+    },
+    "36": {
+        "attack": 1440,
+        "num": 36,
+        "health": 14400,
+        "defence": 720
+    },
+    "35": {
+        "attack": 1400,
+        "num": 35,
+        "health": 14000,
+        "defence": 700
+    },
+    "34": {
+        "attack": 1360,
+        "num": 34,
+        "health": 13600,
+        "defence": 680
+    },
+    "33": {
+        "attack": 1320,
+        "num": 33,
+        "health": 13200,
+        "defence": 660
+    },
+    "32": {
+        "attack": 1280,
+        "num": 32,
+        "health": 12800,
+        "defence": 640
+    },
+    "50": {
+        "attack": 2000,
+        "num": 50,
+        "health": 20000,
+        "defence": 1000
+    }
+}

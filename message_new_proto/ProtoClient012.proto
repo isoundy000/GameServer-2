@@ -1,0 +1,370 @@
+import "ProtoPublic.proto";
+
+message Proto51400617       // 装备镶嵌宝石（返回）
+{
+    optional int32 equip_id = 1;       // 被镶宝石装备id
+    optional int32 result = 2;       // 返回结果，0为成功
+}
+
+message Proto11400618       // 装备淬练
+{
+    optional int32 color = 1;       // 装备的颜色
+    optional int32 level = 2;       // 装备的等级
+    repeated ProtoPackageItem item_list = 3;       // 装备淬练所需子装备的列表
+}
+
+message Proto51400618       // 装备淬练（回复）
+{
+    optional int32 color = 1;       // 淬练生成装备的颜色
+    optional int32 level = 2;       // 淬练生成装备的等级
+    optional int32 item_id = 3;       // 淬练生成装备的id
+    optional int32 result = 4;       // 返回结果，0为成功，（只有为0时item_id,color,level才有意义）
+    optional int32 is_exist_extras_attr = 5;       // 淬练是否生成极品属性，1生成，0没生成，只有为1时，extras_attr才有效
+    optional ProtoEquipPolishStruct extras_attr = 6;       // 装备的极品属性
+}
+
+message Proto11400619       // 装备洗练
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 item_type = 2;       // 装备类型
+    optional int32 item_index = 3;       // 装备索引
+    optional int32 is_special = 4;       // 是否黄金聚灵：1是， 0否
+    optional int32 is_batch = 5;       // 是否批量聚灵：1是， 0否
+    optional int32 is_auto_buy = 6;       // 是否自动购买：1是， 0否
+    repeated int32 lock_list = 7;       // 已使用锁的位置索引，从1开始计算
+}
+
+message Proto51400619       // 装备洗练(返回)
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 is_special = 2;       // 是否黄金聚灵：1是， 0否
+    optional int32 luck_num = 3;       // 当前的洗练积累的幸运数值
+    repeated ProtoEquipPolishStruct equip_polish_list = 4;       // 洗练结果
+    optional ProtoPairObj cost_jewel_amount = 5;       // 消耗洗练石的id及数量
+    optional ProtoPairObj cost_lock_amount = 6;       // 消耗洗练锁的id及数量
+    optional int32 cost_money_type = 7;       // 消耗金钱的类型
+    optional int32 cost_money_amount = 8;       // 消耗金钱的数量
+}
+
+message Proto11400620       // 装备洗练点击装备时返回当前要洗练属性及值
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 item_type = 2;       // 装备类型（身上的装备、背包、橱柜）
+    optional int32 item_index = 3;       // 装备索引
+    optional int32 is_batch = 4;       // 是否是批量洗练，1是，0不是
+}
+
+message Proto51400620       // 装备洗练点击装备时返回当前要洗练属性及值(返回)
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 is_batch = 2;       // 是否是批量洗练，1是，0不是
+    repeated ProtoEquipPolishStruct attr_list = 3;       // 洗练属性列表
+    optional int32 luck_value = 4;       // 当前洗练的幸运值（进度值）
+}
+
+message Proto11400516       // 宠物技能信息
+{
+    optional int64 beast_id = 1;       // 宠物ID
+}
+
+message Proto11400621       // 装备洗练属性替换
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 item_type = 2;       // 装备类型
+    optional int32 item_index = 3;       // 装备索引
+    optional int32 is_select = 4;       // 是否批量替换,1批量替换，0不是批量替换
+    optional int32 select_index = 5;       // 替换的索引（从0开始算），只有is_select为1时才有效
+    repeated int32 lock_list = 6;       // 已使用锁的位置索引，从1开始计算
+}
+
+message Proto51400621       // 装备洗练属性替换（返回）
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 is_select = 2;       // 是否批量替换,1批量替换，0不是批量替换
+    optional ProtoEquipPolishStruct select_result = 3;       // 替换的结果
+}
+
+message Proto11400345       // 刷新日常任务的星级
+{
+    optional int32 task_id = 1;       // 任务ID
+}
+
+message Proto51400345       // 刷新日常任务的星级(返回)
+{
+    optional int32 task_id = 1;       // 任务ID
+    optional int32 star_level = 2;       // 星级， 索引从1开始
+}
+
+message Proto11400346       // 一键全部完成日常任务
+{
+    optional int32 type = 1;       // 环式任务类型 3 日常 6 悬赏 7 帮派
+}
+
+message Proto51400346       // 一键全部完成日常任务(返回)
+{
+    optional int32 type = 1;       // 快速完成类型
+    optional ProtoMoney money = 2;       // 消耗金钱
+    optional ProtoMoney return_money = 3;       // 返元
+    optional int32 scale = 4;       // 返元比例
+}
+
+message Proto51400347       // 获取试炼任务面板信息(返回)
+{
+    optional int32 left_times = 1;       // 剩余次数
+    optional int32 total_times = 2;       // 总次数
+    repeated ProtoTrialTask task_list = 3;       // 试炼任务集合
+}
+
+message Proto10101402       // 请求结婚
+{
+    optional int32 type = 1;       // 婚礼类型：1 幸福满堂，2 甜蜜盛典，3 普天同庆
+}
+
+message Proto10101403       // 补办婚礼
+{
+    optional int32 type = 1;       // 婚礼类型：1 幸福满堂，2 甜蜜盛典，3 普天同庆
+}
+
+message Proto10101405       // 提升信物
+{
+    optional int32 type = 1;       // 升级属性类型（1 婚戒 2 系统 3 爱情树）
+    optional int32 item_id = 2;       // 物品ID
+    optional int32 item_num = 3;       // 物品数量
+    optional ProtoThreeObj other_info = 4;       // 其他信息
+}
+
+message Proto10101406       // 赠送鲜花
+{
+    optional int32 item_id = 1;       // 鲜花道具ID
+    optional int64 receiver_id = 2;       // 接受者ID
+    optional int32 item_num = 3;       // 赠送数量
+    optional int32 auto_buy = 4;       // 自动购买
+    optional ProtoThreeObj other_info = 5;       // 其他信息
+}
+
+message Proto10101408       // 请求结婚应答
+{
+    optional int32 reply = 1;       // 0 不同意 1 同意
+}
+
+message Proto50101401       // 请求结婚前通知(返回)
+{
+    optional int64 partner_id = 1;       // 伴侣ID
+    optional string partnet_name = 2;       // 伴侣名字
+    optional int32 partner_level = 3;       // 伴侣等级
+    optional int32 wed_limit = 4;       // 是否结婚
+    optional int32 sex_limit = 5;       // 性别（对方性别）
+    optional int32 level_limit = 6;       // 等级（等级和性别是否合格）
+    optional int32 online_limit = 7;       // 在线
+    optional int32 intimacy_limit = 8;       // 亲密
+    optional int32 ring_limit = 9;       // 戒指
+    optional int32 team_limit = 10;       // 组队
+    optional int32 side_ring_level = 11;       // 对方戒指等级（-1 没有）
+    optional int32 self_ring_level = 12;       // 自己戒指等级（-1 没有）
+    optional ProtoThreeObj other_info = 13;       // 其他信息
+}
+
+message Proto50101402       // 请求结婚(返回)
+{
+    optional int64 leader_id = 1;       // 队长id
+    optional string leader_name = 2;       // 队长名字
+    optional int64 teamer_id = 3;       // 队员id
+    optional string teamer_name = 4;       // 队员名字
+    optional ProtoThreeObj other_info = 5;       // 其他信息
+}
+
+message Proto50101406       // 赠送鲜花(返回)
+{
+    optional int32 item_id = 1;       // 物品id
+    optional int64 sender_id = 2;       // 送花者
+    optional string sender_name = 3;       // 送花者名字
+    optional int64 receiver_id = 4;       // 接收者
+    optional string receiver_name = 5;       // 接收者名字
+    optional ProtoThreeObj other_info = 6;       // 其他信息
+    optional int32 item_num = 7;       // 物品数量
+}
+
+message Proto50101407       // 获取结缘面板信息(返回)
+{
+    optional int32 wedding_tick = 1;       // 结婚日期（时间戳）
+    optional int64 partner_id = 2;       // 伴侣ID
+    optional string partner_name = 3;       // 伴侣名字
+    optional int32 partner_sex = 4;       // 伴侣性别
+    optional int32 intimacy = 5;       // 当前亲密度
+    optional int32 keepsake_id = 6;       // 信物ID(改为是否队长 -1 没有队伍）
+    optional int32 keepsake_level = 7;       // 信物等级(改为是结婚ID -1为离婚）
+    optional int32 keepsake_sublevel = 8;       // 信物满槽次数（改为对象时装id）
+    optional double keepsake_progress = 9;       // 信物进度条值, 范围： 0~100(时装color）
+    optional int32 left_day_times = 10;       // 当日剩余结婚次数
+    optional int32 label_id = 11;       // 当前已获得称号
+    optional int32 left_script_times = 12;       // 剩余副本次数
+    optional int32 partner_career = 13;       // 伴侣职业
+    optional int32 sweet_degree = 14;       // 自身甜蜜度
+    optional ProtoWeddingDetail ring_info = 15;       // 戒指信息
+    optional ProtoWeddingDetail sys_info = 16;       // 系统信息
+    optional ProtoWeddingDetail tree_info = 17;       // 爱情树信息
+    optional ProtoWedTreasures self_treasure = 18;       // 自身爱情宝匣信息
+    optional ProtoWedTreasures side_treasure = 19;       // 对方爱情宝匣信息
+}
+
+message Proto80101401       // 播放结婚动画通知
+{
+    optional int32 type = 1;       // 婚礼类型
+    optional int32 cartoon_left_tick = 2;       // 动画播放剩余时间
+    optional int64 partner_id_1 = 3;       // 第一伴侣ID
+    optional string partner_name_1 = 4;       // 第一伴侣名字
+    optional int32 partner_career_1 = 5;       // 第一伴侣职业
+    optional int64 partner_id_2 = 6;       // 第二伴侣ID
+    optional string partner_name_2 = 7;       // 第二伴侣名字
+    optional int32 partner_career_2 = 8;       // 第二伴侣职业
+}
+
+message Proto80101403       // 举办婚礼图标通知
+{
+    repeated ProtoWeddingIcon wedding_icon_list = 1;       // 婚礼通知图标列表
+}
+
+message Proto80101404       // 结婚应答通知
+{
+    optional int32 reply = 1;       // 0 不同意 1 同意
+}
+
+message Proto80101405       // 全服飘花通知
+{
+    optional int32 wedding_type = 1;       // 婚礼类型
+}
+
+message Proto80400226       // 玩家进入花车巡游模式通知
+{
+    optional int64 fighter_id = 1;       // 进入模式的玩家ID
+    optional int64 float_id = 2;       // 花车ID
+}
+
+message Proto80400227       // 玩家跟随花车巡游移动通知
+{
+    optional int64 mover_id = 1;       // 进入模式的玩家ID
+    repeated ProtoCoord step_list = 2;       // 移动步
+}
+
+message Proto80400228       // 玩家退出花车巡游模式通知
+{
+    optional int64 mover_id = 1;       // 玩家ID
+}
+
+message Proto50100101       // 获取玩家的服务器标识(返回)
+{
+    optional string server_flag = 1;       // 服务器标识
+}
+
+message Proto80400918       // 副本取得诗句中一字通知
+{
+    optional int32 poem_text_index = 1;       // 诗句文字位置，从1开始
+    optional int32 ai_id = 2;       // 怪物ID
+}
+
+message Proto10600105       // 选择随机名字
+{
+    optional int32 sex = 1;       // 性别; 1 男，2 女
+}
+
+message Proto50600105       // 选择随机名字(返回)
+{
+    optional string name = 1;       // 返回名字
+}
+
+message Proto81400108       // 任务通知引导打开界面
+{
+    repeated string pass_ui = 1;       // 要打开的UI
+}
+
+message Proto80400378       // 通知每日运镖次数(主动)
+{
+    optional int32 escort_times = 1;       // 运镖次数
+    optional int32 protect_times = 2;       // 保护次数
+    optional int32 rob_times = 3;       // 打劫次数
+}
+
+message Proto10400118       // 每日运镖传送到NPC
+{
+    optional int32 scene_id = 1;       // 目标场景ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+}
+
+message Proto80400919       // 剧情副本完成一波怪通知
+{
+    optional int32 wave_id = 1;       // 1 第一波，2 第二波
+}
+
+message Proto80400229       // 通知红名玩家出现
+{
+    optional int64 role_id = 1;       // 红名玩家ID
+    optional string role_name = 2;       // 红名玩家名字
+}
+
+message Proto80400920       // 机器人开始攻击机器人通知
+{
+    optional int64 killer_id = 1;       // 机器人杀手角色ID
+    optional string killer_name = 2;       // 杀手名字
+    optional int64 bekill_id = 3;       // 被杀ID
+    optional string bekill_name = 4;       // 被杀名字
+}
+
+message Proto80400921       // BOSS暴走状态通知
+{
+    optional int64 boss_id = 1;       // 暴走的BOSS ID
+}
+
+message Proto80400922       // 机器人杀死机器人通知
+{
+    optional int32 test_arg = 1;       // 生成消息的没用参数
+    optional int64 red_id = 2;       // 红名ID
+    optional string red_name = 3;       // 红名玩家名
+    optional int64 bekill_id = 4;       // 被杀ID
+    optional string bekill_name = 5;       // 被杀名字
+}
+
+message Proto81400902       // 主动通知免费剩余时间
+{
+    optional int32 left_time = 1;       // 剩余时间
+}
+
+message Proto80400230       // 生命药或法力药已用完通知
+{
+    optional int32 item_id = 1;       // 道具ID
+}
+
+message Proto10100157       // 获取到仇人位置
+{
+    optional int64 role_id = 1;       // 仇人id
+}
+
+message Proto80400404       // 队友在小地图上出现通知
+{
+    optional int64 role_id = 1;       // 出现的角色ID
+    optional int64 team_id = 2;       // 队伍ID
+    optional string role_name = 3;       // 角色名
+    optional int32 career = 4;       // 职业
+    optional int32 sex = 5;       // 性别
+    optional int32 pixel_x = 6;       // X坐标
+    optional int32 pixel_y = 7;       // Y坐标
+}
+
+message Proto80400405       // 队友在小地图上消失通知
+{
+    optional int64 role_id = 1;       // 消失的角色ID
+}
+
+message Proto80400406       // 队友在小地图上移动通知
+{
+    optional int64 role_id = 1;       // 移动的角色ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+}
+
+message Proto80400231       // 物体死亡有掉落通知
+{
+    optional int64 mover_id = 1;       // 物体ID
+}
+
+

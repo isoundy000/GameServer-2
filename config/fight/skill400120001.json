@@ -1,0 +1,342 @@
+{
+    "20": {
+        "remark": [
+            "30",
+            "720"
+        ],
+        "name": "减暴",
+        "server_force": 2875,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 720
+        },
+        "add_fight": 125
+    },
+    "11": {
+        "remark": [
+            "30",
+            "450"
+        ],
+        "name": "减暴",
+        "server_force": 1750,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 450
+        },
+        "add_fight": 125
+    },
+    "10": {
+        "remark": [
+            "30",
+            "420"
+        ],
+        "name": "减暴",
+        "server_force": 1625,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 420
+        },
+        "add_fight": 125
+    },
+    "13": {
+        "remark": [
+            "30",
+            "510"
+        ],
+        "name": "减暴",
+        "server_force": 2000,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 510
+        },
+        "add_fight": 125
+    },
+    "12": {
+        "remark": [
+            "30",
+            "480"
+        ],
+        "name": "减暴",
+        "server_force": 1875,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 480
+        },
+        "add_fight": 125
+    },
+    "15": {
+        "remark": [
+            "30",
+            "570"
+        ],
+        "name": "减暴",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 570
+        },
+        "add_fight": 125
+    },
+    "14": {
+        "remark": [
+            "30",
+            "540"
+        ],
+        "name": "减暴",
+        "server_force": 2125,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 540
+        },
+        "add_fight": 125
+    },
+    "17": {
+        "remark": [
+            "30",
+            "630"
+        ],
+        "name": "减暴",
+        "server_force": 2500,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 630
+        },
+        "add_fight": 125
+    },
+    "16": {
+        "remark": [
+            "30",
+            "600"
+        ],
+        "name": "减暴",
+        "server_force": 2375,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 600
+        },
+        "add_fight": 125
+    },
+    "19": {
+        "remark": [
+            "30",
+            "690"
+        ],
+        "name": "减暴",
+        "server_force": 2750,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 690
+        },
+        "add_fight": 125
+    },
+    "18": {
+        "remark": [
+            "30",
+            "660"
+        ],
+        "name": "减暴",
+        "server_force": 2625,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 660
+        },
+        "add_fight": 125
+    },
+    "1": {
+        "remark": [
+            "30",
+            "150"
+        ],
+        "name": "减暴",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 150
+        },
+        "add_fight": 500
+    },
+    "3": {
+        "remark": [
+            "30",
+            "210"
+        ],
+        "name": "减暴",
+        "server_force": 750,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 210
+        },
+        "add_fight": 125
+    },
+    "2": {
+        "remark": [
+            "30",
+            "180"
+        ],
+        "name": "减暴",
+        "server_force": 625,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 180
+        },
+        "add_fight": 125
+    },
+    "5": {
+        "remark": [
+            "30",
+            "270"
+        ],
+        "name": "减暴",
+        "server_force": 1000,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 270
+        },
+        "add_fight": 125
+    },
+    "4": {
+        "remark": [
+            "30",
+            "240"
+        ],
+        "name": "减暴",
+        "server_force": 875,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 240
+        },
+        "add_fight": 125
+    },
+    "7": {
+        "remark": [
+            "30",
+            "330"
+        ],
+        "name": "减暴",
+        "server_force": 1250,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 330
+        },
+        "add_fight": 125
+    },
+    "6": {
+        "remark": [
+            "30",
+            "300"
+        ],
+        "name": "减暴",
+        "server_force": 1125,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 300
+        },
+        "add_fight": 125
+    },
+    "9": {
+        "remark": [
+            "30",
+            "390"
+        ],
+        "name": "减暴",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 390
+        },
+        "add_fight": 125
+    },
+    "8": {
+        "remark": [
+            "30",
+            "360"
+        ],
+        "name": "减暴",
+        "server_force": 1375,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "blood_per": 3000,
+            "value": 360
+        },
+        "add_fight": 125
+    }
+}

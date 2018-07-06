@@ -1,0 +1,422 @@
+{
+    "20": {
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "name": "狂怒",
+        "server_force": 4800,
+        "use_rate": 1000,
+        "remark": [
+            "10%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "11": {
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "name": "狂怒",
+        "server_force": 2250,
+        "use_rate": 550,
+        "remark": [
+            "5.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 570
+    },
+    "10": {
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "name": "狂怒",
+        "server_force": 1680,
+        "use_rate": 500,
+        "remark": [
+            "5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 120
+    },
+    "13": {
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "name": "狂怒",
+        "server_force": 2550,
+        "use_rate": 650,
+        "remark": [
+            "6.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "12": {
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "name": "狂怒",
+        "server_force": 2400,
+        "use_rate": 600,
+        "remark": [
+            "6%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "15": {
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "name": "狂怒",
+        "server_force": 2850,
+        "use_rate": 750,
+        "remark": [
+            "7.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "14": {
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "name": "狂怒",
+        "server_force": 2700,
+        "use_rate": 700,
+        "remark": [
+            "7%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "17": {
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "name": "狂怒",
+        "server_force": 4200,
+        "use_rate": 850,
+        "remark": [
+            "8.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "16": {
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "name": "狂怒",
+        "server_force": 4000,
+        "use_rate": 800,
+        "remark": [
+            "8%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 1150
+    },
+    "19": {
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "name": "狂怒",
+        "server_force": 4600,
+        "use_rate": 950,
+        "remark": [
+            "9.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "18": {
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "name": "狂怒",
+        "server_force": 4400,
+        "use_rate": 900,
+        "remark": [
+            "9%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "1": {
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "name": "狂怒",
+        "server_force": 500,
+        "use_rate": 50,
+        "remark": [
+            "0.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 500
+    },
+    "3": {
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "name": "狂怒",
+        "server_force": 700,
+        "use_rate": 150,
+        "remark": [
+            "1.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "2": {
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "name": "狂怒",
+        "server_force": 600,
+        "use_rate": 100,
+        "remark": [
+            "1%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "5": {
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "name": "狂怒",
+        "server_force": 900,
+        "use_rate": 250,
+        "remark": [
+            "2.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "4": {
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "name": "狂怒",
+        "server_force": 800,
+        "use_rate": 200,
+        "remark": [
+            "2%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "7": {
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "name": "狂怒",
+        "server_force": 1320,
+        "use_rate": 350,
+        "remark": [
+            "3.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 120
+    },
+    "6": {
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "name": "狂怒",
+        "server_force": 1200,
+        "use_rate": 300,
+        "remark": [
+            "3%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 300
+    },
+    "9": {
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "name": "狂怒",
+        "server_force": 1560,
+        "use_rate": 450,
+        "remark": [
+            "4.5%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 120
+    },
+    "8": {
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "name": "狂怒",
+        "server_force": 1440,
+        "use_rate": 400,
+        "remark": [
+            "4%"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 5,
+                    "name": "crazy_angry"
+                }
+            ]
+        },
+        "add_fight": 120
+    }
+}

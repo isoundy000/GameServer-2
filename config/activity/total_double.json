@@ -1,0 +1,50 @@
+{
+    "1": {
+        "open_level": 23,
+        "win_param": "13",
+        "double_icon_id": 11801,
+        "word_icon": "zi_jinjiefuben",
+        "jump_win": "COPY_WINDOW",
+        "name": "进阶副本"
+    },
+    "3": {
+        "open_level": 45,
+        "win_param": "2",
+        "double_icon_id": 11803,
+        "word_icon": "zi_juqingfuben",
+        "jump_win": "COPY_WINDOW",
+        "name": "剧情副本"
+    },
+    "2": {
+        "open_level": 58,
+        "win_param": "3",
+        "double_icon_id": 11802,
+        "word_icon": "zi_gubaodijiao",
+        "jump_win": "COPY_WINDOW",
+        "name": "古宝地窖"
+    },
+    "5": {
+        "word_icon": "zi_xuanjibaojia",
+        "double_icon_id": 11805,
+        "open_level": 70,
+        "name": "璇玑宝匣",
+        "jump_win": "XuanJiWindow"
+    },
+    "4": {
+        "open_level": 1,
+        "win_param": "6",
+        "double_icon_id": 11804,
+        "word_icon": "zi_wulinlunjian",
+        "absolute_days": 10,
+        "jump_win": "COPY_WINDOW",
+        "name": "武林论剑"
+    },
+    "6": {
+        "open_level": 57,
+        "win_param": "shilian",
+        "double_icon_id": 11806,
+        "word_icon": "zi_aiqingshilian",
+        "jump_win": "MarriageWindow",
+        "name": "爱情试炼"
+    }
+}

@@ -1,0 +1,319 @@
+import "ProtoPublic.proto";
+
+message Proto10401305       // 获取传送条件并扣元宝
+{
+    optional int64 role_id = 1;       // 玩家id
+    optional int32 flag = 2;       // (1：获取信息，2扣钱)
+    optional int32 scene_id = 3;       // 仇人场景id
+    optional int32 pixel_x = 4;       // 仇人x坐标
+    optional int32 pixel_y = 5;       // 仇人y坐标
+}
+
+message Proto50401305       // 获取传送条件（返回）
+{
+    optional int32 gold = 1;       // 消耗元宝
+    optional int32 times = 2;       // 总次数
+    optional int32 left_times = 3;       // 剩余次数
+    optional int32 flag = 4;       // (1:获取信息，2：扣元宝3：传送成功)
+}
+
+message Proto11400153       // 去除new标签
+{
+    optional int32 index = 1;       // （-1表示去除所有标签）
+}
+
+message Proto51400153       // 点击物品（返回）
+{
+    optional int32 new_tag = 1;       // 0代表新，1代表旧
+}
+
+message Proto50100157       // 获取仇人位置
+{
+    optional int64 role_id = 1;       // 仇人
+    optional int32 scene_id = 2;       // 场景
+    optional int32 pixel_x = 3;       // x坐标
+    optional int32 pixel_y = 4;       // y坐标
+}
+
+message Proto80400232       // 玩家死掉落道具复活界面通知
+{
+    repeated ProtoItem item_list = 1;       // 掉落的道具列表
+}
+
+message Proto11400009       // 获取精彩活动面板信息
+{
+    optional int32 priority = 1;       // 活动优先级或类型
+}
+
+message Proto51400009       // 获取精彩活动面板信息（返回）
+{
+    repeated PActPanelInfo act_list = 1;       // 活动列表
+}
+
+message Proto11400010       // 快速购买大喇叭道具
+{
+    optional int32 item_num = 1;       // 购买数量
+}
+
+message Proto10100804       // 插入仓库
+{
+    optional int32 item_index = 1;       // 背包物品索引
+    optional int32 item_id = 2;       // 
+    optional int32 item_num = 3;       // 
+}
+
+message Proto10100805       // 取出/申请物品
+{
+    optional int32 item_index = 1;       // 
+    optional int32 item_id = 2;       // 
+    optional int32 item_num = 3;       // 
+}
+
+message Proto10100806       // 物资申请审核
+{
+    optional int64 apply_id = 1;       // 每条申请记录的标识
+    optional int32 opt = 2;       // 1:接受，其他拒绝
+}
+
+message Proto10100807       // 获取仓库记录
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50100801       // 获取仙盟仓库信息(返回)
+{
+    repeated ProtoItem item_list = 1;       // 仓库物品列表
+    optional int32 is_leader = 2;       // 0否，30:副盟主/40:盟主
+    optional int32 left_times = 3;       // 剩余申请次数
+    optional int32 total_times = 4;       // 总申请次数
+    optional int32 pack_size = 5;       // 仓库大小
+}
+
+message Proto50100802       // 获取物资申请列表(返回)
+{
+    repeated ProtoLeagueStoreApply apply_list = 1;       // 
+    optional int32 page_index = 2;       // 
+    optional int32 total_page = 3;       // 
+}
+
+message Proto50100807       // 获取仓库记录（返回）
+{
+    repeated ProtoLeagueStoreApplyHis apply_his = 1;       // 
+    optional int32 page_index = 2;       // 
+    optional int32 total_page = 3;       // 
+}
+
+message Proto80400923       // 副本定时通知（灵兽拯救时间等）
+{
+    optional int32 rescue_sort = 1;       // 拯救的怪物模型
+    optional int32 rescue_left = 2;       // 剩余拯救时间
+    optional int64 rescue_id = 3;       // 拯救的怪物ID
+}
+
+message Proto50400325       // 仙盟运镖获取镖车位置(返回)
+{
+    optional ProtoEscortMapItem escort_info = 1;       // 
+}
+
+message Proto10100802       // 获取物资申请列表
+{
+    optional int32 page_index = 1;       // 
+}
+
+message Proto50100645       // 仙盟选择镖车(返回)
+{
+    optional int64 car_id = 1;       // 
+}
+
+message Proto80400320       // 玩家采集状态
+{
+    optional int64 role_id = 1;       // 
+    optional int32 state = 2;       // 0:不在采集-1:正在采集
+    optional int64 gather_good_id = 3;       // 采集物ID
+    optional ProtoThreeObj other_info = 4;       // 
+}
+
+message Proto10400010       // 开始采集物品(播放采集动作)
+{
+    optional int64 gather_good_id = 1;       // 采集物ID
+    optional ProtoThreeObj other_info = 2;       // 其他信息（方便优化）
+}
+
+message Proto50400010       // 开始采集物品(播放采集动作)(返回)
+{
+    optional int64 gather_good_id = 1;       // 采集物ID
+    optional ProtoThreeObj other_info = 2;       // 
+}
+
+message Proto51400905       // 抽50次(返回)
+{
+    repeated ProtoItem item_list = 1;       // 
+    optional int32 cur_lucky = 2;       // 
+}
+
+message Proto51400909       // //打开保管库(返回)(未用)
+{
+    repeated ProtoItem item_list = 1;       // 
+    optional int32 pack_size = 2;       // 保管库格子数
+}
+
+message Proto11400910       // 取出/一键取出
+{
+    optional int32 opt = 1;       // 0:取出/1:一键取出
+    optional int32 item_index = 2;       // 一键取出时无效
+}
+
+message Proto11400622       // 装备橙炼
+{
+    optional int32 item_id = 1;       // 原装备ID
+    optional int32 pkg_type = 2;       // 背包类型
+    optional int32 pkg_index = 3;       // 背包索引
+    optional int32 is_force_buy = 4;       // 铜钱/绑铜不足时，是否元宝补充
+}
+
+message Proto51400622       // 装备橙炼(返回)
+{
+    optional int32 aim_item_id = 1;       // 橙炼后装备ID
+}
+
+message Proto11400623       // 装备分解
+{
+    repeated ProtoItem pack_item_list = 1;       // 背包需要分解的道具列表
+    repeated ProtoItem puton_item_list = 2;       // 身上需要分解的装备列表
+}
+
+message Proto51400623       // 装备分解(返回)
+{
+    repeated ProtoItem result_item_list = 1;       // 分解返回的道具列表
+}
+
+message Proto80101407       // 主动通知婚姻状态
+{
+    optional int32 is_has_wedding = 1;       // 0未婚，1已婚
+}
+
+message Proto50100805       // 申请/取出物品(返回)
+{
+    optional int32 left_times = 1;       // 
+}
+
+message Proto80101408       // 收到999朵花特效通知
+{
+    optional int32 item_id = 1;       // 送花的道具ID
+    optional int32 item_num = 2;       // 花的数量
+    optional int64 sender_id = 3;       // 送花者ID
+    optional string sender_name = 4;       // 送花者名字
+    optional int64 receiver_id = 5;       // 接受者ID
+    optional string receiver_name = 6;       // 接受者名字
+    optional ProtoThreeObj other_info = 7;       // 其他
+}
+
+message Proto80101409       // 花车伴侣信息通知
+{
+    optional int64 float_id = 1;       // 花车ID
+    optional int64 partner_id_1 = 2;       // 第一伴侣ID
+    optional int32 partner_career_1 = 3;       // 第一伴侣职业
+    optional int64 partner_id_2 = 4;       // 第二伴侣ID
+    optional int32 partner_career_2 = 5;       // 第二伴侣职业
+}
+
+message Proto80400100       // 通知开服活动图标开启或关闭
+{
+    repeated int32 show_list = 1;       // 需要开启的活动列表
+    repeated int32 hide_list = 2;       // 需要关闭的活动列表
+    repeated ProtoPairObj icon_type = 3;       // 
+}
+
+message Proto80400108       // 通知客户端哪些活动分类（开服、和服等）有奖励可以领取
+{
+    repeated ProtoActRewardNotify notify_list = 1;       // 所有有奖励的活动分类和对应的活动id列表
+}
+
+message Proto80400382       // 仙盟攻城界面模型
+{
+    optional int64 role_id = 1;       // 
+    optional int32 label = 2;       // 
+    optional int32 weapon = 3;       // 
+    optional int32 clothes = 4;       // 
+    optional int32 fashion_weapon = 5;       // 
+    optional int32 fashion_clothes = 6;       // 
+    optional int32 career = 7;       // 
+    optional int32 sex = 8;       // 
+    optional int32 top_wing_id = 9;       // 
+    optional int32 top_wing_level = 10;       // 
+}
+
+message Proto11402401       // 交易请求发起
+{
+    optional int64 role_id = 1;       // 对方玩家ID
+}
+
+message Proto11402402       // 响应交易邀请
+{
+    optional int32 respone_type = 1;       // 响应类型，0表示拒绝，1表示同意
+    optional int64 role_id = 2;       // 发起交易邀请的玩家ID
+}
+
+message Proto11402403       // 放入交易栏
+{
+    optional int32 item_id = 1;       // 道具ID
+    optional int32 pack_index = 2;       // 背包位置索引
+    optional int32 item_amount = 3;       // 道具数量
+}
+
+message Proto11402404       // 取出交易栏
+{
+    optional int32 item_id = 1;       // 道具ID
+    optional int32 pack_index = 2;       // 从交易栏取出时物品原来的索引
+    optional int32 item_amount = 3;       // 道具数量
+}
+
+message Proto51402403       // 放入交易栏(返回)
+{
+    repeated ProtoItem item_list = 1;       // 物品
+}
+
+message Proto51402404       // 取出交易栏(返回)
+{
+    repeated ProtoItem item_list = 1;       // 交易栏现在的物品
+}
+
+message Proto80400241       // 通知被邀请方(主动)
+{
+    optional int64 role_id = 1;       // 邀请玩家的ID，同时显示小图标
+    optional string role_name = 2;       // 邀请玩家的名称
+}
+
+message Proto80400242       // 通知邀请方(主动)
+{
+    optional int32 respone_type = 1;       // 响应类型，0表示拒绝，1表示同意
+    optional int64 role_id = 2;       // 被邀请玩家ID
+    optional string role_name = 3;       // 被邀请玩家名称
+}
+
+message Proto80400246       // 放入对方自己的交易栏(主动)
+{
+    repeated ProtoItem item_list = 1;       // 道具
+}
+
+message Proto80400247       // 从对方自己的交易栏取出(主动)
+{
+    repeated ProtoItem item_list = 1;       // 物品
+}
+
+message Proto51402402       // 响应交易邀请（返回)
+{
+    optional int32 condition = 1;       // 0条件不满足，1条件满足打开己方交易UI
+}
+
+message Proto80400243       // 通知发起交易玩家请求被忽略（主动）
+{
+    optional int64 role_id = 1;       // 
+}
+
+message Proto80400233       // 附近玩家信息通知
+{
+    repeated ProtoNearRole role_list = 1;       // 附近玩家列表
+}
+
+

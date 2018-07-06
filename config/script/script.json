@@ -1,0 +1,2212 @@
+{
+	"20100" : {
+        "type" : 4,
+        "prev_condition" : {
+            "level" : 21,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [1,2,2,2,2,2,2,2,2,2], 
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20100,
+            //"star_level" : [300,180,120],
+			"star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501002,
+			"first_pass_award" : 501001
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20100,
+            "name" : "进阶副本",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"monster" : [[501100003, 1],[501100005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+   "20101" : {
+        "type" : 13,
+		"priority" : 1,
+        "prev_condition" : {
+            "level" : 21,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2], 
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20101,
+            //"star_level" : [300,180,120],
+			"star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501002,
+			"drop_item" : [[501100005,501003]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501001
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20101,
+            "name" : "进阶副本(战骑)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501100003, 1],[501100005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+    "20102" : {
+        "type" : 13,
+		"priority" : 2,
+        "prev_condition" : {
+            "level" : 29,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20102,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501012,
+			"drop_item" : [[501101005,501013]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501011
+        },
+        "relive" : {
+             "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20102,
+            "name" : "进阶副本(法器)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501101005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+    "20103" : {
+        "type" : 13,
+		"priority" : 3,
+        "prev_condition" : {
+            "level" : 42,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20103,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501022,
+			"drop_item" : [[501102005,501023]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501021
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20103,
+            "name" : "进阶副本(灵宠)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501102005,1]],	
+				"wave" : 6
+            }
+        }]
+    },
+	"20104" : {
+        "type" : 13,
+		"priority" : 4,
+        "prev_condition" : {
+            "level" : 55,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20104,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501032,
+			"drop_item" : [[501103005,501033]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501031
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20104,
+            "name" : "进阶副本(仙羽)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501103005,1]],
+				"wave" : 6
+            }
+        }]
+    },
+	"20105" : {
+        "type" : 13,
+		"priority" : 5,
+        "prev_condition" : {
+            "level" : 60,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20105,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501042,
+			"drop_item" : [[501104005,501043]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501041
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20105,
+            "name" : "进阶副本(神兵)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501104005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20106" : {
+        "type" : 13,
+		"priority" : 6,
+        "prev_condition" : {
+            "level" : 65,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20106,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501052,
+			"drop_item" : [[501105005,501053]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501051
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20106,
+            "name" : "进阶副本(灵武)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501105005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20107" : {
+        "type" : 13,
+		"priority" : 7,
+        "prev_condition" : {
+            "level" : 68,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20107,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501062,
+			"drop_item" : [[501106005,501063]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501061
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20107,
+            "name" : "进阶副本(灵骑)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501106005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20108" : {
+        "type" : 13,
+		"priority" : 8,
+        "prev_condition" : {
+            "level" : 75,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20108,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501072,
+			"drop_item" : [[501107005,501073]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501071
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20108,
+            "name" : "进阶副本(灵羽)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501107005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20109" : {
+        "type" : 13,
+		"priority" : 9,
+        "prev_condition" : {
+            "level" : 78,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20109,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501082,
+			"drop_item" : [[501108005,501083]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501081
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20109,
+            "name" : "进阶副本(灵猫)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501108005,1]],
+				"wave" : 5
+            }
+        }]
+    },	
+	"20110" : {
+        "type" : 13,
+		"priority" : 10,
+        "prev_condition" : {
+            "level" : 80,
+			"finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"reset_multiple" : [2,2,2,2,2,2,2,2,2,2,2,2],  
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20,20],
+			"inc_buy_times_vip5" : [20,20,20], 
+			"inc_buy_times_vip6" : [20,20,20], 
+			"inc_buy_times_vip7" : [20,20,20],  
+			"inc_buy_times_vip8" : [20,20,20], 
+			"inc_buy_times_vip9" : [20,20,20],
+			"inc_buy_times_vip10" : [20,20,20],
+			"inc_buy_times_vip11" : [20,20,20],
+			"inc_buy_times_vip12" : [20,20,20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20110,
+            "star_level" : [[1,10],[2,300],[3,0]],
+            "award_item" : 501092,
+			"drop_item" : [[501109005,501093]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 501091
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20110,
+            "name" : "进阶副本(天罡)",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501109005,1]],
+				"wave" : 5
+            }
+        }]
+    },	
+	
+	"20201" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20202,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20201,
+			// 传送点
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502005],[10,502010],[15,502015],[20,502020]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20201,
+            "name" : "经验副本1",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20202" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20203,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 2
+        },
+        "finish_condition" : {
+            "scene" : 20202,
+            "transfer" : {
+				"type" : 10,
+				"posX" : 5503,
+				"posY" : 1596
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502025],[10,502030],[15,502035],[20,502040]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20202,
+            "name" : "经验副本2",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20203" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20204,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 3
+        },
+        "finish_condition" : {
+            "scene" : 20203,
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502045],[10,502050],[15,502055],[20,502060]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20203,
+            "name" : "经验副本3",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20204" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20205,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 4
+        },
+        "finish_condition" : {
+            "scene" : 20204,
+            "transfer" : {
+				"type" : 10,
+				"posX" : 5503,
+				"posY" : 1596
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502065],[10,502070],[15,502075],[20,502080]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20204,
+            "name" : "经验副本4",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20205" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20206,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 5
+        },
+        "finish_condition" : {
+            "scene" : 20205,
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502085],[10,502090],[15,502095],[20,502100]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20205,
+            "name" : "经验副本5",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20206" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20207,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 6
+        },
+        "finish_condition" : {
+            "scene" : 20206,
+            "transfer" : {
+				"type" : 10,
+				"posX" : 5503,
+				"posY" : 1596
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502105],[10,502110],[15,502115],[20,502120]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20206,
+            "name" : "经验副本6",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20207" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20208,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 7
+        },
+        "finish_condition" : {
+            "scene" : 20207,
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502125],[10,502130],[15,502135],[20,502140]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20207,
+            "name" : "经验副本7",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20208" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20209,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 8
+        },
+        "finish_condition" : {
+            "scene" : 20208,
+              "transfer" : {
+				"type" : 10,
+				"posX" : 5503,
+				"posY" : 1596
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502145],[10,502150],[15,502155],[20,502160]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20208,
+            "name" : "经验副本8",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20209" : {
+        "type" : 1,
+		"open_activity": 4,
+		"next_script" : 20210,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 9
+        },
+        "finish_condition" : {
+            "scene" : 20209,
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502165],[10,502170],[15,502175],[20,502180]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20209,
+            "name" : "经验副本9",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20210" : {
+        "type" : 1,
+		"open_activity": 4,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+			"second_enter" : 1,		//二次进入
+            "max_teamer" : 1,
+			"chapter_id" : 10
+        },
+        "finish_condition" : {
+            "scene" : 20210,
+            "exp_award_item" : 502001,
+			"exp_first_award" : [[5,502185],[10,502190],[15,502195],[20,502200]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20210,
+            "name" : "经验副本10",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20299" : {
+        "type" : 5,
+        "prev_condition" : {
+            "level" : 1,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20299,
+			"first_pass_award" : 30152
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20299,
+            "name" : "迷失幻境",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501298005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20300" : {
+        "type" : 5,
+        "prev_condition" : {
+            "level" : 1,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20300,
+			"first_pass_award" : 30367
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20300,
+            "name" : "狂乱幻境",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501299005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20301" : {
+        "type" : 2,
+		"priority" : 1,
+        "prev_condition" : {
+            "level" : 45,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20301,
+            "award_item" : 503345,
+			"drop_item" : [[501300005,503545]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503045
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20301,
+            "name" : "剧情副本-闯出太行山",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501300005,1]],
+				"wave" : 6
+            }
+        }]
+    },
+	"20302" : {
+        "type" : 2,
+		"priority" : 2,
+        "prev_condition" : {
+            "level" : 55,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20302,
+            "award_item" : 503355,
+			"drop_item" : [[501301005,503555]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503055
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20302,
+            "name" : "剧情副本-玉虚峰试炼",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501301005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20303" : {
+        "type" : 2,
+		"priority" : 3,
+        "prev_condition" : {
+            "level" : 65,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20303,
+            "award_item" : 503365,
+			"drop_item" : [[501302005,503565]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503065
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20303,
+            "name" : "剧情副本3",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501302005,1]],
+				"wave" : 6
+            }
+        }]
+    },
+	"20304" : {
+        "type" : 2,
+		"priority" : 4,
+        "prev_condition" : {
+            "level" : 75,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20304,
+            "award_item" : 503375,
+			"drop_item" : [[501303005,503575]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503075
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20304,
+            "name" : "剧情副本4",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501303005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20305" : {
+        "type" : 2,
+		"priority" : 5,
+        "prev_condition" : {
+            "level" : 85,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20305,
+            "award_item" : 503385,
+			"drop_item" : [[501304005,503585]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503085
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20305,
+            "name" : "剧情副本5",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501304005,1]],
+				"wave" : 6
+            }
+        }]
+    },
+	"20306" : {
+        "type" : 2,
+		"priority" : 6,
+        "prev_condition" : {
+            "level" : 95,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20306,
+            "award_item" : 503395,
+			"drop_item" : [[501305005,503595]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503095
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20306,
+            "name" : "剧情副本6",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501305005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20307" : {
+        "type" : 2,
+		"priority" : 7,
+        "prev_condition" : {
+            "level" : 105,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20307,
+            "award_item" : 503405,
+			"drop_item" : [[501306005,503605]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503105
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20307,
+            "name" : "剧情副本7",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501306005,1]],
+				"wave" : 6
+            }
+        }]
+    },
+	"20308" : {
+        "type" : 2,
+		"priority" : 8,
+        "prev_condition" : {
+            "level" : 115,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20308,
+            "award_item" : 503415,
+			"drop_item" : [[501307005,503615]],//怪物掉落：怪物id，掉落物品
+			"first_pass_award" : 503115
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20308,
+            "name" : "剧情副本8",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501307005,1]],
+				"wave" : 5
+            }
+        }]
+    },
+	"20401" : {
+        "type" : 14,
+		"priority" : 1,
+        "prev_condition" : {
+            "level" : 1,
+			"vip_level" : 1,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20401,
+            "award_item" : 504101,
+			"drop_item" : [[501400001,504201]]//怪物掉落：怪物id，掉落物品
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20401,
+            "name" : "vip1副本",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501400001,1]]
+            }
+        }]
+    },
+	"20403" : {
+        "type" : 14,
+		"priority" : 2,
+        "prev_condition" : {
+            "level" : 1,
+			"vip_level" : 3,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20403,
+            "award_item" : 504103,
+			"drop_item" : [[501401001,504203]]//怪物掉落：怪物id，掉落物品
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20403,
+            "name" : "vip3副本",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501401001,1]]
+            }
+        }]
+    },
+	"20406" : {
+        "type" : 14,
+		"priority" : 3,
+        "prev_condition" : {
+            "level" : 1,
+			"vip_level" : 6,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20406,
+            "award_item" : 504106,
+			"drop_item" : [[501402001,504206]]//怪物掉落：怪物id，掉落物品
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20406,
+            "name" : "vip6副本",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501402001,1]]
+            }
+        }]
+    },
+	"20409" : {
+        "type" : 14,
+		"priority" : 4,
+        "prev_condition" : {
+            "level" : 1,
+			"vip_level" : 9,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20409,
+            "award_item" : 504109,
+			"drop_item" : [[501403001,504209]]//怪物掉落：怪物id，掉落物品
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20409,
+            "name" : "vip9副本",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501403001,1]]
+            }
+        }]
+    },
+	"20412" : {
+        "type" : 14,
+		"priority" : 4,
+        "prev_condition" : {
+            "level" : 1,
+			"vip_level" : 12,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20412,
+            "award_item" : 504112,
+			"drop_item" : [[501404001,504209]]//怪物掉落：怪物id，掉落物品
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20412,
+            "name" : "vip12副本",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["alive"],
+				"monster" : [[501404001,1]]
+            }
+        }]
+    },
+	"20500" : {
+        "type" : 12,
+		"top_rank" : 100,	//排行榜100名
+		"open_activity" : 2,
+        "prev_condition" : {
+            "level" : 30,
+            "finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+			"is_tower" : 1,			//爬塔副本
+			"second_enter" : 1,		//二次进入
+			"total_floor" : 120,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20501,
+			"first_floor_award" : 
+			[[1,505001],[2,505002],[3,505003],[4,505004],[5,505005],[6,505006],[7,505007],[8,505008],[9,505009],[10,505010],[11,505011],[12,505012],[13,505013],[14,505014],[15,505015],[16,505016],[17,505017],[18,505018],[19,505019],[20,505020],
+			[21,505021],[22,505022],[23,505023],[24,505024],[25,505025],[26,505026],[27,505027],[28,505028],[29,505029],[30,505030],[31,505031],[32,505032],[33,505033],[34,505034],[35,505035],[36,505036],[37,505037],[38,505038],[39,505039],[40,505040],
+			[41,505041],[42,505042],[43,505043],[44,505044],[45,505045],[46,505046],[47,505047],[48,505048],[49,505049],[50,505050],[51,505051],[52,505052],[53,505053],[54,505054],[55,505055],[56,505056],[57,505057],[58,505058],[59,505059],[60,505060],
+			[61,505061],[62,505062],[63,505063],[64,505064],[65,505065],[66,505066],[67,505067],[68,505068],[69,505069],[70,505070],[71,505071],[72,505072],[73,505073],[74,505074],[75,505075],[76,505076],[77,505077],[78,505078],[79,505079],[80,505080],
+			[81,505081],[82,505082],[83,505083],[84,505084],[85,505085],[86,505086],[87,505087],[88,505088],[89,505089],[90,505090],[91,505091],[92,505092],[93,505093],[94,505094],[95,505095],[96,505096],[97,505097],[98,505098],[99,505099],[100,505100],
+			[101,505101],[102,505102],[103,505103],[104,505104],[105,505105],[106,505106],[107,505107],[108,505108],[109,505109],[110,505110],[111,505111],[112,505112],[113,505113],[114,505114],[115,505115],[116,505116],[117,505117],[118,505118],[119,505119],[120,505120]],
+			"pass_award_item" : 
+			[[1,505501],[2,505502],[3,505503],[4,505504],[5,505505],[6,505506],[7,505507],[8,505508],[9,505509],[10,505510],[11,505511],[12,505512],[13,505513],[14,505514],[15,505515],[16,505901],[17,505517],[18,505518],[19,505519],[20,505902],
+			[21,505521],[22,505522],[23,505523],[24,505903],[25,505525],[26,505526],[27,505527],[28,505904],[29,505529],[30,505530],[31,505531],[32,505905],[33,505533],[34,505534],[35,505535],[36,505906],[37,505537],[38,505538],[39,505539],[40,505907],
+			[41,505541],[42,505542],[43,505543],[44,505901],[45,505545],[46,505546],[47,505547],[48,505902],[49,505549],[50,505550],[51,505551],[52,505903],[53,505553],[54,505554],[55,505555],[56,505904],[57,505557],[58,505558],[59,505559],[60,505905],
+			[61,505561],[62,505562],[63,505563],[64,505906],[65,505565],[66,505566],[67,505567],[68,505907],[69,505569],[70,505570],[71,505571],[72,505901],[73,505573],[74,505574],[75,505575],[76,505902],[77,505577],[78,505578],[79,505579],[80,505903],
+			[81,505581],[82,505582],[83,505583],[84,505904],[85,505585],[86,505586],[87,505587],[88,505905],[89,505589],[90,505590],[91,505591],[92,505906],[93,505593],[94,505594],[95,505595],[96,505907],[97,505597],[98,505598],[99,505599],[100,505901],
+			[101,505601],[102,505602],[103,505603],[104,505902],[105,505605],[106,505606],[107,505607],[108,505903],[109,505609],[110,505610],[111,505611],[112,505904],[113,505613],[114,505614],[115,505615],[116,505905],[117,505617],[118,505618],[119,505619],[120,505906]],
+			"special_item" : [[4,505804],[8,505808],[12,505812],[16,505816],[20,505820],[24,505824],[28,505828],[32,505832],[36,505836],[40,505840],[44,505844],[48,505848],[52,505852],[56,505856],[60,505860],[64,505864],[68,505868],[72,505872],[76,505876],[80,505880]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20501,
+            "name" : "问鼎江湖",
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 120,
+				"flag" : ["kill_all","alive"]
+            }
+        }]
+    },
+	"20601" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 58,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20601,
+			"drop_item" : [[501600130,506201]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506101],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506101]]
+			},
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20601,
+            "name" : "罗摩副本1",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20602" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 62,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 2
+        },
+        "finish_condition" : {
+            "scene" : 20602,
+			"drop_item" : [[501600230,506202]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506102],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506102]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20602,
+            "name" : "罗摩副本2",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20603" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 66,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 3
+        },
+        "finish_condition" : {
+            "scene" : 20603,
+			"drop_item" : [[501600330,506203]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506103],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506103]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20603,
+            "name" : "罗摩副本3",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20604" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 70,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 4
+        },
+        "finish_condition" : {
+            "scene" : 20604,
+			"drop_item" : [[501600430,506204]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506104],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506104]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20604,
+            "name" : "罗摩副本4",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20605" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 75,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 5
+        },
+        "finish_condition" : {
+            "scene" : 20605,
+			"drop_item" : [[501600530,506205]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506105],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506105]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20605,
+            "name" : "罗摩副本5",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20606" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 80,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 6
+        },
+        "finish_condition" : {
+            "scene" : 20606,
+			"drop_item" : [[501600630,506206]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506106],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506106]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20606,
+            "name" : "罗摩副本6",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20607" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 90,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 7
+        },
+        "finish_condition" : {
+            "scene" : 20607,
+			"drop_item" : [[501600730,506207]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506107],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506107]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20607,
+            "name" : "罗摩副本7",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20608" : {
+        "type" : 3,
+		"open_activity" : 3,
+		"buff" : 10010,
+        "prev_condition" : {
+            "level" : 100,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"chapter_id" : 8
+        },
+        "finish_condition" : {
+            "scene" : 20608,
+			"drop_item" : [[501600830,506208]],//怪物掉落：怪物id，掉落物品
+			"pass_award_item" : [[1,506001],[2,506002],[3,506003],[4,506004],[5,506005],[6,506006],[7,506007],[8,506008],[9,506009],[10,506010],
+			[11,506011],[12,506012],[13,506013],[14,506014],[15,506108],[16,506016],[17,506017],[18,506018],[19,506019],[20,506020],[21,506021],
+			[22,506022],[23,506023],[24,506024],[25,506025],[26,506026],[27,506027],[28,506028],[29,506029],[30,506108]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20608,
+            "name" : "罗摩副本8",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 30
+            }
+        }]
+    },
+	"20701" : {
+        "type" : 7,
+        "prev_condition" : {
+            "level" : 1,
+            "finish_times" : 1,         // 每天的完成次数
+			"fresh_times_type" : 1,		// 进入不扣除次数
+			"get_times" : 1, 			//最大获赠次数
+            "is_single" : 0,
+			"is_couples" : 1,			//是否夫妻副本
+            "max_teamer" : 2,
+			"inc_buy_times_vip1" : [20],
+			"inc_buy_times_vip2" : [20], 
+			"inc_buy_times_vip3" : [20], 
+			"inc_buy_times_vip4" : [20],
+			"inc_buy_times_vip5" : [20], 
+			"inc_buy_times_vip6" : [20], 
+			"inc_buy_times_vip7" : [20],  
+			"inc_buy_times_vip8" : [20], 
+			"inc_buy_times_vip9" : [20],
+			"inc_buy_times_vip10" : [20],
+			"inc_buy_times_vip11" : [20],
+			"inc_buy_times_vip12" : [20],
+			"buy_script_times" : [20]
+        },
+        "finish_condition" : {
+            "scene" : 20701,
+            "award_item" : [916031,916032] 	//第一个为相同奖励，第二个为不同奖励
+        },
+        "relive" : {
+			"no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20701,
+            "name" : "夫妻场景",
+			"floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 600,
+				"flag" : ["kill_all","alive","couple"], 	//couple表示婚姻副本标识
+				"monster" : [[501710002,10],[501710005,10],[501710007,1]],
+				"wave" : 7
+            }
+        }]
+    },
+	"20801" : {
+        "type" : 9,
+		"next_script" : 20802,
+        "prev_condition" : {
+            "level" : 50,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"is_league" : 1,	//是否需要加入帮派
+			"second_enter" : 1,		//二次进入
+			"chapter_id" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20801,
+			// 传送点
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+			"league_award_item" : [[1,508901],[2,508901],[3,508901],[4,508901],[5,508901],[6,508901],[7,508901],[8,508901],[9,508901],[10,508901],
+			[11,508901],[12,508901],[13,508901],[14,508901],[15,508901],[16,508901],[17,508901],[18,508901],[19,508901],[20,508901]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20801,
+            "name" : "帮派副本1",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20802" : {
+        "type" : 9,
+		"next_script" : 20803,
+        "prev_condition" : {
+            "level" : 70,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"is_league" : 1,	//是否需要加入帮派
+			"second_enter" : 1,		//二次进入
+			"chapter_id" : 2
+        },
+        "finish_condition" : {
+            "scene" : 20802,
+            "transfer" : {
+				"type" : 10,
+				"posX" : 5503,
+				"posY" : 1596
+			},
+			"league_award_item" : [[1,508902],[2,508902],[3,508902],[4,508902],[5,508902],[6,508902],[7,508902],[8,508902],[9,508902],[10,508902],
+			[11,508902],[12,508902],[13,508902],[14,508902],[15,508902],[16,508902],[17,508902],[18,508902],[19,508902],[20,508902]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20802,
+            "name" : "帮派副本2",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20803" : {
+        "type" : 9,
+		"next_script" : 20804,
+        "prev_condition" : {
+            "level" : 90,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"is_league" : 1,	//是否需要加入帮派
+			"second_enter" : 1,		//二次进入
+			"chapter_id" : 3
+        },
+        "finish_condition" : {
+            "scene" : 20803,
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+			"league_award_item" : [[1,508903],[2,508903],[3,508903],[4,508903],[5,508903],[6,508903],[7,508903],[8,508903],[9,508903],[10,508903],
+			[11,508903],[12,508903],[13,508903],[14,508903],[15,508903],[16,508903],[17,508903],[18,508903],[19,508903],[20,508903]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20803,
+            "name" : "帮派副本3",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20804" : {
+        "type" : 9,
+		"next_script" : 20805,
+        "prev_condition" : {
+            "level" : 110,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"is_league" : 1,	//是否需要加入帮派
+			"second_enter" : 1,		//二次进入
+			"chapter_id" : 4
+        },
+        "finish_condition" : {
+            "scene" : 20804,
+            "transfer" : {
+				"type" : 10,
+				"posX" : 5503,
+				"posY" : 1596
+			},
+			"league_award_item" : [[1,508903],[2,508903],[3,508903],[4,508903],[5,508903],[6,508903],[7,508903],[8,508903],[9,508903],[10,508903],
+			[11,508903],[12,508903],[13,508903],[14,508903],[15,508903],[16,508903],[17,508903],[18,508903],[19,508903],[20,508903]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20804,
+            "name" : "帮派副本4",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20805" : {
+        "type" : 9,
+        "prev_condition" : {
+            "level" : 130,
+            "finish_times" : 1,
+            "fresh_times_type" : 1,
+            "is_single" : 1,
+            "max_teamer" : 1,
+			"is_league" : 1,	//是否需要加入帮派
+			"second_enter" : 1,		//二次进入
+			"chapter_id" : 5
+        },
+        "finish_condition" : {
+            "scene" : 20805,
+			"transfer" : {
+				"type" : 10,
+				"posX" : 8022,
+				"posY" : 4002
+			},
+			"league_award_item" : [[1,508903],[2,508903],[3,508903],[4,508903],[5,508903],[6,508903],[7,508903],[8,508903],[9,508903],[10,508903],
+			[11,508903],[12,508903],[13,508903],[14,508903],[15,508903],[16,508903],[17,508903],[18,508903],[19,508903],[20,508903]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20805,
+            "name" : "帮派副本5",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 60,
+				"flag" : ["kill_all","alive"],
+				"wave" : 20
+            }
+        }]
+    },
+	"20901" : {
+        "type" : 6,
+		"top_rank" : 100,	//排行榜100名
+        "prev_condition" : {
+            "level" : 1,
+			"enter_cond" : [1,10],	//进入条件(条件,值)开服第10天
+            "finish_times" : 1,
+			"fresh_times_type" : 1,
+            "is_single" : 1,
+			"is_tower" : 1,			//论剑副本
+			"second_enter" : 1,		//二次进入
+			"total_floor" : 130,
+            "max_teamer" : 1
+        },
+        "finish_condition" : {
+            "scene" : 20901,
+			"first_floor_award" : 
+			[[1,20601],[2,20602],[3,20603],[4,20604],[5,20605],[6,20606],[7,20607],[8,20608],[9,20609],[10,20610],[11,20611],[12,20612],[13,20613],[14,20614],[15,20615],[16,20616],[17,20617],[18,20618],[19,20619],[20,20620],
+			[21,20621],[22,20622],[23,20623],[24,20624],[25,20625],[26,20626],[27,20627],[28,20628],[29,20629],[30,20630],[31,20631],[32,20632],[33,20633],[34,20634],[35,20635],[36,20636],[37,20637],[38,20638],[39,20639],[40,20640],
+			[41,20641],[42,20642],[43,20643],[44,20644],[45,20645],[46,20646],[47,20647],[48,20648],[49,20649],[50,20650],[51,20651],[52,20652],[53,20653],[54,20654],[55,20655],[56,20656],[57,20657],[58,20658],[59,20659],[60,20660],
+			[61,20661],[62,20662],[63,20663],[64,20664],[65,20665],[66,20666],[67,20667],[68,20668],[69,20669],[70,20670],[71,20671],[72,20672],[73,20673],[74,20674],[75,20675],[76,20676],[77,20677],[78,20678],[79,20679],[80,20680],
+			[81,20681],[82,20682],[83,20683],[84,20684],[85,20685],[86,20686],[87,20687],[88,20688],[89,20689],[90,20690],[91,20691],[92,20692],[93,20693],[94,20694],[95,20695],[96,20696],[97,20697],[98,20698],[99,20699],[100,20700],
+			[101,20701],[102,20702],[103,20703],[104,20704],[105,20705],[106,20706],[107,20707],[108,20708],[109,20709],[110,20710],[111,20711],[112,20712],[113,20713],[114,20714],[115,20715],[116,20716],[117,20717],[118,20718],[119,20719],[120,20720],
+			[121,20721],[122,20722],[123,20723],[124,20724],[125,20725],[126,20726],[127,20727],[128,20728],[129,20729],[130,20730]],
+			"pass_award_item" : 
+			[[1,20731],[2,20731],[3,20731],[4,20731],[5,20732],[6,20731],[7,20731],[8,20731],[9,20731],[10,20732],[11,20731],[12,20731],[13,20731],[14,20731],[15,20732],[16,20731],[17,20731],[18,20731],[19,20731],[20,20732],
+			[21,20731],[22,20731],[23,20731],[24,20731],[25,20732],[26,20731],[27,20731],[28,20731],[29,20731],[30,20732],[31,20731],[32,20731],[33,20731],[34,20731],[35,20732],[36,20731],[37,20731],[38,20731],[39,20731],[40,20732],
+			[41,20731],[42,20731],[43,20731],[44,20731],[45,20732],[46,20731],[47,20731],[48,20731],[49,20731],[50,20732],[51,20731],[52,20731],[53,20731],[54,20731],[55,20732],[56,20731],[57,20731],[58,20731],[59,20731],[60,20732],
+			[61,20731],[62,20731],[63,20731],[64,20731],[65,20732],[66,20731],[67,20731],[68,20731],[69,20731],[70,20732],[71,20731],[72,20731],[73,20731],[74,20731],[75,20732],[76,20731],[77,20731],[78,20731],[79,20731],[80,20732],
+			[81,20731],[82,20731],[83,20731],[84,20731],[85,20732],[86,20731],[87,20731],[88,20731],[89,20731],[90,20732],[91,20731],[92,20731],[93,20731],[94,20731],[95,20732],[96,20731],[97,20731],[98,20731],[99,20731],[100,20732],
+			[101,20731],[102,20731],[103,20731],[104,20731],[105,20732],[106,20731],[107,20731],[108,20731],[109,20731],[110,20732],[111,20731],[112,20731],[113,20731],[114,20731],[115,20732],[116,20731],[117,20731],[118,20731],[119,20731],[120,20732],
+			[121,20731],[122,20731],[123,20731],[124,20731],[125,20732],[126,20731],[127,20731],[128,20731],[129,20731],[130,20732]]
+        },
+        "relive" : {
+            "no_relive" : 1
+        },
+        "scene" : [{
+            "scene_id" : 20901,
+            "name" : "论剑武林",
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 120,
+				"flag" : ["kill_all","alive"]
+            }
+        }]
+    },
+	"70101" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 50,
+			"finish_times" : 999,//当天最多完成次数
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70101,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507105], [50,507205], [9999,507405]],
+			"first_pass_award" : 507005
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [2182, 5474],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70101,
+            "name" : "跨服副本50",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700003,1],[501700006,1],[501700010,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70102" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 60,
+			"finish_times" : 999,
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70102,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507106], [50,507206], [9999,507406]],
+			"first_pass_award" : 507006
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [670, 4391],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70102,
+            "name" : "跨服副本60",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700103,1],[501700106,1],[501700110,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70103" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 70,
+			"finish_times" : 999,//当天最多完成次数
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70103,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507107], [50,507207], [9999,507407]],
+			"first_pass_award" : 507007
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [2182, 5474],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70103,
+            "name" : "跨服副本70",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700203,1],[501700206,1],[501700210,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70104" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 80,
+			"finish_times" : 999,
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70104,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507108], [50,507208], [9999,507408]],
+			"first_pass_award" : 507008
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [670, 4391],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70104,
+            "name" : "跨服副本80",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700303,1],[501700306,1],[501700310,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70105" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 90,
+			"finish_times" : 999,//当天最多完成次数
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70105,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507109], [50,507209], [9999,507409]],
+			"first_pass_award" : 507009
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [2182, 5474],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70105,
+            "name" : "跨服副本90",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700403,1],[501700406,1],[501700410,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70106" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 100,
+			"finish_times" : 999,
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70106,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507110], [50,507210], [9999,507410]],
+			"first_pass_award" : 507010
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [670, 4391],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70106,
+            "name" : "跨服副本100",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700503,1],[501700506,1],[501700510,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70107" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 110,
+			"finish_times" : 999,
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70107,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507111], [50,507211], [9999,507411]],
+			"first_pass_award" : 507011
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [2182, 5474],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70107,
+            "name" : "跨服副本110",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700603,1],[501700606,1],[501700610,1]],
+				"wave" : 10
+            }
+        }]
+    },
+	"70108" : {
+        "type" : 15,
+        "prev_condition" : {
+            "level" : 120,
+			"finish_times" : 999,
+			"fresh_times_type" : 1,
+            "is_single" : 0,
+            "max_teamer" : 3
+        },
+        "finish_condition" : {
+            "scene" : 70108,
+			"star_level" : [[1,10],[2,600],[3,0]],
+            "travel_award_item" : [[20,507112], [50,507212], [9999,507412]],
+			"first_pass_award" : 507012
+        },
+        "relive" : {
+            "relive_times": 99,
+			"type": "11",
+			"fixed_pos": [670, 4391],
+			"state": [100, 100]
+        },
+        "scene" : [{
+            "scene_id" : 70108,
+            "name" : "跨服副本120",
+            "floor" : 1,
+            "exec" : {
+                "ready_tick" : 1,
+                "last_tick" : 1800,
+				"monster" : [[501700703,1],[501700706,1],[501700710,1]],
+				"wave" : 10
+            }
+        }]
+    }
+}

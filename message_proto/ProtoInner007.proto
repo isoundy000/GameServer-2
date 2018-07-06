@@ -1,0 +1,351 @@
+import "ProtoPublic.proto";
+import "ProtoInnerPublic.proto";
+
+message Proto30400036       // 向逻辑请求战力、等级排行
+{
+    optional int32 rank_type = 1;       // 
+    optional int32 size = 2;       // 
+}
+
+message Proto30400035       // 地图服将玩家奖励发送到逻辑服
+{
+    optional int32 act_index = 1;       // 活动id
+    repeated ProtoActRoleReward act_role_reward = 2;       // 奖励信息
+}
+
+message Proto31400035       // 逻辑线程向地图服有活动结束的通知
+{
+    optional int32 act_index = 1;       // 已结束的活动id
+    optional PActTypeItem act_info = 2;       // 已结束的活动信息
+}
+
+message Proto31400034       // 逻辑线程向地图服发送请求更新精彩活动的后台配置信息
+{
+    repeated PActTypeItem act_list = 1;       // 活动后台配置信息列表
+}
+
+message Proto31403002       // 交易:返回交易玩家位置判断结果
+{
+    optional int64 role_id = 1;       // 对方玩家ID
+    optional int32 cur_recogn = 2;       // 当前消息号
+}
+
+message Proto30400242       // 交易:发向地图线程获取位置信息
+{
+    optional int64 role_id = 1;       // 对方玩家ID
+    optional int32 cur_recogn = 2;       // 当前消息号
+}
+
+message Proto31400242       // 交易:返回交易玩家位置判断结果
+{
+    optional int64 role_id = 1;       // 对方玩家ID
+    optional int32 cur_recogn = 2;       // 当前消息号
+}
+
+message Proto30400243       // 同步交易状态信息
+{
+    optional int64 role_id = 1;       // 
+    optional int32 betrading = 2;       // 0.不在交易中，1在交易中
+}
+
+message Proto30101607       // 交易:玩家传送进程间判断在线状态
+{
+    optional int64 role_id = 1;       // 对方玩家ID
+    optional bool on_line = 2;       // 0不在线，1在线
+    optional int32 recogn = 3;       // 当前消息号
+}
+
+message Proto30400054       // 战斗线程mongo数据同步
+{
+    optional int32 mongo_recogn = 1;       // 消息号
+    repeated ProtoMongoData mongo_data = 2;       // mongo数据列表
+    optional int64 role_id = 3;       // 玩家ID
+    optional int64 tick = 4;       // 时间
+}
+
+message Proto30100106       // 向玩家发送提示信息
+{
+    optional int32 recogn = 1;       // 
+    optional int64 role_id = 2;       // 
+}
+
+message Proto30400021       // 同步结义玩家ID
+{
+    repeated int64 role_id = 1;       // 
+    optional int64 brother_id = 2;       // 
+    optional int32 brother_level = 3;       // 
+}
+
+message Proto31400245       // 试炼:计算虚拟任务id(返回)
+{
+    optional int32 role_lvl = 1;       // 
+    optional int64 role_exp = 2;       // 
+}
+
+message Proto30400245       // 试炼计算虚拟任务id
+{
+    optional int64 role_id = 1;       // 
+    optional int32 is_expert_trial = 2;       // 是否一键完成高级试炼
+}
+
+message Proto31401002       // 升级后同步法宝信息
+{
+    optional int32 cur_wm_skill_id = 1;       // 
+    optional int32 cur_wm_skill_level = 2;       // 
+}
+
+message Proto31401003       // 法宝:同步品阶等级
+{
+    optional int32 mw_id = 1;       // 法宝id
+    optional int32 mw_rank_lvl = 2;       // 品阶等级
+    optional int32 mw_skill_id = 3;       // 
+    optional int32 mw_skill_lvl = 4;       // 
+}
+
+message Proto31400247       // 法宝:进入副本前通知发当前list信息
+{
+    repeated ProtoMagicWeapon mw_list = 1;       // 当前法宝信息
+    optional int32 adorn_id = 2;       // 佩戴id
+    optional int32 open = 3;       // 模块是否开启
+}
+
+message Proto30400447       // 后台强制关闭/重置活动
+{
+    optional int64 league_id = 1;       // 
+    optional int32 activity_type = 2;       // 
+}
+
+message Proto31400320       // 仙盟仓库插入/删除失败
+{
+    optional ProtoItem item = 1;       // 插入失败的物品
+    optional int32 pack_index = 2;       // 删除仓库失败的物品索引
+}
+
+message Proto30400206       // 点击荒野奇袭通知
+{
+    optional int32 scene1_id = 1;       // 生成的第一个随机场景id
+    optional int32 scene2_id = 2;       // 生成的第二个随机场景id
+}
+
+message Proto31402601       // 同步宠物战斗加成
+{
+    repeated int32 prop_id = 1;       // 
+    optional int64 beast_id = 2;       // 
+    repeated double prop_value = 3;       // 
+}
+
+message Proto30400024       // 随机场景同步到地图服
+{
+    optional int32 id1 = 1;       // 第一个随机场景的id
+    optional int32 id2 = 2;       // 第二个随机场景的id
+}
+
+message Proto31400600       // 装备强化等级特效通知
+{
+    optional int32 lvl = 1;       // 
+    optional bool send = 2;       // 是否通知客户端
+}
+
+message Proto30400038       // 后台活动请求鲜花排行信息
+{
+    optional int32 type = 1;       // 1送花，2收花
+    optional int32 rank_size = 2;       // 
+    optional int32 act_index = 3;       // 
+    optional int32 role_id = 4;       // 
+}
+
+message Proto31400038       // 后台活动请求鲜花排行信息(返回)
+{
+    repeated ProtoActFlower flower_rank = 1;       // 
+    optional int32 act_index = 2;       // 
+}
+
+message Proto30400039       // 更新后台活动鲜花榜
+{
+    optional ProtoActFlower send = 1;       // 
+    optional ProtoActFlower recive = 2;       // 
+    optional bool refresh = 3;       // 
+}
+
+message Proto31400700       // 购买体力扣除元宝
+{
+    optional int32 times = 1;       // 第几次购买
+    optional int32 one_mount = 2;       // 一次购买的次数
+}
+
+message Proto31400908       // 同步坠龙窟初始进入副本人数
+{
+    optional int32 drop_dragon_scene = 1;       // 
+    optional int32 enter_teamers = 2;       // 
+}
+
+message Proto30400448       // 同步仙盟守护参与状态
+{
+    optional int32 fb_flag = 1;       // 
+}
+
+message Proto30400209       // 同步玩家体力信息
+{
+    optional int32 strength = 1;       // 
+    optional int32 left_times = 2;       // 
+    optional int32 vip_buys = 3;       // 
+}
+
+message Proto30400203       // 更新时装宝盒
+{
+    optional int32 value = 1;       // 
+}
+
+message Proto30100107       // 体力消耗
+{
+    optional int32 cost_value = 1;       // 直接消耗的体力
+    optional int32 type = 2;       // 根据配置type获取消耗
+    optional int32 times = 3;       // 次数
+}
+
+message Proto30402018       // 从跨服场景取所在服的分线ID
+{
+    optional string server_flag = 1;       // 服务器标识
+    repeated int32 scene_list = 2;       // 场景列表
+    repeated int32 line_list = 3;       // 返回的分线ID列表
+}
+
+message Proto30100108       // 同步进入副本结果信息
+{
+    optional int32 is_success = 1;       // 是否进入成功
+    optional int32 script_sort = 2;       // 
+}
+
+message Proto31400029       // 增加道具
+{
+    repeated ProtoItem item_list = 1;       // 
+    optional ProtoSerialObj serial = 2;       // 
+}
+
+message Proto30100109       // 增加幸运转盘次数
+{
+    optional int32 type = 1;       // 0消费转盘，1充值转盘
+    optional int32 value = 2;       // 充值/消费金额
+}
+
+message Proto31400039       // 幸运转盘扣除元宝
+{
+    repeated ProtoItem item = 1;       // 
+    repeated int32 index = 2;       // 
+    optional int32 type1 = 3;       // 
+    optional int32 type2 = 4;       // 
+    optional int32 cost = 5;       // 
+    optional int32 result = 6;       // 
+}
+
+message Proto31400603       // 仙器特效通知
+{
+    optional int32 id = 1;       // 当前佩戴仙器id（目前只有一个仙器，预留策划后期修改需求）
+    optional int32 lvl = 2;       // 当前佩戴的仙器等级
+    optional int32 select_icon = 3;       // 当前选择的外形
+}
+
+message Proto31400909       // 坠龙窟扫荡扣元宝成功后同步扣减体力
+{
+    optional int32 script_sort = 1;       // 
+}
+
+message Proto32101107       // player800充值数据收集
+{
+    optional int32 sid = 1;       // 服务器id
+    optional string uid = 2;       // 用户id
+    optional string username = 3;       // 用户账号
+    optional int64 role_id = 4;       // 用户角色id
+    optional string role_name = 5;       // 用户角色名称
+    optional int32 level = 6;       // 角色等级
+    optional string order_id = 7;       // 订单流水
+    optional string income_channel = 8;       // 充值渠道
+    optional string income_currency = 9;       // 充值币种
+    optional string income_money = 10;       // 充值金额
+    optional int32 income_gold = 11;       // 充值虚拟币数量
+    optional int32 own_gold = 12;       // 充值后虚拟币
+    optional int32 income_status = 13;       // 充值状态
+    optional int64 time = 14;       // 时间
+}
+
+message Proto30101403       // 后台同步道具屏蔽
+{
+    repeated int32 hidden_item = 1;       // 
+}
+
+message Proto30600103       // 网关连接断开重连
+{
+    optional int32 scene_id = 1;       // 要连接的场景ID
+    optional int32 line_id = 2;       // 要连接的线ID
+    optional int32 cfg_index = 3;       // 配置文件所在索引
+    optional string address = 4;       // ip地址
+    optional int32 port = 5;       // 连接端口
+    optional int32 connect_sid = 6;       // 连接成功后的sid
+}
+
+message Proto30400603       // 玩家图鉴刷新
+{
+    repeated int32 illus_list = 1;       // 图鉴列表
+    repeated int32 illus_group_list = 2;       // 图鉴组集合
+    optional int32 cur_illus_class_id = 3;       // 当前类ID
+    repeated int32 illus_level_list = 4;       // 图鉴等级表
+}
+
+message Proto31401702       // 通州市逻辑线程，获得图鉴
+{
+    optional int32 illus_class_id = 1;       // 图鉴类ID
+    optional int32 illus_group_id = 2;       // 图鉴组 ID
+    optional int32 illus_level = 3;       // 图鉴等级（刚获得为0）
+}
+
+message Proto31400160       // 场景切换：同步图鉴信息
+{
+    optional int32 cur_class_id = 1;       // 当前图鉴类ID
+    repeated int32 illus_group_list = 2;       // 已获得图鉴组集合
+    repeated int32 illus_list = 3;       // 已获得图鉴集合
+    repeated int32 illus_level_list = 4;       // 图鉴等级集合
+}
+
+message Proto31400321       // 喂养帮派boss
+{
+    optional int32 item_id = 1;       // 喂养物品ID
+    optional int32 feed_num = 2;       // 数量
+}
+
+message Proto31400322       // 召唤帮派boss
+{
+    optional int32 summon_type = 1;       // 召唤类型：1普通召唤，2超级召唤
+    optional int32 role_id = 2;       // 召唤的玩家ID
+    optional int32 boss_index = 3;       // boss索引
+    optional int64 league_index = 4;       // 帮派id
+    optional int32 flag_lv = 5;       // 帮旗等级
+}
+
+message Proto30400604       // 玩家采集宝箱进度刷新
+{
+    optional int32 chest_num = 1;       // 当前进度
+    optional ProtoCoord chest_coord = 2;       // 新的宝箱坐标
+    optional int32 award_id = 3;       // 宝箱奖励ID
+}
+
+message Proto31400161       // 场景切换：同步采集宝箱信息
+{
+    optional int32 cycle_id = 1;       // 活动场次ID
+    optional int32 collect_num = 2;       // 收集进度
+    optional int32 chest_scene_id = 3;       // 宝箱场景ID
+    repeated int32 player_award_list = 4;       // 玩家活动奖励列表
+    optional int64 online_sum = 5;       // 累计在线时间
+    optional int64 login_time = 6;       // 上次登录时间
+}
+
+message Proto30400450       // 创建帮派驻地(帮派boss)场景
+{
+    optional int64 league_index = 1;       // 帮派索引
+    optional int32 flag_lvl = 2;       // 旗帜等级
+    optional string leader = 3;       // 帮主
+    optional int32 force = 4;       // 战力
+    optional string name = 5;       // 帮名
+    optional int64 leader_index = 6;       // 帮主ID
+}
+
+

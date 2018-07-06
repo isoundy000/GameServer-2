@@ -1,0 +1,359 @@
+{
+    "30": {
+        "full_nature": 6200,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "30级生命",
+        "nature": 6000
+    },
+    "28": {
+        "full_nature": 5800,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "28级生命",
+        "nature": 5600
+    },
+    "29": {
+        "full_nature": 6000,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "29级生命",
+        "nature": 5800
+    },
+    "24": {
+        "full_nature": 5000,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "24级生命",
+        "nature": 4800
+    },
+    "25": {
+        "full_nature": 5200,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "25级生命",
+        "nature": 5000
+    },
+    "26": {
+        "full_nature": 5400,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "26级生命",
+        "nature": 5200
+    },
+    "27": {
+        "full_nature": 5600,
+        "red_grade": 10,
+        "cond": 6,
+        "name": "27级生命",
+        "nature": 5400
+    },
+    "20": {
+        "full_nature": 4200,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "20级生命",
+        "nature": 4000
+    },
+    "21": {
+        "full_nature": 4400,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "21级生命",
+        "nature": 4200
+    },
+    "48": {
+        "full_nature": 9800,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "48级生命",
+        "nature": 9600
+    },
+    "49": {
+        "full_nature": 10000,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "49级生命",
+        "nature": 9800
+    },
+    "46": {
+        "full_nature": 9400,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "46级生命",
+        "nature": 9200
+    },
+    "47": {
+        "full_nature": 9600,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "47级生命",
+        "nature": 9400
+    },
+    "44": {
+        "full_nature": 9000,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "44级生命",
+        "nature": 8800
+    },
+    "45": {
+        "full_nature": 9200,
+        "red_grade": 13,
+        "cond": 10,
+        "name": "45级生命",
+        "nature": 9000
+    },
+    "42": {
+        "full_nature": 8600,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "42级生命",
+        "nature": 8400
+    },
+    "43": {
+        "full_nature": 8800,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "43级生命",
+        "nature": 8600
+    },
+    "40": {
+        "full_nature": 8200,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "40级生命",
+        "nature": 8000
+    },
+    "41": {
+        "full_nature": 8400,
+        "red_grade": 13,
+        "cond": 9,
+        "name": "41级生命",
+        "nature": 8200
+    },
+    "1": {
+        "full_nature": 400,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "1级生命",
+        "nature": 200
+    },
+    "0": {
+        "full_nature": 200,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "0级生命",
+        "nature": 0
+    },
+    "3": {
+        "full_nature": 800,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "3级生命",
+        "nature": 600
+    },
+    "2": {
+        "full_nature": 600,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "2级生命",
+        "nature": 400
+    },
+    "5": {
+        "full_nature": 1200,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "5级生命",
+        "nature": 1000
+    },
+    "4": {
+        "full_nature": 1000,
+        "red_grade": 6,
+        "cond": 1,
+        "name": "4级生命",
+        "nature": 800
+    },
+    "7": {
+        "full_nature": 1600,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "7级生命",
+        "nature": 1400
+    },
+    "6": {
+        "full_nature": 1400,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "6级生命",
+        "nature": 1200
+    },
+    "9": {
+        "full_nature": 2000,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "9级生命",
+        "nature": 1800
+    },
+    "8": {
+        "full_nature": 1800,
+        "red_grade": 6,
+        "cond": 2,
+        "name": "8级生命",
+        "nature": 1600
+    },
+    "13": {
+        "full_nature": 2800,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "13级生命",
+        "nature": 2600
+    },
+    "12": {
+        "full_nature": 2600,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "12级生命",
+        "nature": 2400
+    },
+    "14": {
+        "full_nature": 3000,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "14级生命",
+        "nature": 2800
+    },
+    "11": {
+        "full_nature": 2400,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "11级生命",
+        "nature": 2200
+    },
+    "10": {
+        "full_nature": 2200,
+        "red_grade": 7,
+        "cond": 3,
+        "name": "10级生命",
+        "nature": 2000
+    },
+    "39": {
+        "full_nature": 8000,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "39级生命",
+        "nature": 7800
+    },
+    "38": {
+        "full_nature": 7800,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "38级生命",
+        "nature": 7600
+    },
+    "15": {
+        "full_nature": 3200,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "15级生命",
+        "nature": 3000
+    },
+    "22": {
+        "full_nature": 4600,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "22级生命",
+        "nature": 4400
+    },
+    "17": {
+        "full_nature": 3600,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "17级生命",
+        "nature": 3400
+    },
+    "16": {
+        "full_nature": 3400,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "16级生命",
+        "nature": 3200
+    },
+    "19": {
+        "full_nature": 4000,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "19级生命",
+        "nature": 3800
+    },
+    "18": {
+        "full_nature": 3800,
+        "red_grade": 8,
+        "cond": 4,
+        "name": "18级生命",
+        "nature": 3600
+    },
+    "31": {
+        "full_nature": 6400,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "31级生命",
+        "nature": 6200
+    },
+    "23": {
+        "full_nature": 4800,
+        "red_grade": 9,
+        "cond": 5,
+        "name": "23级生命",
+        "nature": 4600
+    },
+    "37": {
+        "full_nature": 7600,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "37级生命",
+        "nature": 7400
+    },
+    "36": {
+        "full_nature": 7400,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "36级生命",
+        "nature": 7200
+    },
+    "35": {
+        "full_nature": 7200,
+        "red_grade": 12,
+        "cond": 8,
+        "name": "35级生命",
+        "nature": 7000
+    },
+    "34": {
+        "full_nature": 7000,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "34级生命",
+        "nature": 6800
+    },
+    "33": {
+        "full_nature": 6800,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "33级生命",
+        "nature": 6600
+    },
+    "32": {
+        "full_nature": 6600,
+        "red_grade": 11,
+        "cond": 7,
+        "name": "32级生命",
+        "nature": 6400
+    },
+    "50": {
+        "full_nature": 10200,
+        "red_grade": 13,
+        "cond": 0,
+        "name": "50级生命",
+        "nature": 10000
+    }
+}

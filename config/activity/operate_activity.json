@@ -1,0 +1,588 @@
+{
+    "51801": {
+        "combine_reset_self": 1,
+        "refresh_cost": 10,
+        "name": "深海捕鱼",
+        "combine_reset_act": 1
+    },
+    "50601": {
+        "rank_limit": 100,
+        "label_reward": 916037,
+        "show_reward": 916031,
+        "name": "我们结婚吧",
+        "tltle_id": 12104,
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "mail_id": 40008,
+        "rank_reward": 916031,
+        "combine_reset_act": 1
+    },
+    "51901": {
+        "combine_reset_self": 1,
+        "name": "女神赐福",
+        "combine_reset_act": 1
+    },
+    "50101": {
+        "add_score": 1,
+        "name": "幸运转盘",
+        "combine_reset_self": 0,
+        "red_point": 11501,
+        "reset_flag": 0,
+        "ten_cost": 188,
+        "draw_cost": 20,
+        "add_gold": 5,
+        "shout_id": 101001,
+        "low_gold": 3000,
+        "base_gold": 8000,
+        "combine_reset_act": 1
+    },
+    "51501": {
+        "group_may_be_list": [
+            1,
+            3,
+            18,
+            0
+        ],
+        "show_reward": 915333,
+        "name": "七折商店",
+        "group_pro_list": [
+            1000,
+            100,
+            50,
+            0
+        ],
+        "refresh_cost": 10,
+        "combine_reset_self": 1,
+        "refresh_reward": 915001,
+        "no_show_times": [
+            80,
+            60,
+            6,
+            0
+        ],
+        "mail_id": 40001,
+        "show_limit": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "shop_time": 7200,
+        "shout_id": 101005,
+        "show_times": [
+            120,
+            75,
+            9,
+            0
+        ],
+        "shop_times_reward": [
+            [
+                100,
+                1,
+                915021
+            ],
+            [
+                200,
+                2,
+                915022
+            ],
+            [
+                300,
+                3,
+                915023
+            ],
+            [
+                400,
+                4,
+                915024
+            ],
+            [
+                500,
+                5,
+                915025
+            ],
+            [
+                600,
+                6,
+                915026
+            ],
+            [
+                700,
+                7,
+                915027
+            ],
+            [
+                800,
+                8,
+                915028
+            ],
+            [
+                900,
+                9,
+                915029
+            ],
+            [
+                1000,
+                10,
+                915030
+            ]
+        ],
+        "combine_reset_act": 1
+    },
+    "51001": {
+        "show_reward": 915321,
+        "name": "幸运砸蛋",
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "reset_cost": [
+            [
+                1,
+                0
+            ],
+            [
+                2,
+                20
+            ]
+        ],
+        "draw_cost": 20,
+        "free_time": [
+            30,
+            60,
+            90,
+            120,
+            150,
+            180,
+            210
+        ],
+        "combine_reset_act": 1
+    },
+    "51301": {
+        "reset_flag": 1,
+        "name": "每日消费榜"
+    },
+    "51701": {
+        "mail_id": 50203,
+        "combine_reset_self": 1,
+        "name": "宝石合成",
+        "combine_reset_act": 1
+    },
+    "50401": {
+        "name": "限时秒杀",
+        "combine_reset_self": 1,
+        "continuous": 600,
+        "reset_flag": 1,
+        "flicker_time": 120,
+        "slot_num": 12,
+        "brocast_time": 300,
+        "shout_id": 101004,
+        "act_shout": 101007,
+        "limit_time": [
+            1200,
+            1300,
+            1700,
+            1800,
+            2000,
+            2100
+        ],
+        "combine_reset_act": 1
+    },
+    "50501": {
+        "group_may_be_list": [
+            1,
+            3,
+            20,
+            0
+        ],
+        "show_reward": 915020,
+        "name": "珍宝阁",
+        "group_pro_list": [
+            1000,
+            100,
+            50,
+            0
+        ],
+        "refresh_cost": 33,
+        "combine_reset_self": 1,
+        "refresh_reward": 915001,
+        "no_show_times": [
+            102,
+            40,
+            8,
+            0
+        ],
+        "mail_id": 40001,
+        "show_limit": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "shop_time": 7200,
+        "shout_id": 101005,
+        "show_times": [
+            165,
+            60,
+            12,
+            0
+        ],
+        "shop_times_reward": [
+            [
+                100,
+                1,
+                915021
+            ],
+            [
+                200,
+                2,
+                915022
+            ],
+            [
+                300,
+                3,
+                915023
+            ],
+            [
+                400,
+                4,
+                915024
+            ],
+            [
+                500,
+                5,
+                915025
+            ],
+            [
+                600,
+                6,
+                915026
+            ],
+            [
+                700,
+                7,
+                915027
+            ],
+            [
+                800,
+                8,
+                915028
+            ],
+            [
+                900,
+                9,
+                915029
+            ],
+            [
+                1000,
+                10,
+                915030
+            ]
+        ],
+        "combine_reset_act": 1
+    },
+    "50301": {
+        "show_reward": 915000,
+        "name": "进阶宝匣",
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "reset_cost": [
+            [
+                1,
+                88
+            ]
+        ],
+        "draw_cost": 25,
+        "free_time": [
+            10,
+            30,
+            60
+        ],
+        "shout_id": 101003,
+        "combine_reset_act": 1
+    },
+    "50701": {
+        "finish_free_shout_id": 121001,
+        "name": "迷宫寻宝",
+        "total_cost": [
+            [
+                1,
+                3,
+                37
+            ],
+            [
+                4,
+                6,
+                74
+            ],
+            [
+                7,
+                9,
+                111
+            ],
+            [
+                10,
+                12,
+                148
+            ],
+            [
+                13,
+                15,
+                185
+            ],
+            [
+                16,
+                18,
+                222
+            ],
+            [
+                19,
+                21,
+                259
+            ],
+            [
+                22,
+                24,
+                296
+            ],
+            [
+                25,
+                27,
+                333
+            ],
+            [
+                28,
+                30,
+                370
+            ],
+            [
+                31,
+                33,
+                407
+            ],
+            [
+                34,
+                36,
+                444
+            ],
+            [
+                37,
+                39,
+                481
+            ],
+            [
+                40,
+                42,
+                518
+            ],
+            [
+                43,
+                45,
+                555
+            ],
+            [
+                46,
+                48,
+                588
+            ]
+        ],
+        "show_bless": 1430,
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "bless_interval": [
+            9,
+            11
+        ],
+        "bless_total": [
+            [
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                6,
+                2
+            ],
+            [
+                7,
+                9,
+                3
+            ],
+            [
+                10,
+                12,
+                4
+            ],
+            [
+                13,
+                16,
+                5
+            ],
+            [
+                17,
+                20,
+                6
+            ],
+            [
+                21,
+                24,
+                7
+            ],
+            [
+                25,
+                28,
+                8
+            ],
+            [
+                29,
+                32,
+                9
+            ],
+            [
+                33,
+                36,
+                10
+            ],
+            [
+                37,
+                39,
+                11
+            ],
+            [
+                40,
+                42,
+                12
+            ],
+            [
+                43,
+                45,
+                13
+            ],
+            [
+                46,
+                48,
+                14
+            ]
+        ],
+        "draw_cost": 50,
+        "get_bless": 1144,
+        "mult_rate": 10,
+        "treasure_shout_id": 121002,
+        "finish_free_time": [
+            5,
+            15,
+            30,
+            50,
+            75,
+            105,
+            140,
+            180,
+            225,
+            270,
+            320
+        ],
+        "combine_reset_act": 1
+    },
+    "50901": {
+        "rank_limit": 1,
+        "lighten_rate": [
+            5,
+            10,
+            20,
+            40,
+            70,
+            75,
+            80,
+            90,
+            100
+        ],
+        "six_reward": 915312,
+        "name": "密宗九子",
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "reset_cost": [
+            [
+                1,
+                50
+            ]
+        ],
+        "ten_cost": 800,
+        "mail_id": 40009,
+        "draw_cost": 20,
+        "rank_reward": 915311,
+        "lighten_reward": 915313,
+        "combine_reset_act": 1
+    },
+    "50201": {
+        "name": "元宝宝匣",
+        "draw_type_list": [
+            88,
+            288,
+            888
+        ],
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "shout_id": 101002,
+        "draw_limit": 1,
+        "combine_reset_act": 1
+    },
+    "51101": {
+        "combine_reset_self": 1,
+        "name": "两倍返利",
+        "combine_reset_act": 1
+    },
+    "51601": {
+        "person_record_count": 20,
+        "red_point": 11807,
+        "show_reward": 915334,
+        "name": "七彩扭蛋",
+        "group_pro_list": [
+            1000,
+            0
+        ],
+        "draw_return": 1,
+        "combine_reset_self": 1,
+        "reset_flag": 1,
+        "no_show_times": [
+            23,
+            0
+        ],
+        "group_may_be_list": [
+            1,
+            0
+        ],
+        "server_record_count": 20,
+        "show_limit": [
+            1,
+            0
+        ],
+        "draw_cost": 200,
+        "show_times": [
+            24,
+            0
+        ],
+        "combine_reset_act": 1
+    },
+    "50801": {
+        "show_reward": 915331,
+        "name": "八卦鉴宝",
+        "refresh_cost": 33,
+        "combine_reset_self": 1,
+        "draw_return": 915332,
+        "draw_same_scale": [
+            1,
+            4,
+            9,
+            0
+        ],
+        "draw_cost": 33,
+        "combine_reset_act": 1
+    },
+    "51201": {
+        "reset_flag": 1,
+        "name": "每日充值榜"
+    },
+    "51401": {
+        "mail_id": 40013,
+        "name": "充值返元宝"
+    }
+}

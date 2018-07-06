@@ -1,0 +1,25 @@
+{
+	"name": "帮派boss",
+
+	"star_time": [18,30,0],
+
+	"dur_time": [2,0,0],
+
+	"feed_id": 216310032,
+
+    "feed_num": 1,
+
+	"summon_item_id": 216500001,
+
+    "summon_cost": 100,
+
+    "add_exp": 10,
+
+	"score_coffi": 100,
+
+	"center_pos": [1498,1927],
+
+	"boss_pos": [1498,1927],
+
+	"enter_pos": [[1498,1927]]
+}

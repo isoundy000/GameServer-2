@@ -1,0 +1,72 @@
+{
+    "node_name" : "塔防副本不还击怪",
+    "node_type" : "control",
+    "node_action" : "PrioSelNode",
+    "node_tree" : 
+    [
+        {
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+        },
+        {
+            "node_name" : "怪物主要行为",
+            "node_type" : "control",
+            "node_action" : "PrioSelNode",
+            "node_tree" :
+            [
+           		{
+					"node_name": "攻击",
+					"ext_precond": "attack_interavel_pre",
+					"node_type": "control",
+					"node_action": "ParaSelNode",
+					"node_tree": 
+					[
+						{
+							/*选择需要保护的NPC*/
+							"node_name": "选择目标",
+							"ext_precond":"select_mode_npc",
+							"node_type": "action",
+							"node_action": "select_action"
+						},
+						{
+							"node_name": "发动攻击",
+							"ext_precond": "attack_pre",
+							"node_type": "control",
+							"node_action": "PrioSelNode",
+							"node_tree": [{
+								"node_name": "向内圈靠近",
+								"ext_precond": "near_inner_pre",
+								"node_type": "action",
+								"node_action": "move_action"
+							},{
+								"node_name": "执行攻击",
+								"node_type": "action",
+								"node_action": "attack_action"
+							}]
+						}
+					]
+		        },
+                {
+                    "node_name" : "直线巡逻",
+                    "node_type" : "action",
+                    "node_action" : "patrol_route_action"
+                }
+            ]
+        }
+    ]
+}

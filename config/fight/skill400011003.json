@@ -1,0 +1,2472 @@
+{
+    "130": {
+        "remark": [
+            "360%",
+            "685"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 0,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 685,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "41": {
+        "remark": [
+            "360%",
+            "240"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 410,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 240,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "24": {
+        "remark": [
+            "360%",
+            "155"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 240,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 155,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "25": {
+        "remark": [
+            "360%",
+            "160"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 250,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 160,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "26": {
+        "remark": [
+            "360%",
+            "165"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 260,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 165,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "27": {
+        "remark": [
+            "360%",
+            "170"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 270,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 170,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "20": {
+        "remark": [
+            "360%",
+            "135"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 200,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 135,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "21": {
+        "remark": [
+            "360%",
+            "140"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 210,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 140,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "22": {
+        "remark": [
+            "360%",
+            "145"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 220,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 145,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "23": {
+        "remark": [
+            "360%",
+            "150"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 230,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 150,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "28": {
+        "remark": [
+            "360%",
+            "175"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 280,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 175,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "29": {
+        "remark": [
+            "360%",
+            "180"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 290,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 180,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "4": {
+        "remark": [
+            "360%",
+            "55"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 40,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 55,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "8": {
+        "remark": [
+            "360%",
+            "75"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 80,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 75,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "120": {
+        "remark": [
+            "360%",
+            "635"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1200,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 635,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "121": {
+        "remark": [
+            "360%",
+            "640"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1210,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 640,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "122": {
+        "remark": [
+            "360%",
+            "645"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1220,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 645,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "123": {
+        "remark": [
+            "360%",
+            "650"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1230,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 650,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "124": {
+        "remark": [
+            "360%",
+            "655"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1240,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 655,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "125": {
+        "remark": [
+            "360%",
+            "660"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1250,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 660,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "126": {
+        "remark": [
+            "360%",
+            "665"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1260,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 665,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "127": {
+        "remark": [
+            "360%",
+            "670"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1270,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 670,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "128": {
+        "remark": [
+            "360%",
+            "675"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1280,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 675,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "129": {
+        "remark": [
+            "360%",
+            "680"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1290,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 680,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "59": {
+        "remark": [
+            "360%",
+            "330"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 590,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 330,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "58": {
+        "remark": [
+            "360%",
+            "325"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 580,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 325,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "55": {
+        "remark": [
+            "360%",
+            "310"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 550,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 310,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "54": {
+        "remark": [
+            "360%",
+            "305"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 540,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 305,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "57": {
+        "remark": [
+            "360%",
+            "320"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 570,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 320,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "56": {
+        "remark": [
+            "360%",
+            "315"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 560,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 315,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "51": {
+        "remark": [
+            "360%",
+            "290"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 510,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 290,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "50": {
+        "remark": [
+            "360%",
+            "285"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 500,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 285,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "53": {
+        "remark": [
+            "360%",
+            "300"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 530,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 300,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "52": {
+        "remark": [
+            "360%",
+            "295"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 520,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 295,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "115": {
+        "remark": [
+            "360%",
+            "610"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1150,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 610,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "114": {
+        "remark": [
+            "360%",
+            "605"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1140,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 605,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "88": {
+        "remark": [
+            "360%",
+            "475"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 880,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 475,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "89": {
+        "remark": [
+            "360%",
+            "480"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 890,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 480,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "111": {
+        "remark": [
+            "360%",
+            "590"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1110,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 590,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "110": {
+        "remark": [
+            "360%",
+            "585"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1100,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 585,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "113": {
+        "remark": [
+            "360%",
+            "600"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1130,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 600,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "112": {
+        "remark": [
+            "360%",
+            "595"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1120,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 595,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "82": {
+        "remark": [
+            "360%",
+            "445"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 820,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 445,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "83": {
+        "remark": [
+            "360%",
+            "450"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 830,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 450,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "80": {
+        "remark": [
+            "360%",
+            "435"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 800,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 435,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "81": {
+        "remark": [
+            "360%",
+            "440"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 810,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 440,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "119": {
+        "remark": [
+            "360%",
+            "630"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1190,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 630,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "118": {
+        "remark": [
+            "360%",
+            "625"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1180,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 625,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "84": {
+        "remark": [
+            "360%",
+            "455"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 840,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 455,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "85": {
+        "remark": [
+            "360%",
+            "460"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 850,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 460,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "3": {
+        "remark": [
+            "360%",
+            "50"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 30,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 50,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "7": {
+        "remark": [
+            "360%",
+            "70"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 70,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 70,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "108": {
+        "remark": [
+            "360%",
+            "575"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1080,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 575,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "109": {
+        "remark": [
+            "360%",
+            "580"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1090,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 580,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "102": {
+        "remark": [
+            "360%",
+            "545"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1020,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 545,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "103": {
+        "remark": [
+            "360%",
+            "550"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1030,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 550,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "100": {
+        "remark": [
+            "360%",
+            "535"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1000,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 535,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "101": {
+        "remark": [
+            "360%",
+            "540"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1010,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 540,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "106": {
+        "remark": [
+            "360%",
+            "565"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1060,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 565,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "107": {
+        "remark": [
+            "360%",
+            "570"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1070,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 570,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "104": {
+        "remark": [
+            "360%",
+            "555"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1040,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 555,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "105": {
+        "remark": [
+            "360%",
+            "560"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1050,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 560,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "39": {
+        "remark": [
+            "360%",
+            "230"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 390,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 230,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "38": {
+        "remark": [
+            "360%",
+            "225"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 380,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 225,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "33": {
+        "remark": [
+            "360%",
+            "200"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 330,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 200,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "32": {
+        "remark": [
+            "360%",
+            "195"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 320,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 195,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "31": {
+        "remark": [
+            "360%",
+            "190"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 310,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 190,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "30": {
+        "remark": [
+            "360%",
+            "185"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 300,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 185,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "37": {
+        "remark": [
+            "360%",
+            "220"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 370,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 220,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "36": {
+        "remark": [
+            "360%",
+            "215"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 360,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 215,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "35": {
+        "remark": [
+            "360%",
+            "210"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 350,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 210,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "34": {
+        "remark": [
+            "360%",
+            "205"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 340,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 205,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "60": {
+        "remark": [
+            "360%",
+            "335"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 600,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 335,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "61": {
+        "remark": [
+            "360%",
+            "340"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 610,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 340,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "62": {
+        "remark": [
+            "360%",
+            "345"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 620,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 345,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "63": {
+        "remark": [
+            "360%",
+            "350"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 630,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 350,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "64": {
+        "remark": [
+            "360%",
+            "355"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 640,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 355,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "65": {
+        "remark": [
+            "360%",
+            "360"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 650,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 360,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "66": {
+        "remark": [
+            "360%",
+            "365"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 660,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 365,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "67": {
+        "remark": [
+            "360%",
+            "370"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 670,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 370,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "68": {
+        "remark": [
+            "360%",
+            "375"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 680,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 375,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "69": {
+        "remark": [
+            "360%",
+            "380"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 690,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 380,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "2": {
+        "remark": [
+            "360%",
+            "45"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 20,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 45,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "6": {
+        "remark": [
+            "360%",
+            "65"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 60,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 65,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "99": {
+        "remark": [
+            "360%",
+            "530"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 990,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 530,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "98": {
+        "remark": [
+            "360%",
+            "525"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 980,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 525,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "91": {
+        "remark": [
+            "360%",
+            "490"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 910,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 490,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "90": {
+        "remark": [
+            "360%",
+            "485"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 900,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 485,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "93": {
+        "remark": [
+            "360%",
+            "500"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 930,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 500,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "92": {
+        "remark": [
+            "360%",
+            "495"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 920,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 495,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "95": {
+        "remark": [
+            "360%",
+            "510"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 950,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 510,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "94": {
+        "remark": [
+            "360%",
+            "505"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 940,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 505,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "97": {
+        "remark": [
+            "360%",
+            "520"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 970,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 520,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "96": {
+        "remark": [
+            "360%",
+            "515"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 960,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 515,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "11": {
+        "remark": [
+            "360%",
+            "90"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 110,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 90,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "10": {
+        "remark": [
+            "360%",
+            "85"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 100,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 85,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "13": {
+        "remark": [
+            "360%",
+            "100"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 130,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 100,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "12": {
+        "remark": [
+            "360%",
+            "95"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 120,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 95,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "15": {
+        "remark": [
+            "360%",
+            "110"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 150,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 110,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "14": {
+        "remark": [
+            "360%",
+            "105"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 140,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 105,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "17": {
+        "remark": [
+            "360%",
+            "120"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 170,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 120,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "16": {
+        "remark": [
+            "360%",
+            "115"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 160,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 115,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "19": {
+        "remark": [
+            "360%",
+            "130"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 190,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 130,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "18": {
+        "remark": [
+            "360%",
+            "125"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 180,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 125,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "117": {
+        "remark": [
+            "360%",
+            "620"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1170,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 620,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "116": {
+        "remark": [
+            "360%",
+            "615"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 1160,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 615,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "48": {
+        "remark": [
+            "360%",
+            "275"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 480,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 275,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "49": {
+        "remark": [
+            "360%",
+            "280"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 490,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 280,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "46": {
+        "remark": [
+            "360%",
+            "265"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 460,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 265,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "86": {
+        "remark": [
+            "360%",
+            "465"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 860,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 465,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "44": {
+        "remark": [
+            "360%",
+            "255"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 440,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 255,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "45": {
+        "remark": [
+            "360%",
+            "260"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 450,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 260,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "42": {
+        "remark": [
+            "360%",
+            "245"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 420,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 245,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "43": {
+        "remark": [
+            "360%",
+            "250"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 430,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 250,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "40": {
+        "remark": [
+            "360%",
+            "235"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 400,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 235,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "87": {
+        "remark": [
+            "360%",
+            "470"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 870,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 470,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "1": {
+        "remark": [
+            "360%",
+            "40"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 10,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 40,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "5": {
+        "remark": [
+            "360%",
+            "60"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 50,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 60,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "9": {
+        "remark": [
+            "360%",
+            "80"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 90,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 80,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "77": {
+        "remark": [
+            "360%",
+            "420"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 770,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 420,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "76": {
+        "remark": [
+            "360%",
+            "415"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 760,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 415,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "75": {
+        "remark": [
+            "360%",
+            "410"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 750,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 410,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "74": {
+        "remark": [
+            "360%",
+            "405"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 740,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 405,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "73": {
+        "remark": [
+            "360%",
+            "400"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 730,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 400,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "72": {
+        "remark": [
+            "360%",
+            "395"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 720,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 395,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "71": {
+        "remark": [
+            "360%",
+            "390"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 710,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 390,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "70": {
+        "remark": [
+            "360%",
+            "385"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 700,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 385,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "79": {
+        "remark": [
+            "360%",
+            "430"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 790,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 430,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "78": {
+        "remark": [
+            "360%",
+            "425"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 780,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 425,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    },
+    "47": {
+        "remark": [
+            "360%",
+            "270"
+        ],
+        "name": "升龙剑",
+        "skilled_times": 470,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 12000,
+                    "player_percent": 12000,
+                    "name": "hurt",
+                    "value": 270,
+                    "weaken_per": -6000
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "11": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917031,
+        "pre_cost": 600
+    },
+    "10": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917030,
+        "pre_cost": 600
+    },
+    "13": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917033,
+        "pre_cost": 600
+    },
+    "12": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917032,
+        "pre_cost": 600
+    },
+    "1": {
+        "now_cost": 210,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917021,
+        "pre_cost": 300
+    },
+    "3": {
+        "now_cost": 280,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917023,
+        "pre_cost": 400
+    },
+    "2": {
+        "now_cost": 500,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917022,
+        "pre_cost": 1000
+    },
+    "5": {
+        "now_cost": 300,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917025,
+        "pre_cost": 500
+    },
+    "4": {
+        "now_cost": 160,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917024,
+        "pre_cost": 200
+    },
+    "7": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917027,
+        "pre_cost": 600
+    },
+    "6": {
+        "now_cost": 200,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917026,
+        "pre_cost": 384
+    },
+    "9": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917029,
+        "pre_cost": 600
+    },
+    "8": {
+        "now_cost": 480,
+        "name_str": "每日限购",
+        "times": 1,
+        "reward_id": 917028,
+        "pre_cost": 600
+    }
+}

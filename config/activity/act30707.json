@@ -1,0 +1,142 @@
+{
+    "11": {
+        "cash_coupon": 40,
+        "reward_id": 920831,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            80
+        ],
+        "times": 5
+    },
+    "10": {
+        "cash_coupon": 75,
+        "reward_id": 920830,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            150
+        ],
+        "times": 1
+    },
+    "13": {
+        "cash_coupon": 40,
+        "reward_id": 920833,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            80
+        ],
+        "times": 10
+    },
+    "12": {
+        "cash_coupon": 240,
+        "reward_id": 920832,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            480
+        ],
+        "times": 1
+    },
+    "14": {
+        "cash_coupon": 8,
+        "reward_id": 920834,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            16
+        ],
+        "times": 10
+    },
+    "1": {
+        "cash_coupon": 120,
+        "reward_id": 920821,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            240
+        ],
+        "times": 10
+    },
+    "3": {
+        "cash_coupon": 50,
+        "reward_id": 920823,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            100
+        ],
+        "times": 3
+    },
+    "2": {
+        "cash_coupon": 900,
+        "reward_id": 920822,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            1800
+        ],
+        "times": 1
+    },
+    "5": {
+        "cash_coupon": 75,
+        "reward_id": 920825,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            150
+        ],
+        "times": 1
+    },
+    "4": {
+        "cash_coupon": 50,
+        "reward_id": 920824,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            100
+        ],
+        "times": 2
+    },
+    "7": {
+        "cash_coupon": 900,
+        "reward_id": 920827,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            1800
+        ],
+        "times": 1
+    },
+    "6": {
+        "cash_coupon": 120,
+        "reward_id": 920826,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            240
+        ],
+        "times": 10
+    },
+    "9": {
+        "cash_coupon": 50,
+        "reward_id": 920829,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            100
+        ],
+        "times": 2
+    },
+    "8": {
+        "cash_coupon": 50,
+        "reward_id": 920828,
+        "name": "返利抢购",
+        "cost_item": [
+            216500001,
+            100
+        ],
+        "times": 3
+    }
+}

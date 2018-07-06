@@ -1,0 +1,852 @@
+{
+	"tjxmtest":{
+		"ip_limit":999999999,
+		"mac_limit":999999999,
+		"ip_unlimit":["192.168.16.147","192.168.16.120","192.168.16.112"]
+	},
+	"9133" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ucand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ucios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"uc" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"djand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"djios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"dj" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ppios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"9133and" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"9133ios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"hucn" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lenwell" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"49you" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"49yyb" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"360" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"baiduand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"baiduios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xiaomi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kugou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kuaiyong" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"haimaios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"haimaand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"oppo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"amigo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"meizu" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"frame" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kupai" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xyassist" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xyand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"jifeng" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wandou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"huawei" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lenovo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"vivo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"tongbutui" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yingyonghui" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"itoolsios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xxassistand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xxassistios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"aisi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"qitian" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"8868" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"jiangyue" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ouwan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ouwanfs" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"anzhi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"mumayi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"zhuoyi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"4399" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"skmp" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"nduo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"paojiao" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yuwan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"pandawan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kuwo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"07073" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"07073ios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"owjuhe" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"dianxin" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"youku" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"fujia" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"syhome" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yyc" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"muzhi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"youlong" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"youlongios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ruiyue" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xiongbing" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"haowandian" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ddwan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yyb" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"huanliuand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"mmayiand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"shoumengand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"jiuduand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lenovoand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"appstore" :{
+		"ip_limit": 20,
+		"mac_limit": 20,
+		"ip_unlimit": []
+	},
+	"qixiaziand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"mopingand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wanquand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"syg" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"sygios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lhhand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lhhios" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"pps" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"sogou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"anfeng" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"snail" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"YY" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yy" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yyw" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kuaiwan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"caohua" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"zycc" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"anqu" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"bfgame" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"pptv" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kaopu" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"liebao" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"p2531" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"37" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"le8" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"iapple":{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"9377" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"songguo" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"3899" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"bsj" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"xyzz" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"49youhf" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"liulian" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"tt" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"efun" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"dayu" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"swz" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"jiubang" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"51" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"tanwan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"syxxz" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ttzf" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"paojiaozf" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wyh" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wanmi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wanmiios" :{
+		"ip_limit": 10,
+		"mac_limit": 20,
+		"ip_unlimit": []
+	},
+	"49lxios" :{
+		"ip_limit": 10,
+		"mac_limit": 20,
+		"ip_unlimit": []
+	},
+	"49lxioshf" :{
+		"ip_limit": 20,
+		"mac_limit": 20,
+		"ip_unlimit": []
+	},
+	"49lxapp" :{
+		"ip_limit": 20,
+		"mac_limit": 20,
+		"ip_unlimit": []
+	},
+	"shenqi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wyhjh" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"mzzf" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yyxy" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yyaisi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"49zxwh" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yishi" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"cssw" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"zmz" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"zsy" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"txhd" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yisou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"feiyue" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"zdcm" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"quxun" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"junhai" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"qianyou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yinhu" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ycx" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kxy" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"gzhw" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"gzhwios" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"49sybaidu" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"play800" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"ruanyou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"caohuazf" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"tanwanios" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"37wanzf" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"37wanios" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"37wanapp" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"kugouzf" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"73shouyou" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"fengei" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"weixun" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"wyhios" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"yishiios" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"jinzhan" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"duokemeng" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"shgand" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"shgios" :{
+		"ip_limit": 10,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lyxm" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lytg" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	},
+	"lytw" :{
+		"ip_limit": 20,
+		"mac_limit": 99999999,
+		"ip_unlimit": []
+	}
+}

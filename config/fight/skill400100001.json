@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "65"
+        ],
+        "name": "轻灵",
+        "server_force": 4800,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 6500
+        },
+        "add_fight": 200
+    },
+    "11": {
+        "remark": [
+            "40"
+        ],
+        "name": "轻灵",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 4000
+        },
+        "add_fight": 570
+    },
+    "10": {
+        "remark": [
+            "38"
+        ],
+        "name": "轻灵",
+        "server_force": 1680,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 3800
+        },
+        "add_fight": 120
+    },
+    "13": {
+        "remark": [
+            "44"
+        ],
+        "name": "轻灵",
+        "server_force": 2550,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 4400
+        },
+        "add_fight": 150
+    },
+    "12": {
+        "remark": [
+            "42"
+        ],
+        "name": "轻灵",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 4200
+        },
+        "add_fight": 150
+    },
+    "15": {
+        "remark": [
+            "50"
+        ],
+        "name": "轻灵",
+        "server_force": 2850,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 5000
+        },
+        "add_fight": 150
+    },
+    "14": {
+        "remark": [
+            "47"
+        ],
+        "name": "轻灵",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 4700
+        },
+        "add_fight": 150
+    },
+    "17": {
+        "remark": [
+            "56"
+        ],
+        "name": "轻灵",
+        "server_force": 4200,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 5600
+        },
+        "add_fight": 200
+    },
+    "16": {
+        "remark": [
+            "53"
+        ],
+        "name": "轻灵",
+        "server_force": 4000,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 5300
+        },
+        "add_fight": 1150
+    },
+    "19": {
+        "remark": [
+            "62"
+        ],
+        "name": "轻灵",
+        "server_force": 4600,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 6200
+        },
+        "add_fight": 200
+    },
+    "18": {
+        "remark": [
+            "59"
+        ],
+        "name": "轻灵",
+        "server_force": 4400,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 5900
+        },
+        "add_fight": 200
+    },
+    "1": {
+        "remark": [
+            "20"
+        ],
+        "name": "轻灵",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2000
+        },
+        "add_fight": 500
+    },
+    "3": {
+        "remark": [
+            "24"
+        ],
+        "name": "轻灵",
+        "server_force": 700,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2400
+        },
+        "add_fight": 100
+    },
+    "2": {
+        "remark": [
+            "22"
+        ],
+        "name": "轻灵",
+        "server_force": 600,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2200
+        },
+        "add_fight": 100
+    },
+    "5": {
+        "remark": [
+            "28"
+        ],
+        "name": "轻灵",
+        "server_force": 900,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 2800
+        },
+        "add_fight": 100
+    },
+    "4": {
+        "remark": [
+            "26"
+        ],
+        "name": "轻灵",
+        "server_force": 800,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2600
+        },
+        "add_fight": 100
+    },
+    "7": {
+        "remark": [
+            "32"
+        ],
+        "name": "轻灵",
+        "server_force": 1320,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 3200
+        },
+        "add_fight": 120
+    },
+    "6": {
+        "remark": [
+            "30"
+        ],
+        "name": "轻灵",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 3000
+        },
+        "add_fight": 300
+    },
+    "9": {
+        "remark": [
+            "36"
+        ],
+        "name": "轻灵",
+        "server_force": 1560,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 3600
+        },
+        "add_fight": 120
+    },
+    "8": {
+        "remark": [
+            "34"
+        ],
+        "name": "轻灵",
+        "server_force": 1440,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 3400
+        },
+        "add_fight": 120
+    }
+}

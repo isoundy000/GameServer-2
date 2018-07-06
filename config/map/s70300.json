@@ -1,0 +1,11 @@
+{
+	"scene_id" : 70300,
+	"name" : "跨服世界boss中转场景",
+	"level_limit" : 90,			//限制等级
+	"relive" : {
+		"type" : "11",
+		"state":[100, 100],
+		"posX" : 2473,
+        "posY" : 3344
+    }
+}

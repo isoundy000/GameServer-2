@@ -1,0 +1,57 @@
+{
+    "1": {
+        "name": "消费榜第1名",
+        "content": "消费榜第1名",
+        "cond": [
+            1,
+            1
+        ],
+        "reward_start_cond": 588,
+        "reward_type": 1,
+        "reward_id": 920401
+    },
+    "3": {
+        "name": "消费榜第4-10名",
+        "content": "消费榜第4-10名",
+        "cond": [
+            4,
+            10
+        ],
+        "reward_start_cond": 588,
+        "reward_type": 1,
+        "reward_id": 920403
+    },
+    "2": {
+        "name": "消费榜第2-3名",
+        "content": "消费榜第2-3名",
+        "cond": [
+            2,
+            3
+        ],
+        "reward_start_cond": 588,
+        "reward_type": 1,
+        "reward_id": 920402
+    },
+    "5": {
+        "name": "消费榜第51-100名",
+        "content": "消费榜第51-100名",
+        "cond": [
+            51,
+            10000
+        ],
+        "reward_start_cond": 588,
+        "reward_type": 1,
+        "reward_id": 920405
+    },
+    "4": {
+        "name": "消费榜第11-50名",
+        "content": "消费榜第11-50名",
+        "cond": [
+            11,
+            50
+        ],
+        "reward_start_cond": 588,
+        "reward_type": 1,
+        "reward_id": 920404
+    }
+}

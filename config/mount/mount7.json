@@ -1,0 +1,1020 @@
+{
+    "10": {
+        "toughness": 438,
+        "model2": "907100001",
+        "sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "pos": [
+            -105,
+            245,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 100,
+        "crit": 585,
+        "name_pic": "0100.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "damage_multi": 1500,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 3656,
+        "rot": [
+            8.5,
+            -116,
+            8
+        ],
+        "attack": 7313,
+        "health": 73130,
+        "dodge": 585,
+        "update_sca": [
+            2.2999999999999998,
+            2.2999999999999998,
+            2.2999999999999998
+        ],
+        "hit": 731,
+        "ability": 200,
+        "update_rot": [
+            16,
+            -115,
+            18
+        ],
+        "name": "仙兽10阶",
+        "update_pos": [
+            -190,
+            -100,
+            -500
+        ],
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "model_name": "907000009",
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000009",
+        "fail_prop": {
+            "attack": 8
+        },
+        "ex_param": 2
+    },
+    "216310095": {
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000001",
+        "name": "追风绝影",
+        "model_name": "907000001"
+    },
+    "1": {
+        "toughness": 6,
+        "model2": "907100001",
+        "sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "pos": [
+            -105,
+            249,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 0,
+        "ex_param": 2,
+        "crit": 8,
+        "name_pic": "0031.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 0,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 47,
+        "rot": [
+            5,
+            -128,
+            5
+        ],
+        "attack": 93,
+        "health": 930,
+        "dodge": 8,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 10,
+        "damage_multi": 0,
+        "update_rot": [
+            5,
+            -128,
+            5
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽1阶",
+        "success": [
+            [
+                0,
+                59,
+                0
+            ],
+            [
+                60,
+                72,
+                10000
+            ],
+            [
+                73,
+                80,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110702,
+            216110701
+        ],
+        "amount": 2,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000000",
+        "reward": 201071,
+        "model_name": "907000000"
+    },
+    "3": {
+        "toughness": 29,
+        "model2": "907100001",
+        "sca": [
+            2,
+            2,
+            2
+        ],
+        "pos": [
+            -105,
+            235,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 0,
+        "ex_param": 2,
+        "crit": 38,
+        "name_pic": "0029.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 5,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 232,
+        "rot": [
+            9,
+            -127,
+            4
+        ],
+        "add_skill": 400110001,
+        "attack": 463,
+        "health": 4626,
+        "dodge": 38,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 48,
+        "damage_multi": 0,
+        "update_rot": [
+            9,
+            -127,
+            4
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽3阶",
+        "success": [
+            [
+                0,
+                134,
+                0
+            ],
+            [
+                135,
+                148,
+                450
+            ],
+            [
+                149,
+                157,
+                4000
+            ],
+            [
+                158,
+                173,
+                10000
+            ],
+            [
+                174,
+                198,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "model_name": "907000003",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110702,
+            216110701
+        ],
+        "amount": 4,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000003",
+        "reward": 201073,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "2": {
+        "toughness": 17,
+        "model2": "907100001",
+        "sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "pos": [
+            -105,
+            242,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 0,
+        "ex_param": 2,
+        "crit": 23,
+        "name_pic": "0030.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 0,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 142,
+        "rot": [
+            8,
+            -142,
+            3.5
+        ],
+        "attack": 283,
+        "health": 2830,
+        "dodge": 23,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 29,
+        "damage_multi": 0,
+        "update_rot": [
+            8,
+            -142,
+            3.5
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽2阶",
+        "success": [
+            [
+                0,
+                89,
+                0
+            ],
+            [
+                90,
+                99,
+                500
+            ],
+            [
+                100,
+                102,
+                4000
+            ],
+            [
+                103,
+                115,
+                10000
+            ],
+            [
+                116,
+                129,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110702,
+            216110701
+        ],
+        "amount": 3,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000002",
+        "reward": 201072,
+        "model_name": "907000002"
+    },
+    "5": {
+        "toughness": 91,
+        "model2": "907100001",
+        "sca": [
+            2,
+            2,
+            2
+        ],
+        "pos": [
+            -105,
+            234,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 15,
+        "ex_param": 2,
+        "crit": 122,
+        "name_pic": "0027.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 30,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 759,
+        "rot": [
+            11,
+            -135,
+            4
+        ],
+        "add_skill": 400110003,
+        "attack": 1518,
+        "health": 15180,
+        "dodge": 122,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 152,
+        "damage_multi": 200,
+        "update_rot": [
+            11,
+            -135,
+            4
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽5阶",
+        "success": [
+            [
+                0,
+                316,
+                0
+            ],
+            [
+                317,
+                349,
+                350
+            ],
+            [
+                350,
+                370,
+                4000
+            ],
+            [
+                371,
+                407,
+                10000
+            ],
+            [
+                408,
+                464,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "model_name": "907000005",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110702,
+            216110701
+        ],
+        "amount": 6,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000005",
+        "reward": 201075,
+        "fail_prop": {
+            "attack": 6
+        }
+    },
+    "4": {
+        "toughness": 57,
+        "model2": "907100001",
+        "sca": [
+            2,
+            2,
+            2
+        ],
+        "pos": [
+            -105,
+            242,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 5,
+        "ex_param": 2,
+        "crit": 76,
+        "name_pic": "0028.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 15,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 474,
+        "rot": [
+            10,
+            -123,
+            12
+        ],
+        "add_skill": 400110002,
+        "attack": 948,
+        "health": 9480,
+        "dodge": 76,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 95,
+        "damage_multi": 0,
+        "update_rot": [
+            10,
+            -123,
+            12
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽4阶",
+        "success": [
+            [
+                0,
+                198,
+                0
+            ],
+            [
+                199,
+                219,
+                400
+            ],
+            [
+                220,
+                232,
+                4000
+            ],
+            [
+                233,
+                255,
+                10000
+            ],
+            [
+                256,
+                291,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "model_name": "907000004",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110702,
+            216110701
+        ],
+        "amount": 5,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000004",
+        "reward": 201074,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "7": {
+        "toughness": 200,
+        "model2": "907100001",
+        "sca": [
+            2,
+            2,
+            2
+        ],
+        "pos": [
+            -155,
+            220,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 45,
+        "ex_param": 2,
+        "crit": 266,
+        "name_pic": "0025.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 60,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 1662,
+        "rot": [
+            16,
+            -122,
+            18
+        ],
+        "add_skill": 400110004,
+        "attack": 3323,
+        "health": 33230,
+        "dodge": 266,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 333,
+        "damage_multi": 500,
+        "update_rot": [
+            16,
+            -122,
+            18
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽7阶",
+        "success": [
+            [
+                0,
+                726,
+                0
+            ],
+            [
+                727,
+                802,
+                250
+            ],
+            [
+                803,
+                849,
+                4000
+            ],
+            [
+                850,
+                934,
+                10000
+            ],
+            [
+                935,
+                1063,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "model_name": "907000007",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110703,
+            216110702,
+            216110701
+        ],
+        "amount": 8,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000007",
+        "reward": 201077,
+        "fail_prop": {
+            "attack": 7
+        }
+    },
+    "6": {
+        "toughness": 143,
+        "model2": "907100001",
+        "sca": [
+            2,
+            2,
+            2
+        ],
+        "pos": [
+            -105,
+            233,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 30,
+        "ex_param": 2,
+        "crit": 190,
+        "name_pic": "0026.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 45,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 1187,
+        "rot": [
+            8,
+            -126,
+            5
+        ],
+        "attack": 2373,
+        "health": 23730,
+        "dodge": 190,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 238,
+        "damage_multi": 200,
+        "update_rot": [
+            8,
+            -126,
+            5
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽6阶",
+        "success": [
+            [
+                0,
+                471,
+                0
+            ],
+            [
+                472,
+                520,
+                300
+            ],
+            [
+                521,
+                551,
+                4000
+            ],
+            [
+                552,
+                606,
+                10000
+            ],
+            [
+                607,
+                690,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "fail_prop": {
+            "attack": 6
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110702,
+            216110701
+        ],
+        "amount": 7,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000006",
+        "reward": 201076,
+        "model_name": "907000006"
+    },
+    "9": {
+        "toughness": 353,
+        "model2": "907100001",
+        "sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "pos": [
+            -105,
+            245,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 80,
+        "ex_param": 2,
+        "crit": 471,
+        "name_pic": "0100.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 130,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 2944,
+        "rot": [
+            8.5,
+            -116,
+            8
+        ],
+        "attack": 5888,
+        "health": 58880,
+        "dodge": 471,
+        "update_sca": [
+            2.2999999999999998,
+            2.2999999999999998,
+            2.2999999999999998
+        ],
+        "hit": 589,
+        "damage_multi": 1000,
+        "update_rot": [
+            16,
+            -115,
+            18
+        ],
+        "update_pos": [
+            -190,
+            -100,
+            -500
+        ],
+        "name": "仙兽9阶",
+        "success": [
+            [
+                0,
+                1540,
+                0
+            ],
+            [
+                1541,
+                1700,
+                150
+            ],
+            [
+                1701,
+                1800,
+                4000
+            ],
+            [
+                1801,
+                1980,
+                10000
+            ],
+            [
+                1981,
+                2251,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "fail_prop": {
+            "attack": 8
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110703,
+            216110702,
+            216110701
+        ],
+        "amount": 10,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000009",
+        "reward": 201079,
+        "model_name": "907000009"
+    },
+    "8": {
+        "toughness": 268,
+        "model2": "907100001",
+        "sca": [
+            2,
+            2,
+            2
+        ],
+        "pos": [
+            -50,
+            220,
+            1000
+        ],
+        "ability_item": 216120701,
+        "growth": 60,
+        "ex_param": 2,
+        "crit": 357,
+        "name_pic": "0024.png",
+        "model_name2": "907100001",
+        "growth_item": 216120702,
+        "ability": 80,
+        "mountPoint2": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "defence": 2232,
+        "rot": [
+            16,
+            -122.40000000000001,
+            18
+        ],
+        "attack": 4463,
+        "health": 44630,
+        "dodge": 357,
+        "update_sca": [
+            2,
+            2,
+            2
+        ],
+        "hit": 447,
+        "damage_multi": 500,
+        "update_rot": [
+            16,
+            -122.40000000000001,
+            18
+        ],
+        "update_pos": [
+            -238,
+            -116,
+            -500
+        ],
+        "name": "仙兽8阶",
+        "success": [
+            [
+                0,
+                1089,
+                0
+            ],
+            [
+                1090,
+                1203,
+                200
+            ],
+            [
+                1204,
+                1274,
+                4000
+            ],
+            [
+                1275,
+                1401,
+                10000
+            ],
+            [
+                1402,
+                1594,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "base_equ": [
+            124010101,
+            124020101,
+            124030101
+        ],
+        "fail_prop": {
+            "attack": 7
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110703,
+            216110702,
+            216110701
+        ],
+        "amount": 9,
+        "mountPoint": {
+            "1": "mount_point001",
+            "2": "mount_point001"
+        },
+        "model": "907000008",
+        "reward": 201078,
+        "model_name": "907000008"
+    }
+}

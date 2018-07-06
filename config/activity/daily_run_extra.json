@@ -1,0 +1,8 @@
+{
+    "100": {
+        "distance": 100,
+        "direct_reward": 20100,
+        "cost_item": 216340201,
+        "jump_reward": 20100
+    }
+}

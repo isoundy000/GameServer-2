@@ -1,0 +1,2109 @@
+{
+    "91": {
+        "attack": 1800,
+        "defence": 900,
+        "need_exp": 9100,
+        "blood_max": 18000,
+        "level": 90
+    },
+    "90": {
+        "attack": 1780,
+        "defence": 890,
+        "need_exp": 9000,
+        "blood_max": 17800,
+        "level": 89
+    },
+    "93": {
+        "attack": 1840,
+        "defence": 920,
+        "need_exp": 9300,
+        "blood_max": 18400,
+        "level": 92
+    },
+    "92": {
+        "attack": 1820,
+        "defence": 910,
+        "need_exp": 9200,
+        "blood_max": 18200,
+        "level": 91
+    },
+    "95": {
+        "attack": 1880,
+        "defence": 940,
+        "need_exp": 9500,
+        "blood_max": 18800,
+        "level": 94
+    },
+    "94": {
+        "attack": 1860,
+        "defence": 930,
+        "need_exp": 9400,
+        "blood_max": 18600,
+        "level": 93
+    },
+    "97": {
+        "attack": 1920,
+        "defence": 960,
+        "need_exp": 9700,
+        "blood_max": 19200,
+        "level": 96
+    },
+    "8": {
+        "attack": 140,
+        "defence": 70,
+        "need_exp": 800,
+        "blood_max": 1400,
+        "level": 7
+    },
+    "96": {
+        "attack": 1900,
+        "defence": 950,
+        "need_exp": 9600,
+        "blood_max": 19000,
+        "level": 95
+    },
+    "68": {
+        "attack": 1340,
+        "defence": 670,
+        "need_exp": 6800,
+        "blood_max": 13400,
+        "level": 67
+    },
+    "120": {
+        "attack": 2380,
+        "defence": 1190,
+        "need_exp": 12000,
+        "blood_max": 23800,
+        "level": 119
+    },
+    "121": {
+        "attack": 2400,
+        "defence": 1200,
+        "need_exp": 12100,
+        "blood_max": 24000,
+        "level": 120
+    },
+    "122": {
+        "attack": 2420,
+        "defence": 1210,
+        "need_exp": 12200,
+        "blood_max": 24200,
+        "level": 121
+    },
+    "123": {
+        "attack": 2440,
+        "defence": 1220,
+        "need_exp": 12300,
+        "blood_max": 24400,
+        "level": 122
+    },
+    "124": {
+        "attack": 2460,
+        "defence": 1230,
+        "need_exp": 12400,
+        "blood_max": 24600,
+        "level": 123
+    },
+    "125": {
+        "attack": 2480,
+        "defence": 1240,
+        "need_exp": 12500,
+        "blood_max": 24800,
+        "level": 124
+    },
+    "126": {
+        "attack": 2500,
+        "defence": 1250,
+        "need_exp": 12600,
+        "blood_max": 25000,
+        "level": 125
+    },
+    "127": {
+        "attack": 2520,
+        "defence": 1260,
+        "need_exp": 12700,
+        "blood_max": 25200,
+        "level": 126
+    },
+    "128": {
+        "attack": 2540,
+        "defence": 1270,
+        "need_exp": 12800,
+        "blood_max": 25400,
+        "level": 127
+    },
+    "129": {
+        "attack": 2560,
+        "defence": 1280,
+        "need_exp": 12900,
+        "blood_max": 25600,
+        "level": 128
+    },
+    "298": {
+        "attack": 5940,
+        "defence": 2970,
+        "need_exp": 29800,
+        "blood_max": 59400,
+        "level": 297
+    },
+    "299": {
+        "attack": 5960,
+        "defence": 2980,
+        "need_exp": 29900,
+        "blood_max": 59600,
+        "level": 298
+    },
+    "296": {
+        "attack": 5900,
+        "defence": 2950,
+        "need_exp": 29600,
+        "blood_max": 59000,
+        "level": 295
+    },
+    "297": {
+        "attack": 5920,
+        "defence": 2960,
+        "need_exp": 29700,
+        "blood_max": 59200,
+        "level": 296
+    },
+    "294": {
+        "attack": 5860,
+        "defence": 2930,
+        "need_exp": 29400,
+        "blood_max": 58600,
+        "level": 293
+    },
+    "295": {
+        "attack": 5880,
+        "defence": 2940,
+        "need_exp": 29500,
+        "blood_max": 58800,
+        "level": 294
+    },
+    "292": {
+        "attack": 5820,
+        "defence": 2910,
+        "need_exp": 29200,
+        "blood_max": 58200,
+        "level": 291
+    },
+    "293": {
+        "attack": 5840,
+        "defence": 2920,
+        "need_exp": 29300,
+        "blood_max": 58400,
+        "level": 292
+    },
+    "290": {
+        "attack": 5780,
+        "defence": 2890,
+        "need_exp": 29000,
+        "blood_max": 57800,
+        "level": 289
+    },
+    "291": {
+        "attack": 5800,
+        "defence": 2900,
+        "need_exp": 29100,
+        "blood_max": 58000,
+        "level": 290
+    },
+    "199": {
+        "attack": 3960,
+        "defence": 1980,
+        "need_exp": 19900,
+        "blood_max": 39600,
+        "level": 198
+    },
+    "198": {
+        "attack": 3940,
+        "defence": 1970,
+        "need_exp": 19800,
+        "blood_max": 39400,
+        "level": 197
+    },
+    "195": {
+        "attack": 3880,
+        "defence": 1940,
+        "need_exp": 19500,
+        "blood_max": 38800,
+        "level": 194
+    },
+    "194": {
+        "attack": 3860,
+        "defence": 1930,
+        "need_exp": 19400,
+        "blood_max": 38600,
+        "level": 193
+    },
+    "197": {
+        "attack": 3920,
+        "defence": 1960,
+        "need_exp": 19700,
+        "blood_max": 39200,
+        "level": 196
+    },
+    "196": {
+        "attack": 3900,
+        "defence": 1950,
+        "need_exp": 19600,
+        "blood_max": 39000,
+        "level": 195
+    },
+    "191": {
+        "attack": 3800,
+        "defence": 1900,
+        "need_exp": 19100,
+        "blood_max": 38000,
+        "level": 190
+    },
+    "190": {
+        "attack": 3780,
+        "defence": 1890,
+        "need_exp": 19000,
+        "blood_max": 37800,
+        "level": 189
+    },
+    "193": {
+        "attack": 3840,
+        "defence": 1920,
+        "need_exp": 19300,
+        "blood_max": 38400,
+        "level": 192
+    },
+    "192": {
+        "attack": 3820,
+        "defence": 1910,
+        "need_exp": 19200,
+        "blood_max": 38200,
+        "level": 191
+    },
+    "270": {
+        "attack": 5380,
+        "defence": 2690,
+        "need_exp": 27000,
+        "blood_max": 53800,
+        "level": 269
+    },
+    "271": {
+        "attack": 5400,
+        "defence": 2700,
+        "need_exp": 27100,
+        "blood_max": 54000,
+        "level": 270
+    },
+    "272": {
+        "attack": 5420,
+        "defence": 2710,
+        "need_exp": 27200,
+        "blood_max": 54200,
+        "level": 271
+    },
+    "273": {
+        "attack": 5440,
+        "defence": 2720,
+        "need_exp": 27300,
+        "blood_max": 54400,
+        "level": 272
+    },
+    "274": {
+        "attack": 5460,
+        "defence": 2730,
+        "need_exp": 27400,
+        "blood_max": 54600,
+        "level": 273
+    },
+    "275": {
+        "attack": 5480,
+        "defence": 2740,
+        "need_exp": 27500,
+        "blood_max": 54800,
+        "level": 274
+    },
+    "276": {
+        "attack": 5500,
+        "defence": 2750,
+        "need_exp": 27600,
+        "blood_max": 55000,
+        "level": 275
+    },
+    "277": {
+        "attack": 5520,
+        "defence": 2760,
+        "need_exp": 27700,
+        "blood_max": 55200,
+        "level": 276
+    },
+    "278": {
+        "attack": 5540,
+        "defence": 2770,
+        "need_exp": 27800,
+        "blood_max": 55400,
+        "level": 277
+    },
+    "279": {
+        "attack": 5560,
+        "defence": 2780,
+        "need_exp": 27900,
+        "blood_max": 55600,
+        "level": 278
+    },
+    "3": {
+        "attack": 40,
+        "defence": 20,
+        "need_exp": 300,
+        "blood_max": 400,
+        "level": 2
+    },
+    "108": {
+        "attack": 2140,
+        "defence": 1070,
+        "need_exp": 10800,
+        "blood_max": 21400,
+        "level": 107
+    },
+    "109": {
+        "attack": 2160,
+        "defence": 1080,
+        "need_exp": 10900,
+        "blood_max": 21600,
+        "level": 108
+    },
+    "102": {
+        "attack": 2020,
+        "defence": 1010,
+        "need_exp": 10200,
+        "blood_max": 20200,
+        "level": 101
+    },
+    "103": {
+        "attack": 2040,
+        "defence": 1020,
+        "need_exp": 10300,
+        "blood_max": 20400,
+        "level": 102
+    },
+    "100": {
+        "attack": 1980,
+        "defence": 990,
+        "need_exp": 10000,
+        "blood_max": 19800,
+        "level": 99
+    },
+    "101": {
+        "attack": 2000,
+        "defence": 1000,
+        "need_exp": 10100,
+        "blood_max": 20000,
+        "level": 100
+    },
+    "106": {
+        "attack": 2100,
+        "defence": 1050,
+        "need_exp": 10600,
+        "blood_max": 21000,
+        "level": 105
+    },
+    "107": {
+        "attack": 2120,
+        "defence": 1060,
+        "need_exp": 10700,
+        "blood_max": 21200,
+        "level": 106
+    },
+    "104": {
+        "attack": 2060,
+        "defence": 1030,
+        "need_exp": 10400,
+        "blood_max": 20600,
+        "level": 103
+    },
+    "105": {
+        "attack": 2080,
+        "defence": 1040,
+        "need_exp": 10500,
+        "blood_max": 20800,
+        "level": 104
+    },
+    "39": {
+        "attack": 760,
+        "defence": 380,
+        "need_exp": 3900,
+        "blood_max": 7600,
+        "level": 38
+    },
+    "38": {
+        "attack": 740,
+        "defence": 370,
+        "need_exp": 3800,
+        "blood_max": 7400,
+        "level": 37
+    },
+    "33": {
+        "attack": 640,
+        "defence": 320,
+        "need_exp": 3300,
+        "blood_max": 6400,
+        "level": 32
+    },
+    "32": {
+        "attack": 620,
+        "defence": 310,
+        "need_exp": 3200,
+        "blood_max": 6200,
+        "level": 31
+    },
+    "31": {
+        "attack": 600,
+        "defence": 300,
+        "need_exp": 3100,
+        "blood_max": 6000,
+        "level": 30
+    },
+    "30": {
+        "attack": 580,
+        "defence": 290,
+        "need_exp": 3000,
+        "blood_max": 5800,
+        "level": 29
+    },
+    "37": {
+        "attack": 720,
+        "defence": 360,
+        "need_exp": 3700,
+        "blood_max": 7200,
+        "level": 36
+    },
+    "36": {
+        "attack": 700,
+        "defence": 350,
+        "need_exp": 3600,
+        "blood_max": 7000,
+        "level": 35
+    },
+    "35": {
+        "attack": 680,
+        "defence": 340,
+        "need_exp": 3500,
+        "blood_max": 6800,
+        "level": 34
+    },
+    "34": {
+        "attack": 660,
+        "defence": 330,
+        "need_exp": 3400,
+        "blood_max": 6600,
+        "level": 33
+    },
+    "60": {
+        "attack": 1180,
+        "defence": 590,
+        "need_exp": 6000,
+        "blood_max": 11800,
+        "level": 59
+    },
+    "61": {
+        "attack": 1200,
+        "defence": 600,
+        "need_exp": 6100,
+        "blood_max": 12000,
+        "level": 60
+    },
+    "258": {
+        "attack": 5140,
+        "defence": 2570,
+        "need_exp": 25800,
+        "blood_max": 51400,
+        "level": 257
+    },
+    "259": {
+        "attack": 5160,
+        "defence": 2580,
+        "need_exp": 25900,
+        "blood_max": 51600,
+        "level": 258
+    },
+    "64": {
+        "attack": 1260,
+        "defence": 630,
+        "need_exp": 6400,
+        "blood_max": 12600,
+        "level": 63
+    },
+    "65": {
+        "attack": 1280,
+        "defence": 640,
+        "need_exp": 6500,
+        "blood_max": 12800,
+        "level": 64
+    },
+    "66": {
+        "attack": 1300,
+        "defence": 650,
+        "need_exp": 6600,
+        "blood_max": 13000,
+        "level": 65
+    },
+    "67": {
+        "attack": 1320,
+        "defence": 660,
+        "need_exp": 6700,
+        "blood_max": 13200,
+        "level": 66
+    },
+    "252": {
+        "attack": 5020,
+        "defence": 2510,
+        "need_exp": 25200,
+        "blood_max": 50200,
+        "level": 251
+    },
+    "69": {
+        "attack": 1360,
+        "defence": 680,
+        "need_exp": 6900,
+        "blood_max": 13600,
+        "level": 68
+    },
+    "250": {
+        "attack": 4980,
+        "defence": 2490,
+        "need_exp": 25000,
+        "blood_max": 49800,
+        "level": 249
+    },
+    "251": {
+        "attack": 5000,
+        "defence": 2500,
+        "need_exp": 25100,
+        "blood_max": 50000,
+        "level": 250
+    },
+    "256": {
+        "attack": 5100,
+        "defence": 2550,
+        "need_exp": 25600,
+        "blood_max": 51000,
+        "level": 255
+    },
+    "257": {
+        "attack": 5120,
+        "defence": 2560,
+        "need_exp": 25700,
+        "blood_max": 51200,
+        "level": 256
+    },
+    "254": {
+        "attack": 5060,
+        "defence": 2530,
+        "need_exp": 25400,
+        "blood_max": 50600,
+        "level": 253
+    },
+    "255": {
+        "attack": 5080,
+        "defence": 2540,
+        "need_exp": 25500,
+        "blood_max": 50800,
+        "level": 254
+    },
+    "6": {
+        "attack": 100,
+        "defence": 50,
+        "need_exp": 600,
+        "blood_max": 1000,
+        "level": 5
+    },
+    "99": {
+        "attack": 1960,
+        "defence": 980,
+        "need_exp": 9900,
+        "blood_max": 19600,
+        "level": 98
+    },
+    "98": {
+        "attack": 1940,
+        "defence": 970,
+        "need_exp": 9800,
+        "blood_max": 19400,
+        "level": 97
+    },
+    "168": {
+        "attack": 3340,
+        "defence": 1670,
+        "need_exp": 16800,
+        "blood_max": 33400,
+        "level": 167
+    },
+    "169": {
+        "attack": 3360,
+        "defence": 1680,
+        "need_exp": 16900,
+        "blood_max": 33600,
+        "level": 168
+    },
+    "164": {
+        "attack": 3260,
+        "defence": 1630,
+        "need_exp": 16400,
+        "blood_max": 32600,
+        "level": 163
+    },
+    "165": {
+        "attack": 3280,
+        "defence": 1640,
+        "need_exp": 16500,
+        "blood_max": 32800,
+        "level": 164
+    },
+    "166": {
+        "attack": 3300,
+        "defence": 1650,
+        "need_exp": 16600,
+        "blood_max": 33000,
+        "level": 165
+    },
+    "167": {
+        "attack": 3320,
+        "defence": 1660,
+        "need_exp": 16700,
+        "blood_max": 33200,
+        "level": 166
+    },
+    "160": {
+        "attack": 3180,
+        "defence": 1590,
+        "need_exp": 16000,
+        "blood_max": 31800,
+        "level": 159
+    },
+    "161": {
+        "attack": 3200,
+        "defence": 1600,
+        "need_exp": 16100,
+        "blood_max": 32000,
+        "level": 160
+    },
+    "162": {
+        "attack": 3220,
+        "defence": 1610,
+        "need_exp": 16200,
+        "blood_max": 32200,
+        "level": 161
+    },
+    "163": {
+        "attack": 3240,
+        "defence": 1620,
+        "need_exp": 16300,
+        "blood_max": 32400,
+        "level": 162
+    },
+    "41": {
+        "attack": 800,
+        "defence": 400,
+        "need_exp": 4100,
+        "blood_max": 8000,
+        "level": 40
+    },
+    "238": {
+        "attack": 4740,
+        "defence": 2370,
+        "need_exp": 23800,
+        "blood_max": 47400,
+        "level": 237
+    },
+    "239": {
+        "attack": 4760,
+        "defence": 2380,
+        "need_exp": 23900,
+        "blood_max": 47600,
+        "level": 238
+    },
+    "234": {
+        "attack": 4660,
+        "defence": 2330,
+        "need_exp": 23400,
+        "blood_max": 46600,
+        "level": 233
+    },
+    "235": {
+        "attack": 4680,
+        "defence": 2340,
+        "need_exp": 23500,
+        "blood_max": 46800,
+        "level": 234
+    },
+    "236": {
+        "attack": 4700,
+        "defence": 2350,
+        "need_exp": 23600,
+        "blood_max": 47000,
+        "level": 235
+    },
+    "237": {
+        "attack": 4720,
+        "defence": 2360,
+        "need_exp": 23700,
+        "blood_max": 47200,
+        "level": 236
+    },
+    "230": {
+        "attack": 4580,
+        "defence": 2290,
+        "need_exp": 23000,
+        "blood_max": 45800,
+        "level": 229
+    },
+    "231": {
+        "attack": 4600,
+        "defence": 2300,
+        "need_exp": 23100,
+        "blood_max": 46000,
+        "level": 230
+    },
+    "232": {
+        "attack": 4620,
+        "defence": 2310,
+        "need_exp": 23200,
+        "blood_max": 46200,
+        "level": 231
+    },
+    "233": {
+        "attack": 4640,
+        "defence": 2320,
+        "need_exp": 23300,
+        "blood_max": 46400,
+        "level": 232
+    },
+    "1": {
+        "attack": 0,
+        "defence": 0,
+        "need_exp": 100,
+        "blood_max": 0,
+        "level": 0
+    },
+    "9": {
+        "attack": 160,
+        "defence": 80,
+        "need_exp": 900,
+        "blood_max": 1600,
+        "level": 8
+    },
+    "146": {
+        "attack": 2900,
+        "defence": 1450,
+        "need_exp": 14600,
+        "blood_max": 29000,
+        "level": 145
+    },
+    "147": {
+        "attack": 2920,
+        "defence": 1460,
+        "need_exp": 14700,
+        "blood_max": 29200,
+        "level": 146
+    },
+    "144": {
+        "attack": 2860,
+        "defence": 1430,
+        "need_exp": 14400,
+        "blood_max": 28600,
+        "level": 143
+    },
+    "145": {
+        "attack": 2880,
+        "defence": 1440,
+        "need_exp": 14500,
+        "blood_max": 28800,
+        "level": 144
+    },
+    "142": {
+        "attack": 2820,
+        "defence": 1410,
+        "need_exp": 14200,
+        "blood_max": 28200,
+        "level": 141
+    },
+    "143": {
+        "attack": 2840,
+        "defence": 1420,
+        "need_exp": 14300,
+        "blood_max": 28400,
+        "level": 142
+    },
+    "140": {
+        "attack": 2780,
+        "defence": 1390,
+        "need_exp": 14000,
+        "blood_max": 27800,
+        "level": 139
+    },
+    "141": {
+        "attack": 2800,
+        "defence": 1400,
+        "need_exp": 14100,
+        "blood_max": 28000,
+        "level": 140
+    },
+    "148": {
+        "attack": 2940,
+        "defence": 1470,
+        "need_exp": 14800,
+        "blood_max": 29400,
+        "level": 147
+    },
+    "149": {
+        "attack": 2960,
+        "defence": 1480,
+        "need_exp": 14900,
+        "blood_max": 29600,
+        "level": 148
+    },
+    "47": {
+        "attack": 920,
+        "defence": 460,
+        "need_exp": 4700,
+        "blood_max": 9200,
+        "level": 46
+    },
+    "216": {
+        "attack": 4300,
+        "defence": 2150,
+        "need_exp": 21600,
+        "blood_max": 43000,
+        "level": 215
+    },
+    "217": {
+        "attack": 4320,
+        "defence": 2160,
+        "need_exp": 21700,
+        "blood_max": 43200,
+        "level": 216
+    },
+    "214": {
+        "attack": 4260,
+        "defence": 2130,
+        "need_exp": 21400,
+        "blood_max": 42600,
+        "level": 213
+    },
+    "215": {
+        "attack": 4280,
+        "defence": 2140,
+        "need_exp": 21500,
+        "blood_max": 42800,
+        "level": 214
+    },
+    "212": {
+        "attack": 4220,
+        "defence": 2110,
+        "need_exp": 21200,
+        "blood_max": 42200,
+        "level": 211
+    },
+    "213": {
+        "attack": 4240,
+        "defence": 2120,
+        "need_exp": 21300,
+        "blood_max": 42400,
+        "level": 212
+    },
+    "210": {
+        "attack": 4180,
+        "defence": 2090,
+        "need_exp": 21000,
+        "blood_max": 41800,
+        "level": 209
+    },
+    "211": {
+        "attack": 4200,
+        "defence": 2100,
+        "need_exp": 21100,
+        "blood_max": 42000,
+        "level": 210
+    },
+    "218": {
+        "attack": 4340,
+        "defence": 2170,
+        "need_exp": 21800,
+        "blood_max": 43400,
+        "level": 217
+    },
+    "219": {
+        "attack": 4360,
+        "defence": 2180,
+        "need_exp": 21900,
+        "blood_max": 43600,
+        "level": 218
+    },
+    "133": {
+        "attack": 2640,
+        "defence": 1320,
+        "need_exp": 13300,
+        "blood_max": 26400,
+        "level": 132
+    },
+    "132": {
+        "attack": 2620,
+        "defence": 1310,
+        "need_exp": 13200,
+        "blood_max": 26200,
+        "level": 131
+    },
+    "131": {
+        "attack": 2600,
+        "defence": 1300,
+        "need_exp": 13100,
+        "blood_max": 26000,
+        "level": 130
+    },
+    "130": {
+        "attack": 2580,
+        "defence": 1290,
+        "need_exp": 13000,
+        "blood_max": 25800,
+        "level": 129
+    },
+    "137": {
+        "attack": 2720,
+        "defence": 1360,
+        "need_exp": 13700,
+        "blood_max": 27200,
+        "level": 136
+    },
+    "136": {
+        "attack": 2700,
+        "defence": 1350,
+        "need_exp": 13600,
+        "blood_max": 27000,
+        "level": 135
+    },
+    "135": {
+        "attack": 2680,
+        "defence": 1340,
+        "need_exp": 13500,
+        "blood_max": 26800,
+        "level": 134
+    },
+    "134": {
+        "attack": 2660,
+        "defence": 1330,
+        "need_exp": 13400,
+        "blood_max": 26600,
+        "level": 133
+    },
+    "139": {
+        "attack": 2760,
+        "defence": 1380,
+        "need_exp": 13900,
+        "blood_max": 27600,
+        "level": 138
+    },
+    "138": {
+        "attack": 2740,
+        "defence": 1370,
+        "need_exp": 13800,
+        "blood_max": 27400,
+        "level": 137
+    },
+    "24": {
+        "attack": 460,
+        "defence": 230,
+        "need_exp": 2400,
+        "blood_max": 4600,
+        "level": 23
+    },
+    "25": {
+        "attack": 480,
+        "defence": 240,
+        "need_exp": 2500,
+        "blood_max": 4800,
+        "level": 24
+    },
+    "26": {
+        "attack": 500,
+        "defence": 250,
+        "need_exp": 2600,
+        "blood_max": 5000,
+        "level": 25
+    },
+    "27": {
+        "attack": 520,
+        "defence": 260,
+        "need_exp": 2700,
+        "blood_max": 5200,
+        "level": 26
+    },
+    "20": {
+        "attack": 380,
+        "defence": 190,
+        "need_exp": 2000,
+        "blood_max": 3800,
+        "level": 19
+    },
+    "21": {
+        "attack": 400,
+        "defence": 200,
+        "need_exp": 2100,
+        "blood_max": 4000,
+        "level": 20
+    },
+    "22": {
+        "attack": 420,
+        "defence": 210,
+        "need_exp": 2200,
+        "blood_max": 4200,
+        "level": 21
+    },
+    "23": {
+        "attack": 440,
+        "defence": 220,
+        "need_exp": 2300,
+        "blood_max": 4400,
+        "level": 22
+    },
+    "28": {
+        "attack": 540,
+        "defence": 270,
+        "need_exp": 2800,
+        "blood_max": 5400,
+        "level": 27
+    },
+    "29": {
+        "attack": 560,
+        "defence": 280,
+        "need_exp": 2900,
+        "blood_max": 5600,
+        "level": 28
+    },
+    "289": {
+        "attack": 5760,
+        "defence": 2880,
+        "need_exp": 28900,
+        "blood_max": 57600,
+        "level": 288
+    },
+    "288": {
+        "attack": 5740,
+        "defence": 2870,
+        "need_exp": 28800,
+        "blood_max": 57400,
+        "level": 287
+    },
+    "4": {
+        "attack": 60,
+        "defence": 30,
+        "need_exp": 400,
+        "blood_max": 600,
+        "level": 3
+    },
+    "281": {
+        "attack": 5600,
+        "defence": 2800,
+        "need_exp": 28100,
+        "blood_max": 56000,
+        "level": 280
+    },
+    "280": {
+        "attack": 5580,
+        "defence": 2790,
+        "need_exp": 28000,
+        "blood_max": 55800,
+        "level": 279
+    },
+    "283": {
+        "attack": 5640,
+        "defence": 2820,
+        "need_exp": 28300,
+        "blood_max": 56400,
+        "level": 282
+    },
+    "282": {
+        "attack": 5620,
+        "defence": 2810,
+        "need_exp": 28200,
+        "blood_max": 56200,
+        "level": 281
+    },
+    "285": {
+        "attack": 5680,
+        "defence": 2840,
+        "need_exp": 28500,
+        "blood_max": 56800,
+        "level": 284
+    },
+    "284": {
+        "attack": 5660,
+        "defence": 2830,
+        "need_exp": 28400,
+        "blood_max": 56600,
+        "level": 283
+    },
+    "287": {
+        "attack": 5720,
+        "defence": 2860,
+        "need_exp": 28700,
+        "blood_max": 57200,
+        "level": 286
+    },
+    "286": {
+        "attack": 5700,
+        "defence": 2850,
+        "need_exp": 28600,
+        "blood_max": 57000,
+        "level": 285
+    },
+    "263": {
+        "attack": 5240,
+        "defence": 2620,
+        "need_exp": 26300,
+        "blood_max": 52400,
+        "level": 262
+    },
+    "262": {
+        "attack": 5220,
+        "defence": 2610,
+        "need_exp": 26200,
+        "blood_max": 52200,
+        "level": 261
+    },
+    "261": {
+        "attack": 5200,
+        "defence": 2600,
+        "need_exp": 26100,
+        "blood_max": 52000,
+        "level": 260
+    },
+    "260": {
+        "attack": 5180,
+        "defence": 2590,
+        "need_exp": 26000,
+        "blood_max": 51800,
+        "level": 259
+    },
+    "267": {
+        "attack": 5320,
+        "defence": 2660,
+        "need_exp": 26700,
+        "blood_max": 53200,
+        "level": 266
+    },
+    "266": {
+        "attack": 5300,
+        "defence": 2650,
+        "need_exp": 26600,
+        "blood_max": 53000,
+        "level": 265
+    },
+    "265": {
+        "attack": 5280,
+        "defence": 2640,
+        "need_exp": 26500,
+        "blood_max": 52800,
+        "level": 264
+    },
+    "264": {
+        "attack": 5260,
+        "defence": 2630,
+        "need_exp": 26400,
+        "blood_max": 52600,
+        "level": 263
+    },
+    "269": {
+        "attack": 5360,
+        "defence": 2680,
+        "need_exp": 26900,
+        "blood_max": 53600,
+        "level": 268
+    },
+    "268": {
+        "attack": 5340,
+        "defence": 2670,
+        "need_exp": 26800,
+        "blood_max": 53400,
+        "level": 267
+    },
+    "59": {
+        "attack": 1160,
+        "defence": 580,
+        "need_exp": 5900,
+        "blood_max": 11600,
+        "level": 58
+    },
+    "58": {
+        "attack": 1140,
+        "defence": 570,
+        "need_exp": 5800,
+        "blood_max": 11400,
+        "level": 57
+    },
+    "55": {
+        "attack": 1080,
+        "defence": 540,
+        "need_exp": 5500,
+        "blood_max": 10800,
+        "level": 54
+    },
+    "54": {
+        "attack": 1060,
+        "defence": 530,
+        "need_exp": 5400,
+        "blood_max": 10600,
+        "level": 53
+    },
+    "57": {
+        "attack": 1120,
+        "defence": 560,
+        "need_exp": 5700,
+        "blood_max": 11200,
+        "level": 56
+    },
+    "56": {
+        "attack": 1100,
+        "defence": 550,
+        "need_exp": 5600,
+        "blood_max": 11000,
+        "level": 55
+    },
+    "51": {
+        "attack": 1000,
+        "defence": 500,
+        "need_exp": 5100,
+        "blood_max": 10000,
+        "level": 50
+    },
+    "50": {
+        "attack": 980,
+        "defence": 490,
+        "need_exp": 5000,
+        "blood_max": 9800,
+        "level": 49
+    },
+    "53": {
+        "attack": 1040,
+        "defence": 520,
+        "need_exp": 5300,
+        "blood_max": 10400,
+        "level": 52
+    },
+    "52": {
+        "attack": 1020,
+        "defence": 510,
+        "need_exp": 5200,
+        "blood_max": 10200,
+        "level": 51
+    },
+    "63": {
+        "attack": 1240,
+        "defence": 620,
+        "need_exp": 6300,
+        "blood_max": 12400,
+        "level": 62
+    },
+    "115": {
+        "attack": 2280,
+        "defence": 1140,
+        "need_exp": 11500,
+        "blood_max": 22800,
+        "level": 114
+    },
+    "114": {
+        "attack": 2260,
+        "defence": 1130,
+        "need_exp": 11400,
+        "blood_max": 22600,
+        "level": 113
+    },
+    "88": {
+        "attack": 1740,
+        "defence": 870,
+        "need_exp": 8800,
+        "blood_max": 17400,
+        "level": 87
+    },
+    "89": {
+        "attack": 1760,
+        "defence": 880,
+        "need_exp": 8900,
+        "blood_max": 17600,
+        "level": 88
+    },
+    "111": {
+        "attack": 2200,
+        "defence": 1100,
+        "need_exp": 11100,
+        "blood_max": 22000,
+        "level": 110
+    },
+    "110": {
+        "attack": 2180,
+        "defence": 1090,
+        "need_exp": 11000,
+        "blood_max": 21800,
+        "level": 109
+    },
+    "113": {
+        "attack": 2240,
+        "defence": 1120,
+        "need_exp": 11300,
+        "blood_max": 22400,
+        "level": 112
+    },
+    "112": {
+        "attack": 2220,
+        "defence": 1110,
+        "need_exp": 11200,
+        "blood_max": 22200,
+        "level": 111
+    },
+    "82": {
+        "attack": 1620,
+        "defence": 810,
+        "need_exp": 8200,
+        "blood_max": 16200,
+        "level": 81
+    },
+    "83": {
+        "attack": 1640,
+        "defence": 820,
+        "need_exp": 8300,
+        "blood_max": 16400,
+        "level": 82
+    },
+    "80": {
+        "attack": 1580,
+        "defence": 790,
+        "need_exp": 8000,
+        "blood_max": 15800,
+        "level": 79
+    },
+    "81": {
+        "attack": 1600,
+        "defence": 800,
+        "need_exp": 8100,
+        "blood_max": 16000,
+        "level": 80
+    },
+    "119": {
+        "attack": 2360,
+        "defence": 1180,
+        "need_exp": 11900,
+        "blood_max": 23600,
+        "level": 118
+    },
+    "118": {
+        "attack": 2340,
+        "defence": 1170,
+        "need_exp": 11800,
+        "blood_max": 23400,
+        "level": 117
+    },
+    "84": {
+        "attack": 1660,
+        "defence": 830,
+        "need_exp": 8400,
+        "blood_max": 16600,
+        "level": 83
+    },
+    "85": {
+        "attack": 1680,
+        "defence": 840,
+        "need_exp": 8500,
+        "blood_max": 16800,
+        "level": 84
+    },
+    "7": {
+        "attack": 120,
+        "defence": 60,
+        "need_exp": 700,
+        "blood_max": 1200,
+        "level": 6
+    },
+    "300": {
+        "attack": 5980,
+        "defence": 2990,
+        "need_exp": 30000,
+        "blood_max": 59800,
+        "level": 299
+    },
+    "301": {
+        "attack": 6000,
+        "defence": 3000,
+        "need_exp": 0,
+        "blood_max": 60000,
+        "level": 300
+    },
+    "245": {
+        "attack": 4880,
+        "defence": 2440,
+        "need_exp": 24500,
+        "blood_max": 48800,
+        "level": 244
+    },
+    "244": {
+        "attack": 4860,
+        "defence": 2430,
+        "need_exp": 24400,
+        "blood_max": 48600,
+        "level": 243
+    },
+    "247": {
+        "attack": 4920,
+        "defence": 2460,
+        "need_exp": 24700,
+        "blood_max": 49200,
+        "level": 246
+    },
+    "246": {
+        "attack": 4900,
+        "defence": 2450,
+        "need_exp": 24600,
+        "blood_max": 49000,
+        "level": 245
+    },
+    "241": {
+        "attack": 4800,
+        "defence": 2400,
+        "need_exp": 24100,
+        "blood_max": 48000,
+        "level": 240
+    },
+    "240": {
+        "attack": 4780,
+        "defence": 2390,
+        "need_exp": 24000,
+        "blood_max": 47800,
+        "level": 239
+    },
+    "243": {
+        "attack": 4840,
+        "defence": 2420,
+        "need_exp": 24300,
+        "blood_max": 48400,
+        "level": 242
+    },
+    "242": {
+        "attack": 4820,
+        "defence": 2410,
+        "need_exp": 24200,
+        "blood_max": 48200,
+        "level": 241
+    },
+    "249": {
+        "attack": 4960,
+        "defence": 2480,
+        "need_exp": 24900,
+        "blood_max": 49600,
+        "level": 248
+    },
+    "248": {
+        "attack": 4940,
+        "defence": 2470,
+        "need_exp": 24800,
+        "blood_max": 49400,
+        "level": 247
+    },
+    "179": {
+        "attack": 3560,
+        "defence": 1780,
+        "need_exp": 17900,
+        "blood_max": 35600,
+        "level": 178
+    },
+    "178": {
+        "attack": 3540,
+        "defence": 1770,
+        "need_exp": 17800,
+        "blood_max": 35400,
+        "level": 177
+    },
+    "177": {
+        "attack": 3520,
+        "defence": 1760,
+        "need_exp": 17700,
+        "blood_max": 35200,
+        "level": 176
+    },
+    "176": {
+        "attack": 3500,
+        "defence": 1750,
+        "need_exp": 17600,
+        "blood_max": 35000,
+        "level": 175
+    },
+    "175": {
+        "attack": 3480,
+        "defence": 1740,
+        "need_exp": 17500,
+        "blood_max": 34800,
+        "level": 174
+    },
+    "174": {
+        "attack": 3460,
+        "defence": 1730,
+        "need_exp": 17400,
+        "blood_max": 34600,
+        "level": 173
+    },
+    "173": {
+        "attack": 3440,
+        "defence": 1720,
+        "need_exp": 17300,
+        "blood_max": 34400,
+        "level": 172
+    },
+    "172": {
+        "attack": 3420,
+        "defence": 1710,
+        "need_exp": 17200,
+        "blood_max": 34200,
+        "level": 171
+    },
+    "171": {
+        "attack": 3400,
+        "defence": 1700,
+        "need_exp": 17100,
+        "blood_max": 34000,
+        "level": 170
+    },
+    "170": {
+        "attack": 3380,
+        "defence": 1690,
+        "need_exp": 17000,
+        "blood_max": 33800,
+        "level": 169
+    },
+    "253": {
+        "attack": 5040,
+        "defence": 2520,
+        "need_exp": 25300,
+        "blood_max": 50400,
+        "level": 252
+    },
+    "182": {
+        "attack": 3620,
+        "defence": 1810,
+        "need_exp": 18200,
+        "blood_max": 36200,
+        "level": 181
+    },
+    "183": {
+        "attack": 3640,
+        "defence": 1820,
+        "need_exp": 18300,
+        "blood_max": 36400,
+        "level": 182
+    },
+    "180": {
+        "attack": 3580,
+        "defence": 1790,
+        "need_exp": 18000,
+        "blood_max": 35800,
+        "level": 179
+    },
+    "181": {
+        "attack": 3600,
+        "defence": 1800,
+        "need_exp": 18100,
+        "blood_max": 36000,
+        "level": 180
+    },
+    "186": {
+        "attack": 3700,
+        "defence": 1850,
+        "need_exp": 18600,
+        "blood_max": 37000,
+        "level": 185
+    },
+    "187": {
+        "attack": 3720,
+        "defence": 1860,
+        "need_exp": 18700,
+        "blood_max": 37200,
+        "level": 186
+    },
+    "184": {
+        "attack": 3660,
+        "defence": 1830,
+        "need_exp": 18400,
+        "blood_max": 36600,
+        "level": 183
+    },
+    "185": {
+        "attack": 3680,
+        "defence": 1840,
+        "need_exp": 18500,
+        "blood_max": 36800,
+        "level": 184
+    },
+    "188": {
+        "attack": 3740,
+        "defence": 1870,
+        "need_exp": 18800,
+        "blood_max": 37400,
+        "level": 187
+    },
+    "189": {
+        "attack": 3760,
+        "defence": 1880,
+        "need_exp": 18900,
+        "blood_max": 37600,
+        "level": 188
+    },
+    "229": {
+        "attack": 4560,
+        "defence": 2280,
+        "need_exp": 22900,
+        "blood_max": 45600,
+        "level": 228
+    },
+    "228": {
+        "attack": 4540,
+        "defence": 2270,
+        "need_exp": 22800,
+        "blood_max": 45400,
+        "level": 227
+    },
+    "227": {
+        "attack": 4520,
+        "defence": 2260,
+        "need_exp": 22700,
+        "blood_max": 45200,
+        "level": 226
+    },
+    "226": {
+        "attack": 4500,
+        "defence": 2250,
+        "need_exp": 22600,
+        "blood_max": 45000,
+        "level": 225
+    },
+    "225": {
+        "attack": 4480,
+        "defence": 2240,
+        "need_exp": 22500,
+        "blood_max": 44800,
+        "level": 224
+    },
+    "224": {
+        "attack": 4460,
+        "defence": 2230,
+        "need_exp": 22400,
+        "blood_max": 44600,
+        "level": 223
+    },
+    "223": {
+        "attack": 4440,
+        "defence": 2220,
+        "need_exp": 22300,
+        "blood_max": 44400,
+        "level": 222
+    },
+    "222": {
+        "attack": 4420,
+        "defence": 2210,
+        "need_exp": 22200,
+        "blood_max": 44200,
+        "level": 221
+    },
+    "221": {
+        "attack": 4400,
+        "defence": 2200,
+        "need_exp": 22100,
+        "blood_max": 44000,
+        "level": 220
+    },
+    "220": {
+        "attack": 4380,
+        "defence": 2190,
+        "need_exp": 22000,
+        "blood_max": 43800,
+        "level": 219
+    },
+    "11": {
+        "attack": 200,
+        "defence": 100,
+        "need_exp": 1100,
+        "blood_max": 2000,
+        "level": 10
+    },
+    "10": {
+        "attack": 180,
+        "defence": 90,
+        "need_exp": 1000,
+        "blood_max": 1800,
+        "level": 9
+    },
+    "13": {
+        "attack": 240,
+        "defence": 120,
+        "need_exp": 1300,
+        "blood_max": 2400,
+        "level": 12
+    },
+    "12": {
+        "attack": 220,
+        "defence": 110,
+        "need_exp": 1200,
+        "blood_max": 2200,
+        "level": 11
+    },
+    "15": {
+        "attack": 280,
+        "defence": 140,
+        "need_exp": 1500,
+        "blood_max": 2800,
+        "level": 14
+    },
+    "14": {
+        "attack": 260,
+        "defence": 130,
+        "need_exp": 1400,
+        "blood_max": 2600,
+        "level": 13
+    },
+    "17": {
+        "attack": 320,
+        "defence": 160,
+        "need_exp": 1700,
+        "blood_max": 3200,
+        "level": 16
+    },
+    "16": {
+        "attack": 300,
+        "defence": 150,
+        "need_exp": 1600,
+        "blood_max": 3000,
+        "level": 15
+    },
+    "19": {
+        "attack": 360,
+        "defence": 180,
+        "need_exp": 1900,
+        "blood_max": 3600,
+        "level": 18
+    },
+    "18": {
+        "attack": 340,
+        "defence": 170,
+        "need_exp": 1800,
+        "blood_max": 3400,
+        "level": 17
+    },
+    "117": {
+        "attack": 2320,
+        "defence": 1160,
+        "need_exp": 11700,
+        "blood_max": 23200,
+        "level": 116
+    },
+    "116": {
+        "attack": 2300,
+        "defence": 1150,
+        "need_exp": 11600,
+        "blood_max": 23000,
+        "level": 115
+    },
+    "151": {
+        "attack": 3000,
+        "defence": 1500,
+        "need_exp": 15100,
+        "blood_max": 30000,
+        "level": 150
+    },
+    "150": {
+        "attack": 2980,
+        "defence": 1490,
+        "need_exp": 15000,
+        "blood_max": 29800,
+        "level": 149
+    },
+    "153": {
+        "attack": 3040,
+        "defence": 1520,
+        "need_exp": 15300,
+        "blood_max": 30400,
+        "level": 152
+    },
+    "152": {
+        "attack": 3020,
+        "defence": 1510,
+        "need_exp": 15200,
+        "blood_max": 30200,
+        "level": 151
+    },
+    "155": {
+        "attack": 3080,
+        "defence": 1540,
+        "need_exp": 15500,
+        "blood_max": 30800,
+        "level": 154
+    },
+    "154": {
+        "attack": 3060,
+        "defence": 1530,
+        "need_exp": 15400,
+        "blood_max": 30600,
+        "level": 153
+    },
+    "157": {
+        "attack": 3120,
+        "defence": 1560,
+        "need_exp": 15700,
+        "blood_max": 31200,
+        "level": 156
+    },
+    "156": {
+        "attack": 3100,
+        "defence": 1550,
+        "need_exp": 15600,
+        "blood_max": 31000,
+        "level": 155
+    },
+    "159": {
+        "attack": 3160,
+        "defence": 1580,
+        "need_exp": 15900,
+        "blood_max": 31600,
+        "level": 158
+    },
+    "158": {
+        "attack": 3140,
+        "defence": 1570,
+        "need_exp": 15800,
+        "blood_max": 31400,
+        "level": 157
+    },
+    "62": {
+        "attack": 1220,
+        "defence": 610,
+        "need_exp": 6200,
+        "blood_max": 12200,
+        "level": 61
+    },
+    "48": {
+        "attack": 940,
+        "defence": 470,
+        "need_exp": 4800,
+        "blood_max": 9400,
+        "level": 47
+    },
+    "49": {
+        "attack": 960,
+        "defence": 480,
+        "need_exp": 4900,
+        "blood_max": 9600,
+        "level": 48
+    },
+    "46": {
+        "attack": 900,
+        "defence": 450,
+        "need_exp": 4600,
+        "blood_max": 9000,
+        "level": 45
+    },
+    "86": {
+        "attack": 1700,
+        "defence": 850,
+        "need_exp": 8600,
+        "blood_max": 17000,
+        "level": 85
+    },
+    "44": {
+        "attack": 860,
+        "defence": 430,
+        "need_exp": 4400,
+        "blood_max": 8600,
+        "level": 43
+    },
+    "45": {
+        "attack": 880,
+        "defence": 440,
+        "need_exp": 4500,
+        "blood_max": 8800,
+        "level": 44
+    },
+    "42": {
+        "attack": 820,
+        "defence": 410,
+        "need_exp": 4200,
+        "blood_max": 8200,
+        "level": 41
+    },
+    "43": {
+        "attack": 840,
+        "defence": 420,
+        "need_exp": 4300,
+        "blood_max": 8400,
+        "level": 42
+    },
+    "40": {
+        "attack": 780,
+        "defence": 390,
+        "need_exp": 4000,
+        "blood_max": 7800,
+        "level": 39
+    },
+    "87": {
+        "attack": 1720,
+        "defence": 860,
+        "need_exp": 8700,
+        "blood_max": 17200,
+        "level": 86
+    },
+    "5": {
+        "attack": 80,
+        "defence": 40,
+        "need_exp": 500,
+        "blood_max": 800,
+        "level": 4
+    },
+    "201": {
+        "attack": 4000,
+        "defence": 2000,
+        "need_exp": 20100,
+        "blood_max": 40000,
+        "level": 200
+    },
+    "200": {
+        "attack": 3980,
+        "defence": 1990,
+        "need_exp": 20000,
+        "blood_max": 39800,
+        "level": 199
+    },
+    "203": {
+        "attack": 4040,
+        "defence": 2020,
+        "need_exp": 20300,
+        "blood_max": 40400,
+        "level": 202
+    },
+    "202": {
+        "attack": 4020,
+        "defence": 2010,
+        "need_exp": 20200,
+        "blood_max": 40200,
+        "level": 201
+    },
+    "205": {
+        "attack": 4080,
+        "defence": 2040,
+        "need_exp": 20500,
+        "blood_max": 40800,
+        "level": 204
+    },
+    "204": {
+        "attack": 4060,
+        "defence": 2030,
+        "need_exp": 20400,
+        "blood_max": 40600,
+        "level": 203
+    },
+    "207": {
+        "attack": 4120,
+        "defence": 2060,
+        "need_exp": 20700,
+        "blood_max": 41200,
+        "level": 206
+    },
+    "206": {
+        "attack": 4100,
+        "defence": 2050,
+        "need_exp": 20600,
+        "blood_max": 41000,
+        "level": 205
+    },
+    "209": {
+        "attack": 4160,
+        "defence": 2080,
+        "need_exp": 20900,
+        "blood_max": 41600,
+        "level": 208
+    },
+    "208": {
+        "attack": 4140,
+        "defence": 2070,
+        "need_exp": 20800,
+        "blood_max": 41400,
+        "level": 207
+    },
+    "77": {
+        "attack": 1520,
+        "defence": 760,
+        "need_exp": 7700,
+        "blood_max": 15200,
+        "level": 76
+    },
+    "76": {
+        "attack": 1500,
+        "defence": 750,
+        "need_exp": 7600,
+        "blood_max": 15000,
+        "level": 75
+    },
+    "75": {
+        "attack": 1480,
+        "defence": 740,
+        "need_exp": 7500,
+        "blood_max": 14800,
+        "level": 74
+    },
+    "74": {
+        "attack": 1460,
+        "defence": 730,
+        "need_exp": 7400,
+        "blood_max": 14600,
+        "level": 73
+    },
+    "73": {
+        "attack": 1440,
+        "defence": 720,
+        "need_exp": 7300,
+        "blood_max": 14400,
+        "level": 72
+    },
+    "72": {
+        "attack": 1420,
+        "defence": 710,
+        "need_exp": 7200,
+        "blood_max": 14200,
+        "level": 71
+    },
+    "71": {
+        "attack": 1400,
+        "defence": 700,
+        "need_exp": 7100,
+        "blood_max": 14000,
+        "level": 70
+    },
+    "70": {
+        "attack": 1380,
+        "defence": 690,
+        "need_exp": 7000,
+        "blood_max": 13800,
+        "level": 69
+    },
+    "79": {
+        "attack": 1560,
+        "defence": 780,
+        "need_exp": 7900,
+        "blood_max": 15600,
+        "level": 78
+    },
+    "78": {
+        "attack": 1540,
+        "defence": 770,
+        "need_exp": 7800,
+        "blood_max": 15400,
+        "level": 77
+    },
+    "2": {
+        "attack": 20,
+        "defence": 10,
+        "need_exp": 200,
+        "blood_max": 200,
+        "level": 1
+    }
+}

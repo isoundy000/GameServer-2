@@ -1,0 +1,78 @@
+	{
+    "scene_id" : 20102,
+    "name" : "进阶副本(法器)",
+    "relive" : {
+        "type" : "111",
+        "wait" : 2,
+        "posX" : 735,
+        "posY" : 5180
+    },
+	// 当前副本的离开场景后，回到进入副本前的场景
+    "exits" : [{
+        "id" : "10600",
+        "posX" : 1633,
+        "posY" : 6042
+    }],
+    "layout" : [
+	{
+        "born_type" : "point",
+        "monster_sort" : 501101001,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1096,5020],[1160,5024],[1162,5071],[1109,5098],[1101,5177],[1171,5194],[1127,5290],[1089,5370],[1167,5383],[1162,5242]],
+        "fresh" : 1000,
+		"wave" : 1,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501101002,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1969,4855],[2075,4830],[2149,4850],[2214,4937],[2194,5077],[2120,4962],[2029,4982],[1928,4950],[1847,4928],[1906,5070]],
+        "fresh" : 1000,
+		"wave" : 2,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501101003,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2588,4457]],
+        "fresh" : 1000,
+		"wave" : 3,
+        "once" : 10,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501101004,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2532,3192],[2646,3211],[2513,3267],[2663,3283],[2542,3345],[2676,3381],[2468,2981],[2647,2993],[2561,3541],[2701,3628]],
+        "fresh" : 1000,
+		"wave" : 4,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501101005,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2674,2230]],
+        "fresh" : 1000,
+		"wave" : 5,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    }
+	]
+}

@@ -1,0 +1,95 @@
+{
+    "40203": {
+        "red_point": 11403,
+        "name": "消费返利",
+        "first_type": 103,
+        "day_clear": 1,
+        "act_title": "consumption_image.png",
+        "open_time": 2
+    },
+    "40202": {
+        "red_point": 11402,
+        "name": "节日首领",
+        "first_type": 102,
+        "day_clear": 1,
+        "act_title": "boss_image.png",
+        "open_time": 2
+    },
+    "40201": {
+        "red_point": 11401,
+        "name": "在线奖励",
+        "first_type": 101,
+        "day_clear": 1,
+        "act_title": "online_image.png",
+        "open_time": 2
+    },
+    "40204": {
+        "day_clear": 1,
+        "first_type": 104,
+        "name": "元宵掉落",
+        "cond_type": 916025,
+        "open_time": 2
+    },
+    "40302": {
+        "red_point": 11402,
+        "name": "马面来袭",
+        "first_type": 102,
+        "day_clear": 1,
+        "act_title": "boss_image.png",
+        "open_time": 3
+    },
+    "40303": {
+        "red_point": 11403,
+        "name": "消费返利",
+        "first_type": 103,
+        "day_clear": 1,
+        "act_title": "consumption_image.png",
+        "open_time": 3
+    },
+    "40301": {
+        "red_point": 11401,
+        "name": "在线奖励",
+        "first_type": 101,
+        "day_clear": 1,
+        "act_title": "online_image.png",
+        "open_time": 3
+    },
+    "40304": {
+        "day_clear": 1,
+        "first_type": 104,
+        "name": "贡品掉落",
+        "cond_type": 916004,
+        "open_time": 3
+    },
+    "40101": {
+        "red_point": 11401,
+        "name": "在线奖励",
+        "first_type": 101,
+        "day_clear": 1,
+        "act_title": "online_image.png",
+        "open_time": 1
+    },
+    "40102": {
+        "red_point": 11402,
+        "name": "节日首领",
+        "first_type": 102,
+        "day_clear": 1,
+        "act_title": "boss_image.png",
+        "open_time": 1
+    },
+    "40103": {
+        "red_point": 11403,
+        "name": "消费返利",
+        "first_type": 103,
+        "day_clear": 1,
+        "act_title": "consumption_image.png",
+        "open_time": 1
+    },
+    "40104": {
+        "day_clear": 1,
+        "first_type": 104,
+        "name": "红包掉落",
+        "cond_type": 916024,
+        "open_time": 1
+    }
+}

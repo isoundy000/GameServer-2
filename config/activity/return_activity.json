@@ -1,0 +1,583 @@
+{
+    "20126": {
+        "second_type": 8,
+        "red_point": 11226,
+        "name": "仙翼进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙翼进阶",
+        "open_time": 26
+    },
+    "20115": {
+        "second_type": 5,
+        "red_point": 11215,
+        "name": "仙童进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙童进阶",
+        "open_time": 19
+    },
+    "20139": {
+        "second_type": 7,
+        "red_point": 11239,
+        "name": "仙兽进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙兽进阶",
+        "open_time": [
+            35,
+            7
+        ]
+    },
+    "20138": {
+        "second_type": 9,
+        "red_point": 11238,
+        "name": "灵兽进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "灵兽进阶",
+        "open_time": [
+            34,
+            7
+        ]
+    },
+    "20119": {
+        "second_type": 7,
+        "red_point": 11219,
+        "name": "仙兽进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙兽进阶",
+        "open_time": 21
+    },
+    "20118": {
+        "second_type": 9,
+        "red_point": 11218,
+        "name": "灵兽进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "灵兽进阶",
+        "open_time": 20
+    },
+    "20114": {
+        "second_type": 4,
+        "red_point": 11214,
+        "name": "宝器进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "宝器进阶",
+        "open_time": 18
+    },
+    "20133": {
+        "second_type": 3,
+        "red_point": 11233,
+        "name": "魔刃进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "魔刃进阶",
+        "open_time": [
+            31,
+            7
+        ]
+    },
+    "20132": {
+        "second_type": 2,
+        "red_point": 11232,
+        "name": "神翼进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "神翼进阶",
+        "open_time": [
+            30,
+            7
+        ]
+    },
+    "20117": {
+        "second_type": 6,
+        "red_point": 11217,
+        "name": "仙武进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙武进阶",
+        "open_time": 20
+    },
+    "20116": {
+        "second_type": 8,
+        "red_point": 11216,
+        "name": "仙翼进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙翼进阶",
+        "open_time": 19
+    },
+    "20111": {
+        "second_type": 1,
+        "red_point": 11211,
+        "name": "骑宠进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "骑宠进阶",
+        "open_time": 15
+    },
+    "20110": {
+        "second_type": 10,
+        "red_point": 11210,
+        "name": "元神进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "元神进阶",
+        "open_time": 14
+    },
+    "20113": {
+        "second_type": 3,
+        "red_point": 11213,
+        "name": "魔刃进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "魔刃进阶",
+        "open_time": 17
+    },
+    "20112": {
+        "second_type": 2,
+        "red_point": 11212,
+        "name": "神翼进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "神翼进阶",
+        "open_time": 16
+    },
+    "20130": {
+        "second_type": 10,
+        "red_point": 11230,
+        "name": "元神进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "元神进阶",
+        "open_time": 28
+    },
+    "20137": {
+        "second_type": 6,
+        "red_point": 11237,
+        "name": "仙武进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙武进阶",
+        "open_time": [
+            34,
+            7
+        ]
+    },
+    "20136": {
+        "second_type": 8,
+        "red_point": 11236,
+        "name": "仙翼进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙翼进阶",
+        "open_time": [
+            33,
+            7
+        ]
+    },
+    "20135": {
+        "second_type": 5,
+        "red_point": 11235,
+        "name": "仙童进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙童进阶",
+        "open_time": [
+            33,
+            7
+        ]
+    },
+    "20131": {
+        "second_type": 1,
+        "red_point": 11231,
+        "name": "骑宠进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "骑宠进阶",
+        "open_time": [
+            29,
+            7
+        ]
+    },
+    "20134": {
+        "second_type": 4,
+        "red_point": 11234,
+        "name": "宝器进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "宝器进阶",
+        "open_time": [
+            32,
+            7
+        ]
+    },
+    "20124": {
+        "second_type": 4,
+        "red_point": 11224,
+        "name": "宝器进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "宝器进阶",
+        "open_time": 25
+    },
+    "20125": {
+        "second_type": 5,
+        "red_point": 11225,
+        "name": "仙童进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙童进阶",
+        "open_time": 26
+    },
+    "20140": {
+        "second_type": 10,
+        "red_point": 11240,
+        "name": "元神进阶",
+        "cycle_times": 50,
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "元神进阶",
+        "open_time": [
+            35,
+            7
+        ]
+    },
+    "20127": {
+        "second_type": 6,
+        "red_point": 11227,
+        "name": "仙武进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙武进阶",
+        "open_time": 27
+    },
+    "20120": {
+        "second_type": 10,
+        "red_point": 11220,
+        "name": "元神进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "元神进阶",
+        "open_time": 21
+    },
+    "20121": {
+        "second_type": 1,
+        "red_point": 11221,
+        "name": "骑宠进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "骑宠进阶",
+        "open_time": 22
+    },
+    "20122": {
+        "second_type": 2,
+        "red_point": 11222,
+        "name": "神翼进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "神翼进阶",
+        "open_time": 23
+    },
+    "20123": {
+        "second_type": 3,
+        "red_point": 11223,
+        "name": "魔刃进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "魔刃进阶",
+        "open_time": 24
+    },
+    "20128": {
+        "second_type": 9,
+        "red_point": 11228,
+        "name": "灵兽进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "灵兽进阶",
+        "open_time": 27
+    },
+    "20129": {
+        "second_type": 7,
+        "red_point": 11229,
+        "name": "仙兽进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙兽进阶",
+        "open_time": 28
+    },
+    "20501": {
+        "second_type": 1,
+        "red_point": 11255,
+        "name": "图谱兑换",
+        "cycle_times": 300,
+        "first_type": 15,
+        "limit": 2,
+        "act_title": "图谱兑换",
+        "open_time": [
+            8,
+            1
+        ]
+    },
+    "20108": {
+        "second_type": 9,
+        "red_point": 11208,
+        "name": "灵兽进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "灵兽进阶",
+        "open_time": 13
+    },
+    "20109": {
+        "second_type": 7,
+        "red_point": 11209,
+        "name": "仙兽进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙兽进阶",
+        "open_time": 14
+    },
+    "20106": {
+        "second_type": 8,
+        "red_point": 11206,
+        "name": "仙翼进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙翼进阶",
+        "open_time": 12
+    },
+    "20107": {
+        "second_type": 6,
+        "red_point": 11207,
+        "name": "仙武进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙武进阶",
+        "open_time": 13
+    },
+    "20104": {
+        "second_type": 4,
+        "red_point": 11204,
+        "name": "宝器进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "宝器进阶",
+        "open_time": 11
+    },
+    "20105": {
+        "second_type": 5,
+        "red_point": 11205,
+        "name": "仙童进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "仙童进阶",
+        "open_time": 12
+    },
+    "20102": {
+        "second_type": 2,
+        "red_point": 11202,
+        "name": "神翼进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "神翼进阶",
+        "open_time": 9
+    },
+    "20103": {
+        "second_type": 3,
+        "red_point": 11203,
+        "name": "魔刃进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "魔刃进阶",
+        "open_time": 10
+    },
+    "20101": {
+        "second_type": 1,
+        "red_point": 11201,
+        "name": "骑宠进阶",
+        "first_type": 11,
+        "redraw": 1,
+        "act_title": "骑宠进阶",
+        "open_time": 8
+    },
+    "20205": {
+        "second_type": 5,
+        "red_point": 11245,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            12,
+            7
+        ]
+    },
+    "20204": {
+        "second_type": 4,
+        "red_point": 11244,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            11,
+            7
+        ]
+    },
+    "20207": {
+        "second_type": 7,
+        "red_point": 11247,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            14,
+            7
+        ]
+    },
+    "20206": {
+        "second_type": 6,
+        "red_point": 11246,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            13,
+            7
+        ]
+    },
+    "20201": {
+        "second_type": 1,
+        "red_point": 11241,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            8,
+            7
+        ]
+    },
+    "20203": {
+        "second_type": 3,
+        "red_point": 11243,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            10,
+            7
+        ]
+    },
+    "20202": {
+        "second_type": 2,
+        "red_point": 11242,
+        "name": "累充奖励",
+        "cycle_times": 50,
+        "first_type": 12,
+        "act_title": "累计充值",
+        "open_time": [
+            9,
+            7
+        ]
+    },
+    "20304": {
+        "second_type": 4,
+        "red_point": 11251,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            11,
+            7
+        ]
+    },
+    "20305": {
+        "second_type": 5,
+        "red_point": 11252,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            12,
+            7
+        ]
+    },
+    "20306": {
+        "second_type": 6,
+        "red_point": 11253,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            13,
+            7
+        ]
+    },
+    "20307": {
+        "second_type": 7,
+        "red_point": 11254,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            14,
+            7
+        ]
+    },
+    "20301": {
+        "second_type": 1,
+        "red_point": 11248,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            8,
+            7
+        ]
+    },
+    "20302": {
+        "second_type": 2,
+        "red_point": 11249,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            9,
+            7
+        ]
+    },
+    "20303": {
+        "second_type": 3,
+        "red_point": 11250,
+        "name": "返利抢购",
+        "cycle_times": 50,
+        "first_type": 13,
+        "act_title": "返利抢购",
+        "open_time": [
+            10,
+            7
+        ]
+    }
+}

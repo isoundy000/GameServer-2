@@ -1,0 +1,84 @@
+import "ProtoPublic.proto";
+
+message Proto10102072       // 神秘宝箱抽奖消耗金币
+{
+    optional int32 type = 1;       // 0:1次  1:10次 2:100次
+}
+
+message Proto50102072       // 神秘宝箱抽奖消耗金币(返回)
+{
+    optional int32 ret = 1;       // 0 失败 1成功
+}
+
+message Proto80101502       // 巅峰对决战斗信息
+{
+    repeated ProtoTravelTeamer left_teamers = 1;       // 左侧战队队员列表
+    optional int64 left_team_id = 2;       // 左侧战队ID
+    repeated ProtoTravelTeamer right_teamers = 3;       // 右侧战队队员列表
+    optional int64 right_team_id = 4;       // 右侧战队ID
+    optional int64 my_team_id = 5;       // 我的战队ID
+    optional int32 fight_state = 6;       // 状态： 1 准备状态，2 战斗状态
+    optional int32 left_tick = 7;       // 当前状态剩余时间（秒）
+}
+
+message Proto80101503       // 战斗结果通知
+{
+    optional int32 flag = 1;       // 输赢，0表示输
+    optional string name = 2;       // 对手名字
+    optional int32 score = 3;       // 队伍增加积分
+    optional int32 reward_id = 4;       // 自己奖励ID
+}
+
+message Proto50102073       // 神秘宝箱界面信息(返回)
+{
+    optional int32 buy_times = 1;       // 当前已够买次数
+    optional int32 max_times = 2;       // 今天最大购买次数
+    repeated ProtoServerRecord server_record = 3;       // 全服记录
+    optional int32 score = 4;       // 积分
+}
+
+message Proto50102074       // 神秘宝箱积分兑换面板(返回)
+{
+    repeated SpecialBoxChange all_item_set = 1;       // 所有物品集合
+}
+
+message Proto50401704       // 巅峰对决场景界面信息(返回)
+{
+    optional int32 fight_type = 1;       // 1:资格赛 2:淘汰赛
+    optional int64 team_id = 2;       // 战队id
+    optional int64 leader_id = 3;       // 队长ID
+    optional string team_name = 4;       // 战队名称
+    optional int32 add_exp = 5;       // 获得经验
+    repeated ProtoTeamer teamer = 6;       // 战队信息
+    optional ProtoPeakQualityInfo quality_info = 7;       // 资格赛信息
+    optional ProtoPeakKnockoutInfo knockout_info = 8;       // 淘汰赛信息
+    optional int32 left_tick = 9;       // 活动倒计时
+    optional int32 is_prep = 10;       // 是否预热
+}
+
+message Proto10102075       // 神秘宝箱兑换物品
+{
+    optional int32 index = 1;       // 物品索引
+    optional int32 times = 2;       // 兑换次数
+}
+
+message Proto50102075       // 神秘宝箱兑换物品(返回)
+{
+    optional int32 ret = 1;       // 0 失败 1成功
+    optional int32 index = 2;       // 物品索引
+}
+
+message Proto10401705       // 获取资格赛排行榜数据
+{
+    optional int32 page = 1;       // 页数
+}
+
+message Proto50401705       // 获取资格赛排行榜数据(返回)
+{
+    repeated ProtoQualityRank team_list = 1;       // 排行榜战队列表
+    optional ProtoQualityRank my_team = 2;       // 我的战队
+    optional int32 cur_page = 3;       // 当前页
+    optional int32 total_page = 4;       // 总页数
+}
+
+

@@ -1,0 +1,346 @@
+import "ProtoPublic.proto";
+
+message Proto11400334       // 设置新手完成的步数
+{
+    optional int32 step = 1;       // 步数
+}
+
+message Proto11400115       // 获取转盘信息
+{
+    optional int32 item_index = 1;       // 索引
+}
+
+message Proto51400115       // 获取转盘信息(返回)
+{
+    optional int32 item_index = 1;       // 道具索引
+    optional int32 prop_index = 2;       // 第几个首具
+    repeated ProtoItem item_set = 3;       // 物品列表
+}
+
+message Proto51400116       // 使用转盘(返回)
+{
+    optional int32 item_id = 1;       // 道具ID
+    optional int32 item_amount = 2;       // 道具数量
+    optional int32 prop_index = 3;       // 物品索引
+}
+
+message Proto11400116       // 使用转盘
+{
+    optional int32 item_index = 1;       // 道具索引
+}
+
+message Proto51400335       // 获取随机名字(返回)
+{
+    optional string name = 1;       // 角色名
+}
+
+message Proto10400114       // 跳到指定的地点结束
+{
+    optional int32 pixel_x = 1;       // x像素
+    optional int32 pixel_y = 2;       // y像素
+}
+
+message Proto51400117       // 获取七天登入奖励(返回)
+{
+    optional int32 login_days = 1;       // 已登入天数
+    repeated int32 draw_days = 2;       // 已领取天数
+    repeated ProtoSevenDayItem login_reward = 3;       // 登入奖励列表
+}
+
+message Proto11400118       // 领取七天登入奖励
+{
+    optional int32 draw_day = 1;       // 领第几天
+}
+
+message Proto51400118       // 领取登入奖励(返回)
+{
+    optional int32 draw_day = 1;       // 领取第几天
+    optional int32 item_id = 2;       // 物品id
+}
+
+message Proto51400119       // 是否有登入奖励(返回)
+{
+    optional int32 reward_flag = 1;       // 是否有奖励，0表示没有，1表示有
+}
+
+message Proto81400107       // 最后一个主线任务完成通知
+{
+    optional int32 lastest_task_id = 1;       // 最后完成的任务ID
+}
+
+message Proto80400219       // 播放技能指示语
+{
+    optional int32 text_id = 1;       // 指示语ID
+}
+
+message Proto50999999       // 心跳包请求(返回)
+{
+    optional int32 msec = 1;       // 毫秒;  usec / 1000
+    optional int32 drop_reason = 2;       // 断线原因
+    optional int32 ban_type = 3;       // 封禁类型
+    optional string ban_str = 4;       // 封禁说明
+}
+
+message Proto80400220       // 持续群攻技能的受击刀光通知
+{
+    optional int64 fighter_id = 1;       // 攻击者ID
+    optional int32 skill_id = 2;       // 技能ID
+    optional int32 skill_level = 3;       // 技能等级
+    optional int32 skill_pixel_x = 4;       // 技能攻击点X坐标
+    optional int32 skill_pixel_y = 5;       // 技能攻击点Y坐标
+    repeated ProtoSkillTarget target_list = 6;       // 受击目标列表
+}
+
+message Proto10400916       // 请求副本复活需要的元宝数量
+{
+    optional int32 relive_mode = 1;       // 复活方式：1 复活点复活；2 原地复活
+}
+
+message Proto50400916       // 请求副本复活需要的元宝数量(返回)
+{
+    optional int32 gold = 1;       // 元宝数量
+    optional int32 blood_percent = 2;       // 回复百分血
+    optional int32 item_id = 3;       // 复活道具ID
+    optional int32 item_num = 4;       // 道具数量
+    optional int32 relive_n = 5;       // 剩余复活次数
+    optional int32 relive_total = 6;       // 总复活次数
+}
+
+message Proto51401421       // 请求福利界面可显示的元素(返回)
+{
+    repeated string keys = 1;       // 可显示元素的key列表
+}
+
+message Proto80100103       // 更新宠物的信息
+{
+    optional int32 update_type = 1;       // 更新类型
+    optional int64 beast_id = 2;       // 宠物ID
+    optional int32 value = 3;       // 值
+}
+
+message Proto81400201       // 弹出传送框通知
+{
+    optional int32 task_id = 1;       // 当前完成状态的任务ID
+}
+
+message Proto11400656       // 查询时装的附加信息
+{
+    optional int32 fashion_id = 1;       // 时装id
+}
+
+message Proto51400656       // 查询时装的附加信息（返回）
+{
+    optional int32 fashion_id = 1;       // 时装id
+    optional int32 mall_gold_price = 2;       // 该时装的购买价格，-1表示该时装不能购买
+    optional int32 can_convert = 3;       // 能否转化成永久时装
+    optional int32 convert_martial_id = 4;       // 转化材料id
+    optional int32 convert_martial_amount = 5;       // 转化材料数量
+    optional int32 convert_martial_price = 6;       // 转化材料价格
+    optional int32 fashion_mall_type = 7;       // 
+    optional int32 martial_mall_type = 8;       // 
+}
+
+message Proto10100632       // 设置仙盟自动接受
+{
+    optional int32 auto_accept = 1;       // 自动接受标识
+    optional int32 accept_force = 2;       // 接受战力
+}
+
+message Proto81400604       // 更新时装增加的属性信息
+{
+    optional int32 fight_force = 1;       // 个人总战力
+    repeated ProtoPairObj prop_map = 2;       // 属性集
+}
+
+message Proto10100025       // 时装快速购买并使用
+{
+    optional int32 fashion_id = 1;       // 
+}
+
+message Proto50100025       // 时装快速购买并使用
+{
+    optional int32 fashion_id = 1;       // 
+    optional int32 pkg_type = 2;       // 
+    optional int32 pkg_index = 3;       // 
+    optional int32 fashion_part = 4;       // 时装的部位
+}
+
+message Proto11401431       // 用激活码领取礼包
+{
+    optional string acti_code = 1;       // 激活码
+    optional int32 super_vip_use = 2;       // 如果是来自超级VIP的消息设为1，否则为0
+}
+
+message Proto51401431       // 用激活码领取礼包(返回)
+{
+    optional int32 gift_sort = 1;       // 礼包配置索引
+    optional string gift_name = 2;       // 礼包名
+}
+
+message Proto50100901       // 打开客服大界面（返回）
+{
+    optional int32 last_record_type = 1;       // 问题类型
+    optional int32 replay_amount = 2;       // 新回复数量
+    optional string title = 3;       // 正在编辑的标题
+    optional string content = 4;       // 正在编辑的内容
+    optional int32 evaluate_star = 5;       // 满意度
+    optional string contact = 6;       // 客服联系方式
+    optional int32 is_official = 7;       // 是否官方反馈
+    optional int32 reward_id = 8;       // 奖励id
+    optional int32 official_id = 9;       // 官方反馈id
+}
+
+message Proto50100902       // 打开客服界面-回复标签（返回）
+{
+    repeated ProtoCustomerSVCRecord record_list = 1;       // 玩家提交的反馈记录列表
+}
+
+message Proto10100903       // 玩家提交客服记录
+{
+    optional int32 is_summit = 1;       // 1提交，0保存但不提交
+    optional string title = 2;       // 
+    optional string content = 3;       // 
+    optional int32 record_type = 4;       // 问题类型
+    optional int32 evaluate_star = 5;       // 满意度
+    optional int32 is_official = 6;       // 是否官方反馈
+    optional int32 official_id = 7;       // 官方反馈ID
+    optional int32 reward_id = 8;       // 奖励id
+}
+
+message Proto50100903       // 玩家提交客服记录（返回）
+{
+    optional int32 is_summit = 1;       // 是否提交
+}
+
+message Proto10100904       // 玩家阅读客服回复
+{
+    optional int64 record_id = 1;       // 客服记录的唯一id
+}
+
+message Proto10100905       // 玩家删除客服回复
+{
+    optional int64 record_id = 1;       // 客服记录的唯一id
+}
+
+message Proto51401432       // 获取全部礼包配置信息(返回)
+{
+    repeated ProtoMediaGiftDef gift_def = 1;       // 礼包配置信息
+}
+
+message Proto11400337       // 设置界面打开步数
+{
+    optional int32 step = 1;       // 步骤ID
+}
+
+message Proto51400336       // 获取界面打开步数(返回)
+{
+    repeated int32 step = 1;       // 步骤数组，索引是步骤ID，1表示已打开
+}
+
+message Proto50100032       // 获取公告内容(返回)
+{
+    optional string title = 1;       // 标题
+    repeated string content = 2;       // 内容
+    repeated ProtoItem item_set = 3;       // 奖励内容
+    optional int64 start_tick = 4;       // 开始时间
+    optional int32 draw_flag = 5;       // 0表示不可领取，1表示可以
+    optional int32 award_id = 6;       // 奖励ID
+}
+
+message Proto81401405       // 进游戏弹出界面(主动)
+{
+    optional int32 check_in_popup = 1;       // 是否需要弹出签到
+    optional int32 notice_popup = 2;       // 是否需要弹出公告
+    optional int32 found_flag = 3;       // 当天是否有可领取的基金数量（0：没有，非0：可领取的个数）
+    optional int32 found_num = 4;       // 已激活的基金个数
+    optional int32 seven_login_reward_popup = 5;       // 是否需要弹出7天登录奖励
+}
+
+message Proto80100901       // 主动通知客服系统回复信息
+{
+    optional int32 unread_amount = 1;       // 
+    repeated ProtoCustomerSVCRecord replay_set = 2;       // 客服回复记录
+}
+
+message Proto51401441       // 查询资源包下载完成奖励(返回)
+{
+    optional int32 has_reward = 1;       // 1表示奖励，0表示没有奖励
+}
+
+message Proto50101001       // 获取天梯竞技信息(返回)
+{
+    optional int32 rank = 1;       // 排名
+    optional int32 force = 2;       // 战力
+    optional int32 sex = 3;       // 性别
+    optional int32 left_times = 4;       // 剩余可挑战次数
+    optional int32 buy_times = 5;       // 已经购买次数
+    optional int32 left_cool_time = 6;       // 剩余冷却时间
+    optional int32 is_over_limit = 7;       // 挑战时间是否超过限制
+    optional int32 anima = 8;       // 灵力
+    optional int32 money = 9;       // 绑铜
+    optional int32 next_time = 10;       // 下次时间
+    repeated ProtoAreaRole area_role = 11;       // 被挑战列表
+    repeated ProtoAreaRecord area_record = 12;       // 挑战记录
+    optional int32 have_reward = 13;       // 0没有奖励，1有奖励
+    optional int32 career = 14;       // 职业
+    optional int32 reward_id = 15;       // 奖励ID
+    optional int32 next_reward_id = 16;       // 下阶奖励ID
+    optional int32 is_skip = 17;       // 是否跳过动画
+}
+
+message Proto50101002       // 领取奖励(返回)
+{
+    optional int32 last_rank = 1;       // 上次排名
+    optional int32 add_anima = 2;       // 灵力
+    optional int32 add_copper = 3;       // 增加的铜钱
+}
+
+message Proto10101003       // 挑战
+{
+    optional int32 rank = 1;       // 排名
+}
+
+message Proto50101004       // 购买次数(返回)
+{
+    optional int32 left_times = 1;       // 剩余次数
+    optional int32 buy_times = 2;       // 已经购买次数
+}
+
+message Proto50101005       // 消除冷却时间(返回)
+{
+    optional int32 status = 1;       // 是否成功 1success 0 fail
+}
+
+message Proto50101006       // 购买次数金钱(返回)
+{
+    optional int32 money = 1;       // 元宝
+}
+
+message Proto10400006       // 设置药包今日不再提示
+{
+    optional int32 tips_flag = 1;       // 0表示不再提示，1表示提示
+}
+
+message Proto50400918       // 获取副本列表(返回)
+{
+    repeated ProtoScriptInfo script_list = 1;       // 副本列表
+    optional int32 curr_strength = 2;       // 当前玩家体力
+    optional int32 left_buy_times = 3;       // 体力剩余购买次数
+    optional int32 trvl_total_pass = 4;       // 跨服通过次数
+    optional int32 max_trvl_pass = 5;       // 跨服最大通过次数
+}
+
+message Proto80400347       // 天梯奖励(主动)
+{
+    optional int32 fight_state = 1;       // 战斗状态，0表示输，1表示赢
+    optional int32 add_exp = 2;       // 增加的经验
+    optional int32 add_anima = 3;       // 增加的灵力
+    optional int32 rank = 4;       // 排名
+    optional int32 rank_change = 5;       // 0表示没有改变，1表示有改变
+    optional int32 rank_differ = 6;       // 排名差值
+    optional int32 figth_time = 7;       // 战斗时间
+    optional ProtoAreaRole rank_player = 8;       // 战斗对象
+    optional int32 index = 9;       // 空间ID
+}
+
+

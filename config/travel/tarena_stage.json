@@ -1,0 +1,227 @@
+{
+    "11": {
+        "name": "黄金一阶",
+        "adjust_point": 280,
+        "lv_point": 120,
+        "client_need_point": 600,
+        "need_point": 720,
+        "reward": 607011,
+        "season_reward": 607311
+    },
+    "10": {
+        "name": "白银五阶",
+        "adjust_point": 280,
+        "lv_point": 80,
+        "client_need_point": 520,
+        "need_point": 600,
+        "reward": 607010,
+        "season_reward": 607310
+    },
+    "17": {
+        "name": "白金二阶",
+        "adjust_point": 440,
+        "lv_point": 200,
+        "client_need_point": 1400,
+        "need_point": 1600,
+        "reward": 607017,
+        "season_reward": 607317
+    },
+    "15": {
+        "name": "黄金五阶",
+        "adjust_point": 360,
+        "lv_point": 120,
+        "client_need_point": 1080,
+        "need_point": 1200,
+        "reward": 607015,
+        "season_reward": 607315
+    },
+    "14": {
+        "name": "黄金四阶",
+        "adjust_point": 360,
+        "lv_point": 120,
+        "client_need_point": 960,
+        "need_point": 1080,
+        "reward": 607014,
+        "season_reward": 607314
+    },
+    "24": {
+        "name": "钻石四阶",
+        "adjust_point": 960,
+        "lv_point": 300,
+        "client_need_point": 3100,
+        "need_point": 3400,
+        "reward": 607024,
+        "season_reward": 607324
+    },
+    "25": {
+        "name": "钻石五阶",
+        "adjust_point": 1080,
+        "lv_point": 0,
+        "client_need_point": 3400,
+        "need_point": 3400,
+        "reward": 607025,
+        "season_reward": 607325
+    },
+    "13": {
+        "name": "黄金三阶",
+        "adjust_point": 360,
+        "lv_point": 120,
+        "client_need_point": 840,
+        "need_point": 960,
+        "reward": 607013,
+        "season_reward": 607313
+    },
+    "12": {
+        "name": "黄金二阶",
+        "adjust_point": 280,
+        "lv_point": 120,
+        "client_need_point": 720,
+        "need_point": 840,
+        "reward": 607012,
+        "season_reward": 607312
+    },
+    "20": {
+        "name": "白金五阶",
+        "adjust_point": 520,
+        "lv_point": 200,
+        "client_need_point": 2000,
+        "need_point": 2200,
+        "reward": 607020,
+        "season_reward": 607320
+    },
+    "21": {
+        "name": "钻石一阶",
+        "adjust_point": 600,
+        "lv_point": 300,
+        "client_need_point": 2200,
+        "need_point": 2500,
+        "reward": 607021,
+        "season_reward": 607321
+    },
+    "22": {
+        "name": "钻石二阶",
+        "adjust_point": 720,
+        "lv_point": 300,
+        "client_need_point": 2500,
+        "need_point": 2800,
+        "reward": 607022,
+        "season_reward": 607322
+    },
+    "23": {
+        "name": "钻石三阶",
+        "adjust_point": 840,
+        "lv_point": 300,
+        "client_need_point": 2800,
+        "need_point": 3100,
+        "reward": 607023,
+        "season_reward": 607323
+    },
+    "19": {
+        "name": "白金四阶",
+        "adjust_point": 520,
+        "lv_point": 200,
+        "client_need_point": 1800,
+        "need_point": 2000,
+        "reward": 607019,
+        "season_reward": 607319
+    },
+    "18": {
+        "name": "白金三阶",
+        "adjust_point": 440,
+        "lv_point": 200,
+        "client_need_point": 1600,
+        "need_point": 1800,
+        "reward": 607018,
+        "season_reward": 607318
+    },
+    "16": {
+        "name": "白金一阶",
+        "adjust_point": 440,
+        "lv_point": 200,
+        "client_need_point": 1200,
+        "need_point": 1400,
+        "reward": 607016,
+        "season_reward": 607316
+    },
+    "1": {
+        "name": "青铜一阶",
+        "adjust_point": 0,
+        "lv_point": 40,
+        "client_need_point": 0,
+        "need_point": 40,
+        "reward": 607001,
+        "season_reward": 607301
+    },
+    "3": {
+        "name": "青铜三阶",
+        "adjust_point": 80,
+        "lv_point": 40,
+        "client_need_point": 80,
+        "need_point": 120,
+        "reward": 607003,
+        "season_reward": 607303
+    },
+    "2": {
+        "name": "青铜二阶",
+        "adjust_point": 40,
+        "lv_point": 40,
+        "client_need_point": 40,
+        "need_point": 80,
+        "reward": 607002,
+        "season_reward": 607302
+    },
+    "5": {
+        "name": "青铜五阶",
+        "adjust_point": 160,
+        "lv_point": 40,
+        "client_need_point": 160,
+        "need_point": 200,
+        "reward": 607005,
+        "season_reward": 607305
+    },
+    "4": {
+        "name": "青铜四阶",
+        "adjust_point": 120,
+        "lv_point": 40,
+        "client_need_point": 120,
+        "need_point": 160,
+        "reward": 607004,
+        "season_reward": 607304
+    },
+    "7": {
+        "name": "白银二阶",
+        "adjust_point": 200,
+        "lv_point": 80,
+        "client_need_point": 280,
+        "need_point": 360,
+        "reward": 607007,
+        "season_reward": 607307
+    },
+    "6": {
+        "name": "白银一阶",
+        "adjust_point": 160,
+        "lv_point": 80,
+        "client_need_point": 200,
+        "need_point": 280,
+        "reward": 607006,
+        "season_reward": 607306
+    },
+    "9": {
+        "name": "白银四阶",
+        "adjust_point": 280,
+        "lv_point": 80,
+        "client_need_point": 440,
+        "need_point": 520,
+        "reward": 607009,
+        "season_reward": 607309
+    },
+    "8": {
+        "name": "白银三阶",
+        "adjust_point": 200,
+        "lv_point": 80,
+        "client_need_point": 360,
+        "need_point": 440,
+        "reward": 607008,
+        "season_reward": 607308
+    }
+}

@@ -1,0 +1,1600 @@
+{
+    "60": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "3级攻击宝石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            211020003,
+            1,
+            1
+        ]
+    },
+    "61": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "3级生命宝石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            211010003,
+            1,
+            1
+        ]
+    },
+    "62": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "3级防御宝石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            211030003,
+            1,
+            1
+        ]
+    },
+    "63": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说武器秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040510,
+            2,
+            1
+        ]
+    },
+    "64": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说项链秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040520,
+            2,
+            1
+        ]
+    },
+    "65": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说戒指秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040521,
+            2,
+            1
+        ]
+    },
+    "66": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说护腕秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040522,
+            2,
+            1
+        ]
+    },
+    "67": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说战盔秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040523,
+            2,
+            1
+        ]
+    },
+    "68": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说战甲秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040524,
+            2,
+            1
+        ]
+    },
+    "69": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说护腿秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040525,
+            2,
+            1
+        ]
+    },
+    "24": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "灵兽进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110901,
+            50,
+            1
+        ]
+    },
+    "25": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "元神进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216111001,
+            50,
+            1
+        ]
+    },
+    "26": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "魔刃进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110501,
+            50,
+            1
+        ]
+    },
+    "27": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "4级攻击宝石",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211020004,
+            1,
+            1
+        ]
+    },
+    "20": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙童进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110401,
+            50,
+            1
+        ]
+    },
+    "21": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙武进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110601,
+            50,
+            1
+        ]
+    },
+    "22": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙兽进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110701,
+            50,
+            1
+        ]
+    },
+    "23": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙翼进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110801,
+            50,
+            1
+        ]
+    },
+    "28": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "4级生命宝石",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211010004,
+            1,
+            1
+        ]
+    },
+    "29": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "4级防御宝石",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211030004,
+            1,
+            1
+        ]
+    },
+    "2": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 20,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "6级生命宝石",
+        "group_id": 1,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211010006,
+            1,
+            1
+        ]
+    },
+    "4": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 20,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "5级攻击宝石",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211020005,
+            1,
+            1
+        ]
+    },
+    "6": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 20,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "5级防御宝石",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211030005,
+            1,
+            1
+        ]
+    },
+    "8": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "神翼进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110201,
+            20,
+            1
+        ]
+    },
+    "15": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "元神进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216111001,
+            20,
+            1
+        ]
+    },
+    "14": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "灵兽进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110901,
+            20,
+            1
+        ]
+    },
+    "11": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙武进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110601,
+            20,
+            1
+        ]
+    },
+    "10": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙童进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110401,
+            20,
+            1
+        ]
+    },
+    "13": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙翼进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110801,
+            20,
+            1
+        ]
+    },
+    "12": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙兽进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110701,
+            20,
+            1
+        ]
+    },
+    "59": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "魔刃成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120502,
+            1,
+            1
+        ]
+    },
+    "58": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "元神成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216121002,
+            1,
+            1
+        ]
+    },
+    "17": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "骑宠进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110101,
+            50,
+            1
+        ]
+    },
+    "16": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "强化石",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216020001,
+            100,
+            1
+        ]
+    },
+    "55": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙兽成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120702,
+            1,
+            1
+        ]
+    },
+    "54": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙武成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120602,
+            1,
+            1
+        ]
+    },
+    "57": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "灵兽成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120902,
+            1,
+            1
+        ]
+    },
+    "56": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙翼成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120802,
+            1,
+            1
+        ]
+    },
+    "51": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "神翼成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120202,
+            1,
+            1
+        ]
+    },
+    "50": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "骑宠成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120102,
+            1,
+            1
+        ]
+    },
+    "53": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙童成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120402,
+            1,
+            1
+        ]
+    },
+    "52": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 10,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "宝器成长丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120302,
+            1,
+            1
+        ]
+    },
+    "19": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "宝器进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110301,
+            50,
+            1
+        ]
+    },
+    "18": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 6,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "神翼进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110201,
+            50,
+            1
+        ]
+    },
+    "82": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "元神进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216111001,
+            2,
+            1
+        ]
+    },
+    "83": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "魔刃进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110501,
+            2,
+            1
+        ]
+    },
+    "80": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙翼进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110801,
+            2,
+            1
+        ]
+    },
+    "81": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "灵兽进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110901,
+            2,
+            1
+        ]
+    },
+    "86": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "玄命精石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216030003,
+            3,
+            1
+        ]
+    },
+    "87": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "玫瑰·地久之恋",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216310002,
+            1,
+            1
+        ]
+    },
+    "84": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "天攻精石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216030001,
+            3,
+            1
+        ]
+    },
+    "85": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "地防精石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216030002,
+            3,
+            1
+        ]
+    },
+    "48": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "元神资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216121001,
+            1,
+            1
+        ]
+    },
+    "49": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "魔刃资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120501,
+            1,
+            1
+        ]
+    },
+    "46": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙翼资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120801,
+            1,
+            1
+        ]
+    },
+    "47": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "灵兽资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120901,
+            1,
+            1
+        ]
+    },
+    "44": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙武资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120601,
+            1,
+            1
+        ]
+    },
+    "45": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙兽资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120701,
+            1,
+            1
+        ]
+    },
+    "42": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "宝器资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120301,
+            1,
+            1
+        ]
+    },
+    "43": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 30,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙童资质丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216120401,
+            1,
+            1
+        ]
+    },
+    "40": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 300,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "传说兑换券",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216310102,
+            1,
+            1
+        ]
+    },
+    "41": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 200,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "强化石",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216020001,
+            50,
+            1
+        ]
+    },
+    "1": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 20,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "6级攻击宝石",
+        "group_id": 1,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211020006,
+            1,
+            1
+        ]
+    },
+    "3": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 20,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "6级防御宝石",
+        "group_id": 1,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211030006,
+            1,
+            1
+        ]
+    },
+    "5": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 20,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "5级生命宝石",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            211010005,
+            1,
+            1
+        ]
+    },
+    "7": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "骑宠进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110101,
+            20,
+            1
+        ]
+    },
+    "9": {
+        "show_id": 132005,
+        "person_record": 1,
+        "is_rarity": 1,
+        "the_weight": 15,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "宝器进阶丹",
+        "group_id": 2,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110301,
+            20,
+            1
+        ]
+    },
+    "77": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙童进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110401,
+            2,
+            1
+        ]
+    },
+    "76": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "宝器进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110301,
+            2,
+            1
+        ]
+    },
+    "75": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "神翼进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110201,
+            2,
+            1
+        ]
+    },
+    "74": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "骑宠进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110101,
+            2,
+            1
+        ]
+    },
+    "73": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "古宝宝箱",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            215050070,
+            5,
+            1
+        ]
+    },
+    "72": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 4000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "古宝宝箱",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            215050070,
+            3,
+            1
+        ]
+    },
+    "71": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "强化石",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216020001,
+            10,
+            1
+        ]
+    },
+    "70": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 5000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "传说战靴秘卷",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216040526,
+            2,
+            1
+        ]
+    },
+    "79": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙兽进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110701,
+            2,
+            1
+        ]
+    },
+    "78": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 3000,
+        "is_cast": 0,
+        "now_cost": 9999,
+        "server_record": 0,
+        "pre_cost": 9999,
+        "name_str": "仙武进阶丹",
+        "group_id": 4,
+        "day": 1,
+        "is_shout": 0,
+        "slot_item": [
+            216110601,
+            2,
+            1
+        ]
+    },
+    "39": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "魔刃进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110501,
+            5,
+            1
+        ]
+    },
+    "38": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "元神进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216111001,
+            5,
+            1
+        ]
+    },
+    "33": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙童进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110401,
+            5,
+            1
+        ]
+    },
+    "32": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "宝器进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110301,
+            5,
+            1
+        ]
+    },
+    "31": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "神翼进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110201,
+            5,
+            1
+        ]
+    },
+    "30": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "骑宠进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110101,
+            5,
+            1
+        ]
+    },
+    "37": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "灵兽进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110901,
+            5,
+            1
+        ]
+    },
+    "36": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙翼进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110801,
+            5,
+            1
+        ]
+    },
+    "35": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙兽进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110701,
+            5,
+            1
+        ]
+    },
+    "34": {
+        "person_record": 1,
+        "is_rarity": 0,
+        "the_weight": 100,
+        "is_cast": 1,
+        "now_cost": 9999,
+        "server_record": 1,
+        "pre_cost": 9999,
+        "name_str": "仙武进阶丹",
+        "group_id": 3,
+        "day": 1,
+        "is_shout": 1,
+        "slot_item": [
+            216110601,
+            5,
+            1
+        ]
+    }
+}

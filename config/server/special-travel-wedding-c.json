@@ -1,0 +1,19 @@
+{
+    "server_list" : [{
+        "service" : "log",
+        "name" : "[跨]日志",
+        "scene" : [302],
+        "machine" : "machine-travel-b",
+        "inner_port" : 16823,
+        "mysql_on" : 1
+	},{
+        "service" : "map",
+        "name" : "渠道跨服场景3(结婚排行榜+每日冲榜)",
+        "scene" : [70501,70601],
+        "connect_scene" : [302],
+        "log" : "1111110",
+        "machine" : "machine-travel-b",
+        "inner_port" : 16953,
+        "send_thr" : 1
+    }]
+}

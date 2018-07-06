@@ -1,0 +1,362 @@
+{
+    "20": {
+        "remark": [
+            "770"
+        ],
+        "name": "不屈",
+        "server_force": 9600,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 770,
+            "id": 10041
+        },
+        "add_fight": 400
+    },
+    "11": {
+        "remark": [
+            "500"
+        ],
+        "name": "不屈",
+        "server_force": 4500,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 500,
+            "id": 10041
+        },
+        "add_fight": 1140
+    },
+    "10": {
+        "remark": [
+            "470"
+        ],
+        "name": "不屈",
+        "server_force": 3360,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 470,
+            "id": 10041
+        },
+        "add_fight": 240
+    },
+    "13": {
+        "remark": [
+            "560"
+        ],
+        "name": "不屈",
+        "server_force": 5100,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 560,
+            "id": 10041
+        },
+        "add_fight": 300
+    },
+    "12": {
+        "remark": [
+            "530"
+        ],
+        "name": "不屈",
+        "server_force": 4800,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 530,
+            "id": 10041
+        },
+        "add_fight": 300
+    },
+    "15": {
+        "remark": [
+            "620"
+        ],
+        "name": "不屈",
+        "server_force": 5700,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 620,
+            "id": 10041
+        },
+        "add_fight": 300
+    },
+    "14": {
+        "remark": [
+            "590"
+        ],
+        "name": "不屈",
+        "server_force": 5400,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 590,
+            "id": 10041
+        },
+        "add_fight": 300
+    },
+    "17": {
+        "remark": [
+            "680"
+        ],
+        "name": "不屈",
+        "server_force": 8400,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 680,
+            "id": 10041
+        },
+        "add_fight": 400
+    },
+    "16": {
+        "remark": [
+            "650"
+        ],
+        "name": "不屈",
+        "server_force": 8000,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 650,
+            "id": 10041
+        },
+        "add_fight": 2300
+    },
+    "19": {
+        "remark": [
+            "740"
+        ],
+        "name": "不屈",
+        "server_force": 9200,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 740,
+            "id": 10041
+        },
+        "add_fight": 400
+    },
+    "18": {
+        "remark": [
+            "710"
+        ],
+        "name": "不屈",
+        "server_force": 8800,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 710,
+            "id": 10041
+        },
+        "add_fight": 400
+    },
+    "1": {
+        "remark": [
+            "200"
+        ],
+        "name": "不屈",
+        "server_force": 1000,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 200,
+            "id": 10041
+        },
+        "add_fight": 1000
+    },
+    "3": {
+        "remark": [
+            "260"
+        ],
+        "name": "不屈",
+        "server_force": 1400,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 260,
+            "id": 10041
+        },
+        "add_fight": 200
+    },
+    "2": {
+        "remark": [
+            "230"
+        ],
+        "name": "不屈",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 230,
+            "id": 10041
+        },
+        "add_fight": 200
+    },
+    "5": {
+        "remark": [
+            "320"
+        ],
+        "name": "不屈",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 320,
+            "id": 10041
+        },
+        "add_fight": 200
+    },
+    "4": {
+        "remark": [
+            "290"
+        ],
+        "name": "不屈",
+        "server_force": 1600,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 290,
+            "id": 10041
+        },
+        "add_fight": 200
+    },
+    "7": {
+        "remark": [
+            "380"
+        ],
+        "name": "不屈",
+        "server_force": 2640,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 380,
+            "id": 10041
+        },
+        "add_fight": 240
+    },
+    "6": {
+        "remark": [
+            "350"
+        ],
+        "name": "不屈",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 350,
+            "id": 10041
+        },
+        "add_fight": 600
+    },
+    "9": {
+        "remark": [
+            "440"
+        ],
+        "name": "不屈",
+        "server_force": 3120,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 440,
+            "id": 10041
+        },
+        "add_fight": 480
+    },
+    "8": {
+        "remark": [
+            "410"
+        ],
+        "name": "不屈",
+        "server_force": 2640,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "last": 2,
+            "name": "buff",
+            "value": 410,
+            "id": 10041
+        },
+        "add_fight": 0
+    }
+}

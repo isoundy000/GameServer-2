@@ -1,0 +1,2472 @@
+{
+    "130": {
+        "remark": [
+            "110%",
+            "278"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 0,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 278,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "41": {
+        "remark": [
+            "110%",
+            "100"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 410,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 100,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "24": {
+        "remark": [
+            "110%",
+            "66"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 240,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 66,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "25": {
+        "remark": [
+            "110%",
+            "68"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 250,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 68,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "26": {
+        "remark": [
+            "110%",
+            "70"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 260,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 70,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "27": {
+        "remark": [
+            "110%",
+            "72"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 270,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 72,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "20": {
+        "remark": [
+            "110%",
+            "58"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 200,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 58,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "21": {
+        "remark": [
+            "110%",
+            "60"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 210,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 60,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "22": {
+        "remark": [
+            "110%",
+            "62"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 220,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 62,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "23": {
+        "remark": [
+            "110%",
+            "64"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 230,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 64,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "28": {
+        "remark": [
+            "110%",
+            "74"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 280,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 74,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "29": {
+        "remark": [
+            "110%",
+            "76"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 290,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 76,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "4": {
+        "remark": [
+            "110%",
+            "26"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 40,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 26,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "8": {
+        "remark": [
+            "110%",
+            "34"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 80,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 34,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "120": {
+        "remark": [
+            "110%",
+            "258"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1200,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 258,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "121": {
+        "remark": [
+            "110%",
+            "260"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1210,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 260,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "122": {
+        "remark": [
+            "110%",
+            "262"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1220,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 262,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "123": {
+        "remark": [
+            "110%",
+            "264"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1230,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 264,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "124": {
+        "remark": [
+            "110%",
+            "266"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1240,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 266,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "125": {
+        "remark": [
+            "110%",
+            "268"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1250,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 268,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "126": {
+        "remark": [
+            "110%",
+            "270"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1260,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 270,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "127": {
+        "remark": [
+            "110%",
+            "272"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1270,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 272,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "128": {
+        "remark": [
+            "110%",
+            "274"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1280,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 274,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "129": {
+        "remark": [
+            "110%",
+            "276"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1290,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 276,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "59": {
+        "remark": [
+            "110%",
+            "136"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 590,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 136,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "58": {
+        "remark": [
+            "110%",
+            "134"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 580,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 134,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "55": {
+        "remark": [
+            "110%",
+            "128"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 550,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 128,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "54": {
+        "remark": [
+            "110%",
+            "126"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 540,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 126,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "57": {
+        "remark": [
+            "110%",
+            "132"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 570,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 132,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "56": {
+        "remark": [
+            "110%",
+            "130"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 560,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 130,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "51": {
+        "remark": [
+            "110%",
+            "120"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 510,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 120,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "50": {
+        "remark": [
+            "110%",
+            "118"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 500,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 118,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "53": {
+        "remark": [
+            "110%",
+            "124"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 530,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 124,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "52": {
+        "remark": [
+            "110%",
+            "122"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 520,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 122,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "115": {
+        "remark": [
+            "110%",
+            "248"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1150,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 248,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "114": {
+        "remark": [
+            "110%",
+            "246"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1140,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 246,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "88": {
+        "remark": [
+            "110%",
+            "194"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 880,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 194,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "89": {
+        "remark": [
+            "110%",
+            "196"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 890,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 196,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "111": {
+        "remark": [
+            "110%",
+            "240"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1110,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 240,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "110": {
+        "remark": [
+            "110%",
+            "238"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1100,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 238,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "113": {
+        "remark": [
+            "110%",
+            "244"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1130,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 244,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "112": {
+        "remark": [
+            "110%",
+            "242"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1120,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 242,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "82": {
+        "remark": [
+            "110%",
+            "182"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 820,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 182,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "83": {
+        "remark": [
+            "110%",
+            "184"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 830,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 184,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "80": {
+        "remark": [
+            "110%",
+            "178"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 800,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 178,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "81": {
+        "remark": [
+            "110%",
+            "180"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 810,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 180,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "119": {
+        "remark": [
+            "110%",
+            "256"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1190,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 256,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "118": {
+        "remark": [
+            "110%",
+            "254"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1180,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 254,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "84": {
+        "remark": [
+            "110%",
+            "186"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 840,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 186,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "85": {
+        "remark": [
+            "110%",
+            "188"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 850,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 188,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "3": {
+        "remark": [
+            "110%",
+            "24"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 30,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 24,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "7": {
+        "remark": [
+            "110%",
+            "32"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 70,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 32,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "108": {
+        "remark": [
+            "110%",
+            "234"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1080,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 234,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "109": {
+        "remark": [
+            "110%",
+            "236"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1090,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 236,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "102": {
+        "remark": [
+            "110%",
+            "222"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1020,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 222,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "103": {
+        "remark": [
+            "110%",
+            "224"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1030,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 224,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "100": {
+        "remark": [
+            "110%",
+            "218"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1000,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 218,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "101": {
+        "remark": [
+            "110%",
+            "220"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1010,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 220,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "106": {
+        "remark": [
+            "110%",
+            "230"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1060,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 230,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "107": {
+        "remark": [
+            "110%",
+            "232"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1070,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 232,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "104": {
+        "remark": [
+            "110%",
+            "226"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1040,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 226,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "105": {
+        "remark": [
+            "110%",
+            "228"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1050,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 228,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "39": {
+        "remark": [
+            "110%",
+            "96"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 390,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 96,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "38": {
+        "remark": [
+            "110%",
+            "94"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 380,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 94,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "33": {
+        "remark": [
+            "110%",
+            "84"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 330,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 84,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "32": {
+        "remark": [
+            "110%",
+            "82"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 320,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 82,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "31": {
+        "remark": [
+            "110%",
+            "80"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 310,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 80,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "30": {
+        "remark": [
+            "110%",
+            "78"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 300,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 78,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "37": {
+        "remark": [
+            "110%",
+            "92"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 370,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 92,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "36": {
+        "remark": [
+            "110%",
+            "90"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 360,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 90,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "35": {
+        "remark": [
+            "110%",
+            "88"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 350,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 88,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "34": {
+        "remark": [
+            "110%",
+            "86"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 340,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 86,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "60": {
+        "remark": [
+            "110%",
+            "138"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 600,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 138,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "61": {
+        "remark": [
+            "110%",
+            "140"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 610,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 140,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "62": {
+        "remark": [
+            "110%",
+            "142"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 620,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 142,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "63": {
+        "remark": [
+            "110%",
+            "144"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 630,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 144,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "64": {
+        "remark": [
+            "110%",
+            "146"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 640,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 146,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "65": {
+        "remark": [
+            "110%",
+            "148"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 650,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 148,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "66": {
+        "remark": [
+            "110%",
+            "150"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 660,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 150,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "67": {
+        "remark": [
+            "110%",
+            "152"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 670,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 152,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "68": {
+        "remark": [
+            "110%",
+            "154"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 680,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 154,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "69": {
+        "remark": [
+            "110%",
+            "156"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 690,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 156,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "2": {
+        "remark": [
+            "110%",
+            "22"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 20,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 22,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "6": {
+        "remark": [
+            "110%",
+            "30"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 60,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 30,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "99": {
+        "remark": [
+            "110%",
+            "216"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 990,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 216,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "98": {
+        "remark": [
+            "110%",
+            "214"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 980,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 214,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "91": {
+        "remark": [
+            "110%",
+            "200"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 910,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 200,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "90": {
+        "remark": [
+            "110%",
+            "198"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 900,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 198,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "93": {
+        "remark": [
+            "110%",
+            "204"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 930,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 204,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "92": {
+        "remark": [
+            "110%",
+            "202"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 920,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 202,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "95": {
+        "remark": [
+            "110%",
+            "208"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 950,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 208,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "94": {
+        "remark": [
+            "110%",
+            "206"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 940,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 206,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "97": {
+        "remark": [
+            "110%",
+            "212"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 970,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 212,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "96": {
+        "remark": [
+            "110%",
+            "210"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 960,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 210,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "11": {
+        "remark": [
+            "110%",
+            "40"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 110,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 40,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "10": {
+        "remark": [
+            "110%",
+            "38"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 100,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 38,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "13": {
+        "remark": [
+            "110%",
+            "44"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 130,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 44,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "12": {
+        "remark": [
+            "110%",
+            "42"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 120,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 42,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "15": {
+        "remark": [
+            "110%",
+            "48"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 150,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 48,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "14": {
+        "remark": [
+            "110%",
+            "46"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 140,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 46,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "17": {
+        "remark": [
+            "110%",
+            "52"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 170,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 52,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "16": {
+        "remark": [
+            "110%",
+            "50"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 160,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 50,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "19": {
+        "remark": [
+            "110%",
+            "56"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 190,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 56,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "18": {
+        "remark": [
+            "110%",
+            "54"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 180,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 54,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "117": {
+        "remark": [
+            "110%",
+            "252"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1170,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 252,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "116": {
+        "remark": [
+            "110%",
+            "250"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 1160,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 250,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "48": {
+        "remark": [
+            "110%",
+            "114"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 480,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 114,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "49": {
+        "remark": [
+            "110%",
+            "116"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 490,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 116,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "46": {
+        "remark": [
+            "110%",
+            "110"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 460,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 110,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "86": {
+        "remark": [
+            "110%",
+            "190"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 860,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 190,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "44": {
+        "remark": [
+            "110%",
+            "106"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 440,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 106,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "45": {
+        "remark": [
+            "110%",
+            "108"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 450,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 108,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "42": {
+        "remark": [
+            "110%",
+            "102"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 420,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 102,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "43": {
+        "remark": [
+            "110%",
+            "104"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 430,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 104,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "40": {
+        "remark": [
+            "110%",
+            "98"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 400,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 98,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "87": {
+        "remark": [
+            "110%",
+            "192"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 870,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 192,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "1": {
+        "remark": [
+            "110%",
+            "20"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 10,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 20,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "5": {
+        "remark": [
+            "110%",
+            "28"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 50,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 28,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "9": {
+        "remark": [
+            "110%",
+            "36"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 90,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 36,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "77": {
+        "remark": [
+            "110%",
+            "172"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 770,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 172,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "76": {
+        "remark": [
+            "110%",
+            "170"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 760,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 170,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "75": {
+        "remark": [
+            "110%",
+            "168"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 750,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 168,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "74": {
+        "remark": [
+            "110%",
+            "166"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 740,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 166,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "73": {
+        "remark": [
+            "110%",
+            "164"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 730,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 164,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "72": {
+        "remark": [
+            "110%",
+            "162"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 720,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 162,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "71": {
+        "remark": [
+            "110%",
+            "160"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 710,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 160,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "70": {
+        "remark": [
+            "110%",
+            "158"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 700,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 158,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "79": {
+        "remark": [
+            "110%",
+            "176"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 790,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 176,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "78": {
+        "remark": [
+            "110%",
+            "174"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 780,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 174,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    },
+    "47": {
+        "remark": [
+            "110%",
+            "112"
+        ],
+        "name": "冲击剑",
+        "skilled_times": 470,
+        "detail": {
+            "effect": [
+                {
+                    "ai_percent": 11000,
+                    "player_percent": 11000,
+                    "name": "hurt",
+                    "value": 112,
+                    "weaken_per": -5500
+                }
+            ]
+        }
+    }
+}

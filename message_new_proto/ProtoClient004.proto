@@ -1,0 +1,384 @@
+import "ProtoPublic.proto";
+
+message Proto11400653       // 选择时装形象
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 pkg_index = 2;       // 所在位置索引
+}
+
+message Proto51400653       // 选择时装形象（返回）
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 pkg_index = 2;       // 所在位置索引
+    optional int32 fashion_id = 3;       // 时装id
+}
+
+message Proto81400602       // 主动通知时装剩余时间
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 pkg_index = 2;       // 所在位置索引
+    optional int32 fashion_id = 3;       // 时装id
+    optional int32 left_sec = 4;       // 剩余秒数
+}
+
+message Proto80400207       // 通知客户端BUFF更新
+{
+    optional int64 fighter_id = 1;       // 更新对象ID
+    optional int32 status = 2;       // 状态id
+    optional ProtoStatus status_detial = 3;       // 详细信息
+}
+
+message Proto80400103       // 宠物出现
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional int64 master_id = 2;       // 主人ID
+    optional int32 beast_sort = 3;       // 宠物种类
+    optional string beast_name = 4;       // 宠物名字
+    optional int32 toward = 5;       // 方向
+    optional int32 beast_speed = 6;       // 速度
+    optional int32 space_id = 7;       // 空间ID
+    optional ProtoCoord location = 8;       // 位置
+    optional int32 mount_shape = 9;       // 宠物战骑外形
+    optional int32 weapon_shape = 10;       // 宠物武器外形
+    optional int32 type = 11;       // 类型
+    optional int32 beast_wing = 12;       // 灵羽
+}
+
+message Proto11400654       // 使用时装
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 pkg_index = 2;       // 背包索引
+    optional int32 amount = 3;       // 数量
+}
+
+message Proto50400701       // 获取技能列表(返回)
+{
+    repeated ProtoSkill skill_list = 1;       // 技能列表
+    optional int32 scheme = 2;       // 当前技能方案；1方案一, 2方案二, 3方案三
+    repeated int32 scheme_skill_list = 3;       // 当前方案的技能快捷键列表
+    optional int32 rama_skill = 4;       // 当前罗摩技能
+    repeated int32 rama_skill_list = 5;       // 罗摩技能列表
+    optional int32 part = 6;       // 部分，0表示普通，1表示罗摩 2表示变身
+    repeated ProtoSkill transfer_skill = 7;       // 当前变身技能
+}
+
+message Proto10400702       // 获取快捷栏方案
+{
+    optional int32 scheme = 1;       // 方案ID; 1方案一, 2方案二, 3方案三
+}
+
+message Proto50400702       // 获取快捷栏方案(返回)
+{
+    optional int32 scheme = 1;       // 方案ID
+    repeated int32 skill_list = 2;       // 技能ID列表
+}
+
+message Proto10400704       // 更新当前快捷栏
+{
+    optional int32 scheme = 1;       // 方案ID；1: 方案一
+    optional int32 index = 2;       // 快捷栏位置, 索引从1开始
+    optional int32 skill_id = 3;       // 技能ID
+}
+
+message Proto10100601       // 仙盟列表
+{
+    optional int32 page_index = 1;       // 第几页
+    optional int32 show_join = 2;       // 是否只显示可加入的，0表示否，1表示是
+}
+
+message Proto10100602       // 创建仙盟
+{
+    optional string league_name = 1;       // 仙盟名
+    optional string league_intro = 2;       // 仙盟介绍
+    optional int32 create_type = 3;       // 创建类型,1表示绑定元宝，2表示元宝
+}
+
+message Proto10100604       // 申请加入仙盟
+{
+    repeated int64 apply_set = 1;       // 申请列表
+}
+
+message Proto10100605       // 取消申请
+{
+    optional int64 league_index = 1;       // 宗派ID
+}
+
+message Proto50100622       // 查看自己是否有宗派(返回)
+{
+    optional int32 league_flag = 1;       // 是否有宗派，0表示否，1表示有
+}
+
+message Proto50100601       // 宗派列表(返回)
+{
+    optional int32 page_index = 1;       // 当前页
+    optional int32 total_page = 2;       // 总页数
+    repeated ProtoLeagueItem league_set = 3;       // 宗派列表
+}
+
+message Proto50100604       // 申请加入宗派(返回)
+{
+    repeated int64 apply_set = 1;       // 申请列表
+}
+
+message Proto50100606       // 我的宗派(返回)
+{
+    optional int64 league_index = 1;       // 宗派索引
+    optional string league_name = 2;       // 宗派名
+    optional int32 league_count = 3;       // 宗派人数
+    optional int32 league_rank = 4;       // 宗派排名
+    optional int64 leader_id = 5;       // 宗主id
+    optional string leader_name = 6;       // 宗主名称
+    optional int32 league_lvl = 7;       // 宗派等级
+    optional int32 league_resource = 8;       // 宗派资源
+    optional int32 total_resource = 9;       // 升级的总资源
+    optional string league_intro = 10;       // 宗旨
+    optional int32 league_pos = 11;       // 宗派职位
+    optional int32 have_salary = 12;       // 是否有奉禄
+    optional int32 left_recruit_time = 13;       // 剩余招募时间
+    optional int32 is_lstore = 14;       // 开启仙盟仓库，0:否/1：开
+    optional int32 auto_accept = 15;       // 自动接收标识
+    optional int32 leader_career = 16;       // 帮主职业id
+    optional int32 leader_sex = 17;       // 帮主性别
+    optional int32 leader_weapons = 18;       // 帮主神兵id
+    optional int32 leader_wings = 19;       // 帮主翅膀id
+    optional int32 fashion_id = 20;       // 时装id
+    optional int32 fashion_color = 21;       // 时装颜色
+    optional int32 max_role = 22;       // 帮派最大人数
+}
+
+message Proto10100624       // 仙盟商店
+{
+    optional int32 shop_type = 1;       // 商店类型，0道具，1装备
+}
+
+message Proto50100624       // 宗派商店(返回)
+{
+    optional int32 shop_type = 1;       // 商店类型
+    optional int32 cur_contri = 2;       // 当前贡献
+    repeated ProtoLeagueShop shop_set = 3;       // 商店
+}
+
+message Proto10100625       // 仙盟商店购买
+{
+    optional int32 shop_type = 1;       // 商店类型
+    optional int32 buy_item = 2;       // 物品ID
+    optional int32 buy_number = 3;       // 数量
+}
+
+message Proto10100611       // 修改宗旨
+{
+    optional string league_intro = 1;       // 宗旨
+}
+
+message Proto10100621       // 日志
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50100626       // 打开捐献(返回)
+{
+    optional int32 wand = 1;       // 已捐献的帮会令牌
+    optional int32 gold = 2;       // 已捐献的元宝
+    optional int32 my_contri = 3;       // 我的帮贡
+    optional int32 send_flag = 4;       // 是否发送广播，0表示否，1表发送
+    repeated ProtoDonateRank today_rank = 5;       // 今日帮贡排名
+    repeated ProtoDonateRank total_rank = 6;       // 历史帮贡排名
+}
+
+message Proto50100627       // 打开宗派技能(返回)
+{
+    optional int32 cur_contri = 1;       // 当前贡献
+    repeated ProtoPairObj skill_set = 2;       // 已学技能
+}
+
+message Proto10100628       // 仙盟技能升级
+{
+    optional int32 skill_id = 1;       // 技能ID
+}
+
+message Proto50100628       // 宗派技能升级(返回)
+{
+    optional int32 skill_id = 1;       // 技能ID
+    optional int32 skill_level = 2;       // 技能等级
+    optional int32 cur_contri = 3;       // 当前贡献
+}
+
+message Proto10100614       // 成员列表
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50100614       // 成员列表(返回)
+{
+    repeated ProtoLeagueMember member_set = 1;       // 宗派成员
+}
+
+message Proto10100616       // 职位操作
+{
+    optional int64 role_index = 1;       // 玩家ID
+    optional int32 target_pos = 2;       // 目标位置:0.普通10.精英20.长老30.副帮主
+}
+
+message Proto10100617       // 踢出宗派
+{
+    optional int64 role_index = 1;       // 玩家ID
+}
+
+message Proto10100615       // 申请列表
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50100615       // 申请列表(返回)
+{
+    repeated ProtoLeagueApply apply_set = 1;       // 申请列表
+    optional int32 page_index = 2;       // 当前页
+    optional int32 total_page = 3;       // 总页数
+    optional int32 auto_flag = 4;       // 自动接受状态
+    optional int32 accept_force = 5;       // 自动接受的战力
+}
+
+message Proto10100619       // 接受申请
+{
+    repeated int64 role_set = 1;       // 玩家ID
+}
+
+message Proto10100620       // 拒绝申请
+{
+    repeated int64 role_set = 1;       // 玩家ID
+}
+
+message Proto10100613       // 仙盟捐献
+{
+    optional int32 donate_type = 1;       // 捐献类型，0表示帮会令牌，1表示元宝
+    optional int32 donate_number = 2;       // 捐献数量
+    optional int32 send_flag = 3;       // 是否广播，0表示否，1表示是
+}
+
+message Proto10100618       // 转让盟主
+{
+    optional int64 role_index = 1;       // 玩家ID
+}
+
+message Proto50100621       // 日志(返回)
+{
+    repeated ProtoLeagueLog log_set = 1;       // 日志列表
+    optional int32 cur_page = 2;       // 当前页
+    optional int32 total_page = 3;       // 总页数
+}
+
+message Proto11400803       // 领取VIP礼物
+{
+    optional int32 vip_type = 1;       // 要领取的vip等级
+    optional int32 reward_type = 2;       // 礼包类型（0 一次性礼包 1 每周礼包）
+}
+
+message Proto51400804       // 获取角色的VIP信息(返回)
+{
+    optional int32 vip_type = 1;       // vip等级
+    optional int32 isHaveGift = 2;       // 0 没有物品可以领取 1有（暂不用）
+    optional int32 free_divine_reset = 3;       // 免费占卜重置次数（暂不用）
+    optional int32 free_transfer = 4;       // 免费传送次数（暂不用）
+    optional int32 free_divine_get = 5;       // 免费占卜抽取次数（暂不用）
+    optional int32 free_dg_pro_cool = 6;       // 免费境界修炼冷却次数（暂不用）
+    optional int32 need_gold = 7;       // 下一级VIP所需累计充值元宝总额
+    optional int32 gold = 8;       // 玩家充值的元宝总额
+    repeated ProtoItem item_list = 9;       // 奖励品列表（暂不用）
+    repeated ProtoVipGift vip_gift = 10;       // 各个等级奖励品列表
+    repeated ProtoVipGift vip_weekly_gift = 11;       // 周礼包
+    optional int32 free_relive_times = 12;       // 剩余免费复活次数
+    optional int32 weekly_reward = 13;       // 每周礼包 （0 未领 1 已领）
+    optional int32 level_reward = 14;       // 一次性礼包（0未领 1 已领）
+    repeated int32 reward_list = 15;       // 各等级礼包
+}
+
+message Proto51400803       // 领取VIP礼物(返回)
+{
+    optional int32 flag = 1;       // 领取成功（0否，1是）
+    optional int32 reward_type = 2;       // 此次领奖礼包类型
+    optional int32 vip_type = 3;       // 此次领奖vip类型
+    repeated ProtoVipGift reward_list = 4;       // VIP1到10 一次性礼包 1领0未领
+    repeated ProtoVipGift weekly_list = 5;       // 周礼包
+    optional int32 weekly_reward = 6;       // vip周礼包 1领0未领
+}
+
+message Proto10100021       // 获取商城面板信息
+{
+    optional int32 mall_type = 1;       // 商店类型
+}
+
+message Proto50100021       // 获取商城信息（返回）
+{
+    repeated ProtoMallList mall_list = 1;       // 商城列表
+    optional int32 activity_active = 2;       // 是否有商城活动，0：关，1：开
+    optional int32 left_time = 3;       // 剩余时间，单位sec
+    optional int32 vip_lvl = 4;       // 用户当前vip等级(0,1,2,3...)
+}
+
+message Proto10100022       // 赠送商城道具
+{
+    optional int32 shop_type = 1;       // 商城商店类型
+    optional int32 item_id = 2;       // 物品id
+    optional int32 item_anount = 3;       // 物品数量
+    optional string player_name = 4;       // 被赠送者的姓名
+}
+
+message Proto80400208       // 更新玩家信息
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional int32 update_type = 2;       // 更新类型
+    optional int32 mount_id = 3;       // 战骑等级
+    optional int32 weapon_id = 4;       // 正在装备的武器id
+    optional int32 clothes_id = 5;       // 正在装备的衣服id
+    optional int32 fashion_weapon = 6;       // 正在装备的时装武器id
+    optional int32 fashion_id = 7;       // 正在装备的时装id
+    optional int32 fashion_color = 8;       // 正在使用的时装颜色
+    optional int32 cur_label = 9;       // 当前称号
+    optional int64 league_id = 10;       // 宗派ID
+    optional string league_name = 11;       // 宗派名字
+    optional int32 vip_type = 12;       // 0非VIP 100vip1 101vip2 102vip3....
+    optional int64 src_role_id = 13;       // 旧的玩家ID
+    optional int32 role_level = 14;       // 玩家等级
+    optional int32 weapon_lvl = 15;       // 武器等级
+    optional int32 is_protect = 16;       // 0 不是，1 在保护状态中
+    optional int32 value = 17;       // 对应值
+    optional int32 mw_id = 18;       // 法宝id
+    optional int32 mw_rank_lvl = 19;       // 品阶等级
+    optional int32 sword_pool = 20;       // 剑池等级
+    optional int32 hotspring_status = 21;       // 温泉双休状态
+    optional int64 partner_id = 22;       // 伴侣id
+    optional string partner_name = 23;       // 伴侣名字
+    optional int64 wedding_id = 24;       // 结婚id
+    optional int32 wedding_type = 25;       // 结婚类型
+    optional int32 transfer_id = 26;       // 变身id
+}
+
+message Proto10100023       // 商城购买
+{
+    optional int32 shop_type = 1;       // 商店类型
+    optional int32 item_id = 2;       // 物品ID
+    optional int32 buy_amount = 3;       // 购买数量
+}
+
+message Proto10100303       // 任命队长
+{
+    optional int64 role_id = 1;       // 玩家ID
+}
+
+message Proto10100304       // 踢除队员
+{
+    optional int64 role_id = 1;       // 玩家ID
+}
+
+message Proto10100307       // 组队邀请
+{
+    optional int64 role_id = 1;       // 对方玩家ID
+}
+
+message Proto10100309       // 响应邀请入队
+{
+    optional int32 respone_type = 1;       // 响应类型，0表示拒绝，1表示同意
+    repeated int64 role_id = 2;       // 邀请的玩家ID
+}
+
+

@@ -1,0 +1,362 @@
+{
+    "20": {
+        "remark": [
+            "385",
+            "14.5"
+        ],
+        "name": "爆杀",
+        "server_force": 475,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "crit": 385,
+            "percent": 1450,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "11": {
+        "remark": [
+            "250",
+            "10"
+        ],
+        "name": "爆杀",
+        "server_force": 250,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "crit": 250,
+            "percent": 1000,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "10": {
+        "remark": [
+            "235",
+            "9.5"
+        ],
+        "name": "爆杀",
+        "server_force": 225,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "crit": 235,
+            "percent": 950,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "13": {
+        "remark": [
+            "280",
+            "11"
+        ],
+        "name": "爆杀",
+        "server_force": 300,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "crit": 280,
+            "percent": 1100,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "12": {
+        "remark": [
+            "265",
+            "10.5"
+        ],
+        "name": "爆杀",
+        "server_force": 275,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "crit": 265,
+            "percent": 1050,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "15": {
+        "remark": [
+            "310",
+            "12"
+        ],
+        "name": "爆杀",
+        "server_force": 350,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "crit": 310,
+            "percent": 1200,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "14": {
+        "remark": [
+            "295",
+            "11.5"
+        ],
+        "name": "爆杀",
+        "server_force": 325,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "crit": 295,
+            "percent": 1150,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "17": {
+        "remark": [
+            "340",
+            "13"
+        ],
+        "name": "爆杀",
+        "server_force": 400,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "crit": 340,
+            "percent": 1300,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "16": {
+        "remark": [
+            "325",
+            "12.5"
+        ],
+        "name": "爆杀",
+        "server_force": 375,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "crit": 325,
+            "percent": 1250,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "19": {
+        "remark": [
+            "370",
+            "14"
+        ],
+        "name": "爆杀",
+        "server_force": 450,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "crit": 370,
+            "percent": 1400,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "18": {
+        "remark": [
+            "355",
+            "13.5"
+        ],
+        "name": "爆杀",
+        "server_force": 425,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "crit": 355,
+            "percent": 1350,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "1": {
+        "remark": [
+            "100",
+            "5"
+        ],
+        "name": "爆杀",
+        "server_force": 0,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "crit": 100,
+            "percent": 500,
+            "blood_per": 3000
+        },
+        "add_fight": 1500
+    },
+    "3": {
+        "remark": [
+            "130",
+            "6"
+        ],
+        "name": "爆杀",
+        "server_force": 50,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "crit": 130,
+            "percent": 600,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "2": {
+        "remark": [
+            "115",
+            "5.5"
+        ],
+        "name": "爆杀",
+        "server_force": 25,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "crit": 115,
+            "percent": 550,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "5": {
+        "remark": [
+            "160",
+            "7"
+        ],
+        "name": "爆杀",
+        "server_force": 100,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "crit": 160,
+            "percent": 700,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "4": {
+        "remark": [
+            "145",
+            "6.5"
+        ],
+        "name": "爆杀",
+        "server_force": 75,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "crit": 145,
+            "percent": 650,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "7": {
+        "remark": [
+            "190",
+            "8"
+        ],
+        "name": "爆杀",
+        "server_force": 150,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "crit": 190,
+            "percent": 800,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "6": {
+        "remark": [
+            "175",
+            "7.5"
+        ],
+        "name": "爆杀",
+        "server_force": 125,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "crit": 175,
+            "percent": 750,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "9": {
+        "remark": [
+            "220",
+            "9"
+        ],
+        "name": "爆杀",
+        "server_force": 200,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "crit": 220,
+            "percent": 900,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    },
+    "8": {
+        "remark": [
+            "205",
+            "8.5"
+        ],
+        "name": "爆杀",
+        "server_force": 175,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "crit": 205,
+            "percent": 850,
+            "blood_per": 3000
+        },
+        "add_fight": 250
+    }
+}

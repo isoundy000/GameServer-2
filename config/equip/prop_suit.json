@@ -1,0 +1,766 @@
+{
+    "21002": {
+        "defence": 20,
+        "name": "10个2级宝石",
+        "gen_num": 10,
+        "lv": 2,
+        "attack": 40,
+        "health": 200,
+        "gen_lv": 2,
+        "type": 2
+    },
+    "10857": {
+        "defence": 570,
+        "all_str_lv": 57,
+        "name": "全身强化+57",
+        "lv": 57,
+        "attack": 1140,
+        "health": 11400,
+        "type": 1
+    },
+    "10856": {
+        "defence": 560,
+        "all_str_lv": 56,
+        "name": "全身强化+56",
+        "lv": 56,
+        "attack": 1120,
+        "health": 11200,
+        "type": 1
+    },
+    "10855": {
+        "defence": 550,
+        "all_str_lv": 55,
+        "name": "全身强化+55",
+        "lv": 55,
+        "attack": 1100,
+        "health": 11000,
+        "type": 1
+    },
+    "10854": {
+        "defence": 540,
+        "all_str_lv": 54,
+        "name": "全身强化+54",
+        "lv": 54,
+        "attack": 1080,
+        "health": 10800,
+        "type": 1
+    },
+    "10853": {
+        "defence": 530,
+        "all_str_lv": 53,
+        "name": "全身强化+53",
+        "lv": 53,
+        "attack": 1060,
+        "health": 10600,
+        "type": 1
+    },
+    "10852": {
+        "defence": 520,
+        "all_str_lv": 52,
+        "name": "全身强化+52",
+        "lv": 52,
+        "attack": 1040,
+        "health": 10400,
+        "type": 1
+    },
+    "10851": {
+        "defence": 510,
+        "all_str_lv": 51,
+        "name": "全身强化+51",
+        "lv": 51,
+        "attack": 1020,
+        "health": 10200,
+        "type": 1
+    },
+    "10850": {
+        "defence": 500,
+        "all_str_lv": 50,
+        "name": "全身强化+50",
+        "lv": 50,
+        "attack": 1000,
+        "health": 10000,
+        "type": 1
+    },
+    "10859": {
+        "defence": 590,
+        "all_str_lv": 59,
+        "name": "全身强化+59",
+        "lv": 59,
+        "attack": 1180,
+        "health": 11800,
+        "type": 1
+    },
+    "10858": {
+        "defence": 580,
+        "all_str_lv": 58,
+        "name": "全身强化+58",
+        "lv": 58,
+        "attack": 1160,
+        "health": 11600,
+        "type": 1
+    },
+    "10813": {
+        "defence": 130,
+        "all_str_lv": 13,
+        "name": "全身强化+13",
+        "lv": 13,
+        "attack": 260,
+        "health": 2600,
+        "type": 1
+    },
+    "10812": {
+        "defence": 120,
+        "all_str_lv": 12,
+        "name": "全身强化+12",
+        "lv": 12,
+        "attack": 240,
+        "health": 2400,
+        "type": 1
+    },
+    "10811": {
+        "defence": 110,
+        "all_str_lv": 11,
+        "name": "全身强化+11",
+        "lv": 11,
+        "attack": 220,
+        "health": 2200,
+        "type": 1
+    },
+    "10810": {
+        "defence": 100,
+        "all_str_lv": 10,
+        "name": "全身强化+10",
+        "lv": 10,
+        "attack": 200,
+        "health": 2000,
+        "type": 1
+    },
+    "10817": {
+        "defence": 170,
+        "all_str_lv": 17,
+        "name": "全身强化+17",
+        "lv": 17,
+        "attack": 340,
+        "health": 3400,
+        "type": 1
+    },
+    "10816": {
+        "defence": 160,
+        "all_str_lv": 16,
+        "name": "全身强化+16",
+        "lv": 16,
+        "attack": 320,
+        "health": 3200,
+        "type": 1
+    },
+    "10815": {
+        "defence": 150,
+        "all_str_lv": 15,
+        "name": "全身强化+15",
+        "lv": 15,
+        "attack": 300,
+        "health": 3000,
+        "type": 1
+    },
+    "10814": {
+        "defence": 140,
+        "all_str_lv": 14,
+        "name": "全身强化+14",
+        "lv": 14,
+        "attack": 280,
+        "health": 2800,
+        "type": 1
+    },
+    "10819": {
+        "defence": 190,
+        "all_str_lv": 19,
+        "name": "全身强化+19",
+        "lv": 19,
+        "attack": 380,
+        "health": 3800,
+        "type": 1
+    },
+    "10818": {
+        "defence": 180,
+        "all_str_lv": 18,
+        "name": "全身强化+18",
+        "lv": 18,
+        "attack": 360,
+        "health": 3600,
+        "type": 1
+    },
+    "10840": {
+        "defence": 400,
+        "all_str_lv": 40,
+        "name": "全身强化+40",
+        "lv": 40,
+        "attack": 800,
+        "health": 8000,
+        "type": 1
+    },
+    "10841": {
+        "defence": 410,
+        "all_str_lv": 41,
+        "name": "全身强化+41",
+        "lv": 41,
+        "attack": 820,
+        "health": 8200,
+        "type": 1
+    },
+    "10842": {
+        "defence": 420,
+        "all_str_lv": 42,
+        "name": "全身强化+42",
+        "lv": 42,
+        "attack": 840,
+        "health": 8400,
+        "type": 1
+    },
+    "10843": {
+        "defence": 430,
+        "all_str_lv": 43,
+        "name": "全身强化+43",
+        "lv": 43,
+        "attack": 860,
+        "health": 8600,
+        "type": 1
+    },
+    "10844": {
+        "defence": 440,
+        "all_str_lv": 44,
+        "name": "全身强化+44",
+        "lv": 44,
+        "attack": 880,
+        "health": 8800,
+        "type": 1
+    },
+    "10845": {
+        "defence": 450,
+        "all_str_lv": 45,
+        "name": "全身强化+45",
+        "lv": 45,
+        "attack": 900,
+        "health": 9000,
+        "type": 1
+    },
+    "10846": {
+        "defence": 460,
+        "all_str_lv": 46,
+        "name": "全身强化+46",
+        "lv": 46,
+        "attack": 920,
+        "health": 9200,
+        "type": 1
+    },
+    "10847": {
+        "defence": 470,
+        "all_str_lv": 47,
+        "name": "全身强化+47",
+        "lv": 47,
+        "attack": 940,
+        "health": 9400,
+        "type": 1
+    },
+    "10848": {
+        "defence": 480,
+        "all_str_lv": 48,
+        "name": "全身强化+48",
+        "lv": 48,
+        "attack": 960,
+        "health": 9600,
+        "type": 1
+    },
+    "10849": {
+        "defence": 490,
+        "all_str_lv": 49,
+        "name": "全身强化+49",
+        "lv": 49,
+        "attack": 980,
+        "health": 9800,
+        "type": 1
+    },
+    "10808": {
+        "defence": 80,
+        "all_str_lv": 8,
+        "name": "全身强化+8",
+        "lv": 8,
+        "attack": 160,
+        "health": 1600,
+        "type": 1
+    },
+    "10809": {
+        "defence": 90,
+        "all_str_lv": 9,
+        "name": "全身强化+9",
+        "lv": 9,
+        "attack": 180,
+        "health": 1800,
+        "type": 1
+    },
+    "10804": {
+        "defence": 40,
+        "all_str_lv": 4,
+        "name": "全身强化+4",
+        "lv": 4,
+        "attack": 80,
+        "health": 800,
+        "type": 1
+    },
+    "10805": {
+        "defence": 50,
+        "all_str_lv": 5,
+        "name": "全身强化+5",
+        "lv": 5,
+        "attack": 100,
+        "health": 1000,
+        "type": 1
+    },
+    "10806": {
+        "defence": 60,
+        "all_str_lv": 6,
+        "name": "全身强化+6",
+        "lv": 6,
+        "attack": 120,
+        "health": 1200,
+        "type": 1
+    },
+    "10807": {
+        "defence": 70,
+        "all_str_lv": 7,
+        "name": "全身强化+7",
+        "lv": 7,
+        "attack": 140,
+        "health": 1400,
+        "type": 1
+    },
+    "10801": {
+        "defence": 10,
+        "all_str_lv": 1,
+        "name": "全身强化+1",
+        "lv": 1,
+        "attack": 20,
+        "health": 200,
+        "type": 1
+    },
+    "10802": {
+        "defence": 20,
+        "all_str_lv": 2,
+        "name": "全身强化+2",
+        "lv": 2,
+        "attack": 40,
+        "health": 400,
+        "type": 1
+    },
+    "10803": {
+        "defence": 30,
+        "all_str_lv": 3,
+        "name": "全身强化+3",
+        "lv": 3,
+        "attack": 60,
+        "health": 600,
+        "type": 1
+    },
+    "20502": {
+        "defence": 10,
+        "name": "5个2级宝石",
+        "gen_num": 5,
+        "lv": 1,
+        "attack": 20,
+        "health": 100,
+        "gen_lv": 2,
+        "type": 2
+    },
+    "22409": {
+        "defence": 110,
+        "name": "24个9级宝石",
+        "gen_num": 24,
+        "lv": 11,
+        "attack": 220,
+        "health": 1100,
+        "gen_lv": 9,
+        "type": 2
+    },
+    "22408": {
+        "defence": 100,
+        "name": "24个8级宝石",
+        "gen_num": 24,
+        "lv": 10,
+        "attack": 200,
+        "health": 1000,
+        "gen_lv": 8,
+        "type": 2
+    },
+    "22405": {
+        "defence": 70,
+        "name": "24个5级宝石",
+        "gen_num": 24,
+        "lv": 7,
+        "attack": 140,
+        "health": 700,
+        "gen_lv": 5,
+        "type": 2
+    },
+    "22404": {
+        "defence": 60,
+        "name": "24个4级宝石",
+        "gen_num": 24,
+        "lv": 6,
+        "attack": 120,
+        "health": 600,
+        "gen_lv": 4,
+        "type": 2
+    },
+    "22407": {
+        "defence": 90,
+        "name": "24个7级宝石",
+        "gen_num": 24,
+        "lv": 9,
+        "attack": 180,
+        "health": 900,
+        "gen_lv": 7,
+        "type": 2
+    },
+    "22406": {
+        "defence": 80,
+        "name": "24个6级宝石",
+        "gen_num": 24,
+        "lv": 8,
+        "attack": 160,
+        "health": 800,
+        "gen_lv": 6,
+        "type": 2
+    },
+    "22403": {
+        "defence": 50,
+        "name": "24个3级宝石",
+        "gen_num": 24,
+        "lv": 5,
+        "attack": 100,
+        "health": 500,
+        "gen_lv": 3,
+        "type": 2
+    },
+    "22402": {
+        "defence": 40,
+        "name": "24个2级宝石",
+        "gen_num": 24,
+        "lv": 4,
+        "attack": 80,
+        "health": 400,
+        "gen_lv": 2,
+        "type": 2
+    },
+    "21502": {
+        "defence": 30,
+        "name": "15个2级宝石",
+        "gen_num": 15,
+        "lv": 3,
+        "attack": 60,
+        "health": 300,
+        "gen_lv": 2,
+        "type": 2
+    },
+    "10835": {
+        "defence": 350,
+        "all_str_lv": 35,
+        "name": "全身强化+35",
+        "lv": 35,
+        "attack": 700,
+        "health": 7000,
+        "type": 1
+    },
+    "10834": {
+        "defence": 340,
+        "all_str_lv": 34,
+        "name": "全身强化+34",
+        "lv": 34,
+        "attack": 680,
+        "health": 6800,
+        "type": 1
+    },
+    "10837": {
+        "defence": 370,
+        "all_str_lv": 37,
+        "name": "全身强化+37",
+        "lv": 37,
+        "attack": 740,
+        "health": 7400,
+        "type": 1
+    },
+    "10836": {
+        "defence": 360,
+        "all_str_lv": 36,
+        "name": "全身强化+36",
+        "lv": 36,
+        "attack": 720,
+        "health": 7200,
+        "type": 1
+    },
+    "10831": {
+        "defence": 310,
+        "all_str_lv": 31,
+        "name": "全身强化+31",
+        "lv": 31,
+        "attack": 620,
+        "health": 6200,
+        "type": 1
+    },
+    "10830": {
+        "defence": 300,
+        "all_str_lv": 30,
+        "name": "全身强化+30",
+        "lv": 30,
+        "attack": 600,
+        "health": 6000,
+        "type": 1
+    },
+    "10833": {
+        "defence": 330,
+        "all_str_lv": 33,
+        "name": "全身强化+33",
+        "lv": 33,
+        "attack": 660,
+        "health": 6600,
+        "type": 1
+    },
+    "10832": {
+        "defence": 320,
+        "all_str_lv": 32,
+        "name": "全身强化+32",
+        "lv": 32,
+        "attack": 640,
+        "health": 6400,
+        "type": 1
+    },
+    "10839": {
+        "defence": 390,
+        "all_str_lv": 39,
+        "name": "全身强化+39",
+        "lv": 39,
+        "attack": 780,
+        "health": 7800,
+        "type": 1
+    },
+    "10838": {
+        "defence": 380,
+        "all_str_lv": 38,
+        "name": "全身强化+38",
+        "lv": 38,
+        "attack": 760,
+        "health": 7600,
+        "type": 1
+    },
+    "30808": {
+        "dodge": 269,
+        "defence": 1690,
+        "hit": 338,
+        "name": "全身红装8阶",
+        "lv": 8,
+        "attack": 3380,
+        "health": 33800,
+        "crit": 269,
+        "all_str_lv": 8,
+        "type": 3,
+        "toughness": 208
+    },
+    "30806": {
+        "dodge": 208,
+        "defence": 1300,
+        "hit": 260,
+        "name": "全身红装6阶",
+        "lv": 6,
+        "attack": 2600,
+        "health": 26000,
+        "crit": 208,
+        "all_str_lv": 6,
+        "type": 3,
+        "toughness": 156
+    },
+    "30807": {
+        "dodge": 236,
+        "defence": 1480,
+        "hit": 296,
+        "name": "全身红装7阶",
+        "lv": 7,
+        "attack": 2960,
+        "health": 29600,
+        "crit": 236,
+        "all_str_lv": 7,
+        "type": 3,
+        "toughness": 180
+    },
+    "30804": {
+        "dodge": 164,
+        "defence": 1030,
+        "hit": 205,
+        "name": "全身红装4阶",
+        "lv": 4,
+        "attack": 2060,
+        "health": 20600,
+        "crit": 164,
+        "all_str_lv": 4,
+        "type": 3,
+        "toughness": 124
+    },
+    "30805": {
+        "dodge": 184,
+        "defence": 1160,
+        "hit": 230,
+        "name": "全身红装5阶",
+        "lv": 5,
+        "attack": 2320,
+        "health": 23200,
+        "crit": 184,
+        "all_str_lv": 5,
+        "type": 3,
+        "toughness": 140
+    },
+    "30802": {
+        "dodge": 112,
+        "defence": 700,
+        "hit": 140,
+        "name": "全身红装2阶",
+        "lv": 2,
+        "attack": 1400,
+        "health": 14000,
+        "crit": 112,
+        "all_str_lv": 2,
+        "type": 3,
+        "toughness": 84
+    },
+    "30803": {
+        "dodge": 144,
+        "defence": 900,
+        "hit": 180,
+        "name": "全身红装3阶",
+        "lv": 3,
+        "attack": 1800,
+        "health": 18000,
+        "crit": 144,
+        "all_str_lv": 3,
+        "type": 3,
+        "toughness": 108
+    },
+    "22410": {
+        "defence": 120,
+        "name": "24个10级宝石",
+        "gen_num": 24,
+        "lv": 12,
+        "attack": 240,
+        "health": 1200,
+        "gen_lv": 10,
+        "type": 2
+    },
+    "30801": {
+        "dodge": 80,
+        "defence": 500,
+        "hit": 100,
+        "name": "全身红装1阶",
+        "lv": 1,
+        "attack": 1000,
+        "health": 10000,
+        "crit": 80,
+        "all_str_lv": 1,
+        "type": 3,
+        "toughness": 60
+    },
+    "10826": {
+        "defence": 260,
+        "all_str_lv": 26,
+        "name": "全身强化+26",
+        "lv": 26,
+        "attack": 520,
+        "health": 5200,
+        "type": 1
+    },
+    "10827": {
+        "defence": 270,
+        "all_str_lv": 27,
+        "name": "全身强化+27",
+        "lv": 27,
+        "attack": 540,
+        "health": 5400,
+        "type": 1
+    },
+    "10824": {
+        "defence": 240,
+        "all_str_lv": 24,
+        "name": "全身强化+24",
+        "lv": 24,
+        "attack": 480,
+        "health": 4800,
+        "type": 1
+    },
+    "10825": {
+        "defence": 250,
+        "all_str_lv": 25,
+        "name": "全身强化+25",
+        "lv": 25,
+        "attack": 500,
+        "health": 5000,
+        "type": 1
+    },
+    "10822": {
+        "defence": 220,
+        "all_str_lv": 22,
+        "name": "全身强化+22",
+        "lv": 22,
+        "attack": 440,
+        "health": 4400,
+        "type": 1
+    },
+    "10823": {
+        "defence": 230,
+        "all_str_lv": 23,
+        "name": "全身强化+23",
+        "lv": 23,
+        "attack": 460,
+        "health": 4600,
+        "type": 1
+    },
+    "10820": {
+        "defence": 200,
+        "all_str_lv": 20,
+        "name": "全身强化+20",
+        "lv": 20,
+        "attack": 400,
+        "health": 4000,
+        "type": 1
+    },
+    "10821": {
+        "defence": 210,
+        "all_str_lv": 21,
+        "name": "全身强化+21",
+        "lv": 21,
+        "attack": 420,
+        "health": 4200,
+        "type": 1
+    },
+    "10860": {
+        "defence": 600,
+        "all_str_lv": 60,
+        "name": "全身强化+60",
+        "lv": 60,
+        "attack": 1200,
+        "health": 12000,
+        "type": 1
+    },
+    "10828": {
+        "defence": 280,
+        "all_str_lv": 28,
+        "name": "全身强化+28",
+        "lv": 28,
+        "attack": 560,
+        "health": 5600,
+        "type": 1
+    },
+    "10829": {
+        "defence": 290,
+        "all_str_lv": 29,
+        "name": "全身强化+29",
+        "lv": 29,
+        "attack": 580,
+        "health": 5800,
+        "type": 1
+    }
+}

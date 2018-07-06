@@ -1,0 +1,134 @@
+{
+    "scene_id" : 40006,
+    "name" : "封神之战",
+    "level" : 30,
+	"rank_show" : 50,   // 排行每次显示个数
+	"state_locked" : 1, //进入该场景后，战斗状态不可以改变
+	"default_state": 1, //进入该场景时，战斗状态设置为0 和平，1 全体， 2 队伍，3 宗派，4善恶
+	"recover_state": 1, //退出场景时是否要恢复进入场景前的战斗状态
+    "relive" : {
+        "type" : "11",
+        "relive_item" : 200000016,
+		"wait" : 1, 
+        "multi_point" : [[1930,770],[3010,1610],[1930,2280],[810,1610]],
+		"state" : [50,100,50] //复活点复活，道具复活，随机点复活 
+    },
+    "floor" : [{
+        "floor" : 1,
+        "exploit" : [10, 70],     // 每10秒发70功勋
+		"floor_exploit_rate" : 400, // 活动结束时发放的该层功勋奖励倍数
+        "kill_amount" : 2   // 总击杀数
+    },{
+        "floor" : 2,
+        "exploit" : [10, 80],     // 每5秒发1000功勋
+		"floor_exploit_rate" : 300, // 活动结束时发放的该层功勋奖励倍数                       
+		"bekill_amount" : 3,   // 被杀多少次退层
+        "kill_amount" : 2   // 总击杀数
+    },{
+        "floor" : 3,
+        "exploit" : [10, 90],     // 每5秒发1000功勋
+		"floor_exploit_rate" : 270, // 活动结束时发放的该层功勋奖励倍数
+		"bekill_amount" : 3,   // 被杀多少次退层
+        "kill_amount" : 3   // 总击杀数
+    },
+	{
+        "floor" : 4,
+        "exploit" : [10, 100],     // 每5秒发1000功勋
+		"floor_exploit_rate" : 250, // 活动结束时发放的该层功勋奖励倍数
+		"bekill_amount" : 2,   // 被杀多少次退层
+        "kill_amount" : 3   // 总击杀数
+    },
+	{
+        "floor" : 5,
+        "exploit" : [10, 120],     // 每5秒发1000功勋
+		"floor_exploit_rate" : 240, // 活动结束时发放的该层功勋奖励倍数
+		"bekill_amount" : 1 // 被杀多少次退层
+    }],
+    "layout" : [{
+        "floor" : 1,    // 此怪物属于第一层
+		"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 506030001,
+        "monster_tree" : "bev400041.json",   // 暂时用蜀山的行为树
+        "born_range" : 0,              // 离中心点范围（格子）
+        "center_coordxy" : [1420,1490,2420,1490], // 出生中心点
+        "born_count" : 1,          // 最多多少只怪存活
+        "born_interval" : 10,     // 生成间隔
+        "skill_set" : [409000001]   // 技能集合
+    },{
+        "floor" : 2,    // 此怪物属于第二层
+		"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 506030002,
+        "monster_tree" : "bev400041.json",
+        "born_range" : 0,
+        "center_coordxy" : [1420,1490,2420,1490],
+        "born_count" : 1,
+        "born_interval" : 20,
+        "skill_set" : [409000001]
+    },{
+        "floor" : 3,
+		"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 506030003,
+        "monster_tree" : "bev400041.json",
+        "born_range" : 0,
+        "center_coordxy" : [1930,1440],
+        "born_count" : 1,
+        "born_interval" : 30,
+        "skill_set" : [409000001]
+    },
+	{
+        "floor" : 4,
+		"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 506030004,
+        "monster_tree" : "bev400041.json",
+        "born_range" : 0,
+        "center_coordxy" :[1930,1440],
+        "born_count" : 1,
+        "born_interval" : 40,
+        "skill_set" : [409000001]
+    },
+	{
+        "floor" : 5,
+		"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 505030001,
+        "monster_tree" : "bev1001.json",
+        "born_range" : 0,
+        "center_coordxy" : [1930,1440],
+        "born_count" : 1,
+        "born_interval" : 9999999,
+        "skill_set" : [409000001],
+		"flag_set" : ["no_move"]
+    }],
+	"gather_award" : {"view_buff" : 50, "last": 99999, "value" : 10, "tips_id" : 50},
+	"rank_award" : [{
+        "rank" : [1, 1], 
+        "label" : 1000030,  // 称号ID
+        "item" : [[200001003, 10,2]]   // [道具ID,数量,绑定] 
+    },
+	{
+        "rank" : [2, 3], 
+        "label" : 1000031,  // 称号ID
+        "item" : [[200001003,9,2]]   // [道具ID,数量,绑定] 
+    },
+	{
+        "rank" : [4, 10], 
+        "label" : 1000032,  // 称号ID
+        "item" : [[200001003,8,2]]   // [道具ID,数量,绑定] 
+    },
+	{
+        "rank" : [11, 20], 
+        "item" : [[200001003,7,2]]   // [道具ID,数量,绑定] 
+    },
+	{
+        "rank" : [21, 50], 
+        "item" : [[200001003,6,2]]   // [道具ID,数量,绑定] 
+    },
+	{
+        "rank" : [50, 99999], 
+        "item" : [[200001003,5,2]]   // [道具ID,数量,绑定] 
+    }]
+}

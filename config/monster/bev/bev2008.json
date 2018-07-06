@@ -1,0 +1,60 @@
+{
+	"node_name": "怪物攻城守城大将(不移动)",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "ParaSelNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "怪物有目标",
+					"ext_precond": "hava_aim_pre",
+					"node_type": "control",
+					"node_action": "PrioSelNode",
+					"node_tree": 
+					[
+						{
+							"node_name": "达到攻击距离",
+							"ext_precond": "attack_pre",
+							"node_type": "control",
+							"node_action": "PrioSelNode",
+							"node_tree": [{
+								"node_name": "向内圈靠近",
+								"ext_precond": "near_inner_pre",
+								"node_type": "action",
+								"node_action": "move_action"
+							},{
+								"node_name": "执行攻击",
+								"node_type": "action",
+								"node_action": "attack_action"
+							}]
+						}
+					]
+				}
+			]
+		}
+	]
+}

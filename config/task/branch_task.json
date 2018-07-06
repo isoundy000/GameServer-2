@@ -1,0 +1,1730 @@
+{
+    "500000000": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 获得变身",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        102
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,Lua_ChangeWindow,0",
+            "effect_id": 102,
+            "desc": "获得一个[00ff00]变身[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                45,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "获得一个[ff9c00]变身[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500000001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 开启婚姻",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        100
+                    ],
+                    "value": 57
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,SWORD_WINDOW,0",
+            "effect_id": 102,
+            "desc": "等级提升到[00ff00]57级开启婚姻功能[-]，奖励[ff9c00]结婚材料[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                53,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "等级提升到[ff9c00]57级开启婚姻功能[-]，奖励[ff9c00]结婚材料[-]"
+        },
+        "award_id": 29001,
+        "sub_type": 0
+    },
+    "500000002": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 结婚",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        101
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,MarriageWindow,0",
+            "effect_id": 102,
+            "desc": "前往[00ff00]红娘处举办婚礼[-]，奖励[ff9c00]地久之恋[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                57,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "前往[ff9c00]红娘处举办婚礼[-]，奖励[ff9c00]地久之恋[-]"
+        },
+        "award_id": 29002,
+        "sub_type": 0
+    },
+    "500100001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 武器强化",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        1
+                    ],
+                    "value": 3
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,ForgeWindow,0",
+            "effect_id": 102,
+            "desc": "将[00ff00]武器强化+3[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "将[00ff00]武器强化+3[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500200001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 经验副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        10
+                    ],
+                    "value": 15
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,1",
+            "effect_id": 102,
+            "desc": "通关[00ff00]经验副本第15关[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]经验副本第15关[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20101
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]骑宠副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                21,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]骑宠副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300002": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20102
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]宝器副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                29,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]宝器副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300003": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20103
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]仙童副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                42,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]仙童副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300004": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20104
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]神翼副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                55,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]神翼副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300005": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20105
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]魔刃副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                60,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]魔刃副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300006": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20106
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]仙武副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                65,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]仙武副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300007": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20107
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]仙兽副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                68,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]仙兽副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300008": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20108
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]仙翼副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                75,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]仙翼副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300009": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20109
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]灵兽副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                78,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]灵兽副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500300010": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 进阶副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20110
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,13",
+            "effect_id": 102,
+            "desc": "通关[00ff00]元神副本[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                80,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]元神副本[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20301
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]逃离凌烟阁[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]逃离凌烟阁[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400002": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20302
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]畅春园扬威[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                55,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]畅春园扬威[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400003": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20303
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]应天府缉凶[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                65,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]应天府缉凶[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400004": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20304
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]悬空岛求真[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                75,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]悬空岛求真[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400005": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20305
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]大闹燕王殿[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                85,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]大闹燕王殿[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400006": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20306
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]戏耍极乐宫[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                95,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]戏耍极乐宫[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500400007": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 剧情副本",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        20307
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,2",
+            "effect_id": 102,
+            "desc": "通关[00ff00]直捣神龙教[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                105,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]直捣神龙教[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500500001": {
+        "precondition": 0,
+        "postcondition": 500500002,
+        "task_type": 2,
+        "task_name": " 凌烟魔塔",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        80
+                    ],
+                    "value": 4
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,12",
+            "effect_id": 102,
+            "desc": "通关[00ff00]凌烟魔塔第4层[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]凌烟魔塔第4层[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500500002": {
+        "precondition": 500500001,
+        "postcondition": 500500003,
+        "task_type": 2,
+        "task_name": " 凌烟魔塔",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        80
+                    ],
+                    "value": 8
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,12",
+            "effect_id": 102,
+            "desc": "通关[00ff00]凌烟魔塔第8层[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]凌烟魔塔第8层[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500500003": {
+        "precondition": 500500002,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 凌烟魔塔",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        80
+                    ],
+                    "value": 12
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,COPY_WINDOW,12",
+            "effect_id": 102,
+            "desc": "通关[00ff00]凌烟魔塔第12层[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "通关[00ff00]凌烟魔塔第12层[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500600001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 加入帮派",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        90
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,FACTION_WINDOW,5",
+            "effect_id": 102,
+            "desc": "[00ff00]加入一个帮派[-]"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "[00ff00]加入一个帮派[-]"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    },
+    "500700001": {
+        "precondition": 0,
+        "postcondition": 0,
+        "task_type": 2,
+        "task_name": " 首充",
+        "exec": {
+            "abandon": 0,
+            "fbjudge": 0,
+            "cond_independent": 0,
+            "condition": [
+                {
+                    "type": "branch",
+                    "id": [
+                        91
+                    ],
+                    "value": 1
+                }
+            ],
+            "fast_finish": {
+                "item": [
+                    0,
+                    0
+                ],
+                "is_fast": 0,
+                "money": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "describe": {
+            "decs": "凌烟阁祭祖投军，风亭顶踏云送兵",
+            "title": "第一章.百年凌烟"
+        },
+        "after_accept": {
+            "open": "1,CHARGEGIFTWINDOW,1",
+            "effect_id": 102,
+            "desc": "首充即可获得[ff9c00]完美橙装[-]和[ff9c00]升级丹[-]等丰厚奖励"
+        },
+        "award": {
+            "career_indentify": {
+                "money": 0,
+                "exp": 0
+            }
+        },
+        "before_accept": {
+            "career": 0,
+            "auto_accept": 0,
+            "accept_times": 1,
+            "level": [
+                1,
+                48,
+                999999
+            ]
+        },
+        "finish": {
+            "effect_id": 103,
+            "desc": "首充即可获得[ff9c00]完美橙装[-]和[ff9c00]升级丹[-]等丰厚奖励"
+        },
+        "award_id": 29999,
+        "sub_type": 0
+    }
+}

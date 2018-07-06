@@ -1,0 +1,85 @@
+{
+	"node_name": "召唤傀儡根结点",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name" : "定时回收",
+			"ext_precond" : "recycle_tick_pre",
+			"ext_field_name_1" : "recycle_tick",
+			"node_type" : "action",
+			"node_action" : "recycle_action"
+		},
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "ParaSelNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "怪物没有目标",
+					"ext_precond": "no_aim_pre",
+					"node_type": "control",
+					"node_action": "PrioSelNode",
+					"node_tree": 
+					[
+						{
+							/*选择区域怪*/
+							"node_name": "选择目标",
+							"ext_precond":"select_mode_monster",
+							"node_type": "action", 
+							"node_action": "select_action"
+						},
+                        {
+                            /*跟随调用者走*/
+							"node_name": "跟随",
+							"node_type": "action", 
+							"node_action": "follow_action"
+
+                        }
+					]
+				},
+				{
+					"node_name": "怪物有目标",
+					"ext_precond": "hava_aim_pre",
+					"node_type": "control",
+					"node_action": "PrioSelNode",
+					"node_tree": 
+					[
+						{
+							"node_name": "攻击",
+							"ext_precond": "attack_pre",
+							"node_type": "action",
+							"node_action": "attack_action"
+						},
+						{
+							"node_name": "追逐",
+							"node_type": "action",
+							"node_action": "chase_action"
+						}
+					]
+				}
+			]
+		}
+	]
+}

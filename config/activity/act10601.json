@@ -1,0 +1,37 @@
+{
+    "1": {
+        "content": "骑宠榜第1名",
+        "reward_type": 1,
+        "cond": [
+            1,
+            1
+        ],
+        "name": "骑宠榜第1名",
+        "reward_id": 804101
+    },
+    "3": {
+        "content": "骑宠榜第4-10名",
+        "reward_type": 1,
+        "cond": [
+            4,
+            10
+        ],
+        "name": "骑宠榜第4-10名",
+        "reward_id": 804103
+    },
+    "2": {
+        "content": "骑宠榜第2-3名",
+        "reward_type": 1,
+        "cond": [
+            2,
+            3
+        ],
+        "name": "骑宠榜第2-3名",
+        "reward_id": 804102
+    },
+    "4": {
+        "content": "骑宠达到4阶",
+        "name": "骑宠达到4阶",
+        "reward_id": 804104
+    }
+}

@@ -1,0 +1,402 @@
+{
+    "20": {
+        "remark": [
+            "25",
+            "385"
+        ],
+        "name": "护体",
+        "server_force": 3850,
+        "upgrade_goods": [
+            216130301,
+            5
+        ],
+        "detail": {
+            "value": 385,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2500,
+            "id": 10032
+        },
+        "add_fight": 150
+    },
+    "11": {
+        "remark": [
+            "21",
+            "250"
+        ],
+        "name": "护体",
+        "server_force": 1875,
+        "upgrade_goods": [
+            216130301,
+            3
+        ],
+        "detail": {
+            "value": 250,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2100,
+            "id": 10032
+        },
+        "add_fight": 465
+    },
+    "10": {
+        "remark": [
+            "18",
+            "235"
+        ],
+        "name": "护体",
+        "server_force": 1410,
+        "upgrade_goods": [
+            216130301,
+            3
+        ],
+        "detail": {
+            "value": 235,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1800,
+            "id": 10032
+        },
+        "add_fight": 90
+    },
+    "13": {
+        "remark": [
+            "21",
+            "280"
+        ],
+        "name": "护体",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216130301,
+            4
+        ],
+        "detail": {
+            "value": 280,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2100,
+            "id": 10032
+        },
+        "add_fight": 115
+    },
+    "12": {
+        "remark": [
+            "21",
+            "265"
+        ],
+        "name": "护体",
+        "server_force": 1985,
+        "upgrade_goods": [
+            216130301,
+            3
+        ],
+        "detail": {
+            "value": 265,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2100,
+            "id": 10032
+        },
+        "add_fight": 110
+    },
+    "15": {
+        "remark": [
+            "21",
+            "310"
+        ],
+        "name": "护体",
+        "server_force": 2325,
+        "upgrade_goods": [
+            216130301,
+            4
+        ],
+        "detail": {
+            "value": 310,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2100,
+            "id": 10032
+        },
+        "add_fight": 115
+    },
+    "14": {
+        "remark": [
+            "21",
+            "295"
+        ],
+        "name": "护体",
+        "server_force": 2210,
+        "upgrade_goods": [
+            216130301,
+            4
+        ],
+        "detail": {
+            "value": 295,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2100,
+            "id": 10032
+        },
+        "add_fight": 110
+    },
+    "17": {
+        "remark": [
+            "25",
+            "340"
+        ],
+        "name": "护体",
+        "server_force": 3400,
+        "upgrade_goods": [
+            216130301,
+            5
+        ],
+        "detail": {
+            "value": 340,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2500,
+            "id": 10032
+        },
+        "add_fight": 150
+    },
+    "16": {
+        "remark": [
+            "25",
+            "325"
+        ],
+        "name": "护体",
+        "server_force": 3250,
+        "upgrade_goods": [
+            216130301,
+            4
+        ],
+        "detail": {
+            "value": 325,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2500,
+            "id": 10032
+        },
+        "add_fight": 925
+    },
+    "19": {
+        "remark": [
+            "25",
+            "370"
+        ],
+        "name": "护体",
+        "server_force": 3700,
+        "upgrade_goods": [
+            216130301,
+            5
+        ],
+        "detail": {
+            "value": 370,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2500,
+            "id": 10032
+        },
+        "add_fight": 150
+    },
+    "18": {
+        "remark": [
+            "25",
+            "355"
+        ],
+        "name": "护体",
+        "server_force": 3550,
+        "upgrade_goods": [
+            216130301,
+            5
+        ],
+        "detail": {
+            "value": 355,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 2500,
+            "id": 10032
+        },
+        "add_fight": 150
+    },
+    "1": {
+        "remark": [
+            "15",
+            "100"
+        ],
+        "name": "护体",
+        "server_force": 500,
+        "upgrade_goods": [
+            216130301,
+            1
+        ],
+        "detail": {
+            "value": 100,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1500,
+            "id": 10032
+        },
+        "add_fight": 500
+    },
+    "3": {
+        "remark": [
+            "15",
+            "130"
+        ],
+        "name": "护体",
+        "server_force": 650,
+        "upgrade_goods": [
+            216130301,
+            1
+        ],
+        "detail": {
+            "value": 130,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1500,
+            "id": 10032
+        },
+        "add_fight": 75
+    },
+    "2": {
+        "remark": [
+            "15",
+            "115"
+        ],
+        "name": "护体",
+        "server_force": 575,
+        "upgrade_goods": [
+            216130301,
+            1
+        ],
+        "detail": {
+            "value": 115,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1500,
+            "id": 10032
+        },
+        "add_fight": 75
+    },
+    "5": {
+        "remark": [
+            "15",
+            "160"
+        ],
+        "name": "护体",
+        "server_force": 800,
+        "upgrade_goods": [
+            216130301,
+            2
+        ],
+        "detail": {
+            "value": 160,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1500,
+            "id": 10032
+        },
+        "add_fight": 75
+    },
+    "4": {
+        "remark": [
+            "15",
+            "145"
+        ],
+        "name": "护体",
+        "server_force": 725,
+        "upgrade_goods": [
+            216130301,
+            1
+        ],
+        "detail": {
+            "value": 145,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1500,
+            "id": 10032
+        },
+        "add_fight": 75
+    },
+    "7": {
+        "remark": [
+            "18",
+            "190"
+        ],
+        "name": "护体",
+        "server_force": 1140,
+        "upgrade_goods": [
+            216130301,
+            2
+        ],
+        "detail": {
+            "value": 190,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1800,
+            "id": 10032
+        },
+        "add_fight": 90
+    },
+    "6": {
+        "remark": [
+            "18",
+            "175"
+        ],
+        "name": "护体",
+        "server_force": 1050,
+        "upgrade_goods": [
+            216130301,
+            2
+        ],
+        "detail": {
+            "value": 175,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1800,
+            "id": 10032
+        },
+        "add_fight": 250
+    },
+    "9": {
+        "remark": [
+            "18",
+            "220"
+        ],
+        "name": "护体",
+        "server_force": 1320,
+        "upgrade_goods": [
+            216130301,
+            3
+        ],
+        "detail": {
+            "value": 220,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1800,
+            "id": 10032
+        },
+        "add_fight": 90
+    },
+    "8": {
+        "remark": [
+            "18",
+            "205"
+        ],
+        "name": "护体",
+        "server_force": 1230,
+        "upgrade_goods": [
+            216130301,
+            2
+        ],
+        "detail": {
+            "value": 205,
+            "last": 86400,
+            "name": "buff",
+            "blood_per": 1800,
+            "id": 10032
+        },
+        "add_fight": 90
+    }
+}

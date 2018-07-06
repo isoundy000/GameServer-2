@@ -1,0 +1,88 @@
+{
+    "scene_id" : 10600,
+    "name" : "凌烟阁",
+     "layout" : [
+    {
+        "born_type" : "center",
+        "monster_sort" : 500060001,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 1,
+        "born_range" : 1,
+        "center_coordxy" : [1935,5337],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500060002,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 20,
+        "born_range" : 10,
+        "center_coordxy" : [5100,4864],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500060003,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [6442,6760],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500060004,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [7898,11628],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500060005,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 15,
+        "born_range" : 10,
+        "center_coordxy" : [5259,11603],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+	 {
+        "born_type" : "center",
+        "monster_sort" : 500060006,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 1,
+        "born_range" : 1,
+        "center_coordxy" : [1520,12093],
+        "born_times" : "unlimited",
+        "skill_set" : [400030002],
+		"flag_set":["no_move"]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500060007,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 20,
+        "born_range" : 10,
+        "center_coordxy" : [3293,7112],
+        "born_times" : "unlimited",
+        "skill_set" : [400030001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 500100001,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 1,
+        "born_range" : 1,
+        "center_coordxy" : [1072,2791],
+		"flag_set" : ["no_move"],
+        "born_times" : "unlimited"
+    }]
+}
+

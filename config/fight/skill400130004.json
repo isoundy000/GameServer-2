@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "9.6"
+        ],
+        "name": "噬血",
+        "server_force": 7200,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage_multi": 960
+        },
+        "add_fight": 300
+    },
+    "11": {
+        "remark": [
+            "6"
+        ],
+        "name": "噬血",
+        "server_force": 4500,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage_multi": 600
+        },
+        "add_fight": 300
+    },
+    "10": {
+        "remark": [
+            "5.6"
+        ],
+        "name": "噬血",
+        "server_force": 4200,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage_multi": 560
+        },
+        "add_fight": 300
+    },
+    "13": {
+        "remark": [
+            "6.8"
+        ],
+        "name": "噬血",
+        "server_force": 5100,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage_multi": 680
+        },
+        "add_fight": 300
+    },
+    "12": {
+        "remark": [
+            "6.4"
+        ],
+        "name": "噬血",
+        "server_force": 4800,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage_multi": 640
+        },
+        "add_fight": 300
+    },
+    "15": {
+        "remark": [
+            "7.6"
+        ],
+        "name": "噬血",
+        "server_force": 5700,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage_multi": 760
+        },
+        "add_fight": 300
+    },
+    "14": {
+        "remark": [
+            "7.2"
+        ],
+        "name": "噬血",
+        "server_force": 5400,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage_multi": 720
+        },
+        "add_fight": 300
+    },
+    "17": {
+        "remark": [
+            "8.4"
+        ],
+        "name": "噬血",
+        "server_force": 6300,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage_multi": 840
+        },
+        "add_fight": 300
+    },
+    "16": {
+        "remark": [
+            "8"
+        ],
+        "name": "噬血",
+        "server_force": 6000,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage_multi": 800
+        },
+        "add_fight": 300
+    },
+    "19": {
+        "remark": [
+            "9.2"
+        ],
+        "name": "噬血",
+        "server_force": 6900,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage_multi": 920
+        },
+        "add_fight": 300
+    },
+    "18": {
+        "remark": [
+            "8.8"
+        ],
+        "name": "噬血",
+        "server_force": 6600,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage_multi": 880
+        },
+        "add_fight": 300
+    },
+    "1": {
+        "remark": [
+            "2"
+        ],
+        "name": "噬血",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage_multi": 200
+        },
+        "add_fight": 1500
+    },
+    "3": {
+        "remark": [
+            "2.8"
+        ],
+        "name": "噬血",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage_multi": 280
+        },
+        "add_fight": 300
+    },
+    "2": {
+        "remark": [
+            "2.4"
+        ],
+        "name": "噬血",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage_multi": 240
+        },
+        "add_fight": 300
+    },
+    "5": {
+        "remark": [
+            "3.6"
+        ],
+        "name": "噬血",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage_multi": 360
+        },
+        "add_fight": 300
+    },
+    "4": {
+        "remark": [
+            "3.2"
+        ],
+        "name": "噬血",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage_multi": 320
+        },
+        "add_fight": 300
+    },
+    "7": {
+        "remark": [
+            "4.4"
+        ],
+        "name": "噬血",
+        "server_force": 3300,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage_multi": 440
+        },
+        "add_fight": 300
+    },
+    "6": {
+        "remark": [
+            "4"
+        ],
+        "name": "噬血",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage_multi": 400
+        },
+        "add_fight": 300
+    },
+    "9": {
+        "remark": [
+            "5.2"
+        ],
+        "name": "噬血",
+        "server_force": 3900,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage_multi": 520
+        },
+        "add_fight": 300
+    },
+    "8": {
+        "remark": [
+            "4.8"
+        ],
+        "name": "噬血",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage_multi": 480
+        },
+        "add_fight": 300
+    }
+}

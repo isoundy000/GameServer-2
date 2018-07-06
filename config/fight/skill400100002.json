@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "65"
+        ],
+        "name": "清心",
+        "server_force": 7200,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 6500
+        },
+        "add_fight": 300
+    },
+    "11": {
+        "remark": [
+            "40"
+        ],
+        "name": "清心",
+        "server_force": 3375,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 4000
+        },
+        "add_fight": 855
+    },
+    "10": {
+        "remark": [
+            "38"
+        ],
+        "name": "清心",
+        "server_force": 2520,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 3800
+        },
+        "add_fight": 180
+    },
+    "13": {
+        "remark": [
+            "44"
+        ],
+        "name": "清心",
+        "server_force": 3825,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 4400
+        },
+        "add_fight": 225
+    },
+    "12": {
+        "remark": [
+            "42"
+        ],
+        "name": "清心",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 4200
+        },
+        "add_fight": 225
+    },
+    "15": {
+        "remark": [
+            "50"
+        ],
+        "name": "清心",
+        "server_force": 4275,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 5000
+        },
+        "add_fight": 225
+    },
+    "14": {
+        "remark": [
+            "47"
+        ],
+        "name": "清心",
+        "server_force": 4050,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 4700
+        },
+        "add_fight": 225
+    },
+    "17": {
+        "remark": [
+            "56"
+        ],
+        "name": "清心",
+        "server_force": 6300,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 5600
+        },
+        "add_fight": 300
+    },
+    "16": {
+        "remark": [
+            "53"
+        ],
+        "name": "清心",
+        "server_force": 6000,
+        "upgrade_goods": [
+            216130601,
+            4
+        ],
+        "detail": {
+            "percent": 5300
+        },
+        "add_fight": 1725
+    },
+    "19": {
+        "remark": [
+            "62"
+        ],
+        "name": "清心",
+        "server_force": 6900,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 6200
+        },
+        "add_fight": 300
+    },
+    "18": {
+        "remark": [
+            "59"
+        ],
+        "name": "清心",
+        "server_force": 6600,
+        "upgrade_goods": [
+            216130601,
+            5
+        ],
+        "detail": {
+            "percent": 5900
+        },
+        "add_fight": 300
+    },
+    "1": {
+        "remark": [
+            "20"
+        ],
+        "name": "清心",
+        "server_force": 750,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2000
+        },
+        "add_fight": 750
+    },
+    "3": {
+        "remark": [
+            "24"
+        ],
+        "name": "清心",
+        "server_force": 1050,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2400
+        },
+        "add_fight": 150
+    },
+    "2": {
+        "remark": [
+            "22"
+        ],
+        "name": "清心",
+        "server_force": 900,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2200
+        },
+        "add_fight": 150
+    },
+    "5": {
+        "remark": [
+            "28"
+        ],
+        "name": "清心",
+        "server_force": 1350,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 2800
+        },
+        "add_fight": 150
+    },
+    "4": {
+        "remark": [
+            "26"
+        ],
+        "name": "清心",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130601,
+            1
+        ],
+        "detail": {
+            "percent": 2600
+        },
+        "add_fight": 150
+    },
+    "7": {
+        "remark": [
+            "32"
+        ],
+        "name": "清心",
+        "server_force": 1980,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 3200
+        },
+        "add_fight": 180
+    },
+    "6": {
+        "remark": [
+            "30"
+        ],
+        "name": "清心",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 3000
+        },
+        "add_fight": 450
+    },
+    "9": {
+        "remark": [
+            "36"
+        ],
+        "name": "清心",
+        "server_force": 2340,
+        "upgrade_goods": [
+            216130601,
+            3
+        ],
+        "detail": {
+            "percent": 3600
+        },
+        "add_fight": 180
+    },
+    "8": {
+        "remark": [
+            "34"
+        ],
+        "name": "清心",
+        "server_force": 2160,
+        "upgrade_goods": [
+            216130601,
+            2
+        ],
+        "detail": {
+            "percent": 3400
+        },
+        "add_fight": 180
+    }
+}

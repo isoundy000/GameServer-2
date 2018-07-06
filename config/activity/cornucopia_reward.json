@@ -1,0 +1,26 @@
+{
+    "1": {
+        "item_id": 213110001,
+        "amount": 50,
+        "num": 2000,
+        "item_bind": 1
+    },
+    "3": {
+        "item_id": 213110001,
+        "amount": 80,
+        "num": 8000,
+        "item_bind": 1
+    },
+    "2": {
+        "item_id": 213110001,
+        "amount": 50,
+        "num": 4000,
+        "item_bind": 1
+    },
+    "4": {
+        "item_id": 213110001,
+        "amount": 100,
+        "num": 15000,
+        "item_bind": 1
+    }
+}

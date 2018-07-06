@@ -1,0 +1,300 @@
+import "ProtoPublic.proto";
+import "ProtoInnerPublic.proto";
+
+message Proto31403200       // 更新聚宝盆任务信息
+{
+    optional int32 task_id = 1;       // 任务id
+    optional int32 task_finish_count = 2;       // 任务完成次数
+    optional int32 type = 3;       // 0 添加  1设置
+}
+
+message Proto30103200       // 更新聚宝盆个人金额
+{
+    optional int32 add_gold = 1;       // 各活动充值返利的元宝
+}
+
+message Proto30400515       // 后台跨服充值活动获取排行信息
+{
+    optional int32 first_type = 1;       // 活动类型
+    optional int32 second_type = 2;       // 活动子类型
+    optional int32 page = 3;       // 页码
+    optional ProtoBackActInfo act_info = 4;       // 活动信息
+}
+
+message Proto30400516       // 更新后台跨服充值排行数据
+{
+    optional int32 type = 1;       // 3 后台跨服充值
+    optional ProtoTeamer self_info = 2;       // 自己信息
+    optional ProtoServer server_info = 3;       // 服务器信息
+    optional int32 amount = 4;       // 充值数量
+    optional int32 activity_id = 5;       // 活动ID
+    optional ProtoBackActInfo act_info = 6;       // 活动信息
+}
+
+message Proto31400055       // 五一活动购买物品
+{
+    optional int32 first_index = 1;       // 活动id
+    optional int32 second_index = 2;       // 兑换列表索引
+    optional int32 type = 3;       // 活动类型
+    optional int32 money = 4;       // 消耗金钱
+    optional int32 item_id = 5;       // 消耗物品
+    optional int32 item_type = 6;       // 物品索引
+    optional int32 amount = 7;       // 数量
+    optional int32 ret = 8;       // 错误号
+}
+
+message Proto30400057       // 领地战信息
+{
+    optional int64 league_id = 1;       // 帮派ID
+    optional int32 type = 2;       // 类型
+}
+
+message Proto30400042       // 大型活动信息
+{
+    optional int32 type = 1;       // 活动类型
+    optional int64 start_tick = 2;       // 开始时间
+    optional int64 end_tick = 3;       // 结束时间
+}
+
+message Proto31400056       // 同步大型活动掉落
+{
+    optional int32 is_big_act_time = 1;       // 是否处于大型活动期间
+}
+
+message Proto31403201       // 更新劳动光荣任务信息
+{
+    optional int32 task_id = 1;       // 任务id
+    optional int32 task_finish_count = 2;       // 任务完成次数
+    optional int32 type = 3;       // 0 添加 1设置
+}
+
+message Proto31400057       // 领地战兑换
+{
+    optional int32 buy_type = 1;       // 购买类型
+    optional int32 hickty_id = 2;       // 兑换类型
+    optional int32 amount = 3;       // 数量
+}
+
+message Proto30100111       // 领地战结果
+{
+    repeated ProtoItem result_list = 1;       // 列表
+}
+
+message Proto30100607       // 跨服广播先同步到逻辑服
+{
+    optional bytes brocast_info = 1;       // 
+}
+
+message Proto31400058       // 宝石合成时触发奖励
+{
+    optional int32 synthesis_item_id = 1;       // 合成的宝石的ID
+}
+
+message Proto30402501       // 华山论剑获取各种列表信息
+{
+    optional int32 type = 1;       // 列表类型：1 战场日志，2 名人堂，3 当前排行，4 夺宝记录
+    optional int32 refresh = 2;       // 是否重新获取
+}
+
+message Proto30402502       // 华山论剑查看列表玩家信息
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional int32 type = 2;       // 类型；1 战场日志，2 名人堂，3 当前排行
+    optional int32 rank = 3;       // 列表第几行，索引从1开始，用于名人堂查看
+}
+
+message Proto30402503       // 华山论剑测试命令
+{
+    optional int32 type = 1;       // 1 开启活动, 2 进入场景，3 退出场景
+    optional int32 ahead = 2;       // 前提时间
+    optional int32 last = 3;       // 活动持续时间
+}
+
+message Proto30400517       // 跨服世界boss发送邮件
+{
+    optional int32 type = 1;       // 邮件类型 1：击杀 2：排名
+    optional int32 mail_id = 2;       // 邮件id
+    optional string boss_name = 3;       // boss名字
+    repeated ProtoTrvlWbossMail mail_info = 4;       // 邮件内容
+}
+
+message Proto30402504       // 华山论剑获取主界面信息
+{
+    optional int32 tbattle_value = 1;       // 历练值
+}
+
+message Proto30402505       // 华山论剑奖励先背包后邮件
+{
+    optional int32 reward_id = 1;       // 奖励ID
+    optional ProtoSerialObj serial = 2;       // 流水类型
+    optional int32 mail_id = 3;       // 邮件ID
+}
+
+message Proto31400059       // 获取超级VIP信息
+{
+    optional string qq_num = 1;       // 客服qq号
+    optional string des_content = 2;       // 功能描述
+    optional string des_mail = 3;       // 邮件描述
+    optional int32 limit = 4;       // 限制
+    optional int32 agent_code = 5;       // 玩家所在渠道
+    optional int64 role_id = 6;       // 玩家id
+    optional int32 type = 7;       // 类型 1:充值数 2:vip等级
+}
+
+message Proto30100232       // 争霸天下邮件奖励
+{
+    optional int64 role = 1;       // 角色
+    optional int32 rank = 2;       // 排名
+}
+
+message Proto30400457       // 更新帮主信息到地图场景
+{
+    optional int64 leader_index = 1;       // 帮主ID
+    optional string leader = 2;       // 帮主姓名
+    optional int64 league_index = 3;       // 帮派索引
+}
+
+message Proto31403202       // 活动消耗物品
+{
+    optional int32 act_id = 1;       // 活动id
+    repeated int32 item_id = 2;       // 物品id
+    repeated int32 item_amount = 3;       // 物品个数
+    repeated int32 item_bind = 4;       // 物品绑定
+    optional int32 ret = 5;       // 错误号
+    optional int32 index = 6;       // 奖励物品索引
+    optional int32 type = 7;       // 0 为正常消耗, -1 为活动结束时全部消耗
+}
+
+message Proto31402701       // 下注时背包金钱检查
+{
+    optional int32 promot_turns = 1;       // 第几轮
+    optional int64 win_team = 2;       // 下注的战队ID
+    optional int32 amount = 3;       // 下注金额
+    optional string team_name = 4;       // 战队名
+    optional string server_prev = 5;       // 服务器前缀
+}
+
+message Proto31402702       // 创建战队时检查并扣除费用
+{
+    optional string team_name = 1;       // 队伍名字
+    optional int32 need_force = 2;       // 战力要求
+}
+
+message Proto30402506       // 华山论剑历练跨服邮件奖励
+{
+    optional int64 role_id = 1;       // 奖励角色ID
+    optional int32 practice = 2;       // 奖励历练值
+}
+
+message Proto31400060       // 保存每日充值数据到系统
+{
+    optional int64 role_id = 1;       // 角色id
+    optional int32 first_recharge_gold = 2;       // 玩家是否首冲
+    optional int32 last_recharge_time = 3;       // 最后充值时间
+    optional int32 today_recharge_gold = 4;       // 今日充值金额
+    optional int32 act_recharge_times = 5;       // 开服七天充值过万天数
+    optional int32 act_has_mail = 6;       // 是否获得称号奖励
+    repeated int32 reward = 7;       // 奖励领取状态
+}
+
+message Proto31403203       // 增加捕鱼积分
+{
+    optional int32 value = 1;       // 值
+}
+
+message Proto30402001       // 同步跨服战队信息到战斗线程
+{
+    optional int64 team_id = 1;       // 战队ID
+    optional int32 op_type = 2;       // 1 更新，2 删除
+    optional string team_name = 3;       // 队伍名字
+    optional int32 need_force = 4;       // 队伍需求战力
+    optional int64 leader_id = 5;       // 队长ID
+    repeated ProtoTeamer teamer_list = 6;       // 成员列表（包括队长）
+    optional ProtoServer server_info = 7;       // 服务器信息
+}
+
+message Proto30402006       // 报名同步到跨服进程
+{
+    optional int64 team_id = 1;       // 战队ID
+}
+
+message Proto30101905       // 巅峰对决报名后处理报名标识
+{
+    optional int64 team_id = 1;       // 战队ID
+}
+
+message Proto30101909       // 跨服系统启动时更新所有报名状态到单服
+{
+    optional int64 team_id = 1;       // 队伍id
+    optional int32 is_signup = 2;       // 报名状态
+}
+
+message Proto30402009       // 单服定时取活动时间同步
+{
+    optional string server_flag = 1;       // 当前服的服务器标识
+}
+
+message Proto30402010       // 单服定时取活动时间同步返回
+{
+    optional int64 signup_start = 1;       // 报名开始时间
+    optional int64 signup_end = 2;       // 报名结束时间
+    optional int64 quality_start = 3;       // 资格赛开始时间
+    optional int64 quality_end = 4;       // 资格赛结束时间
+    optional int64 knockout_start = 5;       // 淘汰赛开始时间
+    optional int32 knockout_end = 6;       // 淘汰赛结束时间
+}
+
+message Proto31403204       // 神秘宝箱活动消耗
+{
+    optional int32 money = 1;       // 消耗金币
+    optional int32 item_id = 2;       // 物品id
+    optional int32 item_amount = 3;       // 物品个数
+    optional int32 item_bind = 4;       // 是否绑定
+    optional int32 ret = 5;       // 错误号
+    optional int32 sub_value = 6;       // 附加值
+    optional ProtoSerialObj serial_obj = 7;       // 流水
+    optional int32 type = 8;       // 执行功能类型
+}
+
+message Proto31400061       // 女神赐福背包操作
+{
+    repeated ProtoItemId item_info_list = 1;       // 物品信息列表
+    optional ProtoSerialObj obj = 2;       // 流水
+}
+
+message Proto30402014       // 定时更新队伍成员战力信息到跨服
+{
+    repeated ProtoTeamForceInfo force_info = 1;       // 战力信息
+}
+
+message Proto31400062       // 奖励多种多个物品
+{
+    repeated ProtoItemId item_info_list = 1;       // 物品信息列表
+    optional ProtoSerialObj obj = 2;       // 流水
+}
+
+message Proto30402003       // 请求从战斗线程同步信息到跨服
+{
+    optional int64 team_id = 1;       // 战队ID
+    optional int64 role_id = 2;       // 源角色ID
+}
+
+message Proto30402002       // 同步玩家的机器人信息到跨服
+{
+    optional int32 offline_role_recogn = 1;       // 离线玩家消息号
+    optional int64 team_id = 2;       // 战队ID
+    optional int64 src_role_id = 3;       // 队员角色ID
+    optional bytes msg_body = 4;       // 消息体
+}
+
+message Proto30402005       // 获取跨服其他战队信息
+{
+    optional int64 team_id = 1;       // 战队ID
+}
+
+message Proto30402015       // 从跨服场景获取排行榜数据
+{
+    optional int32 page = 1;       // 页数
+}
+
+

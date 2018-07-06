@@ -1,0 +1,502 @@
+{
+    "30": {
+        "priority": 30,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            6
+        ],
+        "cond": 4,
+        "reward_id": 21130
+    },
+    "28": {
+        "priority": 28,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            6
+        ],
+        "cond": 4,
+        "reward_id": 21128
+    },
+    "29": {
+        "priority": 29,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            6
+        ],
+        "cond": 4,
+        "reward_id": 21129
+    },
+    "24": {
+        "priority": 24,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            5
+        ],
+        "cond": 4,
+        "reward_id": 21124
+    },
+    "25": {
+        "priority": 25,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            5
+        ],
+        "cond": 4,
+        "reward_id": 21125
+    },
+    "26": {
+        "priority": 26,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            6
+        ],
+        "cond": 4,
+        "reward_id": 21126
+    },
+    "27": {
+        "priority": 27,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            6
+        ],
+        "cond": 4,
+        "reward_id": 21127
+    },
+    "20": {
+        "priority": 20,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            4
+        ],
+        "cond": 4,
+        "reward_id": 21120
+    },
+    "21": {
+        "priority": 21,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            5
+        ],
+        "cond": 4,
+        "reward_id": 21121
+    },
+    "48": {
+        "priority": 48,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            14
+        ],
+        "cond": 4,
+        "reward_id": 21148
+    },
+    "49": {
+        "priority": 49,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            14
+        ],
+        "cond": 4,
+        "reward_id": 21149
+    },
+    "46": {
+        "priority": 46,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            14
+        ],
+        "cond": 4,
+        "reward_id": 21146
+    },
+    "47": {
+        "priority": 47,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            14
+        ],
+        "cond": 4,
+        "reward_id": 21147
+    },
+    "44": {
+        "priority": 44,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            12
+        ],
+        "cond": 4,
+        "reward_id": 21144
+    },
+    "45": {
+        "priority": 45,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            12
+        ],
+        "cond": 4,
+        "reward_id": 21145
+    },
+    "42": {
+        "priority": 42,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            12
+        ],
+        "cond": 4,
+        "reward_id": 21142
+    },
+    "43": {
+        "priority": 43,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            12
+        ],
+        "cond": 4,
+        "reward_id": 21143
+    },
+    "40": {
+        "priority": 40,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            10
+        ],
+        "cond": 4,
+        "reward_id": 21140
+    },
+    "41": {
+        "priority": 41,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            12
+        ],
+        "cond": 4,
+        "reward_id": 21141
+    },
+    "1": {
+        "priority": 1,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21101
+    },
+    "3": {
+        "priority": 3,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21103
+    },
+    "2": {
+        "priority": 2,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21102
+    },
+    "5": {
+        "priority": 5,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21105
+    },
+    "4": {
+        "priority": 4,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21104
+    },
+    "7": {
+        "priority": 7,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21107
+    },
+    "6": {
+        "priority": 6,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21106
+    },
+    "9": {
+        "priority": 9,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21109
+    },
+    "8": {
+        "priority": 8,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21108
+    },
+    "13": {
+        "priority": 13,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            3
+        ],
+        "cond": 4,
+        "reward_id": 21113
+    },
+    "12": {
+        "priority": 12,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            3
+        ],
+        "cond": 4,
+        "reward_id": 21112
+    },
+    "14": {
+        "priority": 14,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            3
+        ],
+        "cond": 4,
+        "reward_id": 21114
+    },
+    "11": {
+        "priority": 11,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            3
+        ],
+        "cond": 4,
+        "reward_id": 21111
+    },
+    "10": {
+        "priority": 10,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            2
+        ],
+        "cond": 4,
+        "reward_id": 21110
+    },
+    "39": {
+        "priority": 39,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            10
+        ],
+        "cond": 4,
+        "reward_id": 21139
+    },
+    "38": {
+        "priority": 38,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            10
+        ],
+        "cond": 4,
+        "reward_id": 21138
+    },
+    "15": {
+        "priority": 15,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            3
+        ],
+        "cond": 4,
+        "reward_id": 21115
+    },
+    "22": {
+        "priority": 22,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            5
+        ],
+        "cond": 4,
+        "reward_id": 21122
+    },
+    "17": {
+        "priority": 17,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            4
+        ],
+        "cond": 4,
+        "reward_id": 21117
+    },
+    "16": {
+        "priority": 16,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            4
+        ],
+        "cond": 4,
+        "reward_id": 21116
+    },
+    "19": {
+        "priority": 19,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            4
+        ],
+        "cond": 4,
+        "reward_id": 21119
+    },
+    "18": {
+        "priority": 18,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            4
+        ],
+        "cond": 4,
+        "reward_id": 21118
+    },
+    "31": {
+        "priority": 31,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            8
+        ],
+        "cond": 4,
+        "reward_id": 21131
+    },
+    "23": {
+        "priority": 23,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            5
+        ],
+        "cond": 4,
+        "reward_id": 21123
+    },
+    "37": {
+        "priority": 37,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            10
+        ],
+        "cond": 4,
+        "reward_id": 21137
+    },
+    "36": {
+        "priority": 36,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            10
+        ],
+        "cond": 4,
+        "reward_id": 21136
+    },
+    "35": {
+        "priority": 35,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            8
+        ],
+        "cond": 4,
+        "reward_id": 21135
+    },
+    "34": {
+        "priority": 34,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            8
+        ],
+        "cond": 4,
+        "reward_id": 21134
+    },
+    "33": {
+        "priority": 33,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            8
+        ],
+        "cond": 4,
+        "reward_id": 21133
+    },
+    "32": {
+        "priority": 32,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            8
+        ],
+        "cond": 4,
+        "reward_id": 21132
+    },
+    "50": {
+        "priority": 50,
+        "add_attr_rate": 1,
+        "materials": [
+            216310130,
+            14
+        ],
+        "cond": 4,
+        "reward_id": 21150
+    }
+}

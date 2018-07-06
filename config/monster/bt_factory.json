@@ -1,0 +1,62 @@
+{
+	/*所有形为树列表*/
+	"tree_type": 
+	[
+		"bev1001.json",		/*普通场景被动怪*/
+		"bev1002.json",		/*主动怪*/
+        "bev1003.json",
+		"bev1004.json",		/*普通被动怪(无目标时不移动)"*/
+		"bev1005.json",		/*被动怪(不移动可攻击, 含有定时回收功能)*/
+		"bev1006.json",		/*被动怪(不移动不攻击)*/
+        "bev1007.json",		/*主动怪(不返回出生点)*/
+		"bev1008.json",		/*采集物定时回收*/
+        "bev1009.json",
+		
+        "bev2001.json",
+		"bev2002.json",
+		"bev2003.json",
+		"bev2004.json",
+		"bev2005.json",
+        "bev2006.json",
+		"bev2007.json",
+		"bev2008.json",
+		"bev2009.json",
+		"bev2010.json",
+
+        "bev20101.json",
+        "bev20201.json",
+        "bev20301.json",
+        "bev20302.json",
+        
+        "bev20501.json",
+        "bev20502.json",
+		"bev20503.json",
+		
+		"bev21101.json",
+		
+		"bev29301.json",
+		"bev29302.json",
+		"bev29303.json",
+		"bev29501.json",
+		"bev29601.json",
+		
+        "bev30001.json",
+		"bev30301.json",
+		"bev30401.json",		
+		"bev40001.json",
+		"bev400011.json",
+		
+		"bev40004.json",
+		"bev400041.json",
+		"bev400042.json",
+		"bev40009.json",
+		
+		"bev50101.json",
+		"bev50201.json"
+	],
+	
+	/*输出形为树调试信息*/
+	"debug_ai": 0,
+	/*AI默认技能*/
+	"ai_default_skill": 409000001
+}

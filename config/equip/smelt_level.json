@@ -1,0 +1,1012 @@
+{
+    "60": {
+        "dodge": 240,
+        "defence": 1500,
+        "hit": 300,
+        "toughness": 180,
+        "attack": 3000,
+        "health": 30000,
+        "exp_num": 9020,
+        "crit": 240
+    },
+    "61": {
+        "dodge": 244,
+        "defence": 1525,
+        "hit": 305,
+        "toughness": 183,
+        "attack": 3050,
+        "health": 30500,
+        "exp_num": 9320,
+        "crit": 244
+    },
+    "62": {
+        "dodge": 248,
+        "defence": 1550,
+        "hit": 310,
+        "toughness": 186,
+        "attack": 3100,
+        "health": 31000,
+        "exp_num": 9630,
+        "crit": 248
+    },
+    "63": {
+        "dodge": 252,
+        "defence": 1575,
+        "hit": 315,
+        "toughness": 189,
+        "attack": 3150,
+        "health": 31500,
+        "exp_num": 9940,
+        "crit": 252
+    },
+    "64": {
+        "dodge": 256,
+        "defence": 1600,
+        "hit": 320,
+        "toughness": 192,
+        "attack": 3200,
+        "health": 32000,
+        "exp_num": 10260,
+        "crit": 256
+    },
+    "65": {
+        "dodge": 260,
+        "defence": 1625,
+        "hit": 325,
+        "toughness": 195,
+        "attack": 3250,
+        "health": 32500,
+        "exp_num": 10580,
+        "crit": 260
+    },
+    "66": {
+        "dodge": 264,
+        "defence": 1650,
+        "hit": 330,
+        "toughness": 198,
+        "attack": 3300,
+        "health": 33000,
+        "exp_num": 10910,
+        "crit": 264
+    },
+    "67": {
+        "dodge": 268,
+        "defence": 1675,
+        "hit": 335,
+        "toughness": 201,
+        "attack": 3350,
+        "health": 33500,
+        "exp_num": 11240,
+        "crit": 268
+    },
+    "68": {
+        "dodge": 272,
+        "defence": 1700,
+        "hit": 340,
+        "toughness": 204,
+        "attack": 3400,
+        "health": 34000,
+        "exp_num": 11580,
+        "crit": 272
+    },
+    "69": {
+        "dodge": 276,
+        "defence": 1725,
+        "hit": 345,
+        "toughness": 207,
+        "attack": 3450,
+        "health": 34500,
+        "exp_num": 11920,
+        "crit": 276
+    },
+    "24": {
+        "dodge": 96,
+        "defence": 600,
+        "hit": 120,
+        "toughness": 72,
+        "attack": 1200,
+        "health": 12000,
+        "exp_num": 1460,
+        "crit": 96
+    },
+    "25": {
+        "dodge": 100,
+        "defence": 625,
+        "hit": 125,
+        "toughness": 75,
+        "attack": 1250,
+        "health": 12500,
+        "exp_num": 1580,
+        "crit": 100
+    },
+    "26": {
+        "dodge": 104,
+        "defence": 650,
+        "hit": 130,
+        "toughness": 78,
+        "attack": 1300,
+        "health": 13000,
+        "exp_num": 1710,
+        "crit": 104
+    },
+    "27": {
+        "dodge": 108,
+        "defence": 675,
+        "hit": 135,
+        "toughness": 81,
+        "attack": 1350,
+        "health": 13500,
+        "exp_num": 1840,
+        "crit": 108
+    },
+    "20": {
+        "dodge": 80,
+        "defence": 500,
+        "hit": 100,
+        "toughness": 60,
+        "attack": 1000,
+        "health": 10000,
+        "exp_num": 1020,
+        "crit": 80
+    },
+    "21": {
+        "dodge": 84,
+        "defence": 525,
+        "hit": 105,
+        "toughness": 63,
+        "attack": 1050,
+        "health": 10500,
+        "exp_num": 1120,
+        "crit": 84
+    },
+    "22": {
+        "dodge": 88,
+        "defence": 550,
+        "hit": 110,
+        "toughness": 66,
+        "attack": 1100,
+        "health": 11000,
+        "exp_num": 1230,
+        "crit": 88
+    },
+    "23": {
+        "dodge": 92,
+        "defence": 575,
+        "hit": 115,
+        "toughness": 69,
+        "attack": 1150,
+        "health": 11500,
+        "exp_num": 1340,
+        "crit": 92
+    },
+    "28": {
+        "dodge": 112,
+        "defence": 700,
+        "hit": 140,
+        "toughness": 84,
+        "attack": 1400,
+        "health": 14000,
+        "exp_num": 1980,
+        "crit": 112
+    },
+    "29": {
+        "dodge": 116,
+        "defence": 725,
+        "hit": 145,
+        "toughness": 87,
+        "attack": 1450,
+        "health": 14500,
+        "exp_num": 2120,
+        "crit": 116
+    },
+    "0": {
+        "dodge": 0,
+        "defence": 0,
+        "hit": 0,
+        "toughness": 0,
+        "attack": 0,
+        "health": 0,
+        "exp_num": 0,
+        "crit": 0
+    },
+    "2": {
+        "dodge": 8,
+        "defence": 50,
+        "hit": 10,
+        "toughness": 6,
+        "attack": 100,
+        "health": 1000,
+        "exp_num": 30,
+        "crit": 8
+    },
+    "4": {
+        "dodge": 16,
+        "defence": 100,
+        "hit": 20,
+        "toughness": 12,
+        "attack": 200,
+        "health": 2000,
+        "exp_num": 60,
+        "crit": 16
+    },
+    "6": {
+        "dodge": 24,
+        "defence": 150,
+        "hit": 30,
+        "toughness": 18,
+        "attack": 300,
+        "health": 3000,
+        "exp_num": 110,
+        "crit": 24
+    },
+    "8": {
+        "dodge": 32,
+        "defence": 200,
+        "hit": 40,
+        "toughness": 24,
+        "attack": 400,
+        "health": 4000,
+        "exp_num": 180,
+        "crit": 32
+    },
+    "99": {
+        "dodge": 396,
+        "defence": 2475,
+        "hit": 495,
+        "toughness": 297,
+        "attack": 4950,
+        "health": 49500,
+        "exp_num": 24520,
+        "crit": 396
+    },
+    "98": {
+        "dodge": 392,
+        "defence": 2450,
+        "hit": 490,
+        "toughness": 294,
+        "attack": 4900,
+        "health": 49000,
+        "exp_num": 24030,
+        "crit": 392
+    },
+    "91": {
+        "dodge": 364,
+        "defence": 2275,
+        "hit": 455,
+        "toughness": 273,
+        "attack": 4550,
+        "health": 45500,
+        "exp_num": 20720,
+        "crit": 364
+    },
+    "90": {
+        "dodge": 360,
+        "defence": 2250,
+        "hit": 450,
+        "toughness": 270,
+        "attack": 4500,
+        "health": 45000,
+        "exp_num": 20270,
+        "crit": 360
+    },
+    "93": {
+        "dodge": 372,
+        "defence": 2325,
+        "hit": 465,
+        "toughness": 279,
+        "attack": 4650,
+        "health": 46500,
+        "exp_num": 21640,
+        "crit": 372
+    },
+    "92": {
+        "dodge": 368,
+        "defence": 2300,
+        "hit": 460,
+        "toughness": 276,
+        "attack": 4600,
+        "health": 46000,
+        "exp_num": 21180,
+        "crit": 368
+    },
+    "95": {
+        "dodge": 380,
+        "defence": 2375,
+        "hit": 475,
+        "toughness": 285,
+        "attack": 4750,
+        "health": 47500,
+        "exp_num": 22580,
+        "crit": 380
+    },
+    "94": {
+        "dodge": 376,
+        "defence": 2350,
+        "hit": 470,
+        "toughness": 282,
+        "attack": 4700,
+        "health": 47000,
+        "exp_num": 22110,
+        "crit": 376
+    },
+    "97": {
+        "dodge": 388,
+        "defence": 2425,
+        "hit": 485,
+        "toughness": 291,
+        "attack": 4850,
+        "health": 48500,
+        "exp_num": 23540,
+        "crit": 388
+    },
+    "96": {
+        "dodge": 384,
+        "defence": 2400,
+        "hit": 480,
+        "toughness": 288,
+        "attack": 4800,
+        "health": 48000,
+        "exp_num": 23060,
+        "crit": 384
+    },
+    "11": {
+        "dodge": 44,
+        "defence": 275,
+        "hit": 55,
+        "toughness": 33,
+        "attack": 550,
+        "health": 5500,
+        "exp_num": 320,
+        "crit": 44
+    },
+    "10": {
+        "dodge": 40,
+        "defence": 250,
+        "hit": 50,
+        "toughness": 30,
+        "attack": 500,
+        "health": 5000,
+        "exp_num": 270,
+        "crit": 40
+    },
+    "13": {
+        "dodge": 52,
+        "defence": 325,
+        "hit": 65,
+        "toughness": 39,
+        "attack": 650,
+        "health": 6500,
+        "exp_num": 440,
+        "crit": 52
+    },
+    "12": {
+        "dodge": 48,
+        "defence": 300,
+        "hit": 60,
+        "toughness": 36,
+        "attack": 600,
+        "health": 6000,
+        "exp_num": 380,
+        "crit": 48
+    },
+    "59": {
+        "dodge": 236,
+        "defence": 1475,
+        "hit": 295,
+        "toughness": 177,
+        "attack": 2950,
+        "health": 29500,
+        "exp_num": 8720,
+        "crit": 236
+    },
+    "58": {
+        "dodge": 232,
+        "defence": 1450,
+        "hit": 290,
+        "toughness": 174,
+        "attack": 2900,
+        "health": 29000,
+        "exp_num": 8430,
+        "crit": 232
+    },
+    "17": {
+        "dodge": 68,
+        "defence": 425,
+        "hit": 85,
+        "toughness": 51,
+        "attack": 850,
+        "health": 8500,
+        "exp_num": 740,
+        "crit": 68
+    },
+    "16": {
+        "dodge": 64,
+        "defence": 400,
+        "hit": 80,
+        "toughness": 48,
+        "attack": 800,
+        "health": 8000,
+        "exp_num": 660,
+        "crit": 64
+    },
+    "55": {
+        "dodge": 220,
+        "defence": 1375,
+        "hit": 275,
+        "toughness": 165,
+        "attack": 2750,
+        "health": 27500,
+        "exp_num": 7580,
+        "crit": 220
+    },
+    "54": {
+        "dodge": 216,
+        "defence": 1350,
+        "hit": 270,
+        "toughness": 162,
+        "attack": 2700,
+        "health": 27000,
+        "exp_num": 7310,
+        "crit": 216
+    },
+    "57": {
+        "dodge": 228,
+        "defence": 1425,
+        "hit": 285,
+        "toughness": 171,
+        "attack": 2850,
+        "health": 28500,
+        "exp_num": 8140,
+        "crit": 228
+    },
+    "56": {
+        "dodge": 224,
+        "defence": 1400,
+        "hit": 280,
+        "toughness": 168,
+        "attack": 2800,
+        "health": 28000,
+        "exp_num": 7860,
+        "crit": 224
+    },
+    "51": {
+        "dodge": 204,
+        "defence": 1275,
+        "hit": 255,
+        "toughness": 153,
+        "attack": 2550,
+        "health": 25500,
+        "exp_num": 6520,
+        "crit": 204
+    },
+    "50": {
+        "dodge": 200,
+        "defence": 1250,
+        "hit": 250,
+        "toughness": 150,
+        "attack": 2500,
+        "health": 25000,
+        "exp_num": 6270,
+        "crit": 200
+    },
+    "53": {
+        "dodge": 212,
+        "defence": 1325,
+        "hit": 265,
+        "toughness": 159,
+        "attack": 2650,
+        "health": 26500,
+        "exp_num": 7040,
+        "crit": 212
+    },
+    "52": {
+        "dodge": 208,
+        "defence": 1300,
+        "hit": 260,
+        "toughness": 156,
+        "attack": 2600,
+        "health": 26000,
+        "exp_num": 6780,
+        "crit": 208
+    },
+    "19": {
+        "dodge": 76,
+        "defence": 475,
+        "hit": 95,
+        "toughness": 57,
+        "attack": 950,
+        "health": 9500,
+        "exp_num": 920,
+        "crit": 76
+    },
+    "18": {
+        "dodge": 72,
+        "defence": 450,
+        "hit": 90,
+        "toughness": 54,
+        "attack": 900,
+        "health": 9000,
+        "exp_num": 830,
+        "crit": 72
+    },
+    "15": {
+        "dodge": 60,
+        "defence": 375,
+        "hit": 75,
+        "toughness": 45,
+        "attack": 750,
+        "health": 7500,
+        "exp_num": 580,
+        "crit": 60
+    },
+    "88": {
+        "dodge": 352,
+        "defence": 2200,
+        "hit": 440,
+        "toughness": 264,
+        "attack": 4400,
+        "health": 44000,
+        "exp_num": 19380,
+        "crit": 352
+    },
+    "89": {
+        "dodge": 356,
+        "defence": 2225,
+        "hit": 445,
+        "toughness": 267,
+        "attack": 4450,
+        "health": 44500,
+        "exp_num": 19820,
+        "crit": 356
+    },
+    "82": {
+        "dodge": 328,
+        "defence": 2050,
+        "hit": 410,
+        "toughness": 246,
+        "attack": 4100,
+        "health": 41000,
+        "exp_num": 16830,
+        "crit": 328
+    },
+    "83": {
+        "dodge": 332,
+        "defence": 2075,
+        "hit": 415,
+        "toughness": 249,
+        "attack": 4150,
+        "health": 41500,
+        "exp_num": 17240,
+        "crit": 332
+    },
+    "80": {
+        "dodge": 320,
+        "defence": 2000,
+        "hit": 400,
+        "toughness": 240,
+        "attack": 4000,
+        "health": 40000,
+        "exp_num": 16020,
+        "crit": 320
+    },
+    "81": {
+        "dodge": 324,
+        "defence": 2025,
+        "hit": 405,
+        "toughness": 243,
+        "attack": 4050,
+        "health": 40500,
+        "exp_num": 16420,
+        "crit": 324
+    },
+    "86": {
+        "dodge": 344,
+        "defence": 2150,
+        "hit": 430,
+        "toughness": 258,
+        "attack": 4300,
+        "health": 43000,
+        "exp_num": 18510,
+        "crit": 344
+    },
+    "87": {
+        "dodge": 348,
+        "defence": 2175,
+        "hit": 435,
+        "toughness": 261,
+        "attack": 4350,
+        "health": 43500,
+        "exp_num": 18940,
+        "crit": 348
+    },
+    "84": {
+        "dodge": 336,
+        "defence": 2100,
+        "hit": 420,
+        "toughness": 252,
+        "attack": 4200,
+        "health": 42000,
+        "exp_num": 17660,
+        "crit": 336
+    },
+    "85": {
+        "dodge": 340,
+        "defence": 2125,
+        "hit": 425,
+        "toughness": 255,
+        "attack": 4250,
+        "health": 42500,
+        "exp_num": 18080,
+        "crit": 340
+    },
+    "48": {
+        "dodge": 192,
+        "defence": 1200,
+        "hit": 240,
+        "toughness": 144,
+        "attack": 2400,
+        "health": 24000,
+        "exp_num": 5780,
+        "crit": 192
+    },
+    "49": {
+        "dodge": 196,
+        "defence": 1225,
+        "hit": 245,
+        "toughness": 147,
+        "attack": 2450,
+        "health": 24500,
+        "exp_num": 6020,
+        "crit": 196
+    },
+    "46": {
+        "dodge": 184,
+        "defence": 1150,
+        "hit": 230,
+        "toughness": 138,
+        "attack": 2300,
+        "health": 23000,
+        "exp_num": 5310,
+        "crit": 184
+    },
+    "47": {
+        "dodge": 188,
+        "defence": 1175,
+        "hit": 235,
+        "toughness": 141,
+        "attack": 2350,
+        "health": 23500,
+        "exp_num": 5540,
+        "crit": 188
+    },
+    "44": {
+        "dodge": 176,
+        "defence": 1100,
+        "hit": 220,
+        "toughness": 132,
+        "attack": 2200,
+        "health": 22000,
+        "exp_num": 4860,
+        "crit": 176
+    },
+    "45": {
+        "dodge": 180,
+        "defence": 1125,
+        "hit": 225,
+        "toughness": 135,
+        "attack": 2250,
+        "health": 22500,
+        "exp_num": 5080,
+        "crit": 180
+    },
+    "42": {
+        "dodge": 168,
+        "defence": 1050,
+        "hit": 210,
+        "toughness": 126,
+        "attack": 2100,
+        "health": 21000,
+        "exp_num": 4430,
+        "crit": 168
+    },
+    "43": {
+        "dodge": 172,
+        "defence": 1075,
+        "hit": 215,
+        "toughness": 129,
+        "attack": 2150,
+        "health": 21500,
+        "exp_num": 4640,
+        "crit": 172
+    },
+    "40": {
+        "dodge": 160,
+        "defence": 1000,
+        "hit": 200,
+        "toughness": 120,
+        "attack": 2000,
+        "health": 20000,
+        "exp_num": 4020,
+        "crit": 160
+    },
+    "41": {
+        "dodge": 164,
+        "defence": 1025,
+        "hit": 205,
+        "toughness": 123,
+        "attack": 2050,
+        "health": 20500,
+        "exp_num": 4220,
+        "crit": 164
+    },
+    "1": {
+        "dodge": 4,
+        "defence": 25,
+        "hit": 5,
+        "toughness": 3,
+        "attack": 50,
+        "health": 500,
+        "exp_num": 10,
+        "crit": 4
+    },
+    "3": {
+        "dodge": 12,
+        "defence": 75,
+        "hit": 15,
+        "toughness": 9,
+        "attack": 150,
+        "health": 1500,
+        "exp_num": 40,
+        "crit": 12
+    },
+    "5": {
+        "dodge": 20,
+        "defence": 125,
+        "hit": 25,
+        "toughness": 15,
+        "attack": 250,
+        "health": 2500,
+        "exp_num": 80,
+        "crit": 20
+    },
+    "7": {
+        "dodge": 28,
+        "defence": 175,
+        "hit": 35,
+        "toughness": 21,
+        "attack": 350,
+        "health": 3500,
+        "exp_num": 140,
+        "crit": 28
+    },
+    "9": {
+        "dodge": 36,
+        "defence": 225,
+        "hit": 45,
+        "toughness": 27,
+        "attack": 450,
+        "health": 4500,
+        "exp_num": 220,
+        "crit": 36
+    },
+    "77": {
+        "dodge": 308,
+        "defence": 1925,
+        "hit": 385,
+        "toughness": 231,
+        "attack": 3850,
+        "health": 38500,
+        "exp_num": 14840,
+        "crit": 308
+    },
+    "76": {
+        "dodge": 304,
+        "defence": 1900,
+        "hit": 380,
+        "toughness": 228,
+        "attack": 3800,
+        "health": 38000,
+        "exp_num": 14460,
+        "crit": 304
+    },
+    "75": {
+        "dodge": 300,
+        "defence": 1875,
+        "hit": 375,
+        "toughness": 225,
+        "attack": 3750,
+        "health": 37500,
+        "exp_num": 14080,
+        "crit": 300
+    },
+    "74": {
+        "dodge": 296,
+        "defence": 1850,
+        "hit": 370,
+        "toughness": 222,
+        "attack": 3700,
+        "health": 37000,
+        "exp_num": 13710,
+        "crit": 296
+    },
+    "73": {
+        "dodge": 292,
+        "defence": 1825,
+        "hit": 365,
+        "toughness": 219,
+        "attack": 3650,
+        "health": 36500,
+        "exp_num": 13340,
+        "crit": 292
+    },
+    "72": {
+        "dodge": 288,
+        "defence": 1800,
+        "hit": 360,
+        "toughness": 216,
+        "attack": 3600,
+        "health": 36000,
+        "exp_num": 12980,
+        "crit": 288
+    },
+    "71": {
+        "dodge": 284,
+        "defence": 1775,
+        "hit": 355,
+        "toughness": 213,
+        "attack": 3550,
+        "health": 35500,
+        "exp_num": 12620,
+        "crit": 284
+    },
+    "70": {
+        "dodge": 280,
+        "defence": 1750,
+        "hit": 350,
+        "toughness": 210,
+        "attack": 3500,
+        "health": 35000,
+        "exp_num": 12270,
+        "crit": 280
+    },
+    "100": {
+        "dodge": 400,
+        "defence": 2500,
+        "hit": 500,
+        "toughness": 300,
+        "attack": 5000,
+        "health": 50000,
+        "exp_num": 25020,
+        "crit": 400
+    },
+    "79": {
+        "dodge": 316,
+        "defence": 1975,
+        "hit": 395,
+        "toughness": 237,
+        "attack": 3950,
+        "health": 39500,
+        "exp_num": 15620,
+        "crit": 316
+    },
+    "78": {
+        "dodge": 312,
+        "defence": 1950,
+        "hit": 390,
+        "toughness": 234,
+        "attack": 3900,
+        "health": 39000,
+        "exp_num": 15230,
+        "crit": 312
+    },
+    "39": {
+        "dodge": 156,
+        "defence": 975,
+        "hit": 195,
+        "toughness": 117,
+        "attack": 1950,
+        "health": 19500,
+        "exp_num": 3820,
+        "crit": 156
+    },
+    "38": {
+        "dodge": 152,
+        "defence": 950,
+        "hit": 190,
+        "toughness": 114,
+        "attack": 1900,
+        "health": 19000,
+        "exp_num": 3630,
+        "crit": 152
+    },
+    "14": {
+        "dodge": 56,
+        "defence": 350,
+        "hit": 70,
+        "toughness": 42,
+        "attack": 700,
+        "health": 7000,
+        "exp_num": 510,
+        "crit": 56
+    },
+    "33": {
+        "dodge": 132,
+        "defence": 825,
+        "hit": 165,
+        "toughness": 99,
+        "attack": 1650,
+        "health": 16500,
+        "exp_num": 2740,
+        "crit": 132
+    },
+    "32": {
+        "dodge": 128,
+        "defence": 800,
+        "hit": 160,
+        "toughness": 96,
+        "attack": 1600,
+        "health": 16000,
+        "exp_num": 2580,
+        "crit": 128
+    },
+    "31": {
+        "dodge": 124,
+        "defence": 775,
+        "hit": 155,
+        "toughness": 93,
+        "attack": 1550,
+        "health": 15500,
+        "exp_num": 2420,
+        "crit": 124
+    },
+    "30": {
+        "dodge": 120,
+        "defence": 750,
+        "hit": 150,
+        "toughness": 90,
+        "attack": 1500,
+        "health": 15000,
+        "exp_num": 2270,
+        "crit": 120
+    },
+    "37": {
+        "dodge": 148,
+        "defence": 925,
+        "hit": 185,
+        "toughness": 111,
+        "attack": 1850,
+        "health": 18500,
+        "exp_num": 3440,
+        "crit": 148
+    },
+    "36": {
+        "dodge": 144,
+        "defence": 900,
+        "hit": 180,
+        "toughness": 108,
+        "attack": 1800,
+        "health": 18000,
+        "exp_num": 3260,
+        "crit": 144
+    },
+    "35": {
+        "dodge": 140,
+        "defence": 875,
+        "hit": 175,
+        "toughness": 105,
+        "attack": 1750,
+        "health": 17500,
+        "exp_num": 3080,
+        "crit": 140
+    },
+    "34": {
+        "dodge": 136,
+        "defence": 850,
+        "hit": 170,
+        "toughness": 102,
+        "attack": 1700,
+        "health": 17000,
+        "exp_num": 2910,
+        "crit": 136
+    }
+}

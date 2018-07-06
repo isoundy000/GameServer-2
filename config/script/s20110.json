@@ -1,0 +1,78 @@
+{
+    "scene_id" : 20110,
+    "name" : "进阶副本(灵骑)",
+    "relive" : {
+        "type" : "111",
+        "wait" : 2,
+        "posX" : 436,
+        "posY" : 2258
+    },
+	// 当前副本的离开场景后，回到进入副本前的场景
+    "exits" : [{
+        "id" : "10600",
+        "posX" : 1633,
+        "posY" : 6042
+    }],
+    "layout" : [
+	{
+        "born_type" : "point",
+        "monster_sort" : 501109001,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[672,2453],[816,2477],[747,2619],[897,2612],[802,2717],[933,2724],[902,2834],[1007,2837],[1064,2741],[1078,2831]],
+        "fresh" : 1000,
+		"wave" : 1,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501109002,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1354,2740],[1374,2823],[1459,2898],[1464,2721],[1516,2833],[1534,2661],[1624,2720],[1601,2547],[1697,2609],[1712,2498]],
+        "fresh" : 1000,
+		"wave" : 2,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501109003,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2026,2015]],
+        "fresh" : 1000,
+		"wave" : 3,
+        "once" : 10,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501109004,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1722,1793],[1840,1708],[1648,1627],[1758,1597],[1574,1536],[1706,1442],[1502,1398],[1627,1287],[1440,1236],[1564,1142]],
+        "fresh" : 1000,
+		"wave" : 4,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501109005,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1214,822]],
+        "fresh" : 1000,
+		"wave" : 5,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    }
+	]
+}

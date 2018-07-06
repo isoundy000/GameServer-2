@@ -1,0 +1,128 @@
+  {
+    "scene_id" : 40008,
+    "name" : "秘藏猎人",
+
+    "state_locked" : 1, //进入该场景后，战斗状态不可以改变
+    "default_state": 1, //进入该场景时，战斗状态设置为0 和平，1 全体， 2 队伍，3 宗派，4善恶
+    "recover_state": 1, //退出场景时是否要恢复进入场景前的战斗状态
+
+    "born_interval":60,
+    "join_reward":500,
+    "relive" : {
+        "type" : "11",
+        "relive_item" : 200000016,
+		"wait" : 1, 
+        "multi_point" : [[1874,2946]],
+		"state" : [50,100,50] //复活点复活，道具复活，随机点复活 
+    },
+    "debuff":
+    {
+    	"1101":	//道具
+		{
+			"view_buff" : {
+                "id" : 1101,
+                "last" : 1800
+        	}
+		},
+    	"1201"://积分
+    	{	
+			"view_buff" : {
+                "id" : 1201,
+                "last" : 1800
+        	}
+		},
+    	"1003"://饥渴
+    	{	
+			"view_buff" : {
+                "id" : 1003,
+                "last" : 180
+        	},
+			"effect" : [{
+				"name" : "hurtdeep",
+		        "last" : 180,
+                "reMark" : "造成的伤害增加30%",
+                "percent" : 30
+			}]
+		}
+    },
+	"score_map":  {			//怪掉落积分
+  		"506003512":30,
+		"506003513":300
+    },
+
+    "count_top":{			//场景里物品上限（物品ID，上限）
+    	"201300013":4
+    },
+
+    "layout" : [ 
+    {
+        "born_type" : "center",
+        "monster_sort" : 506003512,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 5,
+        "born_range" : 10,
+        "center_coordxy" : [2262,5227],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 506003512,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 5,
+        "born_range" : 10,
+        "center_coordxy" : [3408,3462],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 506003512,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 5,
+        "born_range" : 10,
+        "center_coordxy" : [3759,2046],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 506003512,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 5,
+        "born_range" : 10,
+        "center_coordxy" : [556,2496],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    },
+    {
+        "born_type" : "center",
+        "monster_sort" : 506003512,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 5,
+         "born_range" : 10,
+        "center_coordxy" : [342,3604],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    },
+	{
+        "born_type" : "center",
+        "monster_sort" : 506003513,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 1,
+        "born_range" : 10,
+        "center_coordxy" : [2470,968],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    },
+	{
+        "born_type" : "center",
+        "monster_sort" : 506003513,
+        "monster_tree" : "bev1002.json",
+        "born_count" : 1,
+        "born_range" : 10,
+        "center_coordxy" : [1361,4419],
+        "born_times" : "unlimited",
+        "skill_set" : [409000001]
+    }]
+}

@@ -1,0 +1,508 @@
+{
+    "10307": {
+        "second_type": 7,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 7
+    },
+    "10306": {
+        "second_type": 6,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 6
+    },
+    "10305": {
+        "second_type": 5,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 5
+    },
+    "10304": {
+        "second_type": 4,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 4
+    },
+    "10303": {
+        "second_type": 3,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 3
+    },
+    "10302": {
+        "second_type": 2,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 2
+    },
+    "10301": {
+        "second_type": 1,
+        "red_point": 10403,
+        "name": "首充团购",
+        "first_type": 3,
+        "act_title": "首充团购",
+        "mail": 20008,
+        "cond_type": 3,
+        "open_time": 1
+    },
+    "10105": {
+        "second_type": 5,
+        "red_point": 10401,
+        "name": "武林擂台",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "武林擂台",
+        "open_time": 5
+    },
+    "10104": {
+        "second_type": 4,
+        "red_point": 10401,
+        "name": "经验副本",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "经验副本",
+        "open_time": 4
+    },
+    "10107": {
+        "second_type": 7,
+        "red_point": 10401,
+        "name": "战力奖励",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "战力奖励",
+        "open_time": 7
+    },
+    "10106": {
+        "second_type": 6,
+        "red_point": 10401,
+        "name": "跨服竞技",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "跨服竞技",
+        "open_time": 6
+    },
+    "10101": {
+        "second_type": 1,
+        "red_point": 10401,
+        "name": "冲级大礼",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "冲级大礼",
+        "open_time": 1
+    },
+    "10103": {
+        "second_type": 3,
+        "red_point": 10401,
+        "name": "古宝地窟",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "古宝地窟",
+        "open_time": 3
+    },
+    "10102": {
+        "second_type": 2,
+        "red_point": 10401,
+        "name": "凌烟魔塔",
+        "first_type": 1,
+        "mail": 20008,
+        "act_title": "凌烟魔塔",
+        "open_time": 2
+    },
+    "10602": {
+        "second_type": 2,
+        "red_point": 10406,
+        "name": "神翼冲榜",
+        "title_id": 1030032,
+        "first_type": 6,
+        "act_title": "神翼冲榜",
+        "mail": 50004,
+        "start_cond": 3,
+        "cond_type": 1,
+        "open_time": 2
+    },
+    "10603": {
+        "second_type": 3,
+        "red_point": 10406,
+        "name": "魔刃冲榜",
+        "title_id": 1030033,
+        "first_type": 6,
+        "act_title": "魔刃冲榜",
+        "mail": 50005,
+        "start_cond": 3,
+        "cond_type": 1,
+        "open_time": 3
+    },
+    "10601": {
+        "second_type": 1,
+        "red_point": 10406,
+        "name": "骑宠冲榜",
+        "title_id": 1030031,
+        "first_type": 6,
+        "act_title": "骑宠冲榜",
+        "mail": 50003,
+        "start_cond": 4,
+        "cond_type": 1,
+        "open_time": 1
+    },
+    "10606": {
+        "second_type": 6,
+        "red_point": 10406,
+        "name": "仙武冲榜",
+        "title_id": 1030036,
+        "first_type": 6,
+        "act_title": "仙武冲榜",
+        "mail": 50008,
+        "start_cond": 3,
+        "cond_type": 1,
+        "open_time": 6
+    },
+    "10607": {
+        "second_type": 7,
+        "red_point": 10406,
+        "name": "仙兽冲榜",
+        "title_id": 1030037,
+        "first_type": 6,
+        "act_title": "仙兽冲榜",
+        "mail": 50009,
+        "start_cond": 3,
+        "cond_type": 1,
+        "open_time": 7
+    },
+    "10604": {
+        "second_type": 4,
+        "red_point": 10406,
+        "name": "宝器冲榜",
+        "title_id": 1030034,
+        "first_type": 6,
+        "act_title": "宝器冲榜",
+        "mail": 50006,
+        "start_cond": 3,
+        "cond_type": 1,
+        "open_time": 4
+    },
+    "10605": {
+        "second_type": 5,
+        "red_point": 10406,
+        "name": "仙童冲榜",
+        "title_id": 1030035,
+        "first_type": 6,
+        "act_title": "仙童冲榜",
+        "mail": 50007,
+        "start_cond": 3,
+        "cond_type": 1,
+        "open_time": 5
+    },
+    "10401": {
+        "second_type": 1,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 1
+    },
+    "10402": {
+        "second_type": 2,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 2
+    },
+    "10403": {
+        "second_type": 3,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 3
+    },
+    "10404": {
+        "second_type": 4,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 4
+    },
+    "10405": {
+        "second_type": 5,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 5
+    },
+    "10406": {
+        "second_type": 6,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 6
+    },
+    "10407": {
+        "second_type": 7,
+        "red_point": 10404,
+        "name": "累充奖励",
+        "first_type": 4,
+        "mail": 20008,
+        "act_title": "累充奖励",
+        "open_time": 7
+    },
+    "10701": {
+        "second_type": 1,
+        "name": "帮派争霸榜",
+        "first_type": 7,
+        "mail": 20009,
+        "act_title": "帮派争霸榜",
+        "open_time": 1
+    },
+    "10206": {
+        "second_type": 6,
+        "red_point": 10402,
+        "name": "仙武进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "仙武进阶",
+        "open_time": 6
+    },
+    "10207": {
+        "second_type": 7,
+        "red_point": 10402,
+        "name": "仙兽进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "仙兽进阶",
+        "open_time": 7
+    },
+    "10204": {
+        "second_type": 4,
+        "red_point": 10402,
+        "name": "宝器进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "宝器进阶",
+        "open_time": 4
+    },
+    "10205": {
+        "second_type": 5,
+        "red_point": 10402,
+        "name": "仙童进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "仙童进阶",
+        "open_time": 5
+    },
+    "10202": {
+        "second_type": 2,
+        "red_point": 10402,
+        "name": "神翼进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "神翼进阶",
+        "open_time": 2
+    },
+    "10203": {
+        "second_type": 3,
+        "red_point": 10402,
+        "name": "魔刃进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "魔刃进阶",
+        "open_time": 3
+    },
+    "10201": {
+        "second_type": 1,
+        "red_point": 10402,
+        "name": "骑宠进阶",
+        "first_type": 2,
+        "mail": 20008,
+        "act_title": "骑宠进阶",
+        "open_time": 1
+    },
+    "10501": {
+        "second_type": 1,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 1
+    },
+    "10503": {
+        "second_type": 3,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 3
+    },
+    "10502": {
+        "second_type": 2,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 2
+    },
+    "10505": {
+        "second_type": 5,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 5
+    },
+    "10504": {
+        "second_type": 4,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 4
+    },
+    "10507": {
+        "second_type": 7,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 7
+    },
+    "10506": {
+        "second_type": 6,
+        "red_point": 10405,
+        "name": "全民总动员",
+        "first_type": 5,
+        "act_title": "全民总动员",
+        "mail": 20008,
+        "cond_type": 2,
+        "open_time": 6
+    },
+    "11003": {
+        "second_type": 3,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 3
+    },
+    "11002": {
+        "second_type": 2,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 2
+    },
+    "11001": {
+        "second_type": 1,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 1
+    },
+    "11007": {
+        "second_type": 7,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 7
+    },
+    "11006": {
+        "second_type": 6,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 6
+    },
+    "11005": {
+        "second_type": 5,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 5
+    },
+    "11004": {
+        "second_type": 4,
+        "first_type": 10,
+        "name": "返利抢购",
+        "act_title": "返利抢购",
+        "open_time": 4
+    },
+    "10901": {
+        "second_type": 1,
+        "ratio": 1000,
+        "name": "聚宝盆",
+        "first_type": 9,
+        "act_title": "聚宝盆",
+        "day_clear": 1,
+        "mail": 50100,
+        "cond_type": 1,
+        "open_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    "10801": {
+        "second_type": 1,
+        "red_point": 10408,
+        "name": "累计登录",
+        "first_type": 8,
+        "act_title": "累计登录",
+        "cond_type": 1,
+        "open_time": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    }
+}

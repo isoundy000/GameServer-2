@@ -1,0 +1,24 @@
+{
+    "1": {
+        "start_time": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "need_money": 88,
+        "fight_num": 2500,
+        "top_pic": "bbhl_003",
+        "model_id_2": "906000001",
+        "end_time": [
+            6,
+            23,
+            59,
+            59
+        ],
+        "shout_id": 101008,
+        "act_times": 1,
+        "pic_path": "kaiFu/",
+        "reward_id": 812999
+    }
+}

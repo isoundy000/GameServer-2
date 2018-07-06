@@ -1,0 +1,56 @@
+{
+    "1": {
+        "skill_id": 400170004,
+        "name": "袁天罡",
+        "monster_id": 801010031,
+        "des": "增加玩家防御力，效果持续10秒",
+        "get_lv": 0,
+        "priority": 1,
+        "type": 2
+    },
+    "3": {
+        "skill_id": 400170005,
+        "name": "樊梨花",
+        "monster_id": 801010043,
+        "des": "为玩家增加1个吸收伤害的护盾",
+        "get_lv": 6,
+        "priority": 3,
+        "type": 3
+    },
+    "2": {
+        "skill_id": 400170003,
+        "name": "熊阔海",
+        "monster_id": 801010005,
+        "des": "给玩家释放破盾效果",
+        "get_lv": 3,
+        "priority": 2,
+        "type": 1
+    },
+    "5": {
+        "skill_id": 400170008,
+        "name": "杨林",
+        "monster_id": 801010038,
+        "des": "使玩家10秒内免疫眩晕效果",
+        "get_lv": 12,
+        "priority": 5,
+        "type": 4
+    },
+    "4": {
+        "skill_id": 400170006,
+        "name": "程咬金",
+        "monster_id": 801010006,
+        "des": "眩晕首领8秒，对某些关卡会无效",
+        "get_lv": 9,
+        "priority": 4,
+        "type": 1
+    },
+    "6": {
+        "skill_id": 400170007,
+        "name": "王君可",
+        "monster_id": 801010028,
+        "des": "使玩家10秒内免疫流血效果",
+        "get_lv": 15,
+        "priority": 6,
+        "type": 4
+    }
+}

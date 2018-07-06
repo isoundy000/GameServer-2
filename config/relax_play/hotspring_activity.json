@@ -1,0 +1,94 @@
+{
+    "20011": {
+        "speak_interval": 15,
+        "scene_area_list": [
+            1259,
+            720,
+            2578,
+            3094
+        ],
+        "open_level": 40,
+        "shout_start": 70201,
+        "comfort_award_id": 20161,
+        "scene_id": 40501,
+        "total_stage": 5,
+        "game_time": 60,
+        "exp_interval": 5,
+        "wrong_reward": 215050101,
+        "win_award_id": 20160,
+        "shout_end": 70202,
+        "shout_result": 70204,
+        "shout_guess": 70203,
+        "result_mail_id": 10102,
+        "start_time": 1800,
+        "c_talk_list": [
+            "拿个冠军就是这么容易"
+        ],
+        "npc": [
+            "浪蛟龙",
+            "娇无力",
+            "水芙蓉"
+        ],
+        "b_talk_list": [
+            "洪荒之力已用完，我就是冠军了"
+        ],
+        "total_time": 1800,
+        "choose_time": 240,
+        "right_reward": 215050100,
+        "end_time": 1830,
+        "scene_pos": [
+            2074,
+            2725
+        ],
+        "double_major": 2000,
+        "a_talk_list": [
+            "奋勇向前，谁也没我游得快"
+        ]
+    },
+    "20001": {
+        "speak_interval": 15,
+        "scene_area_list": [
+            1259,
+            720,
+            2578,
+            3094
+        ],
+        "open_level": 40,
+        "shout_start": 70201,
+        "comfort_award_id": 20161,
+        "scene_id": 40501,
+        "total_stage": 5,
+        "game_time": 60,
+        "exp_interval": 5,
+        "wrong_reward": 215050101,
+        "win_award_id": 20160,
+        "shout_end": 70202,
+        "shout_result": 70204,
+        "shout_guess": 70203,
+        "result_mail_id": 10102,
+        "start_time": 1200,
+        "c_talk_list": [
+            "拿个冠军就是这么容易"
+        ],
+        "npc": [
+            "浪蛟龙",
+            "娇无力",
+            "水芙蓉"
+        ],
+        "b_talk_list": [
+            "洪荒之力已用完，我就是冠军了"
+        ],
+        "total_time": 1800,
+        "choose_time": 240,
+        "right_reward": 215050100,
+        "end_time": 1230,
+        "scene_pos": [
+            2074,
+            2725
+        ],
+        "double_major": 2000,
+        "a_talk_list": [
+            "奋勇向前，谁也没我游得快"
+        ]
+    }
+}

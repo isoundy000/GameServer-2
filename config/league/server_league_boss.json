@@ -1,0 +1,34 @@
+{
+	/*活动名称*/
+	"name": "帮派boss",
+	/*活动id*/
+	"activity_id": 30001,
+	/*召唤开始时间(时，分，秒)*/
+	"star_time": [19,30],
+	/*召唤持续时间(时，分，秒)*/
+	"end_time": [20,00],
+	/*boss持续时间(秒)*/
+	"boss_exit_time" : 3600,
+	/*经验增加间隔时间*/
+	"player_exp_tick" : 10,
+	/*喂养消耗道具id*/
+	"feed_id": 216310032,
+	/*喂养消耗道具数量*/
+    "feed_num": 1,
+	/*超级召唤消耗道具ID*/
+	"summon_item_id": 216500001,
+	/*超级召唤消耗道具数量*/
+    "summon_cost": 100,
+	/*喂养增加经验*/
+    "add_exp": 10,
+	/*帮派boss开始播报*/
+	"boss_start_shout":90006,
+	/*帮派boss召唤播报*/
+	"boss_summon_shout":90007,
+	/*帮派boss结束播报*/
+	"boss_end_shout":90008,
+	/*boss产生位置*/
+	"boss_pos": [1498,1927],
+	/*进入点，像素*/
+	"enter_pos": [1498,1927]
+}

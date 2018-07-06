@@ -1,0 +1,342 @@
+{
+    "20": {
+        "remark": [
+            "30",
+            "14.5"
+        ],
+        "name": "降暴",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1450,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "11": {
+        "remark": [
+            "30",
+            "10"
+        ],
+        "name": "降暴",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 1000,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "10": {
+        "remark": [
+            "30",
+            "9.5"
+        ],
+        "name": "降暴",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 950,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "13": {
+        "remark": [
+            "30",
+            "11"
+        ],
+        "name": "降暴",
+        "server_force": 2550,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1100,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "12": {
+        "remark": [
+            "30",
+            "10.5"
+        ],
+        "name": "降暴",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 1050,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "15": {
+        "remark": [
+            "30",
+            "12"
+        ],
+        "name": "降暴",
+        "server_force": 2850,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1200,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "14": {
+        "remark": [
+            "30",
+            "11.5"
+        ],
+        "name": "降暴",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1150,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "17": {
+        "remark": [
+            "30",
+            "13"
+        ],
+        "name": "降暴",
+        "server_force": 3150,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1300,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "16": {
+        "remark": [
+            "30",
+            "12.5"
+        ],
+        "name": "降暴",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216130801,
+            4
+        ],
+        "detail": {
+            "percent": 1250,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "19": {
+        "remark": [
+            "30",
+            "14"
+        ],
+        "name": "降暴",
+        "server_force": 3450,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1400,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "18": {
+        "remark": [
+            "30",
+            "13.5"
+        ],
+        "name": "降暴",
+        "server_force": 3300,
+        "upgrade_goods": [
+            216130801,
+            5
+        ],
+        "detail": {
+            "percent": 1350,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "1": {
+        "remark": [
+            "30",
+            "5"
+        ],
+        "name": "降暴",
+        "server_force": 750,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 500,
+            "blood_per": 3000
+        },
+        "add_fight": 750
+    },
+    "3": {
+        "remark": [
+            "30",
+            "6"
+        ],
+        "name": "降暴",
+        "server_force": 1050,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 600,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "2": {
+        "remark": [
+            "30",
+            "5.5"
+        ],
+        "name": "降暴",
+        "server_force": 900,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 550,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "5": {
+        "remark": [
+            "30",
+            "7"
+        ],
+        "name": "降暴",
+        "server_force": 1350,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 700,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "4": {
+        "remark": [
+            "30",
+            "6.5"
+        ],
+        "name": "降暴",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130801,
+            1
+        ],
+        "detail": {
+            "percent": 650,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "7": {
+        "remark": [
+            "30",
+            "8"
+        ],
+        "name": "降暴",
+        "server_force": 1650,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 800,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "6": {
+        "remark": [
+            "30",
+            "7.5"
+        ],
+        "name": "降暴",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 750,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "9": {
+        "remark": [
+            "30",
+            "9"
+        ],
+        "name": "降暴",
+        "server_force": 1950,
+        "upgrade_goods": [
+            216130801,
+            3
+        ],
+        "detail": {
+            "percent": 900,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    },
+    "8": {
+        "remark": [
+            "30",
+            "8.5"
+        ],
+        "name": "降暴",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216130801,
+            2
+        ],
+        "detail": {
+            "percent": 850,
+            "blood_per": 3000
+        },
+        "add_fight": 150
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1": {
+        "shout_start": 70901,
+        "wish_time": 5,
+        "overtime_scale": 7000,
+        "buff_id": 20004,
+        "escort_time": 1200,
+        "finish_npc": 811050014,
+        "finish_map": 10500,
+        "shout_help": 70905,
+        "dead_scale": 7000,
+        "start_npc": 811020010,
+        "npc_name": [
+            "赵飞燕",
+            "鱼玄机",
+            "柳如是",
+            "陈圆圆"
+        ],
+        "protect_limit": 5,
+        "upgrade_item_id": 216310041,
+        "convoy_npc": [
+            951000001,
+            951000002,
+            951000003,
+            951000004
+        ],
+        "buff_percent": -3000,
+        "need_level": 49,
+        "rob_scale": 3000,
+        "item_num_list": [
+            1,
+            2,
+            3
+        ],
+        "shout_end": 70902,
+        "convoy_level": 4,
+        "protect_buff": 20006,
+        "wish_reduce": 5000,
+        "rob_times": 3,
+        "double_time": [
+            [
+                1530,
+                1600
+            ],
+            [
+                1830,
+                1900
+            ]
+        ],
+        "shout_refresh": 70903,
+        "protect_scale": 1000,
+        "level_prob_list": [
+            5000,
+            3000,
+            1500,
+            500
+        ],
+        "start_map": 10200,
+        "ext_award_id": 606200,
+        "protect_reduce": 1000,
+        "shout_most": 70904,
+        "wish_num": 3,
+        "escort_times": 3,
+        "protect_times": 2,
+        "wish_buff": 20005,
+        "protect_award_id": 606201
+    }
+}

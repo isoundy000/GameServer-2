@@ -1,0 +1,16 @@
+{
+    "70101": {
+        "add_score": 1,
+        "name": "全民双倍",
+        "combine_reset_self": 1,
+        "red_point": 11501,
+        "reset_flag": 0,
+        "ten_cost": 188,
+        "draw_cost": 20,
+        "add_gold": 5,
+        "shout_id": 101001,
+        "low_gold": 2000,
+        "base_gold": 5000,
+        "combine_reset_act": 1
+    }
+}

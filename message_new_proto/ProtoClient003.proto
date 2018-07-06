@@ -1,0 +1,371 @@
+import "ProtoPublic.proto";
+
+message Proto11400404       // 隐藏
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto11400405       // 选择战骑外形
+{
+    optional int32 type = 1;       // 类型
+    optional int32 mount_shape = 2;       // 外形阶数
+}
+
+message Proto51400405       // 选择战骑外形(返回)
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto51400404       // 隐藏(返回)
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto11400501       // 宠物详细信息
+{
+    optional int64 beast_id = 1;       // 宠物ID
+}
+
+message Proto51400501       // 宠物详细信息(返回)
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional int32 beast_sort = 2;       // 宠物种类
+    optional string beast_name = 3;       // 宠物名字
+    optional int32 action_state = 4;       // 动作状态
+    optional int32 beast_level = 5;       // 宠物等级
+    optional int32 beast_growth = 6;       // 宠物成长
+    optional int32 beast_ability = 7;       // 宠物资质
+    optional int32 attack = 8;       // 攻击
+    optional int32 hit = 9;       // 命中
+    optional int32 crite = 10;       // 暴击
+    optional int32 force = 11;       // 战力
+    optional int32 sky_soul = 12;       // 天魂
+    optional int32 earth_soul = 13;       // 地魂
+    optional int32 life_soul = 14;       // 命魂
+    repeated ProtoBeastSkill skill_set = 15;       // 技能列表
+    optional int32 sky_value = 16;       // 天魂值
+    optional int32 earth_value = 17;       // 地魂值
+    optional int32 life_value = 18;       // 命魂值
+    optional int32 growth_attack = 19;       // 成长攻击
+    optional int32 growth_hit = 20;       // 成长命中
+    optional int32 growth_crit = 21;       // 成长暴击
+    optional int32 conbine_value = 22;       // 融合进度值
+    optional int32 total_value = 23;       // 升级所需值
+    optional int32 skill_block = 24;       // 可用技能槽数量
+    repeated int32 skill_conditon = 25;       // 不可用技能条件索引
+    optional int32 ability_trans_rate = 26;       // 资质转化率
+    optional int32 is_guard = 27;       // 
+}
+
+message Proto51400502       // 宠物列表(返回)
+{
+    repeated ProtoBaseBeastInfo beast_set = 1;       // 宠物列表
+}
+
+message Proto11400503       // 修改宠物名字
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional string beast_name = 2;       // 宠物名字
+}
+
+message Proto11400505       // 放生
+{
+    optional int64 beast_id = 1;       // 宠物ID
+}
+
+message Proto11400506       // 宠物操作
+{
+    optional int64 beast_id = 1;       // 宠物ID
+}
+
+message Proto51400506       // 宠物操作(返回)
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional int32 beast_state = 2;       // 宠物状态
+}
+
+message Proto11400507       // 宠物成长升级
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional int32 auto_buy = 2;       // 自动购买；1自动，0不自动
+}
+
+message Proto51400507       // 宠物成长升级(返回)
+{
+    optional int32 success_flag = 1;       // 是否成功
+    optional int32 change_value = 2;       // 改变值
+    optional int32 upgrade_flag = 3;       // 是否升级
+}
+
+message Proto11400508       // 宠物成长信息
+{
+    optional int64 beast_id = 1;       // 宠物ID
+}
+
+message Proto51400508       // 宠物成长信息(返回)
+{
+    optional int32 growth_level = 1;       // 成长等级
+    optional int32 growth_value = 2;       // 成长值
+    optional int64 beast_id = 3;       // 宠物ID
+    optional int32 force = 4;       // 战力
+}
+
+message Proto51400516       // 宠物技能信息(返回)
+{
+    repeated ProtoBeastSkill skill_set = 1;       // 宠物技能列表
+    optional int64 beast_id = 2;       // 宠物ID
+}
+
+message Proto11400601       // 装备强化
+{
+    optional int32 pkg_index = 1;       // 背包索引
+    optional int32 is_auto_buy = 2;       // 是否自动购买材料，0：否，1：是
+    optional int32 is_batch_refine = 3;       // 是否一键强化，0：否，1：是
+}
+
+message Proto51400601       // 装备强化（返回）
+{
+    optional int32 is_grade_up = 1;       // 是否升级
+    optional int32 pkg_index = 2;       // 装备所在背包索引
+    optional int32 strengthen_lvl = 3;       // 强化等级
+}
+
+message Proto11400602       // 红装升阶
+{
+    optional int32 pkg_index = 1;       // 装备索引
+}
+
+message Proto51400602       // 红装升阶（返回）
+{
+    optional int32 aim_item_id = 1;       // 升阶后的装备id
+    optional int32 item_id = 2;       // 升阶前的装备id
+    optional int32 pkg_index = 3;       // 装备索引
+}
+
+message Proto11400603       // 装备铸光
+{
+    optional int32 martial_id = 1;       // 材料id
+    optional int32 pkg_type = 2;       // 背包类型
+    optional int32 pkg_index = 3;       // 背包索引
+}
+
+message Proto51400603       // 装备铸光（返回）
+{
+    optional int32 aim_item_id = 1;       // 铸光后的装备id
+}
+
+message Proto11400604       // 穿上装备
+{
+    optional int32 pkg_index = 1;       // 背包索引
+}
+
+message Proto11400605       // 脱下装备
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 pkg_type = 2;       // 背包类型
+    optional int32 pkg_index = 3;       // 背包索引
+}
+
+message Proto11400650       // 查看装备
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 pkg_type = 2;       // 背包类型
+    optional int32 pkg_index = 3;       // 背包索引
+}
+
+message Proto11400519       // 宠物炼魂信息
+{
+    optional int64 beast_id = 1;       // 宠物ID
+}
+
+message Proto51400519       // 宠物炼魂信息(返回)
+{
+    optional int32 sky_soul = 1;       // 天魂等级
+    optional int32 sky_value = 2;       // 天魂值
+    optional int32 earth_soul = 3;       // 地魂等级
+    optional int32 earth_value = 4;       // 地魂值
+    optional int32 life_soul = 5;       // 命魂等级
+    optional int32 life_value = 6;       // 命魂值
+    optional int64 beast_id = 7;       // 宠物ID
+    optional int32 force = 8;       // 战力
+}
+
+message Proto11400520       // 宠物炼魂
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional int32 soul_type = 2;       // 炼魂类型，1表示天魂，2表示地魂，3表示命魂
+    optional int32 auto_buy = 3;       // 自动购买; 1 自动，0 不自动
+}
+
+message Proto51400520       // 宠物炼魂(返回)
+{
+    optional int32 soul_type = 1;       // 炼魂类型
+    optional int32 refine_flag = 2;       // 炼魂标识，0表示失败，1表示成功
+    optional int32 refine_value = 3;       // 增加的炼魂值
+    optional int32 upgrade_flag = 4;       // 是否升级
+}
+
+message Proto11400521       // 宠物融合
+{
+    optional int32 combine_flag = 1;       // 融合标识，0表示请求，1表示确认
+    optional int64 main_beast = 2;       // 主宠
+    optional int64 sub_beast = 3;       // 次宠
+}
+
+message Proto51400521       // 宠物融合(返回)
+{
+    optional int64 main_beast = 1;       // 主宠
+    optional int32 beast_sort = 2;       // 主宠种类
+    optional string beast_name = 3;       // 宠物名字
+    optional int32 ability = 4;       // 资质
+    optional int32 growth_lvl = 5;       // 成长等级
+    optional int32 sky_soul = 6;       // 天魂
+    optional int32 earth_soul = 7;       // 地魂
+    optional int32 life_soul = 8;       // 命魂
+    optional int32 attack = 9;       // 攻击
+    optional int32 hit = 10;       // 命中
+    optional int32 crit = 11;       // 暴击
+    optional int32 force = 12;       // 战力
+    optional int32 conbine_value = 13;       // 融合进度值
+    optional int32 total_value = 14;       // 升级所需值
+}
+
+message Proto11400600       // 查看装备强化界面
+{
+    optional int32 item_id = 1;       // 装备id
+    optional int32 pkg_type = 2;       // 背包类型
+    optional int32 pkg_index = 3;       // 背包索引
+}
+
+message Proto11400607       // 七曜通灵
+{
+    optional int32 id = 1;       // 七曜的id，从1开始计算，1-7
+    optional int32 is_batch = 2;       // 是否批量，0：否，1：是
+    optional int32 is_auto_buy = 3;       // 是否自动购买，0：否，1：是
+}
+
+message Proto51400607       // 七曜通灵（返回）
+{
+    optional int32 degree = 1;       // 本次获得的完成度
+    optional int32 is_upgrade = 2;       // 是否升级，0：否，1：是
+    optional int32 id = 3;       // 七曜的id
+}
+
+message Proto81400111       // 宠物技能更新(主动)
+{
+    optional ProtoBeastSkill skill_info = 1;       // 宠物技能信息
+}
+
+message Proto51400608       // 查看神兵洗练信息(返回)
+{
+    repeated ProtoPairObj attr_list = 1;       // 总属性列表，type + value
+    repeated ProtoPairObj magical_list = 2;       // 神兵开启列表，level + flag
+}
+
+message Proto11400609       // 激活神兵
+{
+    optional int32 magical_id = 1;       // 神兵id（即是神兵等级）
+}
+
+message Proto51400609       // 激活神兵(返回)
+{
+    optional int32 magical_id = 1;       // 神兵id（即是神兵等级）
+}
+
+message Proto11400610       // 获取单个神兵信息
+{
+    optional int32 magical_id = 1;       // 神兵id（即是神兵等级）
+}
+
+message Proto51400610       // 获取单个神兵信息（返回）
+{
+    optional int32 magical_id = 1;       // 神兵id
+    optional int32 lucky_value = 2;       // 黄金聚灵数值
+    optional ProtoMagicalInfo cur_use = 3;       // 当前使用的神兵属性
+    optional ProtoMagicalInfo single_record = 4;       // 单次聚灵的属性结果
+    repeated ProtoMagicalInfo batch_record = 5;       // 批量聚灵的属性结果
+}
+
+message Proto11400611       // 神兵聚灵
+{
+    optional int32 magical_id = 1;       // 神兵id（即是神兵等级）
+    optional int32 is_special = 2;       // 是否黄金聚灵：1是， 0否
+    optional int32 is_batch = 3;       // 是否批量聚灵：1是， 0否
+    optional int32 is_auto_buy = 4;       // 是否自动购买：1是， 0否
+    repeated int32 lock_list = 5;       // 已使用锁的位置索引，从1开始计算
+}
+
+message Proto51400611       // 神兵聚灵（返回）
+{
+    optional int32 magical_id = 1;       // 神兵id（即是神兵等级）
+    optional int32 is_special = 2;       // 是否黄金聚灵：1是， 0否
+    optional int32 lucky_num = 3;       // 当前的黄金数值
+    repeated ProtoMagicalInfo magical_record_list = 4;       // 神兵聚灵结果
+}
+
+message Proto11400612       // 神兵属性替换
+{
+    optional int32 polish_batch_mode = 1;       // 是否批量聚灵，1是0否
+    optional int32 select_index = 2;       // 注意：当第一个字段为1是才有效
+    optional int32 magical_id = 3;       // 神兵id
+}
+
+message Proto51400612       // 神兵属性替换（返回）
+{
+    optional int32 polish_batch_mode = 1;       // 是否批量聚灵，1是0否
+    optional ProtoMagicalInfo magical_detail = 2;       // 选择的聚灵结果
+    optional int32 magical_id = 3;       // 神兵id
+}
+
+message Proto81400601       // 主动通知神兵属性替换后的总属性
+{
+    repeated ProtoPairObj attr_list = 1;       // 总属性列表，type + value
+}
+
+message Proto80400111       // 怪物出现
+{
+    optional int64 ai_id = 1;       // 怪物ID
+    optional int32 ai_sort = 2;       // 怪物种类
+    optional int32 speed = 3;       // 速度
+    optional int32 toward = 4;       // 角度
+    optional int32 ai_blood = 5;       // 怪物血量
+    optional int32 max_blood = 6;       // 最大血量
+    optional int32 fight_state = 7;       // 战斗状态
+    optional int32 scene_id = 8;       // 场景ID
+    optional int32 space_id = 9;       // 空间ID
+    optional int32 pixel_x = 10;       // X像素
+    optional int32 pixel_y = 11;       // Y像素
+    optional int64 sub_id = 12;       // 附加ID，根据场景不同，有不同含义
+    optional string sub_name = 13;       // 附加名字
+}
+
+message Proto11400651       // 获取衣橱信息--按时装部位分
+{
+    optional int32 fashion_part = 1;       // 时装部位：1衣服2武器
+}
+
+message Proto51400651       // 获取衣橱信息--按时装部位分（返回）
+{
+    optional int32 fashion_part = 1;       // 时装部位：1衣服2武器
+    repeated ProtoItem fashion_list = 2;       // 时装列表
+    optional int32 in_use_id = 3;       // 当前展示的时装id
+    optional int32 pkg_index = 4;       // 所在的背包索引位置
+    repeated int32 show_fashion_list = 5;       // 需要展示的时装
+    repeated int32 show_vip_fashion_list = 6;       // 需要展示的vip时装
+}
+
+message Proto11400652       // 时装转化--变成永久时装
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 fashion_id = 2;       // 时装id、
+}
+
+message Proto51400652       // 时装转化--变成永久时装（返回）
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 pkg_index = 2;       // 所在位置索引
+    optional int32 old_fashion_id = 3;       // 转换之前的时装id
+    optional int32 new_fashion_id = 4;       // 转换之后的时装id
+}
+
+

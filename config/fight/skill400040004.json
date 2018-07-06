@@ -1,0 +1,1136 @@
+{
+    "60": {
+        "remark": [
+            "788"
+        ],
+        "upgrade_goods": [
+            216010004,
+            16
+        ],
+        "add_fight": 12570,
+        "name": "命中",
+        "detail": {
+            "hit": 788
+        }
+    },
+    "61": {
+        "remark": [
+            "800"
+        ],
+        "upgrade_goods": [
+            216010004,
+            16
+        ],
+        "add_fight": 12750,
+        "name": "命中",
+        "detail": {
+            "hit": 800
+        }
+    },
+    "62": {
+        "remark": [
+            "813"
+        ],
+        "upgrade_goods": [
+            216010004,
+            16
+        ],
+        "add_fight": 12945,
+        "name": "命中",
+        "detail": {
+            "hit": 813
+        }
+    },
+    "63": {
+        "remark": [
+            "825"
+        ],
+        "upgrade_goods": [
+            216010004,
+            16
+        ],
+        "add_fight": 13125,
+        "name": "命中",
+        "detail": {
+            "hit": 825
+        }
+    },
+    "64": {
+        "remark": [
+            "838"
+        ],
+        "upgrade_goods": [
+            216010004,
+            18
+        ],
+        "add_fight": 13320,
+        "name": "命中",
+        "detail": {
+            "hit": 838
+        }
+    },
+    "65": {
+        "remark": [
+            "850"
+        ],
+        "upgrade_goods": [
+            216010004,
+            18
+        ],
+        "add_fight": 13500,
+        "name": "命中",
+        "detail": {
+            "hit": 850
+        }
+    },
+    "66": {
+        "remark": [
+            "863"
+        ],
+        "upgrade_goods": [
+            216010004,
+            18
+        ],
+        "add_fight": 13695,
+        "name": "命中",
+        "detail": {
+            "hit": 863
+        }
+    },
+    "67": {
+        "remark": [
+            "875"
+        ],
+        "upgrade_goods": [
+            216010004,
+            18
+        ],
+        "add_fight": 13875,
+        "name": "命中",
+        "detail": {
+            "hit": 875
+        }
+    },
+    "68": {
+        "remark": [
+            "888"
+        ],
+        "upgrade_goods": [
+            216010004,
+            18
+        ],
+        "add_fight": 14070,
+        "name": "命中",
+        "detail": {
+            "hit": 888
+        }
+    },
+    "69": {
+        "remark": [
+            "900"
+        ],
+        "upgrade_goods": [
+            216010004,
+            20
+        ],
+        "add_fight": 14250,
+        "name": "命中",
+        "detail": {
+            "hit": 900
+        }
+    },
+    "24": {
+        "remark": [
+            "338"
+        ],
+        "upgrade_goods": [
+            216010004,
+            6
+        ],
+        "add_fight": 5820,
+        "name": "命中",
+        "detail": {
+            "hit": 338
+        }
+    },
+    "25": {
+        "remark": [
+            "350"
+        ],
+        "upgrade_goods": [
+            216010004,
+            6
+        ],
+        "add_fight": 6000,
+        "name": "命中",
+        "detail": {
+            "hit": 350
+        }
+    },
+    "26": {
+        "remark": [
+            "363"
+        ],
+        "upgrade_goods": [
+            216010004,
+            6
+        ],
+        "add_fight": 6195,
+        "name": "命中",
+        "detail": {
+            "hit": 363
+        }
+    },
+    "27": {
+        "remark": [
+            "375"
+        ],
+        "upgrade_goods": [
+            216010004,
+            6
+        ],
+        "add_fight": 6375,
+        "name": "命中",
+        "detail": {
+            "hit": 375
+        }
+    },
+    "20": {
+        "remark": [
+            "288"
+        ],
+        "upgrade_goods": [
+            216010004,
+            5
+        ],
+        "add_fight": 5070,
+        "name": "命中",
+        "detail": {
+            "hit": 288
+        }
+    },
+    "21": {
+        "remark": [
+            "300"
+        ],
+        "upgrade_goods": [
+            216010004,
+            5
+        ],
+        "add_fight": 5250,
+        "name": "命中",
+        "detail": {
+            "hit": 300
+        }
+    },
+    "22": {
+        "remark": [
+            "313"
+        ],
+        "upgrade_goods": [
+            216010004,
+            5
+        ],
+        "add_fight": 5445,
+        "name": "命中",
+        "detail": {
+            "hit": 313
+        }
+    },
+    "23": {
+        "remark": [
+            "325"
+        ],
+        "upgrade_goods": [
+            216010004,
+            5
+        ],
+        "add_fight": 5625,
+        "name": "命中",
+        "detail": {
+            "hit": 325
+        }
+    },
+    "28": {
+        "remark": [
+            "388"
+        ],
+        "upgrade_goods": [
+            216010004,
+            6
+        ],
+        "add_fight": 6570,
+        "name": "命中",
+        "detail": {
+            "hit": 388
+        }
+    },
+    "29": {
+        "remark": [
+            "400"
+        ],
+        "upgrade_goods": [
+            216010004,
+            7
+        ],
+        "add_fight": 6750,
+        "name": "命中",
+        "detail": {
+            "hit": 400
+        }
+    },
+    "0": {
+        "remark": [
+            "0"
+        ],
+        "upgrade_goods": [
+            216010004,
+            1
+        ],
+        "add_fight": 0,
+        "name": "命中",
+        "detail": {
+            "hit": 0
+        }
+    },
+    "2": {
+        "remark": [
+            "63"
+        ],
+        "upgrade_goods": [
+            216010004,
+            1
+        ],
+        "add_fight": 1695,
+        "name": "命中",
+        "detail": {
+            "hit": 63
+        }
+    },
+    "4": {
+        "remark": [
+            "88"
+        ],
+        "upgrade_goods": [
+            216010004,
+            2
+        ],
+        "add_fight": 2070,
+        "name": "命中",
+        "detail": {
+            "hit": 88
+        }
+    },
+    "6": {
+        "remark": [
+            "113"
+        ],
+        "upgrade_goods": [
+            216010004,
+            2
+        ],
+        "add_fight": 2445,
+        "name": "命中",
+        "detail": {
+            "hit": 113
+        }
+    },
+    "8": {
+        "remark": [
+            "138"
+        ],
+        "upgrade_goods": [
+            216010004,
+            2
+        ],
+        "add_fight": 2820,
+        "name": "命中",
+        "detail": {
+            "hit": 138
+        }
+    },
+    "15": {
+        "remark": [
+            "225"
+        ],
+        "upgrade_goods": [
+            216010004,
+            4
+        ],
+        "add_fight": 4125,
+        "name": "命中",
+        "detail": {
+            "hit": 225
+        }
+    },
+    "14": {
+        "remark": [
+            "213"
+        ],
+        "upgrade_goods": [
+            216010004,
+            4
+        ],
+        "add_fight": 3945,
+        "name": "命中",
+        "detail": {
+            "hit": 213
+        }
+    },
+    "11": {
+        "remark": [
+            "175"
+        ],
+        "upgrade_goods": [
+            216010004,
+            3
+        ],
+        "add_fight": 3375,
+        "name": "命中",
+        "detail": {
+            "hit": 175
+        }
+    },
+    "10": {
+        "remark": [
+            "163"
+        ],
+        "upgrade_goods": [
+            216010004,
+            3
+        ],
+        "add_fight": 3195,
+        "name": "命中",
+        "detail": {
+            "hit": 163
+        }
+    },
+    "13": {
+        "remark": [
+            "200"
+        ],
+        "upgrade_goods": [
+            216010004,
+            3
+        ],
+        "add_fight": 3750,
+        "name": "命中",
+        "detail": {
+            "hit": 200
+        }
+    },
+    "12": {
+        "remark": [
+            "188"
+        ],
+        "upgrade_goods": [
+            216010004,
+            3
+        ],
+        "add_fight": 3570,
+        "name": "命中",
+        "detail": {
+            "hit": 188
+        }
+    },
+    "59": {
+        "remark": [
+            "775"
+        ],
+        "upgrade_goods": [
+            216010004,
+            16
+        ],
+        "add_fight": 12375,
+        "name": "命中",
+        "detail": {
+            "hit": 775
+        }
+    },
+    "58": {
+        "remark": [
+            "763"
+        ],
+        "upgrade_goods": [
+            216010004,
+            14
+        ],
+        "add_fight": 12195,
+        "name": "命中",
+        "detail": {
+            "hit": 763
+        }
+    },
+    "17": {
+        "remark": [
+            "250"
+        ],
+        "upgrade_goods": [
+            216010004,
+            4
+        ],
+        "add_fight": 4500,
+        "name": "命中",
+        "detail": {
+            "hit": 250
+        }
+    },
+    "16": {
+        "remark": [
+            "238"
+        ],
+        "upgrade_goods": [
+            216010004,
+            4
+        ],
+        "add_fight": 4320,
+        "name": "命中",
+        "detail": {
+            "hit": 238
+        }
+    },
+    "19": {
+        "remark": [
+            "275"
+        ],
+        "upgrade_goods": [
+            216010004,
+            5
+        ],
+        "add_fight": 4875,
+        "name": "命中",
+        "detail": {
+            "hit": 275
+        }
+    },
+    "54": {
+        "remark": [
+            "713"
+        ],
+        "upgrade_goods": [
+            216010004,
+            14
+        ],
+        "add_fight": 11445,
+        "name": "命中",
+        "detail": {
+            "hit": 713
+        }
+    },
+    "57": {
+        "remark": [
+            "750"
+        ],
+        "upgrade_goods": [
+            216010004,
+            14
+        ],
+        "add_fight": 12000,
+        "name": "命中",
+        "detail": {
+            "hit": 750
+        }
+    },
+    "56": {
+        "remark": [
+            "738"
+        ],
+        "upgrade_goods": [
+            216010004,
+            14
+        ],
+        "add_fight": 11820,
+        "name": "命中",
+        "detail": {
+            "hit": 738
+        }
+    },
+    "51": {
+        "remark": [
+            "675"
+        ],
+        "upgrade_goods": [
+            216010004,
+            12
+        ],
+        "add_fight": 10875,
+        "name": "命中",
+        "detail": {
+            "hit": 675
+        }
+    },
+    "50": {
+        "remark": [
+            "663"
+        ],
+        "upgrade_goods": [
+            216010004,
+            12
+        ],
+        "add_fight": 10695,
+        "name": "命中",
+        "detail": {
+            "hit": 663
+        }
+    },
+    "53": {
+        "remark": [
+            "700"
+        ],
+        "upgrade_goods": [
+            216010004,
+            12
+        ],
+        "add_fight": 11250,
+        "name": "命中",
+        "detail": {
+            "hit": 700
+        }
+    },
+    "52": {
+        "remark": [
+            "688"
+        ],
+        "upgrade_goods": [
+            216010004,
+            12
+        ],
+        "add_fight": 11070,
+        "name": "命中",
+        "detail": {
+            "hit": 688
+        }
+    },
+    "55": {
+        "remark": [
+            "725"
+        ],
+        "upgrade_goods": [
+            216010004,
+            14
+        ],
+        "add_fight": 11625,
+        "name": "命中",
+        "detail": {
+            "hit": 725
+        }
+    },
+    "18": {
+        "remark": [
+            "263"
+        ],
+        "upgrade_goods": [
+            216010004,
+            4
+        ],
+        "add_fight": 4695,
+        "name": "命中",
+        "detail": {
+            "hit": 263
+        }
+    },
+    "80": {
+        "remark": [
+            "1038"
+        ],
+        "upgrade_goods": [
+            216010004,
+            24
+        ],
+        "add_fight": 16320,
+        "name": "命中",
+        "detail": {
+            "hit": 1038
+        }
+    },
+    "48": {
+        "remark": [
+            "638"
+        ],
+        "upgrade_goods": [
+            216010004,
+            10
+        ],
+        "add_fight": 10320,
+        "name": "命中",
+        "detail": {
+            "hit": 638
+        }
+    },
+    "49": {
+        "remark": [
+            "650"
+        ],
+        "upgrade_goods": [
+            216010004,
+            12
+        ],
+        "add_fight": 10500,
+        "name": "命中",
+        "detail": {
+            "hit": 650
+        }
+    },
+    "46": {
+        "remark": [
+            "613"
+        ],
+        "upgrade_goods": [
+            216010004,
+            10
+        ],
+        "add_fight": 9945,
+        "name": "命中",
+        "detail": {
+            "hit": 613
+        }
+    },
+    "47": {
+        "remark": [
+            "625"
+        ],
+        "upgrade_goods": [
+            216010004,
+            10
+        ],
+        "add_fight": 10125,
+        "name": "命中",
+        "detail": {
+            "hit": 625
+        }
+    },
+    "44": {
+        "remark": [
+            "588"
+        ],
+        "upgrade_goods": [
+            216010004,
+            10
+        ],
+        "add_fight": 9570,
+        "name": "命中",
+        "detail": {
+            "hit": 588
+        }
+    },
+    "45": {
+        "remark": [
+            "600"
+        ],
+        "upgrade_goods": [
+            216010004,
+            10
+        ],
+        "add_fight": 9750,
+        "name": "命中",
+        "detail": {
+            "hit": 600
+        }
+    },
+    "42": {
+        "remark": [
+            "563"
+        ],
+        "upgrade_goods": [
+            216010004,
+            9
+        ],
+        "add_fight": 9195,
+        "name": "命中",
+        "detail": {
+            "hit": 563
+        }
+    },
+    "43": {
+        "remark": [
+            "575"
+        ],
+        "upgrade_goods": [
+            216010004,
+            9
+        ],
+        "add_fight": 9375,
+        "name": "命中",
+        "detail": {
+            "hit": 575
+        }
+    },
+    "40": {
+        "remark": [
+            "538"
+        ],
+        "upgrade_goods": [
+            216010004,
+            9
+        ],
+        "add_fight": 8820,
+        "name": "命中",
+        "detail": {
+            "hit": 538
+        }
+    },
+    "41": {
+        "remark": [
+            "550"
+        ],
+        "upgrade_goods": [
+            216010004,
+            9
+        ],
+        "add_fight": 9000,
+        "name": "命中",
+        "detail": {
+            "hit": 550
+        }
+    },
+    "1": {
+        "remark": [
+            "50"
+        ],
+        "upgrade_goods": [
+            216010004,
+            1
+        ],
+        "add_fight": 750,
+        "name": "命中",
+        "detail": {
+            "hit": 50
+        }
+    },
+    "3": {
+        "remark": [
+            "75"
+        ],
+        "upgrade_goods": [
+            216010004,
+            1
+        ],
+        "add_fight": 1875,
+        "name": "命中",
+        "detail": {
+            "hit": 75
+        }
+    },
+    "5": {
+        "remark": [
+            "100"
+        ],
+        "upgrade_goods": [
+            216010004,
+            2
+        ],
+        "add_fight": 2250,
+        "name": "命中",
+        "detail": {
+            "hit": 100
+        }
+    },
+    "7": {
+        "remark": [
+            "125"
+        ],
+        "upgrade_goods": [
+            216010004,
+            2
+        ],
+        "add_fight": 2625,
+        "name": "命中",
+        "detail": {
+            "hit": 125
+        }
+    },
+    "9": {
+        "remark": [
+            "150"
+        ],
+        "upgrade_goods": [
+            216010004,
+            3
+        ],
+        "add_fight": 3000,
+        "name": "命中",
+        "detail": {
+            "hit": 150
+        }
+    },
+    "77": {
+        "remark": [
+            "1000"
+        ],
+        "upgrade_goods": [
+            216010004,
+            22
+        ],
+        "add_fight": 15750,
+        "name": "命中",
+        "detail": {
+            "hit": 1000
+        }
+    },
+    "76": {
+        "remark": [
+            "988"
+        ],
+        "upgrade_goods": [
+            216010004,
+            22
+        ],
+        "add_fight": 15570,
+        "name": "命中",
+        "detail": {
+            "hit": 988
+        }
+    },
+    "75": {
+        "remark": [
+            "975"
+        ],
+        "upgrade_goods": [
+            216010004,
+            22
+        ],
+        "add_fight": 15375,
+        "name": "命中",
+        "detail": {
+            "hit": 975
+        }
+    },
+    "74": {
+        "remark": [
+            "963"
+        ],
+        "upgrade_goods": [
+            216010004,
+            22
+        ],
+        "add_fight": 15195,
+        "name": "命中",
+        "detail": {
+            "hit": 963
+        }
+    },
+    "73": {
+        "remark": [
+            "950"
+        ],
+        "upgrade_goods": [
+            216010004,
+            20
+        ],
+        "add_fight": 15000,
+        "name": "命中",
+        "detail": {
+            "hit": 950
+        }
+    },
+    "72": {
+        "remark": [
+            "938"
+        ],
+        "upgrade_goods": [
+            216010004,
+            20
+        ],
+        "add_fight": 14820,
+        "name": "命中",
+        "detail": {
+            "hit": 938
+        }
+    },
+    "71": {
+        "remark": [
+            "925"
+        ],
+        "upgrade_goods": [
+            216010004,
+            20
+        ],
+        "add_fight": 14625,
+        "name": "命中",
+        "detail": {
+            "hit": 925
+        }
+    },
+    "70": {
+        "remark": [
+            "913"
+        ],
+        "upgrade_goods": [
+            216010004,
+            20
+        ],
+        "add_fight": 14445,
+        "name": "命中",
+        "detail": {
+            "hit": 913
+        }
+    },
+    "79": {
+        "remark": [
+            "1025"
+        ],
+        "upgrade_goods": [
+            216010004,
+            24
+        ],
+        "add_fight": 16125,
+        "name": "命中",
+        "detail": {
+            "hit": 1025
+        }
+    },
+    "78": {
+        "remark": [
+            "1013"
+        ],
+        "upgrade_goods": [
+            216010004,
+            22
+        ],
+        "add_fight": 15945,
+        "name": "命中",
+        "detail": {
+            "hit": 1013
+        }
+    },
+    "39": {
+        "remark": [
+            "525"
+        ],
+        "upgrade_goods": [
+            216010004,
+            9
+        ],
+        "add_fight": 8625,
+        "name": "命中",
+        "detail": {
+            "hit": 525
+        }
+    },
+    "38": {
+        "remark": [
+            "513"
+        ],
+        "upgrade_goods": [
+            216010004,
+            8
+        ],
+        "add_fight": 8445,
+        "name": "命中",
+        "detail": {
+            "hit": 513
+        }
+    },
+    "33": {
+        "remark": [
+            "450"
+        ],
+        "upgrade_goods": [
+            216010004,
+            7
+        ],
+        "add_fight": 7500,
+        "name": "命中",
+        "detail": {
+            "hit": 450
+        }
+    },
+    "32": {
+        "remark": [
+            "438"
+        ],
+        "upgrade_goods": [
+            216010004,
+            7
+        ],
+        "add_fight": 7320,
+        "name": "命中",
+        "detail": {
+            "hit": 438
+        }
+    },
+    "31": {
+        "remark": [
+            "425"
+        ],
+        "upgrade_goods": [
+            216010004,
+            7
+        ],
+        "add_fight": 7125,
+        "name": "命中",
+        "detail": {
+            "hit": 425
+        }
+    },
+    "30": {
+        "remark": [
+            "413"
+        ],
+        "upgrade_goods": [
+            216010004,
+            7
+        ],
+        "add_fight": 6945,
+        "name": "命中",
+        "detail": {
+            "hit": 413
+        }
+    },
+    "37": {
+        "remark": [
+            "500"
+        ],
+        "upgrade_goods": [
+            216010004,
+            8
+        ],
+        "add_fight": 8250,
+        "name": "命中",
+        "detail": {
+            "hit": 500
+        }
+    },
+    "36": {
+        "remark": [
+            "488"
+        ],
+        "upgrade_goods": [
+            216010004,
+            8
+        ],
+        "add_fight": 8070,
+        "name": "命中",
+        "detail": {
+            "hit": 488
+        }
+    },
+    "35": {
+        "remark": [
+            "475"
+        ],
+        "upgrade_goods": [
+            216010004,
+            8
+        ],
+        "add_fight": 7875,
+        "name": "命中",
+        "detail": {
+            "hit": 475
+        }
+    },
+    "34": {
+        "remark": [
+            "463"
+        ],
+        "upgrade_goods": [
+            216010004,
+            8
+        ],
+        "add_fight": 7695,
+        "name": "命中",
+        "detail": {
+            "hit": 463
+        }
+    }
+}

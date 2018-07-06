@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "1150"
+        ],
+        "name": "破体",
+        "server_force": 6900,
+        "upgrade_goods": [
+            216130701,
+            5
+        ],
+        "detail": {
+            "value": 1150
+        },
+        "add_fight": 300
+    },
+    "11": {
+        "remark": [
+            "700"
+        ],
+        "name": "破体",
+        "server_force": 4200,
+        "upgrade_goods": [
+            216130701,
+            3
+        ],
+        "detail": {
+            "value": 700
+        },
+        "add_fight": 300
+    },
+    "10": {
+        "remark": [
+            "650"
+        ],
+        "name": "破体",
+        "server_force": 3900,
+        "upgrade_goods": [
+            216130701,
+            3
+        ],
+        "detail": {
+            "value": 650
+        },
+        "add_fight": 300
+    },
+    "13": {
+        "remark": [
+            "800"
+        ],
+        "name": "破体",
+        "server_force": 4800,
+        "upgrade_goods": [
+            216130701,
+            4
+        ],
+        "detail": {
+            "value": 800
+        },
+        "add_fight": 300
+    },
+    "12": {
+        "remark": [
+            "750"
+        ],
+        "name": "破体",
+        "server_force": 4500,
+        "upgrade_goods": [
+            216130701,
+            3
+        ],
+        "detail": {
+            "value": 750
+        },
+        "add_fight": 300
+    },
+    "15": {
+        "remark": [
+            "900"
+        ],
+        "name": "破体",
+        "server_force": 5400,
+        "upgrade_goods": [
+            216130701,
+            4
+        ],
+        "detail": {
+            "value": 900
+        },
+        "add_fight": 300
+    },
+    "14": {
+        "remark": [
+            "850"
+        ],
+        "name": "破体",
+        "server_force": 5100,
+        "upgrade_goods": [
+            216130701,
+            4
+        ],
+        "detail": {
+            "value": 850
+        },
+        "add_fight": 300
+    },
+    "17": {
+        "remark": [
+            "1000"
+        ],
+        "name": "破体",
+        "server_force": 6000,
+        "upgrade_goods": [
+            216130701,
+            5
+        ],
+        "detail": {
+            "value": 1000
+        },
+        "add_fight": 300
+    },
+    "16": {
+        "remark": [
+            "950"
+        ],
+        "name": "破体",
+        "server_force": 5700,
+        "upgrade_goods": [
+            216130701,
+            4
+        ],
+        "detail": {
+            "value": 950
+        },
+        "add_fight": 300
+    },
+    "19": {
+        "remark": [
+            "1100"
+        ],
+        "name": "破体",
+        "server_force": 6600,
+        "upgrade_goods": [
+            216130701,
+            5
+        ],
+        "detail": {
+            "value": 1100
+        },
+        "add_fight": 300
+    },
+    "18": {
+        "remark": [
+            "1050"
+        ],
+        "name": "破体",
+        "server_force": 6300,
+        "upgrade_goods": [
+            216130701,
+            5
+        ],
+        "detail": {
+            "value": 1050
+        },
+        "add_fight": 300
+    },
+    "1": {
+        "remark": [
+            "200"
+        ],
+        "name": "破体",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130701,
+            1
+        ],
+        "detail": {
+            "value": 200
+        },
+        "add_fight": 1200
+    },
+    "3": {
+        "remark": [
+            "300"
+        ],
+        "name": "破体",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216130701,
+            1
+        ],
+        "detail": {
+            "value": 300
+        },
+        "add_fight": 300
+    },
+    "2": {
+        "remark": [
+            "250"
+        ],
+        "name": "破体",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216130701,
+            1
+        ],
+        "detail": {
+            "value": 250
+        },
+        "add_fight": 300
+    },
+    "5": {
+        "remark": [
+            "400"
+        ],
+        "name": "破体",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130701,
+            2
+        ],
+        "detail": {
+            "value": 400
+        },
+        "add_fight": 300
+    },
+    "4": {
+        "remark": [
+            "350"
+        ],
+        "name": "破体",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216130701,
+            1
+        ],
+        "detail": {
+            "value": 350
+        },
+        "add_fight": 300
+    },
+    "7": {
+        "remark": [
+            "500"
+        ],
+        "name": "破体",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216130701,
+            2
+        ],
+        "detail": {
+            "value": 500
+        },
+        "add_fight": 300
+    },
+    "6": {
+        "remark": [
+            "450"
+        ],
+        "name": "破体",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216130701,
+            2
+        ],
+        "detail": {
+            "value": 450
+        },
+        "add_fight": 300
+    },
+    "9": {
+        "remark": [
+            "600"
+        ],
+        "name": "破体",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216130701,
+            3
+        ],
+        "detail": {
+            "value": 600
+        },
+        "add_fight": 300
+    },
+    "8": {
+        "remark": [
+            "550"
+        ],
+        "name": "破体",
+        "server_force": 3300,
+        "upgrade_goods": [
+            216130701,
+            2
+        ],
+        "detail": {
+            "value": 550
+        },
+        "add_fight": 300
+    }
+}

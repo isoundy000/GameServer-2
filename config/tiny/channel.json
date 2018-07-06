@@ -1,0 +1,438 @@
+{
+    "yinhu": {
+        "remark": "银狐",
+        "code": 22
+    },
+    "shoumeng": {
+        "machine-travel-b": [
+            "112.74.13.27",
+            16951
+        ],
+        "remark": "手盟",
+        "code": 112
+    },
+    "huiyu": {
+        "remark": "汇娱",
+        "code": 106
+    },
+    "qitianledi": {
+        "remark": "奇天乐地",
+        "code": 88
+    },
+    "xianyu": {
+        "remark": "咸鱼",
+        "code": 100
+    },
+    "leishen": {
+        "machine-travel-b": [
+            "120.27.94.65",
+            16951
+        ],
+        "remark": "雷神",
+        "code": 84
+    },
+    "bingniaoios": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16951
+        ],
+        "remark": "冰鸟IOS",
+        "code": 70
+    },
+    "play800": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16953
+        ],
+        "remark": "play800",
+        "code": 62
+    },
+    "ouwan": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16955
+        ],
+        "remark": "偶玩",
+        "code": 26
+    },
+    "yyios": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16954
+        ],
+        "remark": "YYIOS",
+        "code": 60
+    },
+    "shenhai": {
+        "machine-travel-b": [
+            "121.42.11.240",
+            16955
+        ],
+        "remark": "深海",
+        "code": 110
+    },
+    "yaoxing": {
+        "machine-travel-b": [
+            "112.74.13.27",
+            16954
+        ],
+        "remark": "耀星",
+        "code": 124
+    },
+    "pywan": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16953
+        ],
+        "remark": "朋友玩",
+        "code": 18
+    },
+    "wanyou": {
+        "remark": "万游",
+        "code": 128
+    },
+    "jingqi": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16952
+        ],
+        "remark": "鲸旗",
+        "code": 28
+    },
+    "xipu": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16956
+        ],
+        "remark": "喜扑",
+        "code": 24
+    },
+    "miwan": {
+        "remark": "米玩",
+        "code": 122
+    },
+    "baofeng": {
+        "remark": "豹风",
+        "code": 82
+    },
+    "yinhuios": {
+        "remark": "银狐IOS",
+        "code": 42
+    },
+    "yongle": {
+        "remark": "永乐",
+        "code": 134
+    },
+    "changmeng": {
+        "remark": "畅梦",
+        "code": 120
+    },
+    "youxiangios": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16952
+        ],
+        "remark": "优象IOS",
+        "code": 38
+    },
+    "350game": {
+        "machine-travel-b": [
+            "112.74.13.27",
+            16953
+        ],
+        "remark": "三五零",
+        "code": 132
+    },
+    "duokemengios": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16951
+        ],
+        "remark": "哆可梦IOS",
+        "code": 52
+    },
+    "junhaiios": {
+        "machine-travel-b": [
+            "120.27.94.65",
+            16953
+        ],
+        "remark": "君海IOS",
+        "code": 34
+    },
+    "youxiang": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16952
+        ],
+        "remark": "优象",
+        "code": 30
+    },
+    "xiandoudj": {
+        "remark": "仙豆刀剑",
+        "code": 64
+    },
+    "gule": {
+        "machine-travel-b": [
+            "121.42.11.240",
+            16951
+        ],
+        "remark": "谷乐",
+        "code": 98
+    },
+    "junhaily": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16955
+        ],
+        "remark": "君海联运",
+        "code": 36
+    },
+    "lewanios": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16953
+        ],
+        "remark": "乐玩IOS",
+        "code": 78
+    },
+    "haodong": {
+        "remark": "浩动",
+        "code": 96
+    },
+    "aofei": {
+        "remark": "奥飞",
+        "code": 118
+    },
+    "muzhiyw": {
+        "machine-travel-b": [
+            "120.27.94.65",
+            16954
+        ],
+        "remark": "拇指游玩",
+        "code": 92
+    },
+    "awt": {
+        "remark": "play800掌娱",
+        "code": 102
+    },
+    "papa": {
+        "remark": "啪啪",
+        "code": 130
+    },
+    "49youios": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16954
+        ],
+        "remark": "四九游IOS",
+        "code": 44
+    },
+    "jianyu": {
+        "machine-travel-b": [
+            "14.29.82.234",
+            16942
+        ],
+        "remark": "开发",
+        "code": 5
+    },
+    "jiuyou": {
+        "remark": "九游",
+        "code": 12
+    },
+    "yy": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16954
+        ],
+        "remark": "YY",
+        "code": 58
+    },
+    "test": {
+        "machine-travel-b": [
+            "127.0.0.1",
+            16942
+        ],
+        "remark": "测试",
+        "code": 5
+    },
+    "jinzhanios": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16956
+        ],
+        "remark": "晋展IOS",
+        "code": 50
+    },
+    "xiandouios": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16955
+        ],
+        "remark": "仙豆IOS",
+        "code": 56
+    },
+    "lingdongsk": {
+        "machine-travel-b": [
+            "112.74.13.27",
+            16952
+        ],
+        "remark": "灵动",
+        "code": 116
+    },
+    "49tianyu": {
+        "machine-travel-b": [
+            "120.27.94.65",
+            16955
+        ],
+        "remark": "49天域",
+        "code": 104
+    },
+    "hanfeng": {
+        "remark": "汉风",
+        "code": 126
+    },
+    "junhai": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16951
+        ],
+        "remark": "君海 ",
+        "code": 16
+    },
+    "bolo": {
+        "machine-travel-b": [
+            "121.42.11.240",
+            16953
+        ],
+        "remark": "菠萝",
+        "code": 114
+    },
+    "jinwan": {
+        "machine-travel-b": [
+            "121.42.11.240",
+            16954
+        ],
+        "remark": "劲玩",
+        "code": 108
+    },
+    "xiandou": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16955
+        ],
+        "remark": "仙豆",
+        "code": 54
+    },
+    "duokemeng": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16951
+        ],
+        "remark": "哆可梦",
+        "code": 32
+    },
+    "jingqiios": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16952
+        ],
+        "remark": "鲸旗IOS",
+        "code": 48
+    },
+    "play800ios": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16953
+        ],
+        "remark": "play800IOS",
+        "code": 46
+    },
+    "bingniao": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16951
+        ],
+        "remark": "冰鸟",
+        "code": 68
+    },
+    "yyzf3": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16954
+        ],
+        "remark": "YY专服三",
+        "code": 74
+    },
+    "yyzf2": {
+        "machine-travel-b": [
+            "112.74.29.59",
+            16954
+        ],
+        "remark": "YY专服二",
+        "code": 72
+    },
+    "qiyu": {
+        "machine-travel-b": [
+            "121.42.11.240",
+            16952
+        ],
+        "remark": "奇遇",
+        "code": 90
+    },
+    "ouwanios": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16955
+        ],
+        "remark": "偶玩IOS",
+        "code": 80
+    },
+    "huandong": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16954
+        ],
+        "remark": "幻动",
+        "code": 86
+    },
+    "49you": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16954
+        ],
+        "remark": "四九游",
+        "code": 20
+    },
+    "aileyou": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16952
+        ],
+        "remark": "爱乐游",
+        "code": 66
+    },
+    "lewan": {
+        "machine-travel-b": [
+            "114.215.40.157",
+            16953
+        ],
+        "remark": "乐玩",
+        "code": 76
+    },
+    "m5399": {
+        "machine-travel-b": [
+            "120.27.94.65",
+            16952
+        ],
+        "remark": "5399",
+        "code": 94
+    },
+    "pywanios": {
+        "machine-travel-b": [
+            "120.24.38.129",
+            16953
+        ],
+        "remark": "朋友玩IOS",
+        "code": 40
+    }
+}

@@ -1,0 +1,1136 @@
+{
+    "60": {
+        "remark": [
+            "1260"
+        ],
+        "upgrade_goods": [
+            216010003,
+            16
+        ],
+        "add_fight": 6300,
+        "name": "防御",
+        "detail": {
+            "defence": 1260
+        }
+    },
+    "61": {
+        "remark": [
+            "1280"
+        ],
+        "upgrade_goods": [
+            216010003,
+            16
+        ],
+        "add_fight": 6400,
+        "name": "防御",
+        "detail": {
+            "defence": 1280
+        }
+    },
+    "62": {
+        "remark": [
+            "1300"
+        ],
+        "upgrade_goods": [
+            216010003,
+            16
+        ],
+        "add_fight": 6500,
+        "name": "防御",
+        "detail": {
+            "defence": 1300
+        }
+    },
+    "63": {
+        "remark": [
+            "1320"
+        ],
+        "upgrade_goods": [
+            216010003,
+            16
+        ],
+        "add_fight": 6600,
+        "name": "防御",
+        "detail": {
+            "defence": 1320
+        }
+    },
+    "64": {
+        "remark": [
+            "1340"
+        ],
+        "upgrade_goods": [
+            216010003,
+            18
+        ],
+        "add_fight": 6700,
+        "name": "防御",
+        "detail": {
+            "defence": 1340
+        }
+    },
+    "65": {
+        "remark": [
+            "1360"
+        ],
+        "upgrade_goods": [
+            216010003,
+            18
+        ],
+        "add_fight": 6800,
+        "name": "防御",
+        "detail": {
+            "defence": 1360
+        }
+    },
+    "66": {
+        "remark": [
+            "1380"
+        ],
+        "upgrade_goods": [
+            216010003,
+            18
+        ],
+        "add_fight": 6900,
+        "name": "防御",
+        "detail": {
+            "defence": 1380
+        }
+    },
+    "67": {
+        "remark": [
+            "1400"
+        ],
+        "upgrade_goods": [
+            216010003,
+            18
+        ],
+        "add_fight": 7000,
+        "name": "防御",
+        "detail": {
+            "defence": 1400
+        }
+    },
+    "68": {
+        "remark": [
+            "1420"
+        ],
+        "upgrade_goods": [
+            216010003,
+            18
+        ],
+        "add_fight": 7100,
+        "name": "防御",
+        "detail": {
+            "defence": 1420
+        }
+    },
+    "69": {
+        "remark": [
+            "1440"
+        ],
+        "upgrade_goods": [
+            216010003,
+            20
+        ],
+        "add_fight": 7200,
+        "name": "防御",
+        "detail": {
+            "defence": 1440
+        }
+    },
+    "24": {
+        "remark": [
+            "540"
+        ],
+        "upgrade_goods": [
+            216010003,
+            6
+        ],
+        "add_fight": 2700,
+        "name": "防御",
+        "detail": {
+            "defence": 540
+        }
+    },
+    "25": {
+        "remark": [
+            "560"
+        ],
+        "upgrade_goods": [
+            216010003,
+            6
+        ],
+        "add_fight": 2800,
+        "name": "防御",
+        "detail": {
+            "defence": 560
+        }
+    },
+    "26": {
+        "remark": [
+            "580"
+        ],
+        "upgrade_goods": [
+            216010003,
+            6
+        ],
+        "add_fight": 2900,
+        "name": "防御",
+        "detail": {
+            "defence": 580
+        }
+    },
+    "27": {
+        "remark": [
+            "600"
+        ],
+        "upgrade_goods": [
+            216010003,
+            6
+        ],
+        "add_fight": 3000,
+        "name": "防御",
+        "detail": {
+            "defence": 600
+        }
+    },
+    "20": {
+        "remark": [
+            "460"
+        ],
+        "upgrade_goods": [
+            216010003,
+            5
+        ],
+        "add_fight": 2300,
+        "name": "防御",
+        "detail": {
+            "defence": 460
+        }
+    },
+    "21": {
+        "remark": [
+            "480"
+        ],
+        "upgrade_goods": [
+            216010003,
+            5
+        ],
+        "add_fight": 2400,
+        "name": "防御",
+        "detail": {
+            "defence": 480
+        }
+    },
+    "22": {
+        "remark": [
+            "500"
+        ],
+        "upgrade_goods": [
+            216010003,
+            5
+        ],
+        "add_fight": 2500,
+        "name": "防御",
+        "detail": {
+            "defence": 500
+        }
+    },
+    "23": {
+        "remark": [
+            "520"
+        ],
+        "upgrade_goods": [
+            216010003,
+            5
+        ],
+        "add_fight": 2600,
+        "name": "防御",
+        "detail": {
+            "defence": 520
+        }
+    },
+    "28": {
+        "remark": [
+            "620"
+        ],
+        "upgrade_goods": [
+            216010003,
+            6
+        ],
+        "add_fight": 3100,
+        "name": "防御",
+        "detail": {
+            "defence": 620
+        }
+    },
+    "29": {
+        "remark": [
+            "640"
+        ],
+        "upgrade_goods": [
+            216010003,
+            7
+        ],
+        "add_fight": 3200,
+        "name": "防御",
+        "detail": {
+            "defence": 640
+        }
+    },
+    "0": {
+        "remark": [
+            "0"
+        ],
+        "upgrade_goods": [
+            216010003,
+            1
+        ],
+        "add_fight": 0,
+        "name": "防御",
+        "detail": {
+            "defence": 0
+        }
+    },
+    "2": {
+        "remark": [
+            "100"
+        ],
+        "upgrade_goods": [
+            216010003,
+            1
+        ],
+        "add_fight": 500,
+        "name": "防御",
+        "detail": {
+            "defence": 100
+        }
+    },
+    "4": {
+        "remark": [
+            "140"
+        ],
+        "upgrade_goods": [
+            216010003,
+            2
+        ],
+        "add_fight": 700,
+        "name": "防御",
+        "detail": {
+            "defence": 140
+        }
+    },
+    "6": {
+        "remark": [
+            "180"
+        ],
+        "upgrade_goods": [
+            216010003,
+            2
+        ],
+        "add_fight": 900,
+        "name": "防御",
+        "detail": {
+            "defence": 180
+        }
+    },
+    "8": {
+        "remark": [
+            "220"
+        ],
+        "upgrade_goods": [
+            216010003,
+            2
+        ],
+        "add_fight": 1100,
+        "name": "防御",
+        "detail": {
+            "defence": 220
+        }
+    },
+    "15": {
+        "remark": [
+            "360"
+        ],
+        "upgrade_goods": [
+            216010003,
+            4
+        ],
+        "add_fight": 1800,
+        "name": "防御",
+        "detail": {
+            "defence": 360
+        }
+    },
+    "14": {
+        "remark": [
+            "340"
+        ],
+        "upgrade_goods": [
+            216010003,
+            4
+        ],
+        "add_fight": 1700,
+        "name": "防御",
+        "detail": {
+            "defence": 340
+        }
+    },
+    "11": {
+        "remark": [
+            "280"
+        ],
+        "upgrade_goods": [
+            216010003,
+            3
+        ],
+        "add_fight": 1400,
+        "name": "防御",
+        "detail": {
+            "defence": 280
+        }
+    },
+    "10": {
+        "remark": [
+            "260"
+        ],
+        "upgrade_goods": [
+            216010003,
+            3
+        ],
+        "add_fight": 1300,
+        "name": "防御",
+        "detail": {
+            "defence": 260
+        }
+    },
+    "13": {
+        "remark": [
+            "320"
+        ],
+        "upgrade_goods": [
+            216010003,
+            3
+        ],
+        "add_fight": 1600,
+        "name": "防御",
+        "detail": {
+            "defence": 320
+        }
+    },
+    "12": {
+        "remark": [
+            "300"
+        ],
+        "upgrade_goods": [
+            216010003,
+            3
+        ],
+        "add_fight": 1500,
+        "name": "防御",
+        "detail": {
+            "defence": 300
+        }
+    },
+    "59": {
+        "remark": [
+            "1240"
+        ],
+        "upgrade_goods": [
+            216010003,
+            16
+        ],
+        "add_fight": 6200,
+        "name": "防御",
+        "detail": {
+            "defence": 1240
+        }
+    },
+    "58": {
+        "remark": [
+            "1220"
+        ],
+        "upgrade_goods": [
+            216010003,
+            14
+        ],
+        "add_fight": 6100,
+        "name": "防御",
+        "detail": {
+            "defence": 1220
+        }
+    },
+    "17": {
+        "remark": [
+            "400"
+        ],
+        "upgrade_goods": [
+            216010003,
+            4
+        ],
+        "add_fight": 2000,
+        "name": "防御",
+        "detail": {
+            "defence": 400
+        }
+    },
+    "16": {
+        "remark": [
+            "380"
+        ],
+        "upgrade_goods": [
+            216010003,
+            4
+        ],
+        "add_fight": 1900,
+        "name": "防御",
+        "detail": {
+            "defence": 380
+        }
+    },
+    "19": {
+        "remark": [
+            "440"
+        ],
+        "upgrade_goods": [
+            216010003,
+            5
+        ],
+        "add_fight": 2200,
+        "name": "防御",
+        "detail": {
+            "defence": 440
+        }
+    },
+    "54": {
+        "remark": [
+            "1140"
+        ],
+        "upgrade_goods": [
+            216010003,
+            14
+        ],
+        "add_fight": 5700,
+        "name": "防御",
+        "detail": {
+            "defence": 1140
+        }
+    },
+    "57": {
+        "remark": [
+            "1200"
+        ],
+        "upgrade_goods": [
+            216010003,
+            14
+        ],
+        "add_fight": 6000,
+        "name": "防御",
+        "detail": {
+            "defence": 1200
+        }
+    },
+    "56": {
+        "remark": [
+            "1180"
+        ],
+        "upgrade_goods": [
+            216010003,
+            14
+        ],
+        "add_fight": 5900,
+        "name": "防御",
+        "detail": {
+            "defence": 1180
+        }
+    },
+    "51": {
+        "remark": [
+            "1080"
+        ],
+        "upgrade_goods": [
+            216010003,
+            12
+        ],
+        "add_fight": 5400,
+        "name": "防御",
+        "detail": {
+            "defence": 1080
+        }
+    },
+    "50": {
+        "remark": [
+            "1060"
+        ],
+        "upgrade_goods": [
+            216010003,
+            12
+        ],
+        "add_fight": 5300,
+        "name": "防御",
+        "detail": {
+            "defence": 1060
+        }
+    },
+    "53": {
+        "remark": [
+            "1120"
+        ],
+        "upgrade_goods": [
+            216010003,
+            12
+        ],
+        "add_fight": 5600,
+        "name": "防御",
+        "detail": {
+            "defence": 1120
+        }
+    },
+    "52": {
+        "remark": [
+            "1100"
+        ],
+        "upgrade_goods": [
+            216010003,
+            12
+        ],
+        "add_fight": 5500,
+        "name": "防御",
+        "detail": {
+            "defence": 1100
+        }
+    },
+    "55": {
+        "remark": [
+            "1160"
+        ],
+        "upgrade_goods": [
+            216010003,
+            14
+        ],
+        "add_fight": 5800,
+        "name": "防御",
+        "detail": {
+            "defence": 1160
+        }
+    },
+    "18": {
+        "remark": [
+            "420"
+        ],
+        "upgrade_goods": [
+            216010003,
+            4
+        ],
+        "add_fight": 2100,
+        "name": "防御",
+        "detail": {
+            "defence": 420
+        }
+    },
+    "80": {
+        "remark": [
+            "1660"
+        ],
+        "upgrade_goods": [
+            216010003,
+            24
+        ],
+        "add_fight": 8300,
+        "name": "防御",
+        "detail": {
+            "defence": 1660
+        }
+    },
+    "48": {
+        "remark": [
+            "1020"
+        ],
+        "upgrade_goods": [
+            216010003,
+            10
+        ],
+        "add_fight": 5100,
+        "name": "防御",
+        "detail": {
+            "defence": 1020
+        }
+    },
+    "49": {
+        "remark": [
+            "1040"
+        ],
+        "upgrade_goods": [
+            216010003,
+            12
+        ],
+        "add_fight": 5200,
+        "name": "防御",
+        "detail": {
+            "defence": 1040
+        }
+    },
+    "46": {
+        "remark": [
+            "980"
+        ],
+        "upgrade_goods": [
+            216010003,
+            10
+        ],
+        "add_fight": 4900,
+        "name": "防御",
+        "detail": {
+            "defence": 980
+        }
+    },
+    "47": {
+        "remark": [
+            "1000"
+        ],
+        "upgrade_goods": [
+            216010003,
+            10
+        ],
+        "add_fight": 5000,
+        "name": "防御",
+        "detail": {
+            "defence": 1000
+        }
+    },
+    "44": {
+        "remark": [
+            "940"
+        ],
+        "upgrade_goods": [
+            216010003,
+            10
+        ],
+        "add_fight": 4700,
+        "name": "防御",
+        "detail": {
+            "defence": 940
+        }
+    },
+    "45": {
+        "remark": [
+            "960"
+        ],
+        "upgrade_goods": [
+            216010003,
+            10
+        ],
+        "add_fight": 4800,
+        "name": "防御",
+        "detail": {
+            "defence": 960
+        }
+    },
+    "42": {
+        "remark": [
+            "900"
+        ],
+        "upgrade_goods": [
+            216010003,
+            9
+        ],
+        "add_fight": 4500,
+        "name": "防御",
+        "detail": {
+            "defence": 900
+        }
+    },
+    "43": {
+        "remark": [
+            "920"
+        ],
+        "upgrade_goods": [
+            216010003,
+            9
+        ],
+        "add_fight": 4600,
+        "name": "防御",
+        "detail": {
+            "defence": 920
+        }
+    },
+    "40": {
+        "remark": [
+            "860"
+        ],
+        "upgrade_goods": [
+            216010003,
+            9
+        ],
+        "add_fight": 4300,
+        "name": "防御",
+        "detail": {
+            "defence": 860
+        }
+    },
+    "41": {
+        "remark": [
+            "880"
+        ],
+        "upgrade_goods": [
+            216010003,
+            9
+        ],
+        "add_fight": 4400,
+        "name": "防御",
+        "detail": {
+            "defence": 880
+        }
+    },
+    "1": {
+        "remark": [
+            "80"
+        ],
+        "upgrade_goods": [
+            216010003,
+            1
+        ],
+        "add_fight": 400,
+        "name": "防御",
+        "detail": {
+            "defence": 80
+        }
+    },
+    "3": {
+        "remark": [
+            "120"
+        ],
+        "upgrade_goods": [
+            216010003,
+            1
+        ],
+        "add_fight": 600,
+        "name": "防御",
+        "detail": {
+            "defence": 120
+        }
+    },
+    "5": {
+        "remark": [
+            "160"
+        ],
+        "upgrade_goods": [
+            216010003,
+            2
+        ],
+        "add_fight": 800,
+        "name": "防御",
+        "detail": {
+            "defence": 160
+        }
+    },
+    "7": {
+        "remark": [
+            "200"
+        ],
+        "upgrade_goods": [
+            216010003,
+            2
+        ],
+        "add_fight": 1000,
+        "name": "防御",
+        "detail": {
+            "defence": 200
+        }
+    },
+    "9": {
+        "remark": [
+            "240"
+        ],
+        "upgrade_goods": [
+            216010003,
+            3
+        ],
+        "add_fight": 1200,
+        "name": "防御",
+        "detail": {
+            "defence": 240
+        }
+    },
+    "77": {
+        "remark": [
+            "1600"
+        ],
+        "upgrade_goods": [
+            216010003,
+            22
+        ],
+        "add_fight": 8000,
+        "name": "防御",
+        "detail": {
+            "defence": 1600
+        }
+    },
+    "76": {
+        "remark": [
+            "1580"
+        ],
+        "upgrade_goods": [
+            216010003,
+            22
+        ],
+        "add_fight": 7900,
+        "name": "防御",
+        "detail": {
+            "defence": 1580
+        }
+    },
+    "75": {
+        "remark": [
+            "1560"
+        ],
+        "upgrade_goods": [
+            216010003,
+            22
+        ],
+        "add_fight": 7800,
+        "name": "防御",
+        "detail": {
+            "defence": 1560
+        }
+    },
+    "74": {
+        "remark": [
+            "1540"
+        ],
+        "upgrade_goods": [
+            216010003,
+            22
+        ],
+        "add_fight": 7700,
+        "name": "防御",
+        "detail": {
+            "defence": 1540
+        }
+    },
+    "73": {
+        "remark": [
+            "1520"
+        ],
+        "upgrade_goods": [
+            216010003,
+            20
+        ],
+        "add_fight": 7600,
+        "name": "防御",
+        "detail": {
+            "defence": 1520
+        }
+    },
+    "72": {
+        "remark": [
+            "1500"
+        ],
+        "upgrade_goods": [
+            216010003,
+            20
+        ],
+        "add_fight": 7500,
+        "name": "防御",
+        "detail": {
+            "defence": 1500
+        }
+    },
+    "71": {
+        "remark": [
+            "1480"
+        ],
+        "upgrade_goods": [
+            216010003,
+            20
+        ],
+        "add_fight": 7400,
+        "name": "防御",
+        "detail": {
+            "defence": 1480
+        }
+    },
+    "70": {
+        "remark": [
+            "1460"
+        ],
+        "upgrade_goods": [
+            216010003,
+            20
+        ],
+        "add_fight": 7300,
+        "name": "防御",
+        "detail": {
+            "defence": 1460
+        }
+    },
+    "79": {
+        "remark": [
+            "1640"
+        ],
+        "upgrade_goods": [
+            216010003,
+            24
+        ],
+        "add_fight": 8200,
+        "name": "防御",
+        "detail": {
+            "defence": 1640
+        }
+    },
+    "78": {
+        "remark": [
+            "1620"
+        ],
+        "upgrade_goods": [
+            216010003,
+            22
+        ],
+        "add_fight": 8100,
+        "name": "防御",
+        "detail": {
+            "defence": 1620
+        }
+    },
+    "39": {
+        "remark": [
+            "840"
+        ],
+        "upgrade_goods": [
+            216010003,
+            9
+        ],
+        "add_fight": 4200,
+        "name": "防御",
+        "detail": {
+            "defence": 840
+        }
+    },
+    "38": {
+        "remark": [
+            "820"
+        ],
+        "upgrade_goods": [
+            216010003,
+            8
+        ],
+        "add_fight": 4100,
+        "name": "防御",
+        "detail": {
+            "defence": 820
+        }
+    },
+    "33": {
+        "remark": [
+            "720"
+        ],
+        "upgrade_goods": [
+            216010003,
+            7
+        ],
+        "add_fight": 3600,
+        "name": "防御",
+        "detail": {
+            "defence": 720
+        }
+    },
+    "32": {
+        "remark": [
+            "700"
+        ],
+        "upgrade_goods": [
+            216010003,
+            7
+        ],
+        "add_fight": 3500,
+        "name": "防御",
+        "detail": {
+            "defence": 700
+        }
+    },
+    "31": {
+        "remark": [
+            "680"
+        ],
+        "upgrade_goods": [
+            216010003,
+            7
+        ],
+        "add_fight": 3400,
+        "name": "防御",
+        "detail": {
+            "defence": 680
+        }
+    },
+    "30": {
+        "remark": [
+            "660"
+        ],
+        "upgrade_goods": [
+            216010003,
+            7
+        ],
+        "add_fight": 3300,
+        "name": "防御",
+        "detail": {
+            "defence": 660
+        }
+    },
+    "37": {
+        "remark": [
+            "800"
+        ],
+        "upgrade_goods": [
+            216010003,
+            8
+        ],
+        "add_fight": 4000,
+        "name": "防御",
+        "detail": {
+            "defence": 800
+        }
+    },
+    "36": {
+        "remark": [
+            "780"
+        ],
+        "upgrade_goods": [
+            216010003,
+            8
+        ],
+        "add_fight": 3900,
+        "name": "防御",
+        "detail": {
+            "defence": 780
+        }
+    },
+    "35": {
+        "remark": [
+            "760"
+        ],
+        "upgrade_goods": [
+            216010003,
+            8
+        ],
+        "add_fight": 3800,
+        "name": "防御",
+        "detail": {
+            "defence": 760
+        }
+    },
+    "34": {
+        "remark": [
+            "740"
+        ],
+        "upgrade_goods": [
+            216010003,
+            8
+        ],
+        "add_fight": 3700,
+        "name": "防御",
+        "detail": {
+            "defence": 740
+        }
+    }
+}

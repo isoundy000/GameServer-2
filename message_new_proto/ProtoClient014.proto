@@ -1,0 +1,325 @@
+import "ProtoPublic.proto";
+
+message Proto81401706       // 登入通知时间戳
+{
+    optional int64 ticks = 1;       // 服务器时间戳
+}
+
+message Proto11400349       // 一键完成高级试炼
+{
+    optional int32 task_id = 1;       // 
+}
+
+message Proto51402501       // 获取法宝界面信息(返回)
+{
+    optional int32 adorn_id = 1;       // 佩戴法宝id
+    repeated ProtoMagicWeapon mw_list = 2;       // 法宝列表
+    optional int32 reiki_num = 3;       // 玩家当前灵气
+}
+
+message Proto11402502       // 法宝激活
+{
+    optional int32 magicweapon_id = 1;       // 激活法宝的ID
+}
+
+message Proto51402502       // 法宝激活(返回)
+{
+    optional bool is_active = 1;       // 是否激活,(false后面内容无效)
+    optional ProtoMagicWeapon mw_curr_id = 2;       // 激活后id对应的法宝
+}
+
+message Proto11402503       // 品阶提升
+{
+    optional int32 mw_id = 1;       // 法宝id
+    optional bool auto_buy = 2;       // 是否自动购买
+}
+
+message Proto51402503       // 品阶提升(返回)
+{
+    optional int32 mw_id = 1;       // 法宝id
+    optional int32 rank_star_grade = 2;       // 品阶星数
+    optional int32 rank_star_progress = 3;       // 品阶当前进度值
+    optional int32 status = 4;       // success 1 fail 0
+}
+
+message Proto11402504       // 品质提升
+{
+    optional int32 mw_id = 1;       // 法宝id
+    optional bool auto_buy = 2;       // 材料不足是否自动购买
+}
+
+message Proto51402504       // 品质提升(返回)
+{
+    optional int32 mw_id = 1;       // 法宝id
+    optional int32 qua_star_grade = 2;       // 品质星数
+    optional int32 qua_star_progress = 3;       // 品质当前进度值
+    optional int32 skill_id = 4;       // 技能id
+    optional int32 skill_level = 5;       // 技能等级
+}
+
+message Proto11402505       // 佩戴法宝
+{
+    optional int32 mw_id = 1;       // 佩戴法宝id
+    optional bool put_on = 2;       // true,穿上，false卸下
+}
+
+message Proto10006       // 玩家坐标炫耀
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+}
+
+message Proto51402505       // 佩戴法宝(返回)
+{
+    optional bool put_on = 1;       // true穿上,false卸下
+    optional int64 role_id = 2;       // 对应玩家的ID
+    optional int32 mw_id = 3;       // 法宝id //cur
+    optional int32 mw_rank_level = 4;       // 品阶等级
+    optional int32 pre_mw_id = 5;       // 操作法宝ID
+}
+
+message Proto80400234       // boss播放召唤技能提示语
+{
+    optional string note = 1;       // 
+    optional int32 mover_id = 2;       // 
+}
+
+message Proto80401305       // 法宝注灵是否开启
+{
+    optional bool zhuling_open = 1;       // true注灵开启
+}
+
+message Proto80400235       // 通知副本幻体出现或消失
+{
+    optional int64 show_ai_id = 1;       // 
+    optional int64 hide_ai_id = 2;       // 
+    optional string show_ai_name = 3;       // 
+    optional int32 flag = 4;       // 1表示幻体出现，2表示幻体消失
+}
+
+message Proto80400924       // 玩家石化状态变化通知
+{
+    optional int64 role_id = 1;       // 被石化的玩家ID
+    optional int32 state = 2;       // 石化状态：1 ， 退出石化状态：0
+    optional string role_name = 3;       // 进入石化状态的玩家名
+}
+
+message Proto10400937       // 点击解除玩家的石化状态
+{
+    optional int64 mover_id = 1;       // 石化玩家ID
+}
+
+message Proto80400925       // 玩家石化倒计时通知
+{
+    optional int64 role_id = 1;       // 被石化的玩家ID
+    optional int32 last_sec = 2;       // 剩余石化时间, 单位秒
+}
+
+message Proto11400522       // 宠物道具提升融合进度
+{
+    optional int32 type = 1;       // 道具类型：0,1,2
+    optional int64 beast = 2;       // 宠物id
+    optional int32 amount = 3;       // 使用数量
+}
+
+message Proto51400522       // 宠物道具提升融合进度(返回)
+{
+    optional int32 conbine_value = 1;       // 融合进度值
+    optional int32 total_value = 2;       // 升级所需值
+    optional int32 ability = 3;       // 资质
+    optional int64 beast_id = 4;       // 
+    optional int32 force = 5;       // 战力
+}
+
+message Proto11400523       // 宠物守护状态
+{
+    optional int64 beast = 1;       // 宠物id
+    optional int32 action = 2;       // 0取消守护，1设为守护
+}
+
+message Proto11400524       // 获取宠物融合信息
+{
+    optional int64 beast = 1;       // 
+}
+
+message Proto11400504       // 宠物学习技能
+{
+    optional int64 beast_id = 1;       // 
+    optional int32 item_id = 2;       // 技能书id
+}
+
+message Proto11400509       // 宠物删除技能
+{
+    optional int64 beast_id = 1;       // 
+    optional int32 action = 2;       // 0遗忘，1封印
+    optional int32 skill_id = 3;       // 
+}
+
+message Proto11400510       // 宠物生成技能
+{
+    optional int32 acton = 1;       // 获得方式,0生成1次，1批量生成
+}
+
+message Proto51400510       // 宠物获得技能(返回)
+{
+    optional int32 lucky = 1;       // 运气值
+    repeated int32 skill_book_id = 2;       // 技能书列表
+    repeated int32 skill_book_index = 3;       // 每个技能书对应的位置索引
+    optional int32 total_lucky = 4;       // 
+}
+
+message Proto11400511       // 选择宠物技能书
+{
+    optional int32 skill_index = 1;       // 
+}
+
+message Proto11400512       // 宠物合成技能书
+{
+    optional int32 skill_book_id = 1;       // 
+    repeated int32 material_id = 2;       // 材料id
+}
+
+message Proto51400512       // 宠物合成技能书(返回)
+{
+    optional int32 skill_book_id = 1;       // 
+}
+
+message Proto51400513       // 打开宠物技能生成界面(返回)
+{
+    optional int32 lucky = 1;       // 运气值
+    optional int32 total_lucky = 2;       // 
+}
+
+message Proto51400504       // 宠物学习技能返回
+{
+    optional int32 skill_id = 1;       // 
+}
+
+message Proto80400383       // 受到攻击提示
+{
+    optional string attack_name = 1;       // 
+    optional int64 attack_id = 2;       // 
+    optional int32 attack_career = 3;       // 
+    optional int32 pixel_x = 4;       // 
+    optional int32 pixel_y = 5;       // 
+}
+
+message Proto81401202       // 通知49游qq
+{
+    optional int64 qq = 1;       // 
+}
+
+message Proto80400116       // 跨服聊天服通知
+{
+    optional string chat_ip = 1;       // 聊天IP
+    optional int32 chat_port = 2;       // 聊天端口
+    optional ProtoSession session_info = 3;       // 会话信息
+    optional int32 state = 4;       // 状态，0表示关闭，1表示开启
+}
+
+message Proto10100160       // 赠送体力
+{
+    optional int64 target_id = 1;       // 对象id，0表示一键赠送
+}
+
+message Proto50100163       // 获取体力相关信息(返回)
+{
+    optional int32 give_times = 1;       // 已赠送次数
+    optional int32 total_give_times = 2;       // 配置可赠送次数
+    optional int32 get_times = 3;       // 已领取次数
+    optional int32 total_get_times = 4;       // 配置可领取次数
+    optional int32 can_get_times = 5;       // 一键领取体力右上角数字
+    optional int32 total_strength = 6;       // 体力上限
+    optional int32 cur_strength = 7;       // 当前体力
+    optional int32 vip_buys = 8;       // vip权限可购买体力次数
+}
+
+message Proto10100161       // 一键领取体力
+{
+    optional int32 type = 1;       // 
+}
+
+message Proto80400926       // 坠龙窟副本追踪面板信息
+{
+    optional int32 left_boss = 1;       // 剩余boss数量
+    optional int32 left_monster = 2;       // 剩余monster数量
+    optional int32 total_boss = 3;       // 总的boss数量
+    optional int32 total_monster = 4;       // 总的monster数量
+}
+
+message Proto11400657       // 打开时装宝箱
+{
+    optional int32 index = 1;       // 背包位置索引
+}
+
+message Proto51400657       // 打开时装宝箱(返回)
+{
+    repeated int32 fashion_id = 1;       // 时装id
+    repeated int32 is_owner = 2;       // 是否拥有，1是拥有
+}
+
+message Proto11400658       // 时装宝箱(选择时装)
+{
+    optional int32 fashion_id = 1;       // 选择的时装id
+}
+
+message Proto10100162       // 购买体力
+{
+    optional int32 one_mount = 1;       // 一次购买体力的次数
+}
+
+message Proto81400911       // 通知全服幸运记录
+{
+    repeated ProtoDivineRecord record_list = 1;       // 
+    optional int32 type = 2;       // 转盘类型
+}
+
+message Proto10101802       // 抽奖
+{
+    optional int32 type1 = 1;       // 转盘类型，0消费转盘/1充值转盘
+    optional int32 type2 = 2;       // 抽奖类型，0抽1次/1抽10次/2抽50次
+}
+
+message Proto50101801       // 打开幸运转盘(返回)
+{
+    optional int32 left_time = 1;       // 剩余抽奖次数
+    repeated ProtoItem item_list = 2;       // 转盘奖品id列表
+    optional int64 start_tick = 3;       // 活动开始时间
+    optional int64 end_tick = 4;       // 活动结束时间
+    optional int64 left_tick = 5;       // 剩余时间
+    optional int32 type = 6;       // 转盘类型
+    repeated int32 cost = 7;       // 
+    optional int32 baseline = 8;       // 累计消费/累计充值
+}
+
+message Proto50101802       // 抽奖返回
+{
+    optional int32 type1 = 1;       // 转盘类型
+    optional int32 type2 = 2;       // 抽奖类型
+    repeated int32 item_index_list = 3;       // 物品索引列表
+    optional int32 left_time = 4;       // 剩余抽奖次数
+}
+
+message Proto10101801       // 打开幸运转盘
+{
+    optional int32 type = 1;       // 转盘类型：0消费/1充值
+}
+
+message Proto81400912       // 主动通知幸运转盘活动状态
+{
+    repeated int32 state = 1;       // 第一个元素消费，第二个元素是充值；1开启，0关闭
+}
+
+message Proto51401462       // 返回49洛神域游戏盒子
+{
+    repeated ProtoItem item_list = 1;       // 领取奖励道具信息
+    optional string download_url = 2;       // 下载盒子链接
+}
+
+message Proto81401902       // 通知后台屏蔽的道具id
+{
+    repeated int32 hidden_set = 1;       // 屏蔽的道具id列表
+}
+
+

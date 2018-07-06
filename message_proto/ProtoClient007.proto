@@ -1,0 +1,354 @@
+import "ProtoPublic.proto";
+
+message Proto10100414       // 副本组队:进入副本
+{
+    optional int32 script_sort = 1;       // 副本配置ID
+    optional int32 chapter = 2;       // 第几章
+    optional int32 piece = 3;       // 第几篇
+}
+
+message Proto50100403       // 副本组队：获取邀请好友列表(返回)
+{
+    repeated ProtoTeamer role_list = 1;       // 玩家列表
+}
+
+message Proto50100404       // 副本组队：获取邀请宗派成员列表(返回)
+{
+    repeated ProtoTeamer role_list = 1;       // 玩家列表
+}
+
+message Proto10100702       // 查看排行榜单个玩家的信息
+{
+    optional int64 role_id = 1;       // 
+    optional int32 rank_type = 2;       // 
+    optional int32 rank_index = 3;       // 排名
+}
+
+message Proto50100702       // 查看排行榜单个玩家信息（返回）
+{
+    optional int64 role_id = 1;       // 玩家id
+    optional int32 rank_type = 2;       // 
+    optional int32 mounter = 3;       // 坐骑模型id
+    optional int32 pet_cur_sort = 4;       // 放出的宠物,没放出宠物则为0
+    optional int32 pet_sort = 5;       // 上榜的最强宠物的模型
+    optional int64 pet_id = 6;       // 上榜的最强宠物的id
+    optional int64 force = 7;       // 战力
+    optional int32 label = 8;       // 称号
+    optional int32 weapon = 9;       // 武器
+    optional int32 clothes = 10;       // 衣服
+    optional int32 fashion_weapon = 11;       // 时装武器（改为时装color）
+    optional int32 fashion_clothes = 12;       // 时装衣服 （改为时装id）
+    optional int32 career = 13;       // 职业
+    optional int32 sex = 14;       // 性别
+    optional int32 top_wing_id = 15;       // 最高羽翼ID
+    optional int32 top_wing_level = 16;       // 最高羽翼等级
+    optional int64 req_role_id = 17;       // 请求者ID
+    optional int32 weapon_refine_lvl = 18;       // 武器强化等级（显示强化特效）
+    optional int32 equip_refine_view_index = 19;       // 装备强化光环
+    optional ProtoPairObj fairy_act = 20;       // 仙器信息
+    optional int32 is_worship = 21;       // 玩家当天是否膜拜此玩家
+    repeated ProtoPairObj mount_info = 22;       // 战骑信息
+}
+
+message Proto80100401       // 副本组队：玩家邀请加入(主动)
+{
+    optional ProtoTeamer invitor = 1;       // 邀请者信息
+    optional int32 fb_id = 2;       // 进行组队的副本
+}
+
+message Proto80100402       // 副本组队：玩家申请加入(主动)
+{
+    optional ProtoTeamer applicant = 1;       // 邀请者信息
+}
+
+message Proto80100403       // 副本组队：副本组队信息(主动)
+{
+    optional int32 fb_id = 1;       // 副本id
+}
+
+message Proto10400003       // 采集物品
+{
+    optional int64 goods_id = 1;       // 物品索引
+}
+
+message Proto50400003       // 采集物品(返回)
+{
+    optional int32 gather_flag = 1;       // 采集是否成功
+}
+
+message Proto80400339       // 找到对手(主动)
+{
+    optional int32 left_time = 1;       // 剩余时间
+}
+
+message Proto80400340       // 双方当前血量(主动)
+{
+    optional int64 first_id = 1;       // 第一玩家
+    optional int32 first_cur_blood = 2;       // 第一当前血量
+    optional int32 first_total_blood = 3;       // 第一总血量
+    optional int32 first_cur_magic = 4;       // 第一能量
+    optional int32 first_total_magic = 5;       // 第一总能量
+    optional int64 second_id = 6;       // 第二玩家
+    optional int32 second_cur_blood = 7;       // 第二当前血量
+    optional int32 second_total_blood = 8;       // 第二总血量
+    optional int32 second_cur_magic = 9;       // 第二能量
+    optional int32 second_total_magic = 10;       // 第二总能量
+}
+
+message Proto50400311       // 武道会开启情况(返回)
+{
+    optional int32 open_flag = 1;       // 开启情况
+}
+
+message Proto51401414       // 获取参与事件的剩余次数(返回)
+{
+    repeated ProtoPairObj left_count_info = 1;       // id:event_id /vaue:剩余次数
+}
+
+message Proto11401414       // 获取参与事件的剩余次数
+{
+    repeated int32 event_id = 1;       // 事件id
+}
+
+message Proto80100404       // 副本组队:玩家准备状态(主动)
+{
+    repeated ProtoFBReadyInfo ready_info = 1;       // 就绪信息
+}
+
+message Proto10100410       // 副本组队：响应进入副本准备界面(转换为副本队伍)
+{
+    optional int32 oper_type = 1;       // 0拒绝并退出队伍 1同意
+}
+
+message Proto10400906       // 请求启动新手怪物
+{
+    optional int32 novice_step = 1;       // 新手副本第几步；一步一堆怪；
+}
+
+message Proto10100156       // 查看他人详细信息
+{
+    optional int64 role_id = 1;       // 玩家id
+}
+
+message Proto50100156       // 查看他人详细信息（返回）
+{
+    optional int64 role_id = 1;       // 玩家id
+    optional int64 league_id = 2;       // 宗派id
+    optional string role_name = 3;       // 玩家名
+    optional string league_name = 4;       // 宗派名
+    optional int32 level = 5;       // 等级
+    optional int32 career = 6;       // 职业
+    optional int32 vip_status = 7;       // vip等级
+    optional int32 fight_force = 8;       // 战力
+    optional int32 max_blood = 9;       // 最大血量
+    optional int32 attack = 10;       // 攻击
+    optional int32 defence = 11;       // 防御
+    optional int32 crit = 12;       // 暴击
+    optional int32 toughness = 13;       // 韧性
+    optional int32 hit = 14;       // 命中
+    optional int32 avoid = 15;       // 闪避
+    optional int32 crit_hurt = 16;       // 暴击伤害
+    optional int32 damage = 17;       // 伤害加成
+    optional int32 reduction = 18;       // 伤害减免
+    optional int32 pk = 19;       // pk值
+    optional int32 glamour = 20;       // 魅力值
+    optional int32 fashion_id = 21;       // 时装id
+    optional int32 fashion_color = 22;       // 时装颜色
+    repeated ProtoEquipList equip_list = 23;       // 穿戴的装备列表
+    repeated ProtoMountInfo mount_info = 24;       // 战骑信息
+    optional int32 sex = 25;       // 性别
+    optional int64 checker_id = 26;       // 查询者的角色id
+}
+
+message Proto50400316       // 仙域战场信息(返回)
+{
+    repeated ProtoWarItem war_set = 1;       // 仙域战场信息
+    optional int64 win_league = 2;       // 冠军
+    repeated int64 second_war = 3;       // 第二轮战队
+    optional int32 war_index = 4;       // 第几届
+    optional int32 button_state = 5;       // 按钮状态
+}
+
+message Proto10400316       // 仙域战场信息
+{
+    optional int32 war_index = 1;       // 第几届，0表示请求当前届
+}
+
+message Proto80100501       // 战场信息(主动)
+{
+    repeated ProtoSMBattleRankRec rank_list = 1;       // 排行信息
+    optional ProtoSMBattleRankRec self_rank = 2;       // 玩家自己排行
+    optional int32 self_kill = 3;       // 自己总杀数
+    optional int32 self_score = 4;       // 自己分数
+    repeated int32 camp_scores = 5;       // 每个阵营分数
+    optional int32 self_camp = 6;       // 自己所在阵营，从0开始
+    optional int32 zone = 7;       // 赛区
+    optional int32 left_time = 8;       // 剩余时间
+}
+
+message Proto80400341       // 仙域宗派排名(主动)
+{
+    optional int32 person_resource = 1;       // 个人资源
+    optional int32 person_rank = 2;       // 个人排名
+    repeated ProtoLWarItem war_set = 3;       // 宗派项
+    optional int32 left_time = 4;       // 剩余时间
+    optional int32 stage_state = 5;       // 阶段，1准备，2进行中，3中场休息
+}
+
+message Proto10400318       // 获取战场信息
+{
+    optional int32 page_index = 1;       // 第几页，从1开始
+}
+
+message Proto50400318       // 获取战场信息(返回)
+{
+    repeated ProtoLWarItem item_set = 1;       // 战场信息
+    optional int32 page_index = 2;       // 第几页
+    optional int32 total_page = 3;       // 总页数
+}
+
+message Proto80400907       // 安全区域通知
+{
+    optional int32 wait_tick = 1;       // 安全时间, 单位秒
+    optional int32 safe_radius = 2;       // 安全区域半径
+    optional ProtoCoord safe_point = 3;       // 安全区域点
+    optional int32 effect_sort = 4;       // 特效类型ID
+    optional int32 effect_id = 5;       // 所属者ID
+}
+
+message Proto80400342       // 仙域战场结束(主动)
+{
+    optional int32 war_type = 1;       // 0表示第1场，1表示第2场
+    optional int32 fight_result = 2;       // 0表示输，1表示赢
+}
+
+message Proto10400112       // 跳到指定的地点开始
+{
+    optional int32 pixel_x = 1;       // X像素
+    optional int32 pixel_y = 2;       // Y像素
+}
+
+message Proto50400112       // 跳到指定的地点开始 (返回)
+{
+    optional int32 pixel_x = 1;       // X像素
+    optional int32 pixel_y = 2;       // Y像素
+    optional int32 base_speed = 3;       // 玩家基础移动速度
+}
+
+message Proto80400209       // 瞬移消息通知
+{
+    optional int64 mover_id = 1;       // 移动物体ID
+    optional int64 attackor_id = 2;       // 攻击者ID
+    optional int32 skill_id = 3;       // 技能ID
+    optional ProtoCoord locate = 4;       // 目标位置
+}
+
+message Proto80400343       // 仙域战场是否可以跳(主动)
+{
+    optional int32 jump_flag = 1;       // 是否可以跳
+    optional int32 is_first = 2;       // 是否第一次
+}
+
+message Proto80400909       // 守护NPC(城旗)血量更新
+{
+    optional int32 blood = 1;       // 当前血量
+}
+
+message Proto80400210       // 跳跃
+{
+    optional int64 mover_id = 1;       // 玩家ID
+    optional ProtoCoord location = 2;       // 目标位置
+}
+
+message Proto80400113       // 物体持续播放技能取消状态通知
+{
+    optional int64 mover_id = 1;       // 退出状态的物体ID
+    optional int32 skill_id = 2;       // 技能ID
+    optional int32 stop_by_buff = 3;       // 被BUFF打断
+}
+
+message Proto80200006       // 新广播格式
+{
+    optional int32 shout_id = 1;       // 广播号
+    optional int32 channel_type = 2;       // 聊天频道
+    repeated ProtoShoutDetail shout_detail_list = 3;       // 广播内容
+    optional int32 scene_id = 4;       // 场景ID
+    optional int64 role_id = 5;       // 触发者
+}
+
+message Proto80400910       // 阵灵值更新通知
+{
+    optional int32 spirit_value = 1;       // 阵灵值
+    repeated ProtoSkill matrix_list = 2;       // 阵法ID及对应的等级
+    repeated int32 puppet_list = 3;       // 傀儡列表（按顺序对应1，2，3）（0 未激活，1 可激活 2 已激活）
+    optional int32 is_novice_script = 4;       // 是否新手副本,1 是，0 否
+}
+
+message Proto10400908       // 激活或升级副本阵法
+{
+    optional int32 matrix_id = 1;       // 阵法ID; 34:炎盾, 35:寒冰, 36:雷霆;
+    optional int32 puppet = 2;       // 傀儡，值：1，2，3
+}
+
+message Proto80400211       // 物体不能移动通知
+{
+    optional int32 hit_type = 1;       // 0 有受击动作，1 没有受击动作
+}
+
+message Proto11400331       // 跟NPC对话
+{
+    optional int32 task_id = 1;       // 任务ID
+}
+
+message Proto80400344       // 通知宗派状态(主动)
+{
+    optional int32 league_state = 1;       // 宗派状态，1表示加入，2表示被踢出
+}
+
+message Proto10100202       // 获取单个活动信息
+{
+    optional int32 activity_id = 1;       // 活动ID
+}
+
+message Proto10100203       // 移除某个活动特效
+{
+    optional int32 activity_id = 1;       // 活动ID
+}
+
+message Proto50100203       // 移除活动图标特效(返回)
+{
+    optional int32 activity_id = 1;       // 活动ID
+}
+
+message Proto50100202       // 获取单个活动信息(返回)
+{
+    optional ProtoActivityInfo activity_info = 1;       // 单个活动信息
+}
+
+message Proto50100201       // 获取全部活动信息(返回)
+{
+    repeated ProtoActivityInfo activity_info_list = 1;       // 全部活动信息
+}
+
+message Proto11400134       // 批量出售物品（npc商店出售）
+{
+    repeated ProtoPairObj goods_list = 1;       // first：index， second：amount
+}
+
+message Proto80100102       // 更新自己ID
+{
+    optional int64 src_role_id = 1;       // 旧的ID
+    optional int64 role_id = 2;       // 新的ID
+}
+
+message Proto10400204       // 请求更改攻击模式
+{
+    optional int32 pk_state = 1;       // 新的pk状态；0和平，1全体模式，2队伍模式，3帮派模式
+}
+
+message Proto50400204       // 请求更改攻击模式(返回)
+{
+    optional int32 pk_state = 1;       // 返回新的PK状态；；0和平，1全体模式，2队伍模式，3帮派模式
+}
+
+

@@ -1,0 +1,282 @@
+{
+    "20": {
+        "remark": [
+            "575"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 2875,
+        "name": "坚甲",
+        "detail": {
+            "defence": 575
+        }
+    },
+    "11": {
+        "remark": [
+            "350"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 1750,
+        "name": "坚甲",
+        "detail": {
+            "defence": 350
+        }
+    },
+    "10": {
+        "remark": [
+            "325"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 1625,
+        "name": "坚甲",
+        "detail": {
+            "defence": 325
+        }
+    },
+    "13": {
+        "remark": [
+            "400"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 2000,
+        "name": "坚甲",
+        "detail": {
+            "defence": 400
+        }
+    },
+    "12": {
+        "remark": [
+            "375"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 1875,
+        "name": "坚甲",
+        "detail": {
+            "defence": 375
+        }
+    },
+    "15": {
+        "remark": [
+            "450"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 2250,
+        "name": "坚甲",
+        "detail": {
+            "defence": 450
+        }
+    },
+    "14": {
+        "remark": [
+            "425"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 2125,
+        "name": "坚甲",
+        "detail": {
+            "defence": 425
+        }
+    },
+    "17": {
+        "remark": [
+            "500"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 2500,
+        "name": "坚甲",
+        "detail": {
+            "defence": 500
+        }
+    },
+    "16": {
+        "remark": [
+            "475"
+        ],
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "add_fight": 2375,
+        "name": "坚甲",
+        "detail": {
+            "defence": 475
+        }
+    },
+    "19": {
+        "remark": [
+            "550"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 2750,
+        "name": "坚甲",
+        "detail": {
+            "defence": 550
+        }
+    },
+    "18": {
+        "remark": [
+            "525"
+        ],
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "add_fight": 2625,
+        "name": "坚甲",
+        "detail": {
+            "defence": 525
+        }
+    },
+    "1": {
+        "remark": [
+            "100"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 500,
+        "name": "坚甲",
+        "detail": {
+            "defence": 100
+        }
+    },
+    "3": {
+        "remark": [
+            "150"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 750,
+        "name": "坚甲",
+        "detail": {
+            "defence": 150
+        }
+    },
+    "2": {
+        "remark": [
+            "125"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 625,
+        "name": "坚甲",
+        "detail": {
+            "defence": 125
+        }
+    },
+    "5": {
+        "remark": [
+            "200"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 1000,
+        "name": "坚甲",
+        "detail": {
+            "defence": 200
+        }
+    },
+    "4": {
+        "remark": [
+            "175"
+        ],
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "add_fight": 875,
+        "name": "坚甲",
+        "detail": {
+            "defence": 175
+        }
+    },
+    "7": {
+        "remark": [
+            "250"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 1250,
+        "name": "坚甲",
+        "detail": {
+            "defence": 250
+        }
+    },
+    "6": {
+        "remark": [
+            "225"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 1125,
+        "name": "坚甲",
+        "detail": {
+            "defence": 225
+        }
+    },
+    "9": {
+        "remark": [
+            "300"
+        ],
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "add_fight": 1500,
+        "name": "坚甲",
+        "detail": {
+            "defence": 300
+        }
+    },
+    "8": {
+        "remark": [
+            "275"
+        ],
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "add_fight": 1375,
+        "name": "坚甲",
+        "detail": {
+            "defence": 275
+        }
+    }
+}

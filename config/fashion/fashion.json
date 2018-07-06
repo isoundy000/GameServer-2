@@ -1,0 +1,1058 @@
+{
+    "110001": {
+        "dodge": 80,
+        "itemId": 216350109,
+        "defence": 500,
+        "hit": 100,
+        "name": "西部牛仔",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "10800",
+                        "file": "10800"
+                    },
+                    "2": {
+                        "modle": "20800",
+                        "file": "20800"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 110,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "112001": {
+        "dodge": 80,
+        "itemId": 216350111,
+        "defence": 500,
+        "hit": 100,
+        "name": "暴力街头",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "10900",
+                        "file": "10900"
+                    },
+                    "2": {
+                        "modle": "20900",
+                        "file": "20900"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 112,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "102001": {
+        "dodge": 12,
+        "itemId": 216350101,
+        "defence": 90,
+        "hit": 16,
+        "name": "萍踪谍影",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1200",
+                        "file": "1200"
+                    },
+                    "2": {
+                        "modle": "2200",
+                        "file": "2200"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "七天登录第7天获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 102,
+        "attack": 180,
+        "health": 1800,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 12,
+        "type": 1,
+        "newType": 1,
+        "toughness": 10
+    },
+    "114001": {
+        "dodge": 80,
+        "itemId": 216350113,
+        "defence": 500,
+        "hit": 100,
+        "name": "湘西风云",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11600",
+                        "file": "11600"
+                    },
+                    "2": {
+                        "modle": "21600",
+                        "file": "21600"
+                    }
+                }
+            ],
+            [
+                1,
+                "藕荷",
+                "003",
+                {
+                    "1": {
+                        "modle": "11601",
+                        "file": "11601"
+                    },
+                    "2": {
+                        "modle": "21601",
+                        "file": "21601"
+                    }
+                }
+            ],
+            [
+                2,
+                "月白",
+                "002",
+                {
+                    "1": {
+                        "modle": "11602",
+                        "file": "11602"
+                    },
+                    "2": {
+                        "modle": "21602",
+                        "file": "21602"
+                    }
+                }
+            ],
+            [
+                3,
+                "翡翠",
+                "004",
+                {
+                    "1": {
+                        "modle": "11603",
+                        "file": "11603"
+                    },
+                    "2": {
+                        "modle": "21603",
+                        "file": "21603"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "num_attr": [
+            [
+                1,
+                40,
+                20,
+                400
+            ],
+            [
+                2,
+                80,
+                40,
+                800
+            ],
+            [
+                3,
+                120,
+                60,
+                1200
+            ]
+        ],
+        "priority": 114,
+        "attack": 1000,
+        "color_attr": [
+            [
+                "health",
+                12000
+            ],
+            [
+                "defence",
+                1200
+            ],
+            [
+                "attack",
+                1200
+            ]
+        ],
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 1,
+        "newType": 1,
+        "toughness": 60
+    },
+    "119001": {
+        "dodge": 80,
+        "itemId": 216350118,
+        "defence": 500,
+        "hit": 100,
+        "name": "美国队长",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "12200",
+                        "file": "12200"
+                    },
+                    "2": {
+                        "modle": "22200",
+                        "file": "22200"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 119,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "108001": {
+        "dodge": 80,
+        "itemId": 216350107,
+        "defence": 500,
+        "hit": 100,
+        "name": "海军上将",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11200",
+                        "file": "11200"
+                    },
+                    "2": {
+                        "modle": "21200",
+                        "file": "21200"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 108,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "118001": {
+        "dodge": 80,
+        "itemId": 216350117,
+        "defence": 500,
+        "hit": 100,
+        "name": "钢铁意志",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "12100",
+                        "file": "12100"
+                    },
+                    "2": {
+                        "modle": "22100",
+                        "file": "22100"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 118,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "113001": {
+        "dodge": 80,
+        "itemId": 216350112,
+        "defence": 500,
+        "hit": 100,
+        "name": "圣斗天使",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1170",
+                        "file": "1170"
+                    },
+                    "2": {
+                        "modle": "2170",
+                        "file": "2170"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 113,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "105001": {
+        "dodge": 80,
+        "itemId": 216350104,
+        "defence": 500,
+        "hit": 100,
+        "name": "鲜血领主",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1500",
+                        "file": "1500"
+                    },
+                    "2": {
+                        "modle": "2500",
+                        "file": "2500"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "密宗九字活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 105,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 1,
+        "newType": 1,
+        "toughness": 60
+    },
+    "109001": {
+        "dodge": 80,
+        "itemId": 216350108,
+        "defence": 500,
+        "hit": 100,
+        "name": "海岛风情",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "10700",
+                        "file": "10700"
+                    },
+                    "2": {
+                        "modle": "20700",
+                        "file": "20700"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "五一绝版时装活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 109,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "103001": {
+        "dodge": 80,
+        "itemId": 216350102,
+        "defence": 500,
+        "hit": 100,
+        "name": "忠肝义胆",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1300",
+                        "file": "1300"
+                    },
+                    "2": {
+                        "modle": "2300",
+                        "file": "2300"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "天帝宝库活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 103,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 1,
+        "newType": 1,
+        "toughness": 60
+    },
+    "116001": {
+        "dodge": 80,
+        "itemId": 216350115,
+        "defence": 500,
+        "hit": 100,
+        "name": "军旅生涯",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11400",
+                        "file": "11400"
+                    },
+                    "2": {
+                        "modle": "21400",
+                        "file": "21400"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 116,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "106001": {
+        "dodge": 80,
+        "itemId": 216350105,
+        "defence": 500,
+        "hit": 100,
+        "name": "熊猫圣灵",
+        "showWin": 0,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11000",
+                        "file": "11000"
+                    },
+                    "2": {
+                        "modle": "21000",
+                        "file": "21000"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "参与幸运转盘活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 106,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "117001": {
+        "dodge": 80,
+        "itemId": 216350116,
+        "defence": 500,
+        "hit": 100,
+        "name": "人民名义",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11700",
+                        "file": "11700"
+                    },
+                    "2": {
+                        "modle": "21700",
+                        "file": "21700"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 117,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "115001": {
+        "dodge": 80,
+        "itemId": 216350114,
+        "defence": 500,
+        "hit": 100,
+        "name": "欧陆风云",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11501",
+                        "file": "11501"
+                    },
+                    "2": {
+                        "modle": "21501",
+                        "file": "21501"
+                    }
+                }
+            ],
+            [
+                1,
+                "白色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11502",
+                        "file": "11502"
+                    },
+                    "2": {
+                        "modle": "21502",
+                        "file": "21502"
+                    }
+                }
+            ],
+            [
+                3,
+                "橙色",
+                "001",
+                {
+                    "1": {
+                        "modle": "11503",
+                        "file": "11503"
+                    },
+                    "2": {
+                        "modle": "21503",
+                        "file": "21503"
+                    }
+                }
+            ],
+            [
+                4,
+                "黄色",
+                "001",
+                {
+                    "1": {
+                        "modle": "11504",
+                        "file": "11504"
+                    },
+                    "2": {
+                        "modle": "21504",
+                        "file": "21504"
+                    }
+                }
+            ],
+            [
+                5,
+                "红色",
+                "010",
+                {
+                    "1": {
+                        "modle": "11505",
+                        "file": "11505"
+                    },
+                    "2": {
+                        "modle": "21505",
+                        "file": "21505"
+                    }
+                }
+            ],
+            [
+                6,
+                "蓝色",
+                "008",
+                {
+                    "1": {
+                        "modle": "11506",
+                        "file": "11506"
+                    },
+                    "2": {
+                        "modle": "21506",
+                        "file": "21506"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "num_attr": [
+            [
+                1,
+                40,
+                20,
+                400
+            ],
+            [
+                2,
+                80,
+                40,
+                800
+            ],
+            [
+                3,
+                120,
+                60,
+                1200
+            ],
+            [
+                4,
+                160,
+                80,
+                1600
+            ],
+            [
+                3,
+                200,
+                100,
+                2000
+            ]
+        ],
+        "priority": 115,
+        "attack": 1000,
+        "color_attr": [
+            [
+                "health",
+                12000
+            ],
+            [
+                "defence",
+                1200
+            ],
+            [
+                "attack",
+                1200
+            ],
+            [
+                "hit",
+                400
+            ],
+            [
+                "dodge",
+                400
+            ]
+        ],
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 3,
+        "newType": 1,
+        "toughness": 60
+    },
+    "104001": {
+        "dodge": 12,
+        "itemId": 216350103,
+        "defence": 90,
+        "hit": 16,
+        "name": "踏雪无痕",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1600",
+                        "file": "1600"
+                    },
+                    "2": {
+                        "modle": "2600",
+                        "file": "2600"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "参与开服壕礼活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 104,
+        "attack": 180,
+        "health": 1800,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 12,
+        "type": 1,
+        "newType": 1,
+        "toughness": 10
+    },
+    "101004": {
+        "dodge": 12,
+        "itemId": 216350004,
+        "defence": 75,
+        "hit": 15,
+        "name": "结婚礼服",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1400",
+                        "file": "1400"
+                    },
+                    "2": {
+                        "modle": "2400",
+                        "file": "2400"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "举办喜庆婚礼获得，持续7天"
+        ],
+        "ckeck_id": 101002,
+        "priority": 203,
+        "attack": 150,
+        "health": 1500,
+        "time": 604800,
+        "active_type": 1,
+        "send_reward": 916035,
+        "crit": 12,
+        "type": 2,
+        "newType": 1,
+        "toughness": 9
+    },
+    "111001": {
+        "dodge": 80,
+        "itemId": 216350110,
+        "defence": 500,
+        "hit": 100,
+        "name": "武林盟主",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "11300",
+                        "file": "11300"
+                    },
+                    "2": {
+                        "modle": "21300",
+                        "file": "21300"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "运营活动获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 111,
+        "attack": 1000,
+        "health": 10000,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 80,
+        "type": 1,
+        "newType": 1,
+        "toughness": 60
+    },
+    "101002": {
+        "dodge": 12,
+        "itemId": 216350002,
+        "defence": 75,
+        "hit": 15,
+        "name": "结婚礼服",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1400",
+                        "file": "1400"
+                    },
+                    "2": {
+                        "modle": "2400",
+                        "file": "2400"
+                    }
+                }
+            ],
+            [
+                1,
+                "嫣红",
+                "010",
+                {
+                    "1": {
+                        "modle": "1401",
+                        "file": "1400"
+                    },
+                    "2": {
+                        "modle": "2401",
+                        "file": "2400"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "举办豪华婚礼获得，永久时装"
+        ],
+        "ckeck_id": 101002,
+        "num_attr": [
+            [
+                1,
+                40,
+                20,
+                400
+            ]
+        ],
+        "priority": 201,
+        "attack": 150,
+        "color_attr": [
+            [
+                "health",
+                12000
+            ]
+        ],
+        "health": 1500,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 916036,
+        "crit": 12,
+        "type": 2,
+        "newType": 1,
+        "toughness": 9
+    },
+    "101003": {
+        "dodge": 12,
+        "itemId": 216350003,
+        "defence": 75,
+        "hit": 15,
+        "name": "结婚礼服",
+        "showWin": 1,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1400",
+                        "file": "1400"
+                    },
+                    "2": {
+                        "modle": "2400",
+                        "file": "2400"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "举办温馨婚礼获得，持续1天"
+        ],
+        "ckeck_id": 101002,
+        "priority": 202,
+        "attack": 150,
+        "health": 1500,
+        "time": 86400,
+        "active_type": 1,
+        "send_reward": 916034,
+        "crit": 12,
+        "type": 2,
+        "newType": 1,
+        "toughness": 9
+    },
+    "101001": {
+        "dodge": 4,
+        "itemId": 216350001,
+        "defence": 25,
+        "hit": 5,
+        "name": "飞花剑雨",
+        "showWin": 0,
+        "color": [
+            [
+                0,
+                "原色",
+                "000",
+                {
+                    "1": {
+                        "modle": "1100",
+                        "file": "1100"
+                    },
+                    "2": {
+                        "modle": "2100",
+                        "file": "2100"
+                    }
+                }
+            ]
+        ],
+        "outputs": [
+            "完成36级主线任务获得"
+        ],
+        "ckeck_id": -1,
+        "priority": 101,
+        "attack": 50,
+        "health": 500,
+        "time": -1,
+        "active_type": 1,
+        "send_reward": 0,
+        "crit": 4,
+        "type": 1,
+        "newType": 1,
+        "toughness": 3
+    }
+}

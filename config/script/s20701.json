@@ -1,0 +1,109 @@
+{
+    "scene_id" : 20701,
+    "name" : "夫妻副本",
+    "relive" : {
+        "type" : "111",
+        "wait" : 2,
+        "posX" : 782,
+        "posY" : 1963
+    },
+	// 当前副本的离开场景后，回到进入副本前的场景
+    "exits" : [{
+        "id" : "10600",
+        "posX" : 1633,
+        "posY" : 6042
+    }],
+    "layout" : [
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710001,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[1420,2689],[1496,2663],[1557,2694],[1551,2750],[1475,2730],[1373,2816],[1454,2852],[1555,2832],[1674,2716],[1567,2665]],
+        "born_point" : [1420,2689],
+        "fresh" : 1000,
+		"wave" : 1,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710002,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[2239,3429],[2342,3374],[2246,3511],[2366,3454],[2285,3588],[2419,3524],[2329,3652],[2452,3602],[2366,3725],[2494,3683]],
+		"born_point" : [2239,3429],
+        "fresh" : 1000,
+		"wave" : 2,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710003,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[3232,4785],[3325,4727],[3474,4686],[3404,4785],[3337,4841],[3214,4955],[3350,4954],[3434,4869],[3549,4697],[3481,4874]],
+		"born_point" : [3232,4785],
+        "fresh" : 1000,
+		"wave" : 3,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710004,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[3877,5302],[3998,5276],[3955,5253],[4100,5265],[4142,5349],[4076,5377],[3953,5386],[3825,5423],[3956,5469],[4050,5478]],
+		"born_point" : [3877,5302],
+        "fresh" : 1000,
+		"wave" : 4,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710005,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[4370,4844],[4341,4729],[4410,4716],[4448,4789],[4474,4852],[4600,4853],[4602,4765],[4542,4773],[4425,4690],[4523,4680]],
+		"born_point" : [4370,4844],
+        "fresh" : 1000,
+		"wave" : 5,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710006,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[5392,2717],[5475,2771],[5572,2819],[5434,2577],[5539,2671],[5652,2750],[5734,2792],[5548,2601],[5631,2677],[5672,2713]],
+		"born_point" : [5392,2717],
+        "fresh" : 1000,
+		"wave" : 6,
+        "once" : 10,
+        "max_exist" : 10,
+        "max_count" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        "born_type" : "point",
+        "monster_sort" : 501710007,
+        "monster_tree" : "bev1002.json",
+        "point_coordxy" : [[6122,2145]],
+		"born_point" : [6122,2145],
+        "fresh" : 1000,
+		"wave" : 7,
+        "once" : 1,
+        "max_exist" : 1,
+        "max_count" : 1,
+        "skill_set" : [400030001]
+    }
+	]
+}

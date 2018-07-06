@@ -1,0 +1,358 @@
+import "ProtoPublic.proto";
+import "ProtoInnerPublic.proto";
+
+message Proto31400137       // 场景切换：转生信息同步
+{
+    optional int32 cur_cultivation = 1;       // 当前修为
+    optional int32 round = 2;       // 当前转
+    optional int64 extra_exp = 3;       // 额外经验
+    optional int32 exchange_times = 4;       // 兑换次数
+    optional int32 total_attack = 5;       // 攻击
+    optional int32 total_defence = 6;       // 防御
+    optional int32 total_crit = 7;       // 暴击
+    optional int32 total_toughness = 8;       // 韧性
+    optional int32 total_hit = 9;       // 命中
+    optional int32 total_avoid = 10;       // 闪避
+    optional int32 total_magic = 11;       // 法力
+    optional int32 total_attack_low = 12;       // 攻击下限
+    optional int32 total_defence_low = 13;       // 防御下限
+    optional int32 total_health = 14;       // 生命属性
+}
+
+message Proto30100021       // 逻辑服请求获取背包物品信息（返回）
+{
+    repeated ProtoItem item = 1;       // 物品id
+    optional int32 shop_type = 2;       // 商店类型
+}
+
+message Proto31400027       // 逻辑服请求背包信息
+{
+    repeated int32 item_id = 1;       // 物品id
+    optional int32 shop_type = 2;       // 商店类型
+}
+
+message Proto30400007       // 强制退出系统
+{
+    optional int32 scene_id = 1;       // 场景ID
+}
+
+message Proto31400138       // 场景切换：同步飞升信息
+{
+    optional int32 realm_id = 1;       // 当前境界
+    optional int32 step = 2;       // 当前阶
+    optional int32 property_index = 3;       // 当前属性索引
+    optional int32 cur_xianqi = 4;       // 当前仙气
+    optional int32 cur_lingqi = 5;       // 当前灵气
+    optional int32 total_blood = 6;       // 本系统获得的生命属性
+    optional int32 total_defence = 7;       // 本系统获得的防御上限
+    optional int32 total_defence_low = 8;       // 本系统获得的防御下限
+    optional int32 total_crit = 9;       // 本系统获得的暴击属性
+    optional int32 total_toughness = 10;       // 本系统获得的韧性属性
+    optional int32 total_hit = 11;       // 本系统获得的命中属性
+    optional int32 total_avoid = 12;       // 本系统获得的闪避属性
+    optional int32 total_attack = 13;       // 本系统获得的攻击上限
+    optional int32 total_attack_low = 14;       // 本系统获得的攻击下限
+}
+
+message Proto31400139       // 场景切换：同步修行信息
+{
+    optional int32 practice_times = 1;       // 铜钱运功次数
+    optional int32 practice_gold_times = 2;       // 元宝运功次数
+    repeated ProtoPairObj practice_clouds = 3;       // 气云列表：key-气云类型/value-气云点数
+}
+
+message Proto31402204       // 技能升级扣除道具
+{
+    optional int32 skill_id = 1;       // 技能ID
+    optional int32 skill_level = 2;       // 当前等级
+    optional int32 higher_level_count = 3;       // 高一级的技能数量
+}
+
+message Proto30101601       // 到场景服取玩家坐标
+{
+    optional int32 res_recogn = 1;       // 源请求的回复消息号
+    optional int32 type = 2;       // 婚礼类型
+    repeated int64 role_list = 3;       // 玩家ID列表
+}
+
+message Proto30101608       // 通知战斗线程开始花车巡游
+{
+    optional int64 wedding_id = 1;       // 姻缘ID
+    optional int32 wedding_type = 2;       // 婚礼类型
+    optional int64 partner_id_1 = 3;       // 第一个伴侣
+    optional int64 partner_id_2 = 4;       // 第二个伴侣
+    optional int32 monster_sort = 5;       // 怪物ID
+    optional ProtoCoord location = 6;       // 出生坐标
+    optional int32 scene_id = 7;       // 巡游场景ID
+    optional int32 partner_career_1 = 8;       // 第一个伴侣的职业
+    optional int32 partner_career_2 = 9;       // 第二个伴侣的职业
+}
+
+message Proto30101610       // 姻缘信息同步到地图服战斗线程
+{
+    optional int64 wedding_id = 1;       // 姻缘ID
+    optional int64 partner_id = 2;       // 伴侣ID
+    optional int32 wedding_type = 3;       // 结婚类型
+    optional string partner_name = 4;       // 伴侣名字
+    optional ProtoThreeObj other_info = 5;       // 其他信息
+}
+
+message Proto31101602       // 结婚前背包验证
+{
+    optional int32 res_recogn = 1;       // 源请求的回复消息号
+    optional int32 wedding_type = 2;       // 婚礼类型
+    optional int32 res_code = 3;       // 操作结果码
+    repeated int64 role_list = 4;       // 角色ID列表
+}
+
+message Proto31101603       // 离婚前背包验证
+{
+    optional int32 res_code = 1;       // 操作结果码
+}
+
+message Proto31101604       // 信物升级扣除道具
+{
+    optional int32 keepsake_id = 1;       // 信物ID
+    optional int32 keepsake_level = 2;       // 信物等级
+    optional int32 keepsake_sublevel = 3;       // 信物子等级
+    optional double keepsake_progress = 4;       // 信物子等级的进度
+    optional int32 res_code = 5;       // 请求回复码
+}
+
+message Proto31101605       // 赠送鲜花前背包验证
+{
+    optional int32 item_id = 1;       // 道具ID
+    optional int64 receiver_id = 2;       // 赠送对象ID
+    optional int32 res_code = 3;       // 返回操作码
+    optional int32 item_num = 4;       // 道具数量
+    optional string receiver_name = 5;       // 赠送对象的名字
+    optional int32 auto_buy = 6;       // 自动购买
+    optional ProtoThreeObj other_info = 7;       // 其他信息
+}
+
+message Proto31101606       // 亲密度增加后奖励检查
+{
+    optional int32 intimacy = 1;       // 当前夫妻的亲密值
+}
+
+message Proto31101607       // 其他模块更新亲密值
+{
+    optional int32 type = 1;       // 类型
+    repeated int64 role_list = 2;       // 相关的玩家ID列表
+    optional int32 script_sort = 3;       // 副本ID，类型1有效
+    optional int32 scene_id = 4;       // 场景ID，类型2有效
+}
+
+message Proto31101609       // 花车巡游结束通知退出巡游状态
+{
+    optional int64 wedding_id = 1;       // 姻缘ID
+}
+
+message Proto31400006       // 增加技能点
+{
+    optional int32 add_savvy = 1;       // 技能点
+    optional ProtoSerialObj serial_obj = 2;       // 流水
+}
+
+message Proto30400019       // 挂机自动吃药
+{
+    optional int32 recovert_blood = 1;       // 需要恢复的血量
+    optional int32 total_blood = 2;       // 总血量
+    optional int32 recovert_magic = 3;       // 需要恢复的蓝
+    optional int32 total_magic = 4;       // 总法力
+    optional int32 auto_back_main = 5;       // 是否需要自动回城
+    optional int32 auto_random = 6;       // 是否需要随机回城
+}
+
+message Proto30400445       // 退出仙盟
+{
+    optional int64 league_id = 1;       // 仙盟id
+    optional int64 role_id = 2;       // 玩家id
+}
+
+message Proto30400910       // 剧情副本修改等级以穿装备
+{
+    optional int32 level = 1;       // 目标等级
+}
+
+message Proto30400020       // 恶意杀玩家扣幸运值
+{
+    optional int32 inc_lucky = 1;       // 幸运变化值，正为加，负为减
+    optional int32 killing_value = 2;       // 当前杀戳值
+    optional int32 pk_state = 3;       // 当前PK模式
+}
+
+message Proto30101602       // 到场景服取仇人坐标
+{
+    optional int32 scene_id = 1;       // 场景id
+    optional int32 pixel_x = 2;       // x坐标
+    optional int32 pixel_y = 3;       // y坐标
+    optional int64 role_id = 4;       // 玩家id
+    optional int64 enemy_id = 5;       // 仇人id
+}
+
+message Proto30101603       // 到场景服获取附近的人信息
+{
+    repeated ProtoFriendInfo nearby_list = 1;       // 附近的人列表
+    optional int64 role_id = 2;       // 玩家id
+}
+
+message Proto30100604       // 节日活动BOSS
+{
+    repeated int64 player_set = 1;       // 玩家列表
+    optional int32 type = 2;       // 类型
+}
+
+message Proto30101604       // 仇人传送扣钱
+{
+    optional ProtoMoney sub_money = 1;       // 
+    optional int32 scene_id = 2;       // 
+    optional int32 pixel_x = 3;       // 
+    optional int32 pixel_y = 4;       // 
+}
+
+message Proto31400315       // 同步仙盟个人信息
+{
+    optional int64 join_tick = 1;       // 加入时间
+}
+
+message Proto31400316       // 仙盟仓库插入物品
+{
+    optional int32 item_id = 1;       // 
+    optional int32 item_num = 2;       // 
+    optional int32 item_index = 3;       // 背包物品索引
+    optional int32 package_index = 4;       // 仓库格子索引
+}
+
+message Proto30100237       // 仙盟仓库插入物品
+{
+    optional int32 package_index = 1;       // 
+    optional ProtoItem item = 2;       // 
+}
+
+message Proto31400317       // 仙盟仓库取出物品
+{
+    optional ProtoItem item = 1;       // 
+}
+
+message Proto30100238       // 通知运镖成功失败状态
+{
+    optional int32 state = 1;       // 1：运镖成功/0：失败
+    optional int64 league_id = 2;       // 
+}
+
+message Proto30401602       // 返回排行榜等级数据
+{
+    optional int32 ave_lvl = 1;       // 前20平均等级
+}
+
+message Proto32101103       // 推送开服活动到CenterUnit并发送邮件
+{
+    repeated int64 role_id = 1;       // 玩家id
+    repeated PActTypeItem act_list = 2;       // 活动信息
+}
+
+message Proto30400446       // 仙盟运镖获取排行
+{
+    optional int32 page_index = 1;       // 
+    optional int32 src_scene = 2;       // 
+    optional int64 self_league_id = 3;       // 
+    optional int32 req_type = 4;       // 0：获取排行/1:获取镖车坐标
+}
+
+message Proto30100105       // 击杀一个玩家时同步数量信息
+{
+    optional int32 kill_normal = 1;       // 增加击杀的普通玩家数
+    optional int32 kill_evil = 2;       // 增加击杀的恶人数
+}
+
+message Proto32101104       // 精彩活动结束时为领取的奖励发送邮件给玩家
+{
+    repeated ProtoActRoleReward act_role_reward = 1;       // 玩家奖励
+    optional PActTypeItem act_info = 2;       // 活动信息
+}
+
+message Proto31400028       // 批量增加声望
+{
+    repeated ProtoPairLong play_list = 1;       // 增加声望的玩家列表
+    optional ProtoSerialObj serial_obj = 2;       // 流水类型
+}
+
+message Proto32101105       // 精彩活动（开服活动）充值返还
+{
+    optional int64 role_id = 1;       // 用户id
+    optional string account = 2;       // 用户帐号
+}
+
+message Proto30100404       // 增加全服累计
+{
+    optional int32 add_num = 1;       // 
+    optional int32 personal_count = 2;       // 
+    optional int64 role_id = 3;       // 
+}
+
+message Proto31400701       // 返回全服累计
+{
+    optional int32 service_count = 1;       // 
+}
+
+message Proto32101106       // 精彩活动（开服活动）排行榜邮件发送奖励
+{
+    optional PActTypeItem act_info = 1;       // 活动信息
+}
+
+message Proto31400318       // 仙盟仓库插入返回
+{
+    optional int32 result = 1;       // 0:成功/1失败
+    optional ProtoItem item = 2;       // 
+    optional int32 error_code = 3;       // 
+    optional int32 pack_index = 4;       // 插入到身上背包的位置
+}
+
+message Proto31400263       // 向逻辑线程请求删档充值返还
+{
+    optional int64 role_id = 1;       // 玩家id
+    optional string account = 2;       // 用户帐号
+}
+
+message Proto30100605       // 删档充值返还更新请求
+{
+    optional int64 role_id = 1;       // 用户id
+    optional int32 money = 2;       // 上次删档充值数量
+}
+
+message Proto31400030       // 精彩活动邮件通知活动开始
+{
+    repeated int64 role_id = 1;       // 玩家id
+    repeated int32 act_index = 2;       // 活动id（索引）
+}
+
+message Proto31400031       // 精彩活动邮件发送排行榜奖励
+{
+    optional int32 act_index = 1;       // 活动id（索引）
+}
+
+message Proto31400032       // 精彩活动结束时为领取的奖励发送邮件给玩家(中转)
+{
+    repeated ProtoActRoleReward act_role_reward = 1;       // 玩家奖励
+}
+
+message Proto31400036       // 开服活动战力、等级排行
+{
+    repeated ProtoRankRecord rank_list = 1;       // 
+    optional int32 rank_type = 2;       // 战力排行1，等级2
+}
+
+message Proto31400037       // 开服活动仙盟排行
+{
+    repeated ProtoLeagueItem rank_list = 1;       // 
+    optional int32 rank_type = 2;       // 仙盟排行6
+}
+
+message Proto30400037       // 开服活动向逻辑请求仙盟排行
+{
+    optional int32 rank_type = 1;       // 
+    optional int32 size = 2;       // 
+}
+
+

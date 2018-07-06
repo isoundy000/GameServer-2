@@ -1,0 +1,35 @@
+{
+    "scene_id" : 70201,
+    "name" : "跨服竞技",
+	
+	/*战斗时间*/
+	"fighting_time": 120,
+	/*同样对手*/
+	"same_rivial": 0,
+	/*是否不加载历史数据*/
+	"noload": 0,
+	/*退出时间*/
+	"quit_time": 10,
+	/*预热时间*/
+	"prep_waiting_time":300,
+	/*传送出去时间*/
+	"transfer_out_time":300,
+	/*等待传送时间+开始倒计时*/
+	"prep_time":10,
+	/*排队时间*/
+	"wait_time":30,
+	/*进入点*/
+	"enter_pos":[[548,1240], [1265,1016]],
+	
+	/*每组多少人*/
+	"group_count": 25,
+	/*最多输多少次*/
+	"max_lose":4,
+	/*机器A万分比*/
+	"robot_a": 10000,
+	/*机器B万分比*/
+	"robot_b": 9000,
+	/*参与奖励*/
+	"attend_reward_times": 10
+}
+

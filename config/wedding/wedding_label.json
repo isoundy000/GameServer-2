@@ -1,0 +1,98 @@
+{
+    "1": {
+        "label_name": "心有灵犀",
+        "label_id": 1030041,
+        "label_item": [
+            216323041,
+            1,
+            1
+        ],
+        "ring_level": 15
+    },
+    "3": {
+        "sys_level": 65,
+        "label_id": 1030043,
+        "label_name": "比翼双飞",
+        "tree_level": 60,
+        "label_item": [
+            216323043,
+            1,
+            1
+        ],
+        "ring_level": 30
+    },
+    "2": {
+        "label_name": "心心相印",
+        "label_id": 1030042,
+        "label_item": [
+            216323042,
+            1,
+            1
+        ],
+        "ring_level": 40
+    },
+    "5": {
+        "sys_level": 185,
+        "label_id": 1030045,
+        "label_name": "天长地久",
+        "tree_level": 150,
+        "label_item": [
+            216323045,
+            1,
+            1
+        ],
+        "ring_level": 90
+    },
+    "4": {
+        "sys_level": 125,
+        "label_id": 1030044,
+        "label_name": "海枯石烂",
+        "tree_level": 100,
+        "label_item": [
+            216323044,
+            1,
+            1
+        ],
+        "ring_level": 60
+    },
+    "7": {
+        "sys_level": 45,
+        "label_name": "至死不渝",
+        "label_id": 1030047,
+        "label_item": [
+            216323047,
+            1,
+            1
+        ]
+    },
+    "6": {
+        "sys_level": 105,
+        "label_name": "相濡以沫",
+        "label_id": 1030046,
+        "label_item": [
+            216323046,
+            1,
+            1
+        ]
+    },
+    "9": {
+        "label_name": "情满花开",
+        "label_id": 1030049,
+        "label_item": [
+            216323049,
+            1,
+            1
+        ],
+        "tree_level": 35
+    },
+    "8": {
+        "label_name": "情深意种",
+        "label_id": 1030048,
+        "label_item": [
+            216323048,
+            1,
+            1
+        ],
+        "tree_level": 85
+    }
+}

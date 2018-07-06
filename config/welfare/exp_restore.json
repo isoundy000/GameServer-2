@@ -1,0 +1,143 @@
+{   
+    "require_lvl":20,
+    "restore_days":7,
+    "exp_price":[10000, 1],
+    
+    "20100":{
+        "name" : "幽冥河",
+        "stage_type":"pass_throught", 
+        "stage_exp":66000, 
+        "free_restore_rate": 50,
+        "finish_times": 2,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 5,
+        "start_lvl":10,
+        "storage_id":20100 
+    },
+    "20110":{
+		
+        "stage_exp":90000,  
+		"storage_id":20100
+    },	
+    "20120":{
+		
+        "stage_exp":126000, 
+		"storage_id":20100		
+    },	
+    "20200":{
+        "name" : "北寒极宫",
+        "stage_type":"pass_throught", 
+        "stage_exp":10250, 
+        "free_restore_rate": 50,
+        "finish_times": 2,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 3,
+        "start_lvl":10,
+        "storage_id":20200 
+    },
+    "20210":{
+		
+        "stage_exp":12450,  
+		"storage_id":20200 
+    },	
+    "20220":{
+		
+        "stage_exp":14400, 
+		"storage_id":20200 		
+    },		
+    "20300":{
+        "name" : "斩妖封魔录",
+        "stage_type":"pass_chapter", 
+        "stage_exp":1000, 
+        "free_restore_rate": 50,
+        "finish_times": 1,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 1,
+        "start_lvl":10,
+        "storage_id":20300
+    },	
+    "20500":{
+        "name" : "守卫太虚[单]",
+        "stage_type":"pass_throught", 
+        "stage_exp":22800, 
+        "free_restore_rate": 50,
+        "finish_times": 2,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 2,
+        "start_lvl":10,
+        "storage_id":20500 
+    },
+    "20510":{
+		
+        "stage_exp":27300,  
+		"storage_id":20500
+    },	
+    "20520":{
+		
+        "stage_exp":31800, 
+		"storage_id":20500		
+    },		
+    "20600":{
+        "name" : "守卫太虚[多]",
+        "stage_type":"pass_throught", 
+        "stage_exp":22800, 
+        "free_restore_rate": 50,
+        "finish_times": 1,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 2,
+        "start_lvl":10,
+        "storage_id":20600 
+    },		
+    "20610":{
+		
+        "stage_exp":27300, 
+		"storage_id":20600	
+    },	
+    "20620":{
+		
+        "stage_exp":31800, 
+		"storage_id":20600		
+    },		
+    "20700":{
+        "name" : "诛仙剑阵[单]",
+        "stage_type":"pass_floor", 
+        "stage_exp":2500, 
+        "free_restore_rate": 50,
+        "finish_times": 2,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 4,
+        "start_lvl":10,
+        "storage_id":20700
+    },	
+    "20710":{
+		
+        "stage_exp":2800, 
+		"storage_id":20700
+    },	
+    "20720":{
+		
+        "stage_exp":3200, 
+		"storage_id":20700		
+    },	
+    "20800":{
+        "name" : "诛仙剑阵[多]",
+        "stage_type":"pass_floor", 
+        "stage_exp":2500, 
+        "free_restore_rate": 50,
+        "finish_times": 1,
+        "vip_finish_times":[0,0,0,0],
+        "display_order": 4,
+        "start_lvl":10,
+        "storage_id":20800
+    },
+    "20810":{
+		
+        "stage_exp":2800, 
+		"storage_id":20800		
+    },
+    "20820":{
+		
+        "stage_exp":3200, 
+		"storage_id":20800		
+    }
+}

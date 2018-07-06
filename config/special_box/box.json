@@ -1,0 +1,152 @@
+{
+    "10": {
+        "slot": 4,
+        "group_weight": 123,
+        "name": "汉寿亭侯变身礼盒",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031050,
+            1,
+            1
+        ],
+        "day": 9,
+        "is_shout": 1
+    },
+    "1": {
+        "slot": 1,
+        "group_weight": 1962,
+        "name": "海军上将时装礼包",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031041,
+            1,
+            1
+        ],
+        "day": 1,
+        "is_shout": 1
+    },
+    "3": {
+        "slot": 3,
+        "group_weight": 654,
+        "name": "武林盟主时装礼包",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031043,
+            1,
+            1
+        ],
+        "day": 1,
+        "is_shout": 1
+    },
+    "2": {
+        "slot": 2,
+        "group_weight": 981,
+        "name": "西部牛仔时装礼包",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031042,
+            1,
+            1
+        ],
+        "day": 1,
+        "is_shout": 1
+    },
+    "5": {
+        "slot": 2,
+        "group_weight": 981,
+        "name": "圣斗天使时装礼盒",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031045,
+            1,
+            1
+        ],
+        "day": 5,
+        "is_shout": 1
+    },
+    "4": {
+        "slot": 1,
+        "group_weight": 1962,
+        "name": "暴力街头时装礼包",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031044,
+            1,
+            1
+        ],
+        "day": 5,
+        "is_shout": 1
+    },
+    "7": {
+        "slot": 1,
+        "group_weight": 1962,
+        "name": "欧陆风云时装礼盒",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031047,
+            1,
+            1
+        ],
+        "day": 9,
+        "is_shout": 1
+    },
+    "6": {
+        "slot": 3,
+        "group_weight": 654,
+        "name": "湘西风云时装礼盒",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031046,
+            1,
+            1
+        ],
+        "day": 5,
+        "is_shout": 1
+    },
+    "9": {
+        "slot": 3,
+        "group_weight": 654,
+        "name": "斗战胜佛变身礼盒",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031049,
+            1,
+            1
+        ],
+        "day": 9,
+        "is_shout": 1
+    },
+    "8": {
+        "slot": 2,
+        "group_weight": 981,
+        "name": "军旅生涯时装礼盒",
+        "item_max_times": 11,
+        "item_min_times": 1,
+        "server_record": 1,
+        "item": [
+            215031048,
+            1,
+            1
+        ],
+        "day": 9,
+        "is_shout": 1
+    }
+}

@@ -1,0 +1,430 @@
+import "ProtoPublic.proto";
+
+message Proto10700101       // 验证模块的登录前验证
+{
+    optional string account = 1;       // 玩家帐号
+    optional string session = 2;       // 会话flag
+    optional string tick = 3;       // 登录时间戳
+}
+
+message Proto50700101       // 验证模块的登录前验证(回复)
+{
+    optional string gate_ip = 1;       // 网关IP
+    optional int32 gate_port = 2;       // 网关端口
+    optional string domain = 3;       // 域名
+}
+
+message Proto10600101       // 网关登录验证
+{
+    optional string account = 1;       // 玩家帐号
+    optional string session = 2;       // 会话flag
+    optional string tick = 3;       // 登录时间戳
+    optional string agent = 4;       // 渠道
+    optional string platform = 5;       // 平台简称（已不再使用，直接用渠道）
+    optional string net_type = 6;       // 网络类型；WIFI, 3G, 2G
+    optional string sys_version = 7;       // 系统版本
+    optional string sys_model = 8;       // 机型
+    optional string mac = 9;       // mac地址
+    optional string c_sid = 10;       // SDK的Sid
+    optional string server_flag = 11;       // 服务器的flag标识
+    optional int32 market = 12;       // 包ID（市场ID）
+    optional string imei = 13;       // 手机设备号
+}
+
+message Proto50600101       // 网关登录验证(回复)
+{
+    optional int64 role_id = 1;       // 上次选择的角色ID
+    repeated ProtoSceneAddress scene_addrs = 2;       // 场景对应的地址列表
+    optional int32 ban_type = 3;       // 封禁类型 1账户 2角色 3IP地址
+    optional int32 expired_time = 4;       // 封禁解除时间
+    optional int32 left_ban_sec = 5;       // 封禁剩余秒数
+    repeated ProtoGateRole role_list = 6;       // 角色列表
+}
+
+message Proto10600102       // 创建角色
+{
+    optional string name = 1;       // 角色名
+    optional int32 sex = 2;       // 性别; 1 男, 2 女;
+    optional string account = 3;       // 账号
+    optional string session = 4;       // 会话flag
+    optional string agent = 5;       // 渠道
+    optional string platform = 6;       // 平台（已不再使用，直接用渠道）
+    optional int32 market = 7;       // 市场ID(包ID)
+    optional int32 career = 8;       // 职业；1 战士 2 法师 3 刺客 4 道士
+}
+
+message Proto80400101       // 角色本人进入场景(主动)
+{
+    optional int32 chat_scene = 1;       // 聊天模块的ID
+    optional int64 role_id = 2;       // 角色ID
+    optional string name = 3;       // 角色名
+    optional int32 level = 4;       // 等级
+    optional int32 sex = 5;       // 性别；1男，2女
+    optional int64 league_id = 6;       // 宗派ID
+    optional string league_name = 7;       // 宗派名字
+    optional int32 scene_id = 8;       // 场景ID
+    optional int32 pixel_x = 9;       // X坐标，单位像素
+    optional int32 pixel_y = 10;       // Y坐标，单位像素
+    optional int32 toward = 11;       // 方向
+    optional int32 blood = 12;       // 当前血量
+    optional int32 max_blood = 13;       // 最大血量
+    optional int32 magic = 14;       // 当前蓝
+    optional int32 max_magic = 15;       // 最大蓝
+    optional int32 pk_state = 16;       // PK状态，0和平，1全体，2队伍，3宗派
+    optional int64 experience = 17;       // 当前经验
+    optional int32 speed = 18;       // 移动速度，基本速度100
+    optional int32 vip_type = 19;       // 0非VIP 100vip1 101vip2 102vip3....
+    optional int32 force = 20;       // 战斗力
+    optional int32 team_id = 21;       // 队伍ID,没有队伍则为0
+    optional int32 camp_id = 22;       // 阵营id
+    optional int32 permission = 23;       // 权限; 2 GM，4 开发者， 8 新手指导员， 16 内部玩家
+    optional int32 space_id = 24;       // 空间ID
+    optional string server_flag = 25;       // 服务器标识
+    optional int32 name_color = 26;       // 自己颜色
+    optional int32 league_pos = 27;       // 宗派职位
+    optional int32 mw_id = 28;       // 法宝id
+    optional int32 mw_rank_level = 29;       // 品阶等级
+    optional string server_prev = 30;       // 服务器前缀
+    optional int32 server_id = 31;       // 服务器id
+    optional int32 angry = 32;       // 怒气值
+    optional string full_name = 33;       // 全名
+    optional int32 jump_value = 34;       // 跳跃值
+    optional ProtoRoleShape shape_info = 35;       // 外形信息
+    optional int32 main_act = 36;       // 主要活动类型,1开服，2表示返利，3表示合服
+    optional int64 partner_id = 37;       // 伴侣id
+    optional string partner_name = 38;       // 伴侣名字
+    optional int64 wedding_id = 39;       // 结婚id
+    optional int32 wedding_type = 40;       // 结婚类型
+    optional int32 open_days = 41;       // 开服天数
+}
+
+message Proto10400001       // 地图广播端请求连接并验证
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional string account = 2;       // 账号名
+    optional string session = 3;       // 会话flag
+}
+
+message Proto80400102       // 其他角色进入场景通知
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional string name = 2;       // 角色名
+    optional int32 level = 3;       // 等级
+    optional int32 sex = 4;       // 性别；1男，2女
+    optional int32 scene_id = 5;       // 场景ID
+    optional int32 pixel_x = 6;       // X坐标，单位像素
+    optional int32 pixel_y = 7;       // Y坐标，单位像素
+    optional int32 toward = 8;       // 角度
+    optional int32 blood = 9;       // 当前血量
+    optional int32 max_blood = 10;       // 最大血量
+    optional int32 magic = 11;       // 当前蓝
+    optional int32 max_magic = 12;       // 最大蓝
+    optional int32 pk_state = 13;       // PK状态；0和平，1全体，2队伍，3宗派
+    optional int32 speed = 14;       // 移动速度，基本速度100
+    optional int32 fight_state = 15;       // 战斗状态; 0 不在战斗状态，1战斗中
+    optional int32 mount_sort = 16;       // 战骑等级
+    optional int32 vip_type = 17;       // 0非VIP 100vip1 101vip2 102vip3....
+    optional int32 force = 18;       // 战斗力
+    optional int32 camp_id = 19;       // 阵营id
+    optional int64 league_id = 20;       // 帮派ID
+    optional int32 is_copy = 21;       // 是否是化身
+    optional int64 beast_id = 22;       // 宠物ID，没有宠物为0
+    optional string league_name = 23;       // 帮派名字
+    optional int32 space_id = 24;       // 空间ID
+    optional int32 name_color = 25;       // 名字color
+    optional int32 gather_state = 26;       // 0:不在采集/1:正在采集
+    optional int32 mount_lvl = 27;       // 坐骑等级
+    optional int32 mw_id = 28;       // 法宝id
+    optional int32 mw_rank_level = 29;       // 品阶等级
+    optional int32 server_id = 30;       // 服务器ID
+    optional string server_prev = 31;       // 服务器前缀
+    optional int32 league_pos = 32;       // 帮派职位
+    optional string full_name = 33;       // 全名
+    optional ProtoRoleShape shape_info = 34;       // 外形信息
+    optional int32 hotspring_status = 35;       // 温泉双休状态
+    optional int64 partner_id = 36;       // 伴侣id
+    optional string partner_name = 37;       // 伴侣名字
+    optional int64 wedding_id = 38;       // 结婚id
+    optional int32 wedding_type = 39;       // 结婚类型
+}
+
+message Proto80400104       // 移动物体退出场景通知
+{
+    optional int64 mover_id = 1;       // 移动物体唯一标识
+}
+
+message Proto10400109       // 玩家移动请求
+{
+    repeated ProtoCoord step_list = 1;       // 移动步数列表
+    optional int32 toward = 2;       // 方向
+    optional int32 arrive_tick = 3;       // 到达时间，预留
+    optional int32 scene_id = 4;       // 场景ID
+}
+
+message Proto80400105       // 移动广播信息
+{
+    optional int64 mover_id = 1;       // 移动物体唯一标识
+    repeated ProtoCoord step_list = 2;       // 移动坐标列表
+    optional int32 toward = 3;       // 方向
+    optional int64 arrive_tick = 4;       // 预留
+}
+
+message Proto50600102       // 创建角色(回复)
+{
+    optional int32 test = 1;       // 测试
+}
+
+message Proto10400110       // 切换场景请求
+{
+    optional int32 scene_id = 1;       // 目标场景ID
+}
+
+message Proto11499999       // 地图逻辑测试命令
+{
+    optional string cmd_name = 1;       // 名称
+    optional int32 param1 = 2;       // 参数1
+    optional int32 param2 = 3;       // 参数2
+    optional int32 param3 = 4;       // 参数3
+    optional int32 param4 = 5;       // 参数4
+    optional int32 param5 = 6;       // 参数5
+}
+
+message Proto10200001       // 客户端请求连接聊天端口
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional string account = 2;       // 账号名
+    optional string session = 3;       // 会话id
+}
+
+message Proto10200002       // 客户端发送聊天（普通）
+{
+    optional int32 channel = 1;       // 聊天频道 1：世界 2：帮派 3：队伍 4：系统 5：跨服
+    optional int32 type = 2;       // 1 文字 2 语音
+    optional int32 voice_len = 3;       // 语音时长
+    optional string wcontent = 4;       // 文字聊天内容
+    optional bytes vcontent = 5;       // 语音聊天内容
+}
+
+message Proto10200003       // 客户端发送聊天（私聊）
+{
+    optional int64 dst_role_id = 1;       // 对方id
+    optional int32 type = 2;       // 聊天类型：1 文字 2：语音
+    optional int32 voice_len = 3;       // 语音时长
+    optional string wcontent = 4;       // 文字聊天内容
+    optional bytes vcontent = 5;       // 语音聊天内容
+}
+
+message Proto10200004       // 获取宗派聊天历史记录
+{
+    optional int32 time_offset = 1;       // 时间戳（秒），获取该时间之前的记录
+}
+
+message Proto11400002       // 客户端发送聊天（炫耀）
+{
+    optional int32 pack_type = 1;       // 背包类型：1.身上装备2.背包.3衣橱
+    optional int32 goods_id = 2;       // 物品id
+    optional int32 index = 3;       // 物品索引
+    optional int32 channel = 4;       // 炫耀的频道
+    optional int32 type = 5;       // 10001：装备 10002：道具 10003：时装 10005:宠物
+    optional int64 roleID = 6;       // 私聊玩家的ID
+    optional int64 pet_id = 7;       // 宠物的id
+}
+
+message Proto11400001       // 客户端发送聊天（喇叭）
+{
+    optional string content = 1;       // 聊天内容
+}
+
+message Proto50200004       // 获取宗派历史聊天记录（返回）
+{
+    repeated ProtoChatInfo content = 1;       // 聊天内容
+}
+
+message Proto80200001       // 服务端发送聊天（普通）
+{
+    repeated ProtoChatInfo content = 1;       // 聊天内容
+}
+
+message Proto80200002       // 服务端发送聊天（喇叭）
+{
+    repeated ProtoChatInfo content = 1;       // 聊天内容
+}
+
+message Proto80200003       // 服务端发送聊天（私聊）
+{
+    repeated ProtoChatInfo content = 1;       // 聊天内容
+}
+
+message Proto10200005       // 获取私聊记录
+{
+    optional int64 peer_role_id = 1;       // 对方的id
+    optional int32 time_offset = 2;       // 时间戳（秒），获取该时间之前的记录
+}
+
+message Proto50200005       // 获取私聊记录（返回）
+{
+    repeated ProtoChatInfo content = 1;       // 聊天内容
+}
+
+message Proto10200006       // 获取语音信息
+{
+    optional int32 channel = 1;       // 聊天频道 1：世界 2：帮派 3：队伍 4：附近 6：私聊
+    optional int64 voice_id = 2;       // 语音id
+}
+
+message Proto50200006       // 获取语音信息（返回）
+{
+    optional int64 voice_id = 1;       // 语音id
+    optional bytes content = 2;       // 内容
+    optional int32 voice_length = 3;       // 语音长度
+}
+
+message Proto11400101       // 获取背包信息
+{
+    optional int32 pack_type = 1;       // 背包类型
+}
+
+message Proto11400102       // 获取开启格子信息
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 index = 2;       // 背包格子索引
+}
+
+message Proto11400103       // 开启格子
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 index = 2;       // 背包格子索引，需要开启 <= index所有未开启的格子
+}
+
+message Proto11400104       // 整理背包
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 remove = 2;       // 过期是否删除，0表示否
+}
+
+message Proto11400105       // 合并背包
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 index_from = 2;       // 起始物品索引
+    optional int32 index_to = 3;       // 结束物品索引
+    optional int32 ignore_bind = 4;       // 是否忽略绑定状态，0:不忽略；1：忽略；
+}
+
+message Proto11400106       // 使用物品
+{
+    optional int32 index = 1;       // 背包格子索引
+    optional int32 amount = 2;       // 使用数量
+}
+
+message Proto11400107       // 丢弃物品
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 index = 2;       // 丢弃物品的索引
+}
+
+message Proto11400110       // 出售物品
+{
+    optional int32 index = 1;       // 索引
+    optional int32 amount = 2;       // 数量
+    optional int32 pack_type = 3;       // 背包类型
+}
+
+message Proto51400101       // 背包信息(返回)
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 pack_size = 2;       // 背包大小
+    repeated ProtoItem item_list = 3;       // 背包物品数组
+    repeated ProtoSuit suit_info = 4;       // 套装信息(背包类型为装备时才有效)
+    optional ProtoRefineSuit refine_suit = 5;       // 强化套装(背包类型为装备时才有效)
+    repeated int32 strengthen = 6;       // 强化等级
+}
+
+message Proto51400102       // 开启格子信息(返回)
+{
+    optional int32 index = 1;       // 格子索引
+    optional int32 gold_cost = 2;       // 需要花费的元宝
+    optional int32 left_time = 3;       // 该格子开启剩余时间，单位为秒
+    optional int32 total_time = 4;       // 总时间
+    optional int32 add_exp = 5;       // 增加的经验
+}
+
+message Proto51400103       // 开启格子(返回)
+{
+    optional int32 gold_cost = 1;       // 扣除元宝数
+    optional int32 pack_size = 2;       // 开启格子后背包的大小
+}
+
+message Proto51400106       // 使用物品(返回)
+{
+    optional int32 item_id = 1;       // 使用的物品id
+    optional int32 tips_flag = 2;       // 提示标识
+}
+
+message Proto81400102       // 主动通知删除元素
+{
+    optional int32 pack_type = 1;       // 背包类型
+    repeated ProtoDelItem del_item_list = 2;       // 删除物品列表
+}
+
+message Proto81400101       // 主动通知增加元素
+{
+    optional int32 pack_type = 1;       // 背包类型
+    repeated ProtoItem pack_item_list = 2;       // 有变动的格子列表
+}
+
+message Proto81400103       // 主动通知货币更新
+{
+    optional int32 gold = 1;       // 元宝
+    optional int32 bind_gold = 2;       // 绑定元宝
+    optional int32 copper = 3;       // 铜钱
+    optional int32 bind_copper = 4;       // 绑铜
+    optional int32 activity_score = 5;       // 活动积分
+    optional int32 exploit = 6;       // 功勋值
+    optional int32 reputation = 7;       // 声望值
+    optional int32 st_score = 8;       // 秘藏积点
+    optional int32 reiki = 9;       // 灵气
+    optional int32 honour = 10;       // 荣誉
+    optional int32 league_contri = 11;       // 帮贡
+    optional int32 spirit = 12;       // 精华
+    optional int32 practice = 13;       // 历练
+}
+
+message Proto11400326       // 接受任务
+{
+    optional int32 task_id = 1;       // 任务id
+}
+
+message Proto11400327       // 放弃任务
+{
+    optional int32 task_id = 1;       // 任务id
+}
+
+message Proto11400328       // 提交任务
+{
+    optional int32 task_id = 1;       // 任务id
+    optional int32 is_double = 2;       // 是否双倍领取; 0 不双倍，1 双倍
+}
+
+message Proto11400329       // 获取npc的任务列表
+{
+    optional int32 npc_id = 1;       // 
+}
+
+message Proto11400330       // 快速完成任务
+{
+    optional int32 task_id = 1;       // 任务id
+}
+
+message Proto51400325       // 获取任务列表（返回）
+{
+    repeated ProtoTaskInfo task_list = 1;       // 任务列表
+    repeated int32 task_finish = 2;       // 已完成且需要记录的任务
+    optional int32 is_finish_guide = 3;       // 是否完成新手引导任务
+}
+
+message Proto51400329       // 获取npc的任务列表(返回）
+{
+    repeated ProtoTaskInfo task_list = 1;       // 任务列表
+}
+
+

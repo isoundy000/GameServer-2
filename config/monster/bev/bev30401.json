@@ -1,0 +1,48 @@
+{
+	"node_name": "仙盟镖车根结点",
+	"node_type": "control",
+	"node_action": "PrioSelNode",
+    "node_tree" : 
+	[
+		{
+			"node_name": "怪物死亡",
+			"ext_precond": "die_pre",
+			"node_type": "control",
+			"node_action": "SequenceNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "死亡处理",
+					"node_type": "action",
+					"node_action": "die_action"
+				},
+				{
+					"node_name": "尸体回收",
+					"node_type": "action",
+					"node_action": "recycle_action"
+				}
+			]
+		},
+		{
+            "node_name" : "定点区域置回收",
+            "ext_precond" : "area_recycle_pre",
+            "node_type" : "action",
+            "node_action" : "alive_recycle_action"
+        },
+		{
+			"node_name": "怪物主要行为",
+			"node_type": "control",
+			"node_action": "PrioSelNode",
+			"node_tree" : 
+			[
+				{
+					"node_name": "检测附近的人",
+					"ext_precond" : "check_nearleague_pre",
+					"distance": 25,
+					"node_type": "action", 
+					"node_action": "patrol_route_b_action"
+				}
+			]
+		}
+	]
+}

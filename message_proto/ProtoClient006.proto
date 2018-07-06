@@ -1,0 +1,376 @@
+import "ProtoPublic.proto";
+
+message Proto50400002       // 玩家拾取物品(返回)
+{
+    optional int64 drop_id = 1;       // 掉落ID
+}
+
+message Proto51401301       // 领取在线奖励(返回)
+{
+    optional int32 pre_stage = 1;       // 当前领奖阶段
+    optional int32 stage = 2;       // 等待领奖阶段（当前到等待中间可领）
+    optional int64 login_time = 3;       // 玩家累计在线时长
+    repeated int32 award_list = 4;       // 奖励序号列表
+}
+
+message Proto51401302       // 获取在线奖励信息(返回)
+{
+    repeated int32 config_item_id = 1;       // 配置文件中各阶段 奖励内容的ID
+    optional int64 left_time = 2;       // 距离领取礼物的时间, 如果为0表示当前可以领取礼物
+    optional int32 stage = 3;       // 当前在线奖励的阶段
+    optional int32 received_mark = 4;       // 领取标记 0:已领取所有阶段奖励 1:仍可领取
+    optional int32 pre_stage = 5;       // 上次领奖阶段
+    optional int64 login_time = 6;       // 累计登陆时间
+    repeated int32 award_list = 7;       // 奖励序号列表
+}
+
+message Proto81401301       // 通知客户端在线奖励信息(主动)
+{
+    optional int32 item_count = 1;       // 可领取物品数量
+    optional int64 left_time = 2;       // 距离领取礼物的时间, 如果为0表示当前可以领取礼物
+    optional int32 pre_stage = 3;       // 上次领奖阶段
+    optional int32 stage = 4;       // 当前领奖阶段
+}
+
+message Proto80400112       // 掉落物品出现
+{
+    optional int64 drop_id = 1;       // 掉落包裹ID
+    optional int32 drop_type = 2;       // 掉落类型
+    optional int32 item_id = 3;       // 物品ID
+    optional int32 pixel_x = 4;       // X像素
+    optional int32 pixel_y = 5;       // Y像素
+    repeated int64 viewer_set = 6;       // 可看得到的玩家
+    optional int32 no_auto_pickup = 7;       // 1 不自动拾取
+    optional int32 amount = 8;       // 数量
+    optional int32 left_protect_sec = 9;       // 剩余保护秒数
+    repeated int64 no_viewer_set = 10;       // 已捡过的玩家不显示
+}
+
+message Proto80400308       // 退出队伍(主动)
+{
+    optional int32 quit_type = 1;       // 退出类型(暂时没用)
+}
+
+message Proto80400311       // 处理请求超时,已自动拒绝(主动)
+{
+    optional int64 role_id = 1;       // 被自动拒绝的玩家ID
+}
+
+message Proto80400333       // 参加斗法玩家信息(主动)
+{
+    repeated ProtoLeagueFighter fighter_set = 1;       // 斗法玩家
+}
+
+message Proto80400334       // 斗法阶段(主动)
+{
+    optional int32 fighting_state = 1;       // 斗法阶段
+}
+
+message Proto80400335       // 宗派活动类型(主动)
+{
+    optional int32 activity_type = 1;       // 活动类型
+    optional int32 activity_state = 2;       // 活动状态
+    optional int32 is_first = 3;       // 是否第一次
+}
+
+message Proto51401401       // 获取签到信息(返回)
+{
+    optional int32 award_index = 1;       // 当前周期已签到过的次数
+    optional int32 check_in_point = 2;       // 签到积分
+    optional int32 has_award = 3;       // 是否可签到
+    optional int32 has_total_award = 4;       // 是否可以累计领奖
+    optional int32 check_total_index = 5;       // 当前累计签到索引
+    optional int32 charge_money = 6;       // 是否可再领(-1 未充值 0 充值未领 1充值已领）
+}
+
+message Proto11401402       // 请求签到
+{
+    optional int32 award_index = 1;       // 签到奖励的索引, 0 base
+    optional int32 month_day = 2;       // 当前月有多少天
+}
+
+message Proto51401402       // 请求签到(返回)
+{
+    optional int32 status = 1;       // 状态, 0失败, 1成功
+    optional int32 check_in_point = 2;       // 当前的签到积分
+}
+
+message Proto81401401       // 通知客户端可领取的福利(主动)
+{
+    optional int32 check_in = 1;       // 是否可签到(数量)
+    optional int32 liveness_award = 2;       // 是否有活跃度奖励(数量)
+    optional int32 exp_restore = 3;       // 是否有经验可找回(数量)
+    optional int32 check_in_popup = 4;       // (已不使用，见:Proto81401405)是否需要弹出签到窗口
+    optional int32 show_check_in_point = 5;       // 是否显示签到窗口顶部的积分信息
+    optional int32 level_award = 6;       // 等级奖励(数量)
+}
+
+message Proto11400113       // 打开宗派藏宝图
+{
+    optional int32 index = 1;       // 背包索引
+}
+
+message Proto51400113       // 打开背包藏宝图(返回)
+{
+    optional int32 map_index = 1;       // 第几幅图
+    optional int32 map_count = 2;       // 共几张图
+    optional int32 state = 3;       // 藏图状态
+    optional int32 coord_x = 4;       // x坐标
+    optional int32 coord_y = 5;       // y坐标
+}
+
+message Proto11400114       // 完成藏宝图
+{
+    repeated int32 cur_index = 1;       // 当前图片排序
+    optional int32 index = 2;       // 背包索引
+}
+
+message Proto10400305       // 挖宝藏
+{
+    optional int32 index = 1;       // 物品索引
+    optional int32 scene_id = 2;       // 场景ID
+    optional int32 coord_x = 3;       // X坐标
+    optional int32 coord_y = 4;       // Y坐标
+}
+
+message Proto80400106       // 特效出现
+{
+    optional int32 effect_id = 1;       // 特效对象全服唯一ID
+    optional int32 effect_sort = 2;       // 特效ID
+    optional int32 pixel_x = 3;       // X坐标
+    optional int32 pixel_y = 4;       // Y坐标
+}
+
+message Proto80400107       // 特效消失
+{
+    optional int32 effect_id = 1;       // 特效全服唯一ID
+    optional int32 effect_sort = 2;       // 特效模型ID
+}
+
+message Proto50400501       // 宠物移动请求(返回)
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+}
+
+message Proto80400401       // 更新队伍中队友的血量(主动)
+{
+    optional int64 fighter_id = 1;       // 角色ID
+    optional int32 blood = 2;       // 当前血量
+    optional int32 max_blood = 3;       // 最大血量
+    repeated ProtoPairObj mount_info = 4;       // 战骑系统信息
+}
+
+message Proto80400402       // 更新队伍中队友的状态(主动)
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional int32 nearby = 2;       // 是否在同一场景 0否 1是
+    optional int32 alive = 3;       // 0死亡 1 活着
+    optional int32 online = 4;       // 0离线 1在线
+}
+
+message Proto80200004       // 服务端同步玩家聊天频道信息
+{
+    optional int32 chat_channel = 1;       // 宗派2，队伍3
+    optional int32 opra = 2;       // 1：加入，2：退出
+}
+
+message Proto11401412       // 找回单个活动经验
+{
+    optional int32 activity_id = 1;       // 活动ID（活动大类）找回）
+    optional int32 restore_type = 2;       // 找回方式 1免费找回 2元宝找回
+}
+
+message Proto11401413       // 找回全部活动经验
+{
+    optional int32 restore_type = 1;       // 找回方式 1免费找回 2元宝找回
+}
+
+message Proto51401412       // 找回单个活动经验(返回)
+{
+    optional int32 activity = 1;       // 活动ID（活动大类）找回）
+    optional ProtoThreeObj other_info = 2;       // 
+}
+
+message Proto51401411       // 获取全部经验找回信息(返回)
+{
+    repeated ProtoExpRestore restore_info = 1;       // 活动的经验找回信息
+}
+
+message Proto10100031       // 查看他人宠物信息
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional int64 beast_id = 2;       // 宠物ID
+    optional int32 query_type = 3;       // 查询类型:1.排行榜查询 2.其他查询, 3跨服查询
+}
+
+message Proto50100031       // 查看他人宠物信息(返回)
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional int64 beast_id = 2;       // 宠物ID
+    optional int32 beast_sort = 3;       // 宠物种类
+    optional string beast_name = 4;       // 宠物名字
+    optional int32 beast_level = 5;       // 宠物等级
+    optional int32 beast_force = 6;       // 宠物战力
+    optional int32 ability = 7;       // 资质
+    optional int32 growth = 8;       // 成长
+    optional int32 attack = 9;       // 攻击
+    optional int32 hit = 10;       // 命中
+    optional int32 crit = 11;       // 暴击
+    optional int32 sky_soul = 12;       // 天魂等级
+    optional int32 earth_soul = 13;       // 地魂等级
+    optional int32 life_soul = 14;       // 命魂等级
+    repeated ProtoBeastSkill skill_set = 15;       // 宠物技能
+    optional int32 mount_grade = 16;       // 坐骑总等级
+    optional int32 on_mount = 17;       // 是否骑上坐骑
+    optional int32 mount_shape = 18;       // 坐骑外形
+    optional int32 sky_value = 19;       // 天魂值
+    optional int32 earth_value = 20;       // 地魂值
+    optional int32 life_value = 21;       // 命魂值
+    optional int32 query_type = 22;       // 查询类型
+}
+
+message Proto10400306       // 武道会获取玩家排行
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50400306       // 武道会获取玩家排名(返回)
+{
+    optional int32 page_index = 1;       // 第几页
+    optional int32 total_page = 2;       // 总页数
+    repeated ProtoLMRole role_set = 3;       // 玩家集合
+    optional ProtoLMRole self_role = 4;       // 自己信息
+}
+
+message Proto10400307       // 获取宗派排名
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50400307       // 获取宗派排名(返回)
+{
+    optional int32 page_index = 1;       // 第几页
+    optional int32 total_page = 2;       // 总页数
+    repeated ProtoMarLeague league_set = 3;       // 宗派集合
+    optional ProtoMarLeague self_league = 4;       // 自己仙盟
+}
+
+message Proto80400336       // 战斗结果(主动)
+{
+    optional int64 win_id = 1;       // 赢者ID
+    optional string win_name = 2;       // 赢者名字
+    optional string win_league = 3;       // 赢者宗派
+    optional int64 lose_id = 4;       // 输者ID
+    optional string lose_name = 5;       // 输者名字
+    optional string lose_league = 6;       // 输者宗派
+    optional int32 fight_state = 7;       // 状态
+}
+
+message Proto80400906       // 副本完成通知
+{
+    optional int32 flag = 1;       // 副本完成标识. 1 完成 2 失败
+    optional int32 scipt_sort = 2;       // 副本id
+    optional int32 used_tick = 3;       // 累计耗时
+    optional int32 exp = 4;       // 获得经验
+    optional int32 copper = 5;       // 获得铜钱
+    repeated ProtoItem item = 6;       // 获得道具
+    repeated int32 star_level = 7;       // 星级
+    optional int32 is_first_pass = 8;       // 是否首次打副本；1 （首次失败或成功时提示）
+    optional int32 ai_score = 9;       // AI副本奖励积分
+    optional int32 rescue_amount = 10;       // 灵兽岛拯救的宠物数量
+    optional int32 present_sort = 11;       // 当前副本id(镇魔塔)
+    optional int32 next_sort = 12;       // 下级副本id(镇魔塔)
+    optional int32 no_card = 13;       // 不能获取翻牌奖励
+    optional int32 begin_wave = 14;       // 开始波数(经验、罗摩副本)
+    optional int32 end_wave = 15;       // 结束波数(经验、罗摩副本)
+    optional int32 cur_floor = 16;       // 第几层(问鼎江湖)
+}
+
+message Proto10400905       // 启动副本
+{
+    optional int32 novice_step = 1;       // 新手副本启动进度;1 第一步; 2 第二步;
+}
+
+message Proto80400337       // 进入武道会信息(主动)
+{
+    optional int32 left_time = 1;       // 剩余时间
+    optional int32 martial_state = 2;       // 状态
+    optional int32 total_time = 3;       // 总时间
+    optional ProtoRoleInfo first_role = 4;       // 第一玩家
+    optional ProtoRoleInfo second_role = 5;       // 第二玩家
+}
+
+message Proto80400338       // 战斗结果提示(主动)
+{
+    optional int32 result_state = 1;       // 战斗结果
+}
+
+message Proto50400308       // 打开排名界面(返回)
+{
+    optional int32 sign_flag = 1;       // 是否报名
+    optional int32 reward_flag = 2;       // 是否有奖励
+    optional int32 left_time = 3;       // 剩余时间
+}
+
+message Proto10100401       // 副本组队：选择副本进行组队
+{
+    optional int32 fb_id = 1;       // 副本id
+    optional int32 fb_degree = 2;       // (已无用)//副本难度
+}
+
+message Proto10100701       // 玩家获取排行榜数据
+{
+    optional int32 rank_type = 1;       // 排行榜的类型
+    optional int32 data_type = 2;       // 0：刷新数据，1：接着发排行数据
+}
+
+message Proto10100405       // 副本组队：邀请进入组队
+{
+    optional int64 role_id = 1;       // 角色id
+    optional int32 is_couple = 2;       // 是否夫妻邀请
+}
+
+message Proto50100701       // 玩家获取排行榜数据
+{
+    optional int32 rank_type = 1;       // 排行榜的类型
+    optional int32 data_type = 2;       // 0：刷新数据，1：继续发数据
+    repeated ProtoRankRecord rank_record_list = 3;       // 排行数据
+    optional ProtoRankRecord my_rank_record = 4;       // 自己的排行数据，如果没上榜则没有该字段
+    optional int32 is_worship = 5;       // 玩家当天是否膜拜
+}
+
+message Proto10100406       // 副本组队：申请进入组队
+{
+    optional int64 leader_id = 1;       // 队长角色id
+}
+
+message Proto10100407       // 副本组队:响应邀请进入副本队伍
+{
+    repeated int64 role_id = 1;       // 角色id
+    optional int32 oper_type = 2;       // 0拒绝1同意
+}
+
+message Proto10100408       // 副本组队:响应申请进入副本队伍
+{
+    repeated int64 role_id = 1;       // 角色id
+    optional int32 oper_type = 2;       // 0拒绝1同意
+}
+
+message Proto50100408       // 副本组队:响应申请进入副本队伍(返回)
+{
+    repeated int64 role_id = 1;       // 同意进入队伍的玩家id
+}
+
+message Proto10100409       // 副本组队:准备就绪
+{
+    optional bool ready_state = 1;       // false 取消准备 true进入准备
+}
+
+message Proto10100413       // 副本组队:更改副本
+{
+    optional int32 fb_id = 1;       // 副本id
+}
+
+

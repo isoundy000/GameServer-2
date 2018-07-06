@@ -1,0 +1,38 @@
+{
+    "1": {
+        "name_str": "天天跑酷",
+        "show_id": 132006,
+        "cond": 10000,
+        "reward_id": 917051
+    },
+    "3": {
+        "name_str": "天天跑酷",
+        "show_id": 132006,
+        "cond": 30000,
+        "reward_id": 917053
+    },
+    "2": {
+        "name_str": "天天跑酷",
+        "show_id": 132006,
+        "cond": 20000,
+        "reward_id": 917052
+    },
+    "5": {
+        "name_str": "天天跑酷",
+        "show_id": 132006,
+        "cond": 50000,
+        "reward_id": 917055
+    },
+    "4": {
+        "name_str": "天天跑酷",
+        "show_id": 132006,
+        "cond": 40000,
+        "reward_id": 917054
+    },
+    "6": {
+        "name_str": "天天跑酷",
+        "show_id": 132007,
+        "cond": 60000,
+        "reward_id": 917056
+    }
+}

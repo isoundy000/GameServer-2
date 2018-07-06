@@ -1,0 +1,144 @@
+{
+    "scene_id" : 70701,
+    "name" : "跨服决战华山",
+	"enter_pos" : [[890,1382],[4492,1575],[4563,5795],[642,6043]],		// 进入场景的随机出生点
+	"relive" : {
+		"type" : "11",
+		"relive_item" : 216310071,	// 复活丹
+		"wait" : 1,		// 30秒后才能在复活点复活
+		"state":[100, 100],	
+		"posX" : 2340,
+        "posY" : 3450
+    },
+
+	"layout" : [
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110001,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[3464,3578],[1785,3662]],
+		// 第几层的怪
+        "floor" : 1,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110002,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[2619,2902],[2605,4337]],
+		// 第几层的怪
+        "floor" : 2,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110004,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[3464,3578],[1785,3662]],
+		// 第几层的怪
+        "floor" : 3,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110005,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[2619,2902],[2605,4337]],
+		// 第几层的怪
+        "floor" : 4,
+		// 每只怪死亡后10秒后重新生成 
+		"reborn_tick" : 10,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110006,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[3464,3578],[1785,3662]],
+		// 第几层的怪
+        "floor" : 5,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 5,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110007,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[2619,2902],[2605,4337]],
+		// 第几层的怪
+        "floor" : 6,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 5,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110008,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[3464,3578],[1785,3662]],
+		// 第几层的怪
+        "floor" : 7,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 5,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110009,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+        // 怪物出生点集合
+        "born_coordxy" : [[2619,2902],[2605,4337]],
+		// 第几层的怪
+        "floor" : 8,
+		// 每只怪死亡后10秒后重新生成
+		"reborn_tick" : 5,
+        "skill_set" : [400030001]
+    },
+	{
+        // 指定点模式
+        "born_type" : "fixed",
+        "monster_sort" : 502110003,
+        // 怪物行为树
+        "monster_tree" : "bev1001.json",
+		//不能移动
+		"flag_set" : ["no_move"],
+        // 怪物出生点集合
+        "born_coordxy" : [[2624,3667]],
+		// 第几层的怪
+        "floor" : 9,
+		// 每只怪死亡后10秒后重新生成，增加30秒
+		"reborn_tick" : 330,
+		"skill_set" : []
+    }
+	]
+}

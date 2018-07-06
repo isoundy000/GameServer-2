@@ -1,0 +1,7 @@
+{
+    "php_center_timeout" : 5,
+    "php_center_post_limit": 256,
+    "php_center_insert_test" : 0,
+    "php_center_insert_test_num": 4000,
+    "php_center_insert_test_name_prefix": "测试角色_"
+}

@@ -1,0 +1,7 @@
+{
+	//镇魔塔每天开始、结束时间[小时,分钟]
+	"start_time":[12,0],
+	"stop_time":[0,0],
+	"magical_name" : "【幻体】",
+	"exit_clear_view_buff" : [5005,5006]
+}

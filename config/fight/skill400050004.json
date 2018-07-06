@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "53%"
+        ],
+        "name": "必杀",
+        "server_force": 10600,
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "detail": {
+            "crit_multi": 5300
+        },
+        "add_fight": 400
+    },
+    "11": {
+        "remark": [
+            "35%"
+        ],
+        "name": "必杀",
+        "server_force": 7000,
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "detail": {
+            "crit_multi": 3500
+        },
+        "add_fight": 400
+    },
+    "10": {
+        "remark": [
+            "33%"
+        ],
+        "name": "必杀",
+        "server_force": 6600,
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "detail": {
+            "crit_multi": 3300
+        },
+        "add_fight": 400
+    },
+    "13": {
+        "remark": [
+            "39%"
+        ],
+        "name": "必杀",
+        "server_force": 7800,
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "detail": {
+            "crit_multi": 3900
+        },
+        "add_fight": 400
+    },
+    "12": {
+        "remark": [
+            "37%"
+        ],
+        "name": "必杀",
+        "server_force": 7400,
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "detail": {
+            "crit_multi": 3700
+        },
+        "add_fight": 400
+    },
+    "15": {
+        "remark": [
+            "43%"
+        ],
+        "name": "必杀",
+        "server_force": 8600,
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "detail": {
+            "crit_multi": 4300
+        },
+        "add_fight": 400
+    },
+    "14": {
+        "remark": [
+            "41%"
+        ],
+        "name": "必杀",
+        "server_force": 8200,
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "detail": {
+            "crit_multi": 4100
+        },
+        "add_fight": 400
+    },
+    "17": {
+        "remark": [
+            "47%"
+        ],
+        "name": "必杀",
+        "server_force": 9400,
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "detail": {
+            "crit_multi": 4700
+        },
+        "add_fight": 400
+    },
+    "16": {
+        "remark": [
+            "45%"
+        ],
+        "name": "必杀",
+        "server_force": 9000,
+        "upgrade_goods": [
+            216130101,
+            4
+        ],
+        "detail": {
+            "crit_multi": 4500
+        },
+        "add_fight": 400
+    },
+    "19": {
+        "remark": [
+            "51%"
+        ],
+        "name": "必杀",
+        "server_force": 10200,
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "detail": {
+            "crit_multi": 5100
+        },
+        "add_fight": 400
+    },
+    "18": {
+        "remark": [
+            "49%"
+        ],
+        "name": "必杀",
+        "server_force": 9800,
+        "upgrade_goods": [
+            216130101,
+            5
+        ],
+        "detail": {
+            "crit_multi": 4900
+        },
+        "add_fight": 400
+    },
+    "1": {
+        "remark": [
+            "15%"
+        ],
+        "name": "必杀",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "detail": {
+            "crit_multi": 1500
+        },
+        "add_fight": 3000
+    },
+    "3": {
+        "remark": [
+            "19%"
+        ],
+        "name": "必杀",
+        "server_force": 3800,
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "detail": {
+            "crit_multi": 1900
+        },
+        "add_fight": 400
+    },
+    "2": {
+        "remark": [
+            "17%"
+        ],
+        "name": "必杀",
+        "server_force": 3400,
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "detail": {
+            "crit_multi": 1700
+        },
+        "add_fight": 400
+    },
+    "5": {
+        "remark": [
+            "23%"
+        ],
+        "name": "必杀",
+        "server_force": 4600,
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "detail": {
+            "crit_multi": 2300
+        },
+        "add_fight": 400
+    },
+    "4": {
+        "remark": [
+            "21%"
+        ],
+        "name": "必杀",
+        "server_force": 4200,
+        "upgrade_goods": [
+            216130101,
+            1
+        ],
+        "detail": {
+            "crit_multi": 2100
+        },
+        "add_fight": 400
+    },
+    "7": {
+        "remark": [
+            "27%"
+        ],
+        "name": "必杀",
+        "server_force": 5400,
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "detail": {
+            "crit_multi": 2700
+        },
+        "add_fight": 400
+    },
+    "6": {
+        "remark": [
+            "25%"
+        ],
+        "name": "必杀",
+        "server_force": 5000,
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "detail": {
+            "crit_multi": 2500
+        },
+        "add_fight": 400
+    },
+    "9": {
+        "remark": [
+            "31%"
+        ],
+        "name": "必杀",
+        "server_force": 6200,
+        "upgrade_goods": [
+            216130101,
+            3
+        ],
+        "detail": {
+            "crit_multi": 3100
+        },
+        "add_fight": 400
+    },
+    "8": {
+        "remark": [
+            "29%"
+        ],
+        "name": "必杀",
+        "server_force": 5800,
+        "upgrade_goods": [
+            216130101,
+            2
+        ],
+        "detail": {
+            "crit_multi": 2900
+        },
+        "add_fight": 400
+    }
+}

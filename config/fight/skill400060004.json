@@ -1,0 +1,482 @@
+{
+    "20": {
+        "upgrade_goods": [
+            216130501,
+            5
+        ],
+        "name": "威慑",
+        "server_force": 4800,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "385"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -385,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "11": {
+        "upgrade_goods": [
+            216130501,
+            3
+        ],
+        "name": "威慑",
+        "server_force": 2250,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "250"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -250,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 570
+    },
+    "10": {
+        "upgrade_goods": [
+            216130501,
+            3
+        ],
+        "name": "威慑",
+        "server_force": 1680,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "235"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -235,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 120
+    },
+    "13": {
+        "upgrade_goods": [
+            216130501,
+            4
+        ],
+        "name": "威慑",
+        "server_force": 2550,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "280"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -280,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "12": {
+        "upgrade_goods": [
+            216130501,
+            3
+        ],
+        "name": "威慑",
+        "server_force": 2400,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "265"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -265,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "15": {
+        "upgrade_goods": [
+            216130501,
+            4
+        ],
+        "name": "威慑",
+        "server_force": 2850,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "310"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -310,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "14": {
+        "upgrade_goods": [
+            216130501,
+            4
+        ],
+        "name": "威慑",
+        "server_force": 2700,
+        "use_rate": 1500,
+        "remark": [
+            "15",
+            "295"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -295,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "17": {
+        "upgrade_goods": [
+            216130501,
+            5
+        ],
+        "name": "威慑",
+        "server_force": 4200,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "340"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -340,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "16": {
+        "upgrade_goods": [
+            216130501,
+            4
+        ],
+        "name": "威慑",
+        "server_force": 4000,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "325"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -325,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 1150
+    },
+    "19": {
+        "upgrade_goods": [
+            216130501,
+            5
+        ],
+        "name": "威慑",
+        "server_force": 4600,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "370"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -370,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "18": {
+        "upgrade_goods": [
+            216130501,
+            5
+        ],
+        "name": "威慑",
+        "server_force": 4400,
+        "use_rate": 2000,
+        "remark": [
+            "20",
+            "355"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -355,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 200
+    },
+    "1": {
+        "upgrade_goods": [
+            216130501,
+            1
+        ],
+        "name": "威慑",
+        "server_force": 500,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "100"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -100,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 500
+    },
+    "3": {
+        "upgrade_goods": [
+            216130501,
+            1
+        ],
+        "name": "威慑",
+        "server_force": 700,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "130"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -130,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "2": {
+        "upgrade_goods": [
+            216130501,
+            1
+        ],
+        "name": "威慑",
+        "server_force": 600,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "115"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -115,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "5": {
+        "upgrade_goods": [
+            216130501,
+            2
+        ],
+        "name": "威慑",
+        "server_force": 900,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "160"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -160,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "4": {
+        "upgrade_goods": [
+            216130501,
+            1
+        ],
+        "name": "威慑",
+        "server_force": 800,
+        "use_rate": 1000,
+        "remark": [
+            "10",
+            "145"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -145,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 100
+    },
+    "7": {
+        "upgrade_goods": [
+            216130501,
+            2
+        ],
+        "name": "威慑",
+        "server_force": 1320,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "190"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -190,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 120
+    },
+    "6": {
+        "upgrade_goods": [
+            216130501,
+            2
+        ],
+        "name": "威慑",
+        "server_force": 1200,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "175"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -175,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 300
+    },
+    "9": {
+        "upgrade_goods": [
+            216130501,
+            3
+        ],
+        "name": "威慑",
+        "server_force": 1560,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "220"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -220,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 120
+    },
+    "8": {
+        "upgrade_goods": [
+            216130501,
+            2
+        ],
+        "name": "威慑",
+        "server_force": 1440,
+        "use_rate": 1200,
+        "remark": [
+            "12",
+            "205"
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 2,
+                    "name": "buff",
+                    "value": -205,
+                    "id": 10014
+                }
+            ]
+        },
+        "add_fight": 120
+    }
+}

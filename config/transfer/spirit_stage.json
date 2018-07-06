@@ -1,0 +1,603 @@
+{
+    "11": {
+        "reduce_cool": 12,
+        "attr": [
+            [
+                "reduction_multi",
+                500
+            ]
+        ],
+        "max_level": 110,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低15%[-]",
+        "cost": [
+            [
+                216310111,
+                10
+            ]
+        ],
+        "reward_id": 204011,
+        "add_time": 40
+    },
+    "30": {
+        "reduce_cool": 33,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                1000
+            ]
+        ],
+        "max_level": 300,
+        "open_des": "[ff0000]当前已经满阶[-]",
+        "cost": [
+            [
+                216310111,
+                66
+            ]
+        ],
+        "reward_id": 204030,
+        "add_time": 100
+    },
+    "10": {
+        "reduce_cool": 12,
+        "attr": [
+            [
+                "reduction_multi",
+                400
+            ]
+        ],
+        "max_level": 100,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加5%[-]",
+        "cost": [
+            [
+                216310111,
+                8
+            ]
+        ],
+        "reward_id": 204010,
+        "add_time": 40
+    },
+    "13": {
+        "reduce_cool": 15,
+        "attr": [
+            [
+                "reduction_multi",
+                600
+            ]
+        ],
+        "max_level": 130,
+        "open_des": "[ff0000]下一阶：变身时长增加到160%[-]",
+        "cost": [
+            [
+                216310111,
+                15
+            ]
+        ],
+        "reward_id": 204013,
+        "add_time": 40
+    },
+    "12": {
+        "reduce_cool": 15,
+        "attr": [
+            [
+                "reduction_multi",
+                500
+            ]
+        ],
+        "max_level": 120,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加6%[-]",
+        "cost": [
+            [
+                216310111,
+                12
+            ]
+        ],
+        "reward_id": 204012,
+        "add_time": 40
+    },
+    "17": {
+        "reduce_cool": 18,
+        "attr": [
+            [
+                "reduction_multi",
+                800
+            ]
+        ],
+        "max_level": 170,
+        "open_des": "[ff0000]下一阶：变身时长增加到180%[-]",
+        "cost": [
+            [
+                216310111,
+                27
+            ]
+        ],
+        "reward_id": 204017,
+        "add_time": 60
+    },
+    "15": {
+        "reduce_cool": 15,
+        "attr": [
+            [
+                "reduction_multi",
+                700
+            ]
+        ],
+        "max_level": 150,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低18%[-]",
+        "cost": [
+            [
+                216310111,
+                21
+            ]
+        ],
+        "reward_id": 204015,
+        "add_time": 60
+    },
+    "14": {
+        "reduce_cool": 15,
+        "attr": [
+            [
+                "reduction_multi",
+                600
+            ]
+        ],
+        "max_level": 140,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加7%[-]",
+        "cost": [
+            [
+                216310111,
+                18
+            ]
+        ],
+        "reward_id": 204014,
+        "add_time": 60
+    },
+    "24": {
+        "reduce_cool": 24,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                400
+            ]
+        ],
+        "max_level": 240,
+        "open_des": "[ff0000]下一阶：伤害加深总共增加6%[-]",
+        "cost": [
+            [
+                216310111,
+                48
+            ]
+        ],
+        "reward_id": 204024,
+        "add_time": 100
+    },
+    "25": {
+        "reduce_cool": 24,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                600
+            ]
+        ],
+        "max_level": 250,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低27%[-]",
+        "cost": [
+            [
+                216310111,
+                51
+            ]
+        ],
+        "reward_id": 204025,
+        "add_time": 100
+    },
+    "26": {
+        "reduce_cool": 27,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                600
+            ]
+        ],
+        "max_level": 260,
+        "open_des": "[ff0000]下一阶：伤害加深总共增加8%[-]",
+        "cost": [
+            [
+                216310111,
+                54
+            ]
+        ],
+        "reward_id": 204026,
+        "add_time": 100
+    },
+    "27": {
+        "reduce_cool": 27,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                800
+            ]
+        ],
+        "max_level": 270,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低30%[-]",
+        "cost": [
+            [
+                216310111,
+                57
+            ]
+        ],
+        "reward_id": 204027,
+        "add_time": 100
+    },
+    "20": {
+        "reduce_cool": 21,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ]
+        ],
+        "max_level": 200,
+        "open_des": "[ff0000]下一阶：伤害加深总共增加2%[-]",
+        "cost": [
+            [
+                216310111,
+                36
+            ]
+        ],
+        "reward_id": 204020,
+        "add_time": 80
+    },
+    "21": {
+        "reduce_cool": 21,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                200
+            ]
+        ],
+        "max_level": 210,
+        "open_des": "[ff0000]下一阶：变身时长增加到200%[-]",
+        "cost": [
+            [
+                216310111,
+                39
+            ]
+        ],
+        "reward_id": 204021,
+        "add_time": 80
+    },
+    "22": {
+        "reduce_cool": 21,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                200
+            ]
+        ],
+        "max_level": 220,
+        "open_des": "[ff0000]下一阶：伤害加深总共增加4%[-]",
+        "cost": [
+            [
+                216310111,
+                42
+            ]
+        ],
+        "reward_id": 204022,
+        "add_time": 100
+    },
+    "23": {
+        "reduce_cool": 21,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                400
+            ]
+        ],
+        "max_level": 230,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低24%[-]",
+        "cost": [
+            [
+                216310111,
+                45
+            ]
+        ],
+        "reward_id": 204023,
+        "add_time": 100
+    },
+    "19": {
+        "reduce_cool": 18,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ]
+        ],
+        "max_level": 190,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低21%[-]",
+        "cost": [
+            [
+                216310111,
+                33
+            ]
+        ],
+        "reward_id": 204019,
+        "add_time": 80
+    },
+    "18": {
+        "reduce_cool": 18,
+        "attr": [
+            [
+                "reduction_multi",
+                800
+            ]
+        ],
+        "max_level": 180,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加10%[-]",
+        "cost": [
+            [
+                216310111,
+                30
+            ]
+        ],
+        "reward_id": 204018,
+        "add_time": 80
+    },
+    "16": {
+        "reduce_cool": 18,
+        "attr": [
+            [
+                "reduction_multi",
+                700
+            ]
+        ],
+        "max_level": 160,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加8%[-]",
+        "cost": [
+            [
+                216310111,
+                24
+            ]
+        ],
+        "reward_id": 204016,
+        "add_time": 60
+    },
+    "28": {
+        "reduce_cool": 30,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                800
+            ]
+        ],
+        "max_level": 280,
+        "open_des": "[ff0000]下一阶：伤害加深总共增加10%[-]",
+        "cost": [
+            [
+                216310111,
+                60
+            ]
+        ],
+        "reward_id": 204028,
+        "add_time": 100
+    },
+    "29": {
+        "reduce_cool": 30,
+        "attr": [
+            [
+                "reduction_multi",
+                1000
+            ],
+            [
+                "damage_multi",
+                1000
+            ]
+        ],
+        "max_level": 290,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低33%[-]",
+        "cost": [
+            [
+                216310111,
+                63
+            ]
+        ],
+        "reward_id": 204029,
+        "add_time": 100
+    },
+    "1": {
+        "attr": [],
+        "max_level": 10,
+        "open_des": "[ff0000]下一阶：变身时长增加到120%[-]",
+        "cost": [
+            [
+                216310111,
+                1
+            ]
+        ],
+        "name_url": "roleWindow/0041.png",
+        "reward_id": 204001
+    },
+    "3": {
+        "attr": [
+            [
+                "reduction_multi",
+                100
+            ]
+        ],
+        "max_level": 30,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低6%[-]",
+        "cost": [
+            [
+                216310111,
+                2
+            ]
+        ],
+        "name_url": "roleWindow/0043.png",
+        "reward_id": 204003,
+        "add_time": 20
+    },
+    "2": {
+        "attr": [],
+        "max_level": 20,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加1%[-]",
+        "cost": [
+            [
+                216310111,
+                1
+            ]
+        ],
+        "name_url": "roleWindow/0042.png",
+        "reward_id": 204002,
+        "add_time": 20
+    },
+    "5": {
+        "reduce_cool": 6,
+        "attr": [
+            [
+                "reduction_multi",
+                200
+            ]
+        ],
+        "max_level": 50,
+        "open_des": "[ff0000]下一阶：升阶可获得新变身形象：大元帅[-]",
+        "cost": [
+            [
+                216310111,
+                3
+            ]
+        ],
+        "name_url": "roleWindow/0045.png",
+        "reward_id": 204005,
+        "add_time": 20
+    },
+    "4": {
+        "reduce_cool": 6,
+        "attr": [
+            [
+                "reduction_multi",
+                100
+            ]
+        ],
+        "max_level": 40,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加2%[-]",
+        "cost": [
+            [
+                216310111,
+                2
+            ]
+        ],
+        "name_url": "roleWindow/0044.png",
+        "reward_id": 204004,
+        "add_time": 20
+    },
+    "7": {
+        "reduce_cool": 9,
+        "attr": [
+            [
+                "reduction_multi",
+                300
+            ]
+        ],
+        "max_level": 70,
+        "open_des": "[ff0000]下一阶：变身冷却时间降低12%[-]",
+        "cost": [
+            [
+                216310111,
+                5
+            ]
+        ],
+        "reward_id": 204007,
+        "add_time": 20
+    },
+    "6": {
+        "reduce_cool": 9,
+        "attr": [
+            [
+                "reduction_multi",
+                200
+            ]
+        ],
+        "max_level": 60,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加3%[-]",
+        "cost": [
+            [
+                216310111,
+                4
+            ]
+        ],
+        "reward_id": 204006,
+        "add_time": 20
+    },
+    "9": {
+        "reduce_cool": 12,
+        "attr": [
+            [
+                "reduction_multi",
+                400
+            ]
+        ],
+        "max_level": 90,
+        "open_des": "[ff0000]下一阶：变身时长增加到140%[-]",
+        "cost": [
+            [
+                216310111,
+                7
+            ]
+        ],
+        "reward_id": 204009,
+        "add_time": 20
+    },
+    "8": {
+        "reduce_cool": 12,
+        "attr": [
+            [
+                "reduction_multi",
+                300
+            ]
+        ],
+        "max_level": 80,
+        "open_des": "[ff0000]下一阶：伤害减免总共增加4%[-]",
+        "cost": [
+            [
+                216310111,
+                6
+            ]
+        ],
+        "reward_id": 204008,
+        "add_time": 20
+    }
+}

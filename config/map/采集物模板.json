@@ -1,0 +1,21 @@
+/*采集物
+* config/monster/gather.json
+*/
+{
+		/*模式*/
+        "born_type" : "center",
+		/*类型型*/
+        "monster_sort" : 505000005,
+		/*行为树*/
+        "monster_tree" : "bev1001.json",
+		/*数量*/
+        "born_count" :5,
+		/*范围, 单位: 格子*/
+        "born_range" : 4,
+		/*中心点*/
+        "center_coordxy" : [6530,2170],
+		/*标识：不移动*/
+		"flag_set" : ["no_move"],
+		/*死亡时, 无限产生*/
+        "born_times" : "unlimited"
+}

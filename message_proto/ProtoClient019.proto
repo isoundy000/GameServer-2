@@ -1,0 +1,369 @@
+import "ProtoPublic.proto";
+
+message Proto50102006       // 获取限时秒杀活动(返回)
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 left_tick = 2;       // 活动剩余时间
+    optional int32 now_time_point = 3;       // 当前时间点
+    optional int32 limit_end_tick = 4;       // 本轮秒杀剩余时间
+    optional int32 start_tick = 5;       // 下次秒杀开始时间
+    repeated ProtoTimeLimitInfo time_limit_info = 6;       // 每个时间点信息
+    repeated ProtoServerRecord server_record = 7;       // 全服记录
+    optional int32 buy_times = 8;       // 秒杀次数
+    repeated int32 reward_location = 9;       // 已获得奖励的位置
+}
+
+message Proto10102007       // 运营活动物品购买
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 slot_id = 2;       // 格子id
+}
+
+message Proto10102008       // 限时秒杀/幸运砸蛋次数奖励
+{
+    optional int32 location_id = 1;       // 位置id
+    optional int32 activity_id = 2;       // 活动id
+}
+
+message Proto50102008       // 限时秒杀次数奖励(返回)
+{
+    optional int32 location_id = 1;       // 位置id
+    optional int32 activity_id = 2;       // 活动id
+}
+
+message Proto10102011       // 获取藏珍阁活动信息
+{
+    optional int32 activity_id = 1;       // 活动索引
+}
+
+message Proto50102011       // 获取藏珍阁活动信息
+{
+    optional int64 act_left_time = 1;       // 活动剩余时间
+    optional int32 act_refresh_times = 2;       // 全服刷新次数
+    optional int64 refresh_time = 3;       // 下次刷新时间
+    optional int32 refresh_cost = 4;       // 刷新花费
+    repeated ProtoShopInfo item_list = 5;       // 格子物品信息
+    repeated int32 refresh_status_list = 6;       // 次数奖励状态（1不可领 2 可领 3已领）
+    optional int32 activity_id = 7;       // 活动索引
+}
+
+message Proto10102012       // 刷新藏珍阁
+{
+    optional int32 times = 1;       // 刷新次数
+    optional int32 activity_id = 2;       // 活动索引
+}
+
+message Proto50102012       // 刷新藏珍阁（返回）
+{
+    repeated ProtoShopInfo item_list = 1;       // 格子物品信息
+    optional int64 act_left_time = 2;       // 活动剩余时间
+    optional int64 refresh_time = 3;       // 下次刷新时间
+    optional int32 act_refresh_times = 4;       // 全服刷新次数
+    optional int32 refresh_cost = 5;       // 刷新花费
+    optional int32 activity_id = 6;       // 活动索引
+}
+
+message Proto10102013       // 藏珍阁购买
+{
+    optional int32 is_all = 1;       // 是否全部购买
+    optional int32 slot_id = 2;       // 购买格子序号
+    optional int32 activity_id = 3;       // 活动索引
+}
+
+message Proto50102013       // 藏珍阁购买
+{
+    optional int32 status = 1;       // 
+    optional int32 activity_id = 2;       // 活动索引
+}
+
+message Proto10102014       // 藏珍阁次数奖励
+{
+    optional int32 type = 1;       // 类型
+    optional int32 activity_id = 2;       // 活动索引
+}
+
+message Proto50102014       // 藏珍阁次数奖励（返回）
+{
+    optional int32 type = 1;       // 类型
+    optional int32 status = 2;       // 状态
+    optional int32 activity_id = 3;       // 活动索引
+}
+
+message Proto50100215       // 节日活动列表(返回)
+{
+    optional int32 icon_type = 1;       // 类型
+    repeated int32 act_list = 2;       // 活动列表
+}
+
+message Proto11400122       // 角色变性
+{
+    optional int32 index = 1;       // 位置
+}
+
+message Proto81400113       // 物品使用或过期提示
+{
+    optional int32 type = 1;       // 类型
+    repeated ProtoItem item = 2;       // 物品
+    optional ProtoThreeObj other_info = 3;       // 其他信息
+}
+
+message Proto51402601       // 获取时装面板信息(返回)
+{
+    optional int32 level = 1;       // 当前等级
+    optional int32 exp = 2;       // 当前经验
+    repeated ProtoFashionDetail fashion_info = 3;       // 单个时装信息
+    optional int32 fashion_id = 4;       // 当前幻化的时装id
+    optional int32 color_id = 5;       // 当前选择的color_id
+}
+
+message Proto11402602       // 进行时装染色
+{
+    optional int32 fashion_id = 1;       // 时装id
+    optional int32 color_id = 2;       // 染色id
+    optional int32 active_buy = 3;       // 是否自动购买
+}
+
+message Proto51402603       // 进行时装升级(返回)
+{
+    optional int32 level = 1;       // 等级
+    optional int32 exp = 2;       // 经验
+}
+
+message Proto11402605       // 选择时装外观
+{
+    optional int32 fashion_id = 1;       // 选择幻化的时装id
+}
+
+message Proto51402605       // 选择时装外观(返回)
+{
+    optional int32 fashion_id = 1;       // 选择幻化的时装id
+}
+
+message Proto11402606       // 选择时装颜色
+{
+    optional int32 fashion_id = 1;       // 选择幻化的时装id
+    optional int32 sel_color_id = 2;       // 颜色id(0为原色)
+}
+
+message Proto51402606       // 选择时装颜色(返回)
+{
+    optional int32 fashion_id = 1;       // 选择幻化的时装id
+    optional int32 sel_color_id = 2;       // 颜色id(0为原色)
+}
+
+message Proto10101410       // 升级婚戒
+{
+    repeated int32 item_id = 1;       // 物品信息（不用）
+    repeated int32 item_num = 2;       // 物品数量（不用）
+    repeated ProtoItem item_list = 3;       // 物品列表
+}
+
+message Proto10101411       // 升级婚姻系统
+{
+    repeated int32 item_id = 1;       // 物品信息
+    repeated int32 item_num = 2;       // 物品数量
+    repeated ProtoItem item_list = 3;       // 物品
+}
+
+message Proto10101412       // 升级爱情树
+{
+    repeated int32 item_id = 1;       // 物品信息
+    repeated int32 item_num = 2;       // 物品数量
+    repeated ProtoItem item_list = 3;       // 物品
+}
+
+message Proto81402101       // 获得新时装通知
+{
+    optional int32 fashion_id = 1;       // 时装id
+}
+
+message Proto10100420       // 副本组队：回应进入夫妻副本请求
+{
+    optional int32 state = 1;       // 1 接受 0 拒绝
+}
+
+message Proto10101420       // 队长像队友请求结婚
+{
+    optional int32 wedding_type = 1;       // 结婚类型
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+    optional int64 lead_id = 3;       // 请求玩家ID
+    optional string lead_name = 4;       // 请求玩家名字
+    optional int64 teamer_id = 5;       // 队员id
+    optional string teamer_name = 6;       // 队员名字
+}
+
+message Proto10101421       // 队友答复队长结婚请求
+{
+    optional int32 wedding_type = 1;       // 结婚类型
+    optional int32 is_ok = 2;       // 是否同意
+    optional ProtoThreeObj other_info = 3;       // 其他信息
+    optional int64 lead_id = 4;       // 队长ID
+    optional string lead_name = 5;       // 队长名字
+    optional int64 teamer_id = 6;       // 队员id
+    optional string teamer_name = 7;       // 队员名字
+}
+
+message Proto50101421       // 队友答复队长结婚请求（返回）
+{
+    optional int32 wedding_type = 1;       // 结婚类型
+    optional int32 is_ok = 2;       // 是否同意
+    optional ProtoThreeObj other_info = 3;       // 其他信息
+    optional int64 lead_id = 4;       // 队长id
+    optional string lead_name = 5;       // 队长名字
+    optional int64 teamer_id = 6;       // 队员id
+    optional string teamer_name = 7;       // 队员名字
+}
+
+message Proto50101420       // 队长向队友请求结婚（返回）
+{
+    optional int32 wedding_type = 1;       // 结婚类型
+    optional int32 is_ok = 2;       // 是否同意
+    optional ProtoThreeObj other_info = 3;       // 其他信息
+    optional int64 lead_id = 4;       // 队长ID
+    optional string lead_name = 5;       // 队长名字
+    optional int64 teamer_id = 6;       // 队员id
+    optional string teamer_name = 7;       // 队员名字
+}
+
+message Proto80100410       // 夫妻副本：主推夫妻组队信息(主动)
+{
+    optional int32 fb_id = 1;       // 副本id
+    optional int32 team_state = 2;       // 组队状态
+}
+
+message Proto10400941       // 夫妻副本选择钥匙
+{
+    optional int32 select_id = 1;       // 选择的钥匙id
+}
+
+message Proto10101413       // 购买爱情宝匣
+{
+    optional int32 type = 1;       // 购买类型
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto50101413       // 购买爱情宝匣（返回）
+{
+    optional int32 type = 1;       // 购买类型
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto50101414       // 领取爱情宝匣(返回）
+{
+    optional int32 type = 1;       // 1一次性  2每天
+    optional int32 other_info = 2;       // 
+}
+
+message Proto10101414       // 领取爱情宝匣
+{
+    optional int32 type = 1;       // 1一次性  2每天
+    optional int32 other_info = 2;       // 
+}
+
+message Proto10102009       // 我们结婚吧活动面板
+{
+    optional int32 page = 1;       // 页数
+}
+
+message Proto50102009       // 我们结婚吧活动面板(返回)
+{
+    repeated ProtoWeddingRank rank_info = 1;       // 排行榜数据
+    optional ProtoWeddingRank my_rank = 2;       // 我的排行榜信息
+    optional int32 label_get = 3;       // 称号领取情况
+    optional int32 reward_get = 4;       // 排名领取情况
+    optional int32 cur_page = 5;       // 当前页
+    optional int32 total_page = 6;       // 总页数
+    optional int32 left_tick = 7;       // 刷新时间
+    optional int32 couples = 8;       // 结婚数量
+    optional int32 label_reward = 9;       // 称号奖励
+    optional int32 rank_reward = 10;       // 排名奖励
+}
+
+message Proto10102010       // 领取结婚活动奖励
+{
+    optional int32 type = 1;       // 1 领取称号奖励 2 领取排名奖励
+}
+
+message Proto50102010       // 领取结婚活动奖励(返回)
+{
+    optional int32 type = 1;       // 1 领取称号奖励 2 领取排名奖励
+}
+
+message Proto50101415       // 婚姻称号面板（返回）
+{
+    repeated ProtoWedLabel label_list = 1;       // 称号信息列表
+    optional int32 ring_level = 2;       // 戒指等级
+    optional int32 sys_level = 3;       // 姻缘等级
+    optional int32 tree_level = 4;       // 爱情树等级
+    optional ProtoThreeObj other_info = 5;       // 其他信息
+}
+
+message Proto10101416       // 领取婚姻称号
+{
+    optional int32 id = 1;       // 配置id
+    optional int32 label_id = 2;       // 称号id
+}
+
+message Proto50101416       // 领取婚姻称号（返回）
+{
+    optional int32 id = 1;       // 配置id
+    optional int32 label_id = 2;       // 称号id
+    optional int32 status = 3;       // 状态
+}
+
+message Proto50102015       // 获取轮盘活动列表(返回)
+{
+    repeated int32 activity_set = 1;       // 活动id列表
+}
+
+message Proto50102021       // 迷宫寻宝活动信息（返回）
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 left_tick = 2;       // 剩余时间
+    repeated ProtoPersonRecord person_record = 3;       // 个人记录
+    repeated ProtoServerRecord server_record = 4;       // 全服记录
+    repeated ProtoSlotInfo slot_info = 5;       // 格子信息
+    optional int32 now_slot_id = 6;       // 现在到达的格子id
+    optional int32 act_finish_time = 7;       // 全服通关次数
+    optional int32 left_free_times = 8;       // 还需多少次获得免费次数
+    optional int32 free_times = 9;       // 免费次数
+    optional ProtoThreeObj other_info = 10;       // 其他信息
+    optional int32 bless = 11;       // 祝福值进度条
+    optional int32 max_bless = 12;       // 祝福值上限
+    optional int32 one_cost = 13;       // 一次消耗
+    optional int32 total_cost = 14;       // 一键到底消耗
+}
+
+message Proto10102021       // 迷宫寻宝活动信息
+{
+    optional int32 activity_id = 1;       // 活动id
+}
+
+message Proto10102022       // 迷宫寻宝活动寻宝
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 is_total = 2;       // 是否一键到底 1是 0否
+}
+
+message Proto50102022       // 迷宫寻宝活动寻宝（返回）
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 rand_num = 2;       // 随机数字
+    repeated ProtoSlotInfo slot_info = 3;       // 格子信息
+    optional int32 pre_slot_id = 4;       // 之前的格子id
+    optional int32 now_slot_id = 5;       // 现在格子id
+    repeated ProtoPersonRecord record = 6;       // 该次抽奖记录
+    optional ProtoThreeObj other_info = 7;       // 其他信息
+    optional int32 is_total = 8;       // 是否一键到底 1是 0否
+    optional int32 mult = 9;       // 暴击倍数
+    optional int32 bless = 10;       // 获得祝福值
+}
+
+message Proto10102016       // 开启密宗九字格子
+{
+    optional int32 column = 1;       // 列数
+    optional int32 num = 2;       // 第几个
+    optional int32 type = 3;       // 是否全开 1是 0否
+}
+
+

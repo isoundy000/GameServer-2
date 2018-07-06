@@ -1,0 +1,1351 @@
+{
+    "60201": {
+        "priority": 1,
+        "notice": 1,
+        "name": "战骑升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]骑宠[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60203": {
+        "priority": 1,
+        "notice": 1,
+        "name": "神兵升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]魔刃[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60202": {
+        "priority": 1,
+        "notice": 1,
+        "name": "仙羽升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]神翼[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60205": {
+        "priority": 1,
+        "notice": 1,
+        "name": "灵宠升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]仙童[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60204": {
+        "priority": 1,
+        "notice": 1,
+        "name": "法器升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]宝器[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60207": {
+        "priority": 1,
+        "notice": 1,
+        "name": "灵骑升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]仙兽[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60209": {
+        "priority": 1,
+        "notice": 1,
+        "name": "仙翼升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]仙翼[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60208": {
+        "priority": 1,
+        "notice": 1,
+        "name": "灵武升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]仙武[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "70402": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-护盾宝箱",
+        "server_type": 1,
+        "content": "在攻击世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]过程中，[00ff00]{2}[-]人品爆发，护盾宝箱开出了[ff9900]{3}[-]，羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "90005": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派-旗帜升级",
+        "server_type": 2,
+        "content": "帮派旗帜升级为[00ff00]{0}[-]级",
+        "type": [
+            2
+        ]
+    },
+    "135001": {
+        "priority": 4,
+        "notice": 1,
+        "name": "华山论剑——开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]华山论剑[-]已经开始，侠士们，华山之巅，等你来战！[00ff00][url=openWin,Lua_HuaShanWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "135003": {
+        "priority": 4,
+        "notice": 1,
+        "name": "华山论剑——首位登顶",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]力压群雄，成为了本次[ffdf30]华山论剑[-]活动中首位登顶豪侠，让人好生羡慕！[00ff00][url=openWin,Lua_HuaShanWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "135002": {
+        "priority": 4,
+        "notice": 1,
+        "name": "华山论剑——结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]华山论剑[-]已经结束，下次巅峰对决，再接再厉！",
+        "type": [
+            4
+        ]
+    },
+    "135005": {
+        "priority": 1,
+        "notice": 1,
+        "name": "华山论剑-5连斩",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]已经[cc0000]5[-]连斩，[cc0000]无人能挡！[-]",
+        "type": [
+            4
+        ]
+    },
+    "135004": {
+        "priority": 4,
+        "notice": 1,
+        "name": "华山论剑——获得秘宝",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]武功盖世，顺利抢下本轮[ffdf30]华山秘宝[-]，技惊四座，让人叹观止矣！新的秘宝已经刷新，请前往争夺！",
+        "type": [
+            4
+        ]
+    },
+    "135007": {
+        "priority": 1,
+        "notice": 1,
+        "name": "华山论剑-15连斩",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]已经[cc0000]15[-]连斩，[cc0000]勇冠三军！还有谁能战！！[-]",
+        "type": [
+            4
+        ]
+    },
+    "135006": {
+        "priority": 1,
+        "notice": 1,
+        "name": "华山论剑-10连斩",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]已经[cc0000]10[-]连斩，[cc0000]大开杀戒，所向披靡！[-]",
+        "type": [
+            4
+        ]
+    },
+    "135009": {
+        "priority": 1,
+        "notice": 1,
+        "name": "华山论剑-30连斩",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]已经[cc0000]30[-]连斩，[cc0000]天煞孤星，一代杀神，人生真是寂寞如雪！[-]",
+        "type": [
+            4
+        ]
+    },
+    "135008": {
+        "priority": 1,
+        "notice": 1,
+        "name": "华山论剑-20连斩",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]已经[cc0000]20[-]连斩，[cc0000]神挡杀神，佛挡杀佛，所过之处，片甲不留！[-]",
+        "type": [
+            4
+        ]
+    },
+    "90004": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派-升级",
+        "server_type": 2,
+        "content": "帮派升级为[00ff00]{0}[-]级",
+        "type": [
+            2
+        ]
+    },
+    "70508": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-图腾刷新",
+        "server_type": 4,
+        "content": "[cc0000]战场图腾王[-]已经刷新！请各位侠士前往摧毁！",
+        "type": [
+            4
+        ]
+    },
+    "70507": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-30连斩",
+        "server_type": 4,
+        "content": "[00ff00]{0}[-]已[cc0000]{1}[-]连斩，[cc0000]天煞孤星，一代杀神，人生真是寂寞如雪！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70506": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-20连斩",
+        "server_type": 4,
+        "content": "[00ff00]{0}[-]已[cc0000]{1}[-]连斩，[cc0000]神挡杀神，佛挡杀佛，所过之处，片甲不留！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70505": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-15连斩",
+        "server_type": 4,
+        "content": "[00ff00]{0}[-]已[cc0000]{1}[-]连斩，[cc0000]勇冠三军！还有谁能战！！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70504": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-10连斩",
+        "server_type": 4,
+        "content": "[00ff00]{0}[-]已[cc0000]{1}[-]连斩，[cc0000]大开杀戒，所向披靡！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70503": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-5连斩",
+        "server_type": 4,
+        "content": "[00ff00]{0}[-]已[cc0000]{1}[-]连斩，[cc0000]无人能挡！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70502": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-结束",
+        "server_type": 1,
+        "content": "本次活动[ffdf30]玄武战场[-]已结束！",
+        "type": [
+            4
+        ]
+    },
+    "70501": {
+        "priority": 1,
+        "notice": 1,
+        "name": "玄武战场-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]玄武战场[-]已开始，大侠们，为[00ffff]功勋[-]而战！[00ff00][url=sendEvent,S_ENTER_FIELD][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "60210": {
+        "priority": 1,
+        "notice": 1,
+        "name": "灵兽升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]灵兽[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "60211": {
+        "priority": 1,
+        "notice": 1,
+        "name": "元神升阶",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]的[AB00BD]元神[-]升阶到[00ffff]{1}[-]阶，实力碾压群侠，威震天下！",
+        "type": [
+            4
+        ]
+    },
+    "70602": {
+        "priority": 1,
+        "notice": 1,
+        "name": "五倍杀怪-结束",
+        "server_type": 1,
+        "content": "活动[-][ffdf30]五倍杀怪[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70408": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-奖励",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]成功击杀世界首领[cc0000]{1}[-],获得{3},各位大侠再接再厉！",
+        "type": [
+            4
+        ]
+    },
+    "70904": {
+        "priority": 1,
+        "notice": 1,
+        "name": "双倍护送-刷新",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]成功获得[ff9900]{1}[-]青睐，并获得[ff9900]60绑定元宝[-]，一路美人相伴，好生潇洒！[00ff00][url=sendEvent,ESCORT_GOTO_NPC][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "60102": {
+        "priority": 1,
+        "notice": 1,
+        "name": "铸造",
+        "server_type": 1,
+        "content": "物华天宝，龙光射牛，[00ff00]{0}[-]一举将铸造出传说装备[cc0000]{1}[-]，传说降世风云变，霸煌临凡泣八方！",
+        "type": [
+            4
+        ]
+    },
+    "60101": {
+        "priority": 1,
+        "notice": 1,
+        "name": "强化",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]手气惊人，成功将[00ffff]{1}[-]强化至[00ff00]{2}[-]级，让世人瞩目！",
+        "type": [
+            4
+        ]
+    },
+    "70201": {
+        "priority": 1,
+        "notice": 1,
+        "name": "温泉-开始",
+        "server_type": 1,
+        "content": "[ffdf30]温泉活动[-]已经开始，传闻温泉秘境汇聚天地灵气，浸泡温泉可以获取[00ffff]经验[-]奖励，不容错过。[00ff00][url=sendEvent,ENTER_HOTSPRING][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "70202": {
+        "priority": 1,
+        "notice": 1,
+        "name": "温泉-结束",
+        "server_type": 1,
+        "content": "[ffdf30]温泉活动[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70203": {
+        "priority": 1,
+        "notice": 1,
+        "name": "温泉-竞猜",
+        "server_type": 1,
+        "content": "[ffdf30]温泉有奖竞猜[-]已经开始，快来支持你心中的游泳健儿，获取[cc0000]丰厚奖励！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70204": {
+        "priority": 1,
+        "notice": 1,
+        "name": "温泉-赛果",
+        "server_type": 1,
+        "content": "[ffdf30]温泉有奖竞猜[-]已经决出赛果，[00ff00]{0}[-]成为本次游泳冠军。",
+        "type": [
+            4
+        ]
+    },
+    "101008": {
+        "priority": 2,
+        "notice": 1,
+        "name": "运营活动-百倍返利",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]成功购买[ffdf30]百倍返利[-]，立即收获价值[ff9900]8888元宝[-]礼包返利，[ff9900]天之骄子[-]翅膀，大幅提升战力纵横江湖！",
+        "type": [
+            4
+        ]
+    },
+    "101009": {
+        "priority": 2,
+        "notice": 1,
+        "name": "运营活动-投资计划",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]成功参与[ffdf30]投资计划[-]，将连续[ff9900]7天[-]获取丰厚奖励，共返价值[ff9900]8888元宝[-]大礼，提升战力机不可失！",
+        "type": [
+            4
+        ]
+    },
+    "101006": {
+        "priority": 2,
+        "notice": 1,
+        "name": "运营活动-今日首充",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]果然聪明睿智，精打细算，在[ffdf30]今日首充[-]活动中累计充值达[ff9900]{1}元宝[-]，获得丰厚奖励:[ff9900]{2},{3}[-]等,真是羡煞旁人！[00ff00][url=openWin,CHARGEGIFTWINDOW][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "101007": {
+        "priority": 2,
+        "notice": 1,
+        "name": "限时秒杀开启",
+        "server_type": 1,
+        "times": 3,
+        "content": "紧张刺激的[ffdf30]限时秒杀[-]活动即将开启了，赶紧打开限时秒杀界面准备吧！",
+        "type": [
+            4
+        ]
+    },
+    "101004": {
+        "priority": 2,
+        "notice": 1,
+        "name": "运营活动-限时秒杀",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]真是眼捷手快，以迅雷不及掩耳之势，成功秒杀了[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "101005": {
+        "priority": 2,
+        "notice": 0,
+        "name": "运营活动-藏珍阁",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]真是慧眼识珠，在[ffdf30]藏珍阁[-]中掏到了宝贝[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "101002": {
+        "priority": 2,
+        "notice": 0,
+        "name": "运营活动-元宝宝匣",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]在元宝宝匣中获得了[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "101003": {
+        "priority": 2,
+        "notice": 0,
+        "name": "运营活动-进阶宝匣",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]在进阶宝匣中获得了[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "30101": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服副本-获得装备",
+        "server_type": 1,
+        "content": "[cc0000]{0}[-]在挑战跨服副本时人品爆发,竟然获得了极品装备[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "101001": {
+        "priority": 2,
+        "notice": 1,
+        "name": "运营活动-幸运大转盘",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]在幸运大转盘中获得了[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "136004": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决资格赛结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决资格赛[-]已经结束，成功晋级战队，请努力备战淘汰赛！",
+        "type": [
+            4
+        ]
+    },
+    "136005": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决淘汰赛开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决淘汰赛[-]正式开始，狭路相逢勇者胜！",
+        "type": [
+            4
+        ]
+    },
+    "136006": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决淘汰赛结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决资格赛[-]已经结束！[cc0000]{0}[-]战队淘汰中表现出色，成功拿下冠军！",
+        "type": [
+            4
+        ]
+    },
+    "136007": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决资格赛-5连胜",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决资格赛[-]战况激烈，[cc0000]{0}[-]战队已经豪取5连胜，无人能挡，所向披靡！！！",
+        "type": [
+            4
+        ]
+    },
+    "136001": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决报名开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决[-]报名时间正式开始，请众将士尽报名！",
+        "type": [
+            4
+        ]
+    },
+    "136002": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决报名结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决[-]报名时间已经结束！",
+        "type": [
+            4
+        ]
+    },
+    "136003": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决资格赛开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决资格赛[-]正式开始，巅峰竞技等你来战！",
+        "type": [
+            4
+        ]
+    },
+    "70301": {
+        "priority": 1,
+        "notice": 1,
+        "name": "天降宝箱-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]天降宝箱[-]已经开始，[cc0000]大量宝箱[-]被放置于王城，能寻得什么宝物就看侠士手气了。[00ff00][url=sendEvent,BOX_COLLECT_ENTER][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "70302": {
+        "priority": 1,
+        "notice": 1,
+        "name": "天降宝箱-结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]天降宝箱[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "136008": {
+        "priority": 1,
+        "notice": 1,
+        "name": "巅峰对决资格赛-10连胜",
+        "server_type": 1,
+        "content": "活动[ffdf30]巅峰对决资格赛[-]战况激烈，[cc0000]{0}[-]战队已经豪取10连胜，大开杀戒，还有谁能战！！！",
+        "type": [
+            4
+        ]
+    },
+    "136009": {
+        "content": "活动[ffdf30]巅峰对决资格赛[-]战况激烈，[cc0000]{0}[-]战队已经豪取15连胜，神挡杀神，佛挡杀佛，所过之处，片甲不留！！！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决资格赛-15连胜",
+        "server_type": 1
+    },
+    "121001": {
+        "priority": 2,
+        "notice": 1,
+        "name": "迷宫寻宝免费次数",
+        "server_type": 1,
+        "times": 3,
+        "content": "天帝宝库已通关[cc0000]{0}[-]人次，恭喜全服所有大侠获得了[cc0000]1次免费次数[-]",
+        "type": [
+            4
+        ]
+    },
+    "121002": {
+        "priority": 2,
+        "notice": 1,
+        "name": "迷宫寻宝重要物品传闻",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]在天帝宝库活动中运气爆表，抽中了[ff9900]{1}*{2}[-]，一统江湖，指日可待！",
+        "type": [
+            4
+        ]
+    },
+    "140405": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-20%血量",
+        "server_type": 1,
+        "content": "跨服世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]血量已经少于[cc0000]20%[-]，请大家把握机会莫失良机！[00ff00][url=sendEvent,Open_KuaFuBossWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "140404": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-50%血量",
+        "server_type": 1,
+        "content": "跨服世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]血量已经少于[cc0000]50%[-]，请大家把握机会莫失良机！[00ff00][url=sendEvent,Open_KuaFuBossWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "140407": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-红包无帮派",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]在跨服世界首领[cc0000]{1}[-]击杀中伤害第一！",
+        "type": [
+            4
+        ]
+    },
+    "140406": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-红包",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]在跨服世界首领[cc0000]{1}[-]击杀中伤害第一，普降助攻红包，[00ffff]{3}[-]帮派共获奖池[ff9900]{4}[-]绑元，帮派参与人数越多奖池越高。",
+        "type": [
+            4
+        ]
+    },
+    "70601": {
+        "priority": 1,
+        "notice": 1,
+        "name": "五倍杀怪-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]五倍杀怪[-]已经开始，请各位侠士屠戮魑魅魍魉，铺就强者之路。",
+        "type": [
+            4
+        ]
+    },
+    "140403": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-80%血量",
+        "server_type": 1,
+        "content": "跨服世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]血量已经少于[cc0000]80%[-]，请大家把握机会莫失良机！[00ff00][url=sendEvent,Open_KuaFuBossWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "140402": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-护盾宝箱",
+        "server_type": 1,
+        "content": "在攻击跨服世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]过程中，[00ff00]{2}[-]人品爆发，护盾宝箱开出了[ff9900]{3}[-]，羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "140409": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-骰子",
+        "server_type": 1,
+        "content": "各位大侠团结一致,成功击破跨服世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]的护盾,正在进行激烈的摇骰环节,[00ff00][url=sendEvent,Open_KuaFuBossWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "140408": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服世界首领-奖励",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]成功击杀跨服世界首领[cc0000]{1}[-],获得{3},各位大侠再接再厉！",
+        "type": [
+            4
+        ]
+    },
+    "136013": {
+        "content": "活动[ffdf30]巅峰对决淘汰赛[-]战况激烈，[cc0000]{0}[-]战队以[cc0000]{1}[-]的成绩，拿下分区决赛冠军，进入总决赛，让人好生羡慕！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决淘汰赛-分区决赛",
+        "server_type": 1
+    },
+    "136012": {
+        "content": "活动[ffdf30]巅峰对决淘汰赛[-]战况激烈，[cc0000]{0}[-]战队以[cc0000]{1}[-]的成绩，成功晋级4强决赛！让人好生羡慕！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决淘汰赛-4强晋级",
+        "server_type": 1
+    },
+    "136011": {
+        "content": "活动[ffdf30]巅峰对决淘汰赛[-]战况激烈，[cc0000]{0}[-]战队以[cc0000]{1}[-]的成绩，成功晋级8强赛！让人好生羡慕！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决淘汰赛-8强晋级",
+        "server_type": 1
+    },
+    "136010": {
+        "content": "活动[ffdf30]巅峰对决资格赛[-]战况激烈，[cc0000]{0}[-]战队已经豪取20连胜，铁甲战车，所碾之处，血流成河！！！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决资格赛-20连胜",
+        "server_type": 1
+    },
+    "136016": {
+        "content": "恭喜[00ff00]{0}[-]在神秘宝箱中获得了[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ],
+        "name": "神秘宝箱",
+        "server_type": 1
+    },
+    "136015": {
+        "content": "活动[ffdf30]巅峰对决淘汰赛[-]战况激烈，[cc0000]{0}[-]战队以[cc0000]{1}[-]的成绩，拿下总决赛季军！[cc0000]{2}[-]战队表现不俗，拿下第4名！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决淘汰赛-总决赛季军赛",
+        "server_type": 1
+    },
+    "136014": {
+        "content": "活动[ffdf30]巅峰对决淘汰赛[-]战况激烈，[cc0000]{0}[-]战队以[cc0000]{1}[-]的成绩，拿下总决赛冠军！[cc0000]{2}[-]战队表现不俗，拿下亚军！",
+        "type": [
+            4
+        ],
+        "name": "巅峰对决淘汰赛-总决赛冠军",
+        "server_type": 1
+    },
+    "70705": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-盟主",
+        "server_type": 4,
+        "content": "[AB00BD]盟主{0}[-][ffffff]降临，我军士气高昂，激活斗志增加全军[-][cc0000]暴击伤害！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70704": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-状元",
+        "server_type": 4,
+        "content": "[AB00BD]状元{0}[-]降临，我军士气高昂，激活斗志增加全军[cc0000]暴击！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70707": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-敌军首领",
+        "server_type": 4,
+        "content": "[cc0000]注意注意，敌军首领正率领大批部队前往攻城！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70706": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-首领宝箱",
+        "server_type": 4,
+        "content": "[00ff00]{0}[-]勇冠三军，一举歼灭敌军首领[cc0000]{1}[-]，获得首领击杀宝箱一份，请各位大侠再接再厉！",
+        "type": [
+            4
+        ]
+    },
+    "70701": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]守卫京都[-]已经开始，大侠们，守家卫国建功立业，正是此时！[00ff00][url=sendEvent,S_CITY_GUARD_JION][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "70703": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-战神",
+        "server_type": 4,
+        "content": "[AB00BD]战神{0}[-]降临，我军士气高昂，激活斗志增加全军[cc0000]攻击！[-]",
+        "type": [
+            4
+        ]
+    },
+    "70702": {
+        "priority": 1,
+        "notice": 1,
+        "name": "守卫京都-结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]守卫京都[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70902": {
+        "priority": 1,
+        "notice": 1,
+        "name": "双倍护送-结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]双倍护送[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70901": {
+        "priority": 1,
+        "notice": 1,
+        "name": "双倍护送-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]双倍护送[-]已经开始，参与护送美女拿双倍经验噢！[00ff00][url=sendEvent,ESCORT_GOTO_NPC][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "133005": {
+        "priority": 4,
+        "notice": 1,
+        "name": "城池战——复活点变换",
+        "server_type": 4,
+        "content": "[[00ff00]{0}[-]VS[00ff00]{1}[-]]战区[00ff00]{2}[-]帮派成功占领了复活图腾，请[cc0000]{3}[-]帮派加油，把图腾抢回！",
+        "type": [
+            4
+        ]
+    },
+    "133004": {
+        "priority": 4,
+        "notice": 1,
+        "name": "城池战——结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]城池战[-]已经结束了！[00ff00]{0}[-]分别拿下了以下城池：[00ff00]{1}[-]！",
+        "type": [
+            4
+        ]
+    },
+    "133003": {
+        "priority": 4,
+        "notice": 1,
+        "name": "城池战——斩旗",
+        "server_type": 4,
+        "content": "[[00ff00]{0}[-]VS[00ff00]{1}[-]]战区[00ff00]{2}[-]帮派斩获了[00ff00]{3}[-]帮派的帮旗，大获胜利，占领了城池[00ff00]{4}[-][第[00ff00]{5}[-]城]！",
+        "type": [
+            4
+        ]
+    },
+    "133002": {
+        "priority": 4,
+        "notice": 1,
+        "name": "城池战——摧毁战塔",
+        "server_type": 4,
+        "content": "[[00ff00]{0}[-]VS[00ff00]{1}[-]]战区[00ff00]{2}[-]帮派摧毁了[00ff00]{3}[-]帮派[cc0000]{4}[-]个防御塔（总计拥有6个防御塔）,[cc0000]军需官处的器械进行了升级,[-][00ff00]{5}[-]帮会离胜利更近了！",
+        "type": [
+            4
+        ]
+    },
+    "133001": {
+        "priority": 4,
+        "notice": 1,
+        "name": "城池战——开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]城池战[-]已经开始，大侠们，为了帮派而战！[00ff00][url=openWin,Lua_TerritoryFightWindow][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "111010": {
+        "priority": 9,
+        "notice": 1,
+        "name": "时装宝箱传闻",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]在时装宝箱中获得了[ff9900]时装-{1}[-]，穿出自信，迈向成功！风随心向，赶快时尚！",
+        "type": [
+            4
+        ]
+    },
+    "70406": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-红包",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]在世界首领[cc0000]{1}[-]击杀中伤害第一，普降助攻红包，[00ffff]{3}[-]帮派共获奖池[ff9900]{4}[-]绑元，帮派参与人数越多奖池越高。",
+        "type": [
+            4
+        ]
+    },
+    "70407": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-红包无帮派",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]在世界首领[cc0000]{1}[-]击杀中伤害第一！",
+        "type": [
+            4
+        ]
+    },
+    "70404": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-50%血量",
+        "server_type": 1,
+        "content": "世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]血量已经少于[cc0000]50%[-]，请大家把握机会莫失良机！[00ff00][url=sendEvent,OPEN_WORLDBOSS][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "70405": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-20%血量",
+        "server_type": 1,
+        "content": "世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]血量已经少于[cc0000]20%[-]，请大家把握机会莫失良机！[00ff00][url=sendEvent,OPEN_WORLDBOSS][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "90008": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派首领-结束",
+        "server_type": 2,
+        "content": "活动[ffdf30]帮派首领[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70403": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-80%血量",
+        "server_type": 1,
+        "content": "世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]血量已经少于[cc0000]80%[-]，请大家把握机会莫失良机！[00ff00][url=sendEvent,OPEN_WORLDBOSS][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "70401": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]世界首领[-]已经开始，所有首领已刷新，请前往击杀！[00ff00][url=sendEvent,OPEN_WORLDBOSS][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "134002": {
+        "priority": 4,
+        "notice": 1,
+        "name": "常胜将军传闻",
+        "server_type": 1,
+        "content": "将军金甲夜不脱，半夜军行戈相拨，风头如刀面如割。[00ff00]{0}[-]已获得[cc0000]常胜将军变身[-]，百将百胜，指日可待！",
+        "type": [
+            4
+        ]
+    },
+    "134003": {
+        "priority": 4,
+        "notice": 1,
+        "name": "斗战胜佛传闻",
+        "server_type": 1,
+        "content": "战鬼神，佛缘斗中生，断魔归本合元神。[00ff00]{0}[-]已获得[cc0000]斗战胜佛变身[-]，威名齐天永圣传！",
+        "type": [
+            4
+        ]
+    },
+    "90006": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派首领-开始",
+        "server_type": 2,
+        "content": "活动[ffdf30]帮派首领[-]已经开始，请大家回驻地准备。[00ff00][url=sendEvent,S_FACTION_BOSS_ENTER][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "134001": {
+        "priority": 4,
+        "notice": 1,
+        "name": "赵云传闻",
+        "server_type": 1,
+        "content": "昔日战长阪,威风犹未减。突阵显英雄,被围施勇敢。鬼哭与神嚎,天惊并地惨。常山赵子龙,一身都是胆。[00ff00]{0}[-]已获得[cc0000]武神临凡变身[-]！",
+        "type": [
+            4
+        ]
+    },
+    "90001": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派-加入",
+        "server_type": 2,
+        "content": "热烈欢迎[00ff00]{0}[-]加入了帮派，我们的大家庭更加热闹了！",
+        "type": [
+            2
+        ]
+    },
+    "90002": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派-离开",
+        "server_type": 2,
+        "content": "月有圆缺，聚散有常，很遗憾，[00ff00]{0}[-]离开了帮派。",
+        "type": [
+            2
+        ]
+    },
+    "90003": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派-换帮主",
+        "server_type": 2,
+        "content": "恭喜[00ff00]{0}[-]成为了[ff9900]新帮主。[-]",
+        "type": [
+            2
+        ]
+    },
+    "80101": {
+        "priority": 1,
+        "notice": 1,
+        "name": "江湖榜首",
+        "server_type": 1,
+        "content": "刀光剑影，一番大战！[00ff00]{0}[-]击败了[00ff00]{1}[-]，一举登上江湖榜[cc0000]首席宝座！[-]",
+        "type": [
+            4
+        ]
+    },
+    "134004": {
+        "priority": 4,
+        "notice": 1,
+        "name": "关云长传闻",
+        "server_type": 1,
+        "content": "一骑绝尘走千里，五关斩将震坤乾。[00ff00]{0}[-]已获得[cc0000]汉寿亭侯变身[-]，偃月青龙刀刃寒！",
+        "type": [
+            4
+        ]
+    },
+    "111003": {
+        "priority": 3,
+        "notice": 1,
+        "name": "喜庆婚礼",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]和[00ff00]{1}[-]举办了[AB00BD]喜庆婚礼[-]，欢天喜地，举成庆贺，全服豪侠祝新人永结同心，百年好合！",
+        "type": [
+            4
+        ]
+    },
+    "111002": {
+        "priority": 2,
+        "notice": 1,
+        "name": "温馨婚礼",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]和[00ff00]{1}[-]举办了[0066ff]温馨婚礼[-]，温情四溢，洋溢京都，全服豪侠祝新人幸福安康，白头偕老！",
+        "type": [
+            4
+        ]
+    },
+    "111001": {
+        "priority": 2,
+        "notice": 1,
+        "name": "送花",
+        "server_type": 1,
+        "content": "鲜花唯赠有心人！[00ff00]{0}[-]向[00ff00]{1}[-]赠送[ff9900]{2}*{3}[-]朵以表心意，一束香花在手，心中情谊长久！[00ff00][url=openWin,SendFlowerWindow][我也要送花][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "111004": {
+        "priority": 4,
+        "notice": 1,
+        "name": "豪华婚礼",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]和[00ff00]{1}[-]举办了[ffdf30]豪华婚礼[-]，十年修得同船渡，百年修的共枕缘，全服豪侠祝新人幸福美满，共谐连理！",
+        "type": [
+            4
+        ]
+    },
+    "70409": {
+        "priority": 1,
+        "notice": 1,
+        "name": "世界首领-骰子",
+        "server_type": 1,
+        "content": "各位大侠团结一致,成功击破世界首领[cc0000]{0}[-][[00ff00]{1}[-]级]的护盾,正在进行激烈的摇骰环节,[00ff00][url=sendEvent,OPEN_WORLDBOSS][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "90007": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派首领-召唤",
+        "server_type": 2,
+        "content": "[cc0000]帮派首领[-]已被召唤，请大家回驻地消灭首领。[00ff00][url=sendEvent,S_FACTION_BOSS_ENTER][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "70905": {
+        "priority": 1,
+        "notice": 1,
+        "name": "双倍护送-求助",
+        "server_type": 2,
+        "content": "[00ff00]{0}[-]正在护送美人[ff9900]{1}[-]，路上可能有宵小劫道，正需要大侠出手你出手相助！[00ff00][url=sendEvent,ESCORT_GOTO_NPC][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "134005": {
+        "priority": 4,
+        "notice": 1,
+        "name": "魔·吕布传闻",
+        "server_type": 1,
+        "content": "良驹赤兔添虎翼，方天画戟丧敌胆！[00ff00]{0}[-]已获得[cc0000]魔神降世变身[-]，人中吕布！",
+        "type": [
+            4
+        ]
+    },
+    "70802": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服竞技-结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]跨服竞技[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70801": {
+        "priority": 1,
+        "notice": 1,
+        "name": "跨服竞技-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]跨服竞技[-]已经开始，是时候一展身手，和江湖上的高手过招了！[00ff00][url=sendEvent,OPEN_ATHLETICS_WINDOW][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "131001": {
+        "priority": 4,
+        "notice": 0,
+        "name": "市场吆喝",
+        "server_type": 1,
+        "content": "出售{0} , 数量[00ff00]{1}[-]个 , 元宝价格 : [00ff00]{2}[-]。 [00ff00][url=openWin,MarketWindow][立即前往][/url][-]",
+        "type": [
+            1
+        ]
+    },
+    "90105": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派争霸-结束",
+        "server_type": 1,
+        "content": "活动[ffdf30]帮派争霸[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "90104": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派争霸-开始",
+        "server_type": 1,
+        "content": "活动[ffdf30]帮派争霸[-]已经开始，大侠们，为了帮派而战！[00ff00][url=sendEvent,S_ENTER_CRAFT][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "90101": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派争霸-击杀镇守大将",
+        "server_type": 4,
+        "content": "活动第[00ff00]{0}[-]战区[00ff00]{1}[-]帮派击杀了镇守大将，镇守大将携手[00ff00]{2}[-]帮派成为新的守方！",
+        "type": [
+            4
+        ]
+    },
+    "90103": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派争霸-镇守成功积分",
+        "server_type": 4,
+        "content": "恭喜[00ff00]{0}[-]帮派最终守住了镇守大将，一次性获得[ff9900]1000帮派积分![-]",
+        "type": [
+            4
+        ]
+    },
+    "90102": {
+        "priority": 1,
+        "notice": 1,
+        "name": "帮派争霸-胜利",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]帮派获得了本次帮派争霸的最终胜利！",
+        "type": [
+            4
+        ]
+    },
+    "70903": {
+        "priority": 1,
+        "notice": 1,
+        "name": "双倍护送-刷新",
+        "server_type": 1,
+        "content": "北方有佳人，绝世而独立！[00ff00]{0}[-]成功获得[ff9900]{1}[-]青睐，并获得[ff9900]60绑定元宝[-]，一路美人相伴，好生逍遥！[00ff00][url=sendEvent,ESCORT_GOTO_NPC][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    },
+    "132001": {
+        "priority": 4,
+        "notice": 1,
+        "name": "马面来袭",
+        "server_type": 1,
+        "times": 3,
+        "content": "阴气沉沉，时辰已到。牛头马面从阴间袭来，请战士们做好战斗准备！[00ff00][url=sendEvent,S_FESTIVAL_BOSS][立即前往][-]",
+        "type": [
+            4
+        ]
+    },
+    "132002": {
+        "priority": 10,
+        "notice": 1,
+        "name": "红包派送",
+        "server_type": 1,
+        "times": 3,
+        "content": "五一活动[ffdf30]红包派送[-]已经开始，赶紧过来抢拼手气红包吧！",
+        "type": [
+            4
+        ]
+    },
+    "132003": {
+        "priority": 8,
+        "notice": 1,
+        "name": "手气最佳",
+        "server_type": 1,
+        "content": "恭喜[cc0000]{0}[-]在抢红包过程中，人品爆发，抢到了[ff9c00]{1}[-]绑定元宝，获得本轮手气最佳！",
+        "type": [
+            4
+        ]
+    },
+    "132004": {
+        "priority": 6,
+        "notice": 0,
+        "name": "夫妻同心",
+        "server_type": 1,
+        "content": "恭喜[e010ff]{0}[-]和[e010ff]{1}[-]在夫妻活动中获得天长地久礼盒，共同完成爱的见证！",
+        "type": [
+            4
+        ]
+    },
+    "132005": {
+        "priority": 9,
+        "notice": 1,
+        "name": "绝版时装",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]在绝版时装活动中获得了[ff9900]{1}[-]，真是羡煞旁人！",
+        "type": [
+            4
+        ]
+    },
+    "132006": {
+        "priority": 8,
+        "notice": 1,
+        "name": "天天跑酷-宝箱",
+        "server_type": 1,
+        "content": "恭喜[00ff00]{0}[-]在天天跑酷活动中到达了[ff9c00]{1}[-]M，继续前行，不要放弃，终点就在前方！",
+        "type": [
+            4
+        ]
+    },
+    "132007": {
+        "priority": 9,
+        "notice": 1,
+        "name": "天天跑酷-终点",
+        "server_type": 1,
+        "times": 3,
+        "content": "[00ff00]{0}[-]坚持着永不放弃的理念，完成最后冲刺，到达终点，获得称号[ff9c00]酷步达人[-]！",
+        "type": [
+            4
+        ]
+    },
+    "70103": {
+        "priority": 1,
+        "notice": 1,
+        "name": "武林问答-状元",
+        "server_type": 1,
+        "content": "[00ff00]{0}[-]在武林问答活动中的积分本服排名最高，获得[cc0000]状元[-]称号！",
+        "type": [
+            4
+        ]
+    },
+    "70102": {
+        "priority": 1,
+        "notice": 1,
+        "name": "武林问答-结束",
+        "server_type": 1,
+        "content": "[ffdf30]武林问答活动[-]已经结束。",
+        "type": [
+            4
+        ]
+    },
+    "70101": {
+        "priority": 1,
+        "notice": 1,
+        "name": "武林问答-开始",
+        "server_type": 1,
+        "content": "[ffdf30]武林问答活动[-]已经开始，请各位侠士一展才华，斩获[cc0000]状元[-]称号！[00ff00][url=sendEvent,ENTER_ANSWER][立即前往][/url][-]",
+        "type": [
+            4
+        ]
+    }
+}

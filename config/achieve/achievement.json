@@ -1,0 +1,1170 @@
+{
+    "achieve_type" : [101000,102000,103000,104000,107000,108000,109000,110000,111000,112000,113000,114000,115000,116000,118000],
+    "show_prop_name" : "health",
+    "show_prop_amount" : 75000,
+    "show_prop_type" : 2001,
+    "10100" : 1,
+    "10200" : 1,
+    "10300" : 1,
+    "10400" : 1,
+    "10500" : 1,
+    "10600" : 1,
+    "10700" : 1,
+    "10800" : 1,
+    "101000" : {
+        "name" : "铜钱",
+        "icon" : "1",
+        "detail" : [{
+            "index" : 101001,
+            "name" : "第一桶金",
+            "target" : {
+                "desc" : "累计消费{0}/{1}绑定铜钱",
+                "type" : ["bind_copper"],
+                "amount" : [1000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 101002,
+            "name" : "小有积蓄",
+            "target" : {
+                "desc" : "累计消费{0}/{1}绑定铜钱",
+                "type" : ["bind_copper"],
+                "amount" : [10000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 101003,
+            "name" : "腰缠万贯",
+            "target" : {
+                "desc" : "累计消费{0}/{1}绑定铜钱",
+                "type" : ["bind_copper"],
+                "amount" : [50000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000006
+            }]
+        },
+        {
+            "index" : 101004,
+            "name" : "富甲一方",
+            "target" : {
+                "desc" : "累计消费{0}/{1}绑定铜钱",
+                "type" : ["bind_copper"],
+                "amount" : [200000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 101005,
+            "name" : "富可敌国",
+            "target" : {
+                "desc" : "累计消费{0}/{1}绑定铜钱",
+                "type" : ["bind_copper"],
+                "amount" : [1000000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "102000" : {
+        "name" : "道行",
+        "icon" : "2",
+        "detail" : [{
+            "index" : 102001,
+            "name" : "炼精化气",
+            "target" : {
+                "desc" : "等级达到{0}/{1}",
+                "type" : ["level"],
+                "amount" : [40]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 102002,
+            "name" : "化气凝神",
+            "target" : {
+                "desc" : "等级达到{0}/{1}",
+                "type" : ["level"],
+                "amount" : [1050]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000007
+            }]
+        },
+        {
+            "index" : 102003,
+            "name" : "凝神还虚",
+            "target" : {
+                "desc" : "等级达到{0}/{1}",
+                "type" : ["level"],
+                "amount" : [4065]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 102004,
+            "name" : "炼虚合道",
+            "target" : {
+                "desc" : "等级达到{0}/{1}",
+                "type" : ["level"],
+                "amount" : [7080]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 102005,
+            "name" : "合道归一",
+            "target" : {
+                "desc" : "等级达到{0}/{1}",
+                "type" : ["level"],
+                "amount" : [11100]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "103000" : {
+        "name" : "修为",
+        "icon" : "2",
+        "detail" : [{
+            "index" : 103001,
+            "name" : "肉骨凡胎",
+            "target" : {
+                "desc" : "达到{0}/{1}战力",
+                "type" : ["fight_force"],
+                "amount" : [6000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000008
+            }]
+        },
+        {
+            "index" : 103002,
+            "name" : "洗筋伐髓",
+            "target" : {
+                "desc" : "达到{0}/{1}战力",
+                "type" : ["fight_force"],
+                "amount" : [30000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 103003,
+            "name" : "外神内丹",
+            "target" : {
+                "desc" : "达到{0}/{1}战力",
+                "type" : ["fight_force"],
+                "amount" : [90000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 103004,
+            "name" : "历劫不灭",
+            "target" : {
+                "desc" : "达到{0}/{1}战力",
+                "type" : ["fight_force"],
+                "amount" : [180000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 103005,
+            "name" : "天人合一",
+            "target" : {
+                "desc" : "达到{0}/{1}战力",
+                "type" : ["fight_force"],
+                "amount" : [300000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "104000" : {
+        "name" : "术法",
+        "icon" : "4",
+        "detail" : [{
+            "index" : 104001,
+            "name" : "初窥门径",
+            "target" : {
+                "desc" : "{0}/{1}个技能升到5级以上",
+                "type" : ["skill"],
+                "amount" : [1,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 104002,
+            "name" : "登堂入室",
+            "target" : {
+                "desc" : "{0}/{1}个技能升到10级以上",
+                "type" : ["skill"],
+                "amount" : [2,10]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 104003,
+            "name" : "触类旁通",
+            "target" : {
+               "desc" : "{0}/{1}个技能升到20级以上",
+                "type" : ["skill"],
+                "amount" : [3,20]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000009
+            }]
+        },
+        {
+            "index" : 104004,
+            "name" : "收放自如",
+            "target" : {
+               "desc" : "{0}/{1}个技能升到30级以上",
+                "type" : ["skill"],
+                "amount" : [4,30]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 104005,
+            "name" : "万法皆通",
+            "target" : {
+               "desc" : "{0}/{1}个技能升到40级以上",
+                "type" : ["skill"],
+                "amount" : [6,40]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "107000" : {
+        "name" : "强化",
+        "icon" : "7",
+        "detail" : [{
+            "index" : 107001,
+            "name" : "初次强化",
+            "target" : {
+                "desc" : "{0}/{1}件装备强化+8",
+                "type" : ["refine"],
+                "amount" : [1,8]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 107002,
+            "name" : "不断变强",
+            "target" : {
+                "desc" : "{0}/{1}件装备强化+12",
+                "type" : ["refine"],
+                "amount" : [2,12]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 107003,
+            "name" : "停不下来",
+            "target" : {
+                "desc" : "{0}/{1}件装备强化+16",
+                "type" : ["refine"],
+                "amount" : [5,16]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000012
+            }]
+        },
+        {
+            "index" : 107004,
+            "name" : "强化狂魔",
+            "target" : {
+                "desc" : "{0}/{1}件装备强化+20",
+                "type" : ["refine"],
+                "amount" : [8,20]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 107005,
+            "name" : "强化之神",
+            "target" : {
+                "desc" : "{0}/{1}件装备强化+24",
+                "type" : ["refine"],
+                "amount" : [12,24]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "108000" : {
+        "name" : "淬炼",
+        "icon" : "8",
+        "detail" : [{
+            "index" : 108001,
+            "name" : "青铜圣衣",
+            "target" : {
+                "desc" : "全身{0}/{1}件装备升到30级以上",
+                "type" : ["uprising"],
+                "amount" : [12,30]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 108002,
+            "name" : "白银圣衣",
+            "target" : {
+                "desc" : "全身{0}/{1}件装备升到40级以上",
+                "type" : ["uprising"],
+                "amount" : [12,40]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000013
+            }]
+        },
+        {
+            "index" : 108003,
+            "name" : "黄金圣衣",
+            "target" : {
+                "desc" : "全身{0}/{1}件装备升到60级以上",
+                "type" : ["uprising"],
+                "amount" : [12,60]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 108004,
+            "name" : "铂金圣衣",
+            "target" : {
+                "desc" : "全身{0}/{1}件装备升到80级以上",
+                "type" : ["uprising"],
+                "amount" : [12,80]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 108005,
+            "name" : "神曜圣衣",
+            "target" : {
+                "desc" : "全身{0}/{1}件装备升到100级以上",
+                "type" : ["uprising"],
+                "amount" : [12,100]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "109000" : {
+        "name" : "宝石",
+        "icon" : "9",
+        "detail" : [{
+            "index" : 109001,
+            "name" : "莹烛之光",
+            "target" : {
+                "desc" : "身上镶嵌{0}/{1}个3级以上宝石",
+                "type" : ["seven_shine"],
+                "amount" : [1,3]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 109002,
+            "name" : "浮翠流丹",
+            "target" : {
+                "desc" : "身上镶嵌{0}/{1}个4级以上宝石",
+                "type" : ["seven_shine"],
+                "amount" : [12,4]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 109003,
+            "name" : "光彩夺目",
+            "target" : {
+                "desc" : "身上镶嵌{0}/{1}个5级以上宝石",
+                "type" : ["seven_shine"],
+                "amount" : [24,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000014
+            }]
+        },
+        {
+            "index" : 109004,
+            "name" : "五光十色",
+            "target" : {
+                "desc" : "身上镶嵌{0}/{1}个7级以上宝石",
+                "type" : ["seven_shine"],
+                "amount" : [36,7]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 109005,
+            "name" : "空曜七彩",
+            "target" : {
+                "desc" : "身上镶嵌{0}/{1}个9级以上宝石",
+                "type" : ["seven_shine"],
+                "amount" : [48,9]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "110000" : {
+        "name" : "洗练",
+        "icon" : "10",
+        "detail" : [{
+            "index" : 110001,
+            "name" : "神兵初现",
+            "target" : {
+                "desc" : "身上装备获得{0}/{1}条橙色以上的属性",
+                "type" : ["magical_polish"],
+                "amount" : [1,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 110002,
+            "name" : "神兵之威",
+            "target" : {
+                "desc" : "身上装备获得{0}/{1}条橙色以上的属性",
+                "type" : ["magical_polish"],
+                "amount" : [6,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000015
+            }]
+        },
+        {
+            "index" : 110003,
+            "name" : "最强神兵",
+            "target" : {
+                "desc" : "身上装备获得{0}/{1}条橙色以上的属性",
+                "type" : ["magical_polish"],
+                "amount" : [12,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 110004,
+            "name" : "真·神兵",
+            "target" : {
+                "desc" : "身上装备获得{0}/{1}条橙色以上的属性",
+                "type" : ["magical_polish"],
+                "amount" : [24,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 110005,
+            "name" : "超·神兵",
+            "target" : {
+                "desc" : "身上装备获得{0}/{1}条橙色以上的属性",
+                "type" : ["magical_polish"],
+                "amount" : [48,5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "111000" : {
+        "name" : "宠物成长",
+        "icon" : "11",
+        "detail" : [{
+            "index" : 111001,
+            "name" : "山野之精",
+            "target" : {
+                "desc" : "{0}/{1}个宠物达到10成长",
+                "type" : ["pet_growth"],
+                "amount" : [1,10]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 111002,
+            "name" : "莽荒凶兽",
+            "target" : {
+                "desc" : "{0}/{1}个宠物达到50成长",
+                "type" : ["pet_growth"],
+                "amount" : [1,50]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000016
+            }]
+        },
+        {
+            "index" : 111003,
+            "name" : "盘古巨妖",
+            "target" : {
+                "desc" : "{0}/{1}个宠物达到100成长",
+                "type" : ["pet_growth"],
+                "amount" : [1,100]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 111004,
+            "name" : "开天之灵",
+            "target" : {
+                "desc" : "{0}/{1}个宠物达到200成长",
+                "type" : ["pet_growth"],
+                "amount" : [1,200]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "112000" : {
+        "name" : "宠物炼魂",
+        "icon" : "12",
+        "detail" : [{
+            "index" : 112001,
+            "name" : "朱雀之魅",
+            "target" : {
+                "desc" : "{0}/{1}个宠物1个魂达到绿色1级",
+                "type" : ["pet_lianhun"],
+                "amount" : [1,1,1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000023
+            }]
+        },
+        {
+            "index" : 112002,
+            "name" : "白虎之灵",
+            "target" : {
+                "desc" : "{0}/{1}个宠物1个魂达到蓝色1级",
+                "type" : ["pet_lianhun"],
+                "amount" : [1,1,9]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 112003,
+            "name" : "玄武之魄",
+            "target" : {
+                "desc" : "{0}/{1}个宠物2个魂全部达到紫色1级",
+                "type" : ["pet_lianhun"],
+                "amount" : [1,2,17]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 112004,
+            "name" : "青龙之魂",
+            "target" : {
+                "desc" : "{0}/{1}个宠物2个魂全部达到紫色8级",
+                "type" : ["pet_lianhun"],
+                "amount" : [1,2,24]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 112005,
+            "name" : "麒麟之神",
+            "target" : {
+                "desc" : "{0}/{1}个宠物3个魂全部达到橙色8级",
+                "type" : ["pet_lianhun"],
+                "amount" : [1,3,32]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "113000" : {
+        "name" : "宠物资质",
+        "icon" : "13",
+        "detail" : [{
+            "index" : 113001,
+            "name" : "聊胜于无",
+            "target" : {
+                "desc" : "{0}/{1}个宠物资质达到30以上",
+                "type" : ["pet_skill"],
+                "amount" : [1,30]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 113002,
+            "name" : "得力助手",
+            "target" : {
+                "desc" : "{0}/{1}个宠物资质达到40以上",
+                "type" : ["pet_skill"],
+                "amount" : [1,40]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 113003,
+            "name" : "左膀右臂",
+            "target" : {
+                "desc" : "{0}/{1}个宠物资质达到60以上",
+                "type" : ["pet_skill"],
+                "amount" : [1,60]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000017
+            }]
+        },
+        {
+            "index" : 113004,
+            "name" : "独当一面",
+            "target" : {
+                "desc" : "{0}/{1}个宠物资质达到80以上",
+                "type" : ["pet_skill"],
+                "amount" : [1,80]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 113005,
+            "name" : "不可或缺",
+            "target" : {
+                "desc" : "{0}/{1}个宠物资质达到100",
+                "type" : ["pet_skill"],
+                "amount" : [1,100]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "114000" : {
+        "name" : "坐骑",
+        "icon" : "14",
+        "detail" : [{
+            "index" : 114001,
+            "name" : "风驰电掣",
+            "target" : {
+                "desc" : "坐骑达到{0}阶{1}级/2阶1级",
+                "type" : ["mount"],
+                "amount" : [2,1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 114002,
+            "name" : "踏雪无痕",
+            "target" : {
+                "desc" : "坐骑达到{0}阶{1}级/4阶1级",
+                "type" : ["mount"],
+                "amount" : [4,1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 114003,
+            "name" : "浮光掠影",
+            "target" : {
+                "desc" : "坐骑达到{0}阶{1}级/6阶1级",
+                "type" : ["mount"],
+                "amount" : [6,1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000018
+            }]
+        },
+        {
+            "index" : 114004,
+            "name" : "疾若流星",
+            "target" : {
+                "desc" : "坐骑达到{0}阶{1}级/8阶1级",
+                "type" : ["mount"],
+                "amount" : [8,1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 114005,
+            "name" : "追星逐月",
+            "target" : {
+                "desc" : "坐骑达到{0}阶{1}级/10阶1级",
+                "type" : ["mount"],
+                "amount" : [10,1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "115000" : {
+        "name" : "副本",
+        "icon" : "15",
+        "detail" : [{
+            "index" : 115001,
+            "name" : "初试锋芒",
+            "target" : {
+                "desc" : "通关任意副本{0}/{1}次",
+                "type" : ["fb"],
+                "amount" : [10]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 115002,
+            "name" : "斩妖除魔",
+            "target" : {
+                "desc" : "通关任意副本{0}/{1}次",
+                "type" : ["fb"],
+                "amount" : [100]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 115003,
+            "name" : "妖邪克星",
+            "target" : {
+                "desc" : "通关任意副本{0}/{1}次",
+                "type" : ["fb"],
+                "amount" : [500]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000019
+            }]
+        },
+        {
+            "index" : 115004,
+            "name" : "除魔卫道",
+            "target" : {
+                "desc" : "通关任意副本{0}/{1}次",
+                "type" : ["fb"],
+                "amount" : [2000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 115005,
+            "name" : "替天行道",
+            "target" : {
+                "desc" : "通关任意副本{0}/{1}次",
+                "type" : ["fb"],
+                "amount" : [10000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "116000" : {
+        "name" : "仙盟",
+        "icon" : "16",
+        "detail" : [{
+            "index" : 116001,
+            "name" : "脱颖而出",
+            "target" : {
+                "desc" : "累积捐献帮贡{0}/{1}点",
+                "type" : ["league_contribute"],
+                "amount" : [10000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 116002,
+            "name" : "仙盟栋梁",
+            "target" : {
+                "desc" : "累积捐献帮贡{0}/{1}点",
+                "type" : ["league_contribute"],
+                "amount" : [100000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000020
+            }]
+        },
+        {
+            "index" : 116003,
+            "name" : "功不可没",
+            "target" : {
+                "desc" : "累积捐献帮贡{0}/{1}点",
+                "type" : ["league_contribute"],
+                "amount" : [500000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 116004,
+            "name" : "傲视仙盟",
+            "target" : {
+                "desc" : "累积捐献帮贡{0}/{1}点",
+                "type" : ["league_contribute"],
+                "amount" : [2000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 116005,
+            "name" : "号令天下",
+            "target" : {
+                "desc" : "累积捐献帮贡{0}/{1}点",	
+                "type" : ["league_contribute"],
+                "amount" : [10000000]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    },
+    "118000" : {
+        "name" : "时装",
+        "icon" : "18",
+        "detail" : [{
+            "index" : 118001,
+            "name" : "摩登初上",
+            "target" : {
+                "desc" : "拥有{0}/{1}件任意部位的永久时装",
+                "type" : ["league_contribute"],
+                "amount" : [1]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 118002,
+            "name" : "品味独特",
+            "target" : {
+                "desc" : "拥有{0}/{1}件任意部位的永久时装",
+                "type" : ["league_contribute"],
+                "amount" : [3]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            },
+			{
+                "kind" : "label",
+                "type" : 1000022
+            }]
+        },
+        {
+            "index" : 118003,
+            "name" : "街头风景",
+            "target" : {
+                "desc" : "拥有{0}/{1}件任意部位的永久时装",
+                "type" : ["league_contribute"],
+                "amount" : [5]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 118004,
+            "name" : "时尚达人",
+            "target" : {
+                "desc" : "拥有{0}/{1}件任意部位的永久时装",
+                "type" : ["league_contribute"],
+                "amount" : [8]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        },
+        {
+            "index" : 118005,
+            "name" : "我是潮流",
+            "target" : {
+                "desc" : "拥有{0}/{1}件任意部位的永久时装",
+                "type" : ["league_contribute"],
+                "amount" : [15]
+            },
+            "award" : [{
+                "kind" : "property",
+                "type" : "health",
+                "amount" : 1000
+            }]
+        }]
+    }
+}

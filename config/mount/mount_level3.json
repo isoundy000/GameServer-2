@@ -1,0 +1,782 @@
+{
+    "130": {
+        "attack": 260,
+        "defence": 130,
+        "health": 2600,
+        "name": "法器130级"
+    },
+    "41": {
+        "attack": 82,
+        "defence": 41,
+        "health": 820,
+        "name": "法器41级"
+    },
+    "24": {
+        "attack": 48,
+        "defence": 24,
+        "health": 480,
+        "name": "法器24级"
+    },
+    "25": {
+        "attack": 50,
+        "defence": 25,
+        "health": 500,
+        "name": "法器25级"
+    },
+    "26": {
+        "attack": 52,
+        "defence": 26,
+        "health": 520,
+        "name": "法器26级"
+    },
+    "27": {
+        "attack": 54,
+        "defence": 27,
+        "health": 540,
+        "name": "法器27级"
+    },
+    "20": {
+        "attack": 40,
+        "defence": 20,
+        "health": 400,
+        "name": "法器20级"
+    },
+    "21": {
+        "attack": 42,
+        "defence": 21,
+        "health": 420,
+        "name": "法器21级"
+    },
+    "22": {
+        "attack": 44,
+        "defence": 22,
+        "health": 440,
+        "name": "法器22级"
+    },
+    "23": {
+        "attack": 46,
+        "defence": 23,
+        "health": 460,
+        "name": "法器23级"
+    },
+    "28": {
+        "attack": 56,
+        "defence": 28,
+        "health": 560,
+        "name": "法器28级"
+    },
+    "29": {
+        "attack": 58,
+        "defence": 29,
+        "health": 580,
+        "name": "法器29级"
+    },
+    "4": {
+        "attack": 8,
+        "defence": 4,
+        "health": 80,
+        "name": "法器4级"
+    },
+    "8": {
+        "attack": 16,
+        "defence": 8,
+        "health": 160,
+        "name": "法器8级"
+    },
+    "120": {
+        "attack": 240,
+        "defence": 120,
+        "health": 2400,
+        "name": "法器120级"
+    },
+    "121": {
+        "attack": 242,
+        "defence": 121,
+        "health": 2420,
+        "name": "法器121级"
+    },
+    "122": {
+        "attack": 244,
+        "defence": 122,
+        "health": 2440,
+        "name": "法器122级"
+    },
+    "123": {
+        "attack": 246,
+        "defence": 123,
+        "health": 2460,
+        "name": "法器123级"
+    },
+    "124": {
+        "attack": 248,
+        "defence": 124,
+        "health": 2480,
+        "name": "法器124级"
+    },
+    "125": {
+        "attack": 250,
+        "defence": 125,
+        "health": 2500,
+        "name": "法器125级"
+    },
+    "126": {
+        "attack": 252,
+        "defence": 126,
+        "health": 2520,
+        "name": "法器126级"
+    },
+    "127": {
+        "attack": 254,
+        "defence": 127,
+        "health": 2540,
+        "name": "法器127级"
+    },
+    "128": {
+        "attack": 256,
+        "defence": 128,
+        "health": 2560,
+        "name": "法器128级"
+    },
+    "129": {
+        "attack": 258,
+        "defence": 129,
+        "health": 2580,
+        "name": "法器129级"
+    },
+    "59": {
+        "attack": 118,
+        "defence": 59,
+        "health": 1180,
+        "name": "法器59级"
+    },
+    "58": {
+        "attack": 116,
+        "defence": 58,
+        "health": 1160,
+        "name": "法器58级"
+    },
+    "55": {
+        "attack": 110,
+        "defence": 55,
+        "health": 1100,
+        "name": "法器55级"
+    },
+    "54": {
+        "attack": 108,
+        "defence": 54,
+        "health": 1080,
+        "name": "法器54级"
+    },
+    "57": {
+        "attack": 114,
+        "defence": 57,
+        "health": 1140,
+        "name": "法器57级"
+    },
+    "56": {
+        "attack": 112,
+        "defence": 56,
+        "health": 1120,
+        "name": "法器56级"
+    },
+    "51": {
+        "attack": 102,
+        "defence": 51,
+        "health": 1020,
+        "name": "法器51级"
+    },
+    "50": {
+        "attack": 100,
+        "defence": 50,
+        "health": 1000,
+        "name": "法器50级"
+    },
+    "53": {
+        "attack": 106,
+        "defence": 53,
+        "health": 1060,
+        "name": "法器53级"
+    },
+    "52": {
+        "attack": 104,
+        "defence": 52,
+        "health": 1040,
+        "name": "法器52级"
+    },
+    "115": {
+        "attack": 230,
+        "defence": 115,
+        "health": 2300,
+        "name": "法器115级"
+    },
+    "114": {
+        "attack": 228,
+        "defence": 114,
+        "health": 2280,
+        "name": "法器114级"
+    },
+    "88": {
+        "attack": 176,
+        "defence": 88,
+        "health": 1760,
+        "name": "法器88级"
+    },
+    "89": {
+        "attack": 178,
+        "defence": 89,
+        "health": 1780,
+        "name": "法器89级"
+    },
+    "111": {
+        "attack": 222,
+        "defence": 111,
+        "health": 2220,
+        "name": "法器111级"
+    },
+    "110": {
+        "attack": 220,
+        "defence": 110,
+        "health": 2200,
+        "name": "法器110级"
+    },
+    "113": {
+        "attack": 226,
+        "defence": 113,
+        "health": 2260,
+        "name": "法器113级"
+    },
+    "112": {
+        "attack": 224,
+        "defence": 112,
+        "health": 2240,
+        "name": "法器112级"
+    },
+    "82": {
+        "attack": 164,
+        "defence": 82,
+        "health": 1640,
+        "name": "法器82级"
+    },
+    "83": {
+        "attack": 166,
+        "defence": 83,
+        "health": 1660,
+        "name": "法器83级"
+    },
+    "80": {
+        "attack": 160,
+        "defence": 80,
+        "health": 1600,
+        "name": "法器80级"
+    },
+    "81": {
+        "attack": 162,
+        "defence": 81,
+        "health": 1620,
+        "name": "法器81级"
+    },
+    "119": {
+        "attack": 238,
+        "defence": 119,
+        "health": 2380,
+        "name": "法器119级"
+    },
+    "118": {
+        "attack": 236,
+        "defence": 118,
+        "health": 2360,
+        "name": "法器118级"
+    },
+    "84": {
+        "attack": 168,
+        "defence": 84,
+        "health": 1680,
+        "name": "法器84级"
+    },
+    "85": {
+        "attack": 170,
+        "defence": 85,
+        "health": 1700,
+        "name": "法器85级"
+    },
+    "3": {
+        "attack": 6,
+        "defence": 3,
+        "health": 60,
+        "name": "法器3级"
+    },
+    "7": {
+        "attack": 14,
+        "defence": 7,
+        "health": 140,
+        "name": "法器7级"
+    },
+    "108": {
+        "attack": 216,
+        "defence": 108,
+        "health": 2160,
+        "name": "法器108级"
+    },
+    "109": {
+        "attack": 218,
+        "defence": 109,
+        "health": 2180,
+        "name": "法器109级"
+    },
+    "102": {
+        "attack": 204,
+        "defence": 102,
+        "health": 2040,
+        "name": "法器102级"
+    },
+    "103": {
+        "attack": 206,
+        "defence": 103,
+        "health": 2060,
+        "name": "法器103级"
+    },
+    "100": {
+        "attack": 200,
+        "defence": 100,
+        "health": 2000,
+        "name": "法器100级"
+    },
+    "101": {
+        "attack": 202,
+        "defence": 101,
+        "health": 2020,
+        "name": "法器101级"
+    },
+    "106": {
+        "attack": 212,
+        "defence": 106,
+        "health": 2120,
+        "name": "法器106级"
+    },
+    "107": {
+        "attack": 214,
+        "defence": 107,
+        "health": 2140,
+        "name": "法器107级"
+    },
+    "104": {
+        "attack": 208,
+        "defence": 104,
+        "health": 2080,
+        "name": "法器104级"
+    },
+    "105": {
+        "attack": 210,
+        "defence": 105,
+        "health": 2100,
+        "name": "法器105级"
+    },
+    "39": {
+        "attack": 78,
+        "defence": 39,
+        "health": 780,
+        "name": "法器39级"
+    },
+    "38": {
+        "attack": 76,
+        "defence": 38,
+        "health": 760,
+        "name": "法器38级"
+    },
+    "33": {
+        "attack": 66,
+        "defence": 33,
+        "health": 660,
+        "name": "法器33级"
+    },
+    "32": {
+        "attack": 64,
+        "defence": 32,
+        "health": 640,
+        "name": "法器32级"
+    },
+    "31": {
+        "attack": 62,
+        "defence": 31,
+        "health": 620,
+        "name": "法器31级"
+    },
+    "30": {
+        "attack": 60,
+        "defence": 30,
+        "health": 600,
+        "name": "法器30级"
+    },
+    "37": {
+        "attack": 74,
+        "defence": 37,
+        "health": 740,
+        "name": "法器37级"
+    },
+    "36": {
+        "attack": 72,
+        "defence": 36,
+        "health": 720,
+        "name": "法器36级"
+    },
+    "35": {
+        "attack": 70,
+        "defence": 35,
+        "health": 700,
+        "name": "法器35级"
+    },
+    "34": {
+        "attack": 68,
+        "defence": 34,
+        "health": 680,
+        "name": "法器34级"
+    },
+    "60": {
+        "attack": 120,
+        "defence": 60,
+        "health": 1200,
+        "name": "法器60级"
+    },
+    "61": {
+        "attack": 122,
+        "defence": 61,
+        "health": 1220,
+        "name": "法器61级"
+    },
+    "62": {
+        "attack": 124,
+        "defence": 62,
+        "health": 1240,
+        "name": "法器62级"
+    },
+    "63": {
+        "attack": 126,
+        "defence": 63,
+        "health": 1260,
+        "name": "法器63级"
+    },
+    "64": {
+        "attack": 128,
+        "defence": 64,
+        "health": 1280,
+        "name": "法器64级"
+    },
+    "65": {
+        "attack": 130,
+        "defence": 65,
+        "health": 1300,
+        "name": "法器65级"
+    },
+    "66": {
+        "attack": 132,
+        "defence": 66,
+        "health": 1320,
+        "name": "法器66级"
+    },
+    "67": {
+        "attack": 134,
+        "defence": 67,
+        "health": 1340,
+        "name": "法器67级"
+    },
+    "68": {
+        "attack": 136,
+        "defence": 68,
+        "health": 1360,
+        "name": "法器68级"
+    },
+    "69": {
+        "attack": 138,
+        "defence": 69,
+        "health": 1380,
+        "name": "法器69级"
+    },
+    "2": {
+        "attack": 4,
+        "defence": 2,
+        "health": 40,
+        "name": "法器2级"
+    },
+    "6": {
+        "attack": 12,
+        "defence": 6,
+        "health": 120,
+        "name": "法器6级"
+    },
+    "99": {
+        "attack": 198,
+        "defence": 99,
+        "health": 1980,
+        "name": "法器99级"
+    },
+    "98": {
+        "attack": 196,
+        "defence": 98,
+        "health": 1960,
+        "name": "法器98级"
+    },
+    "91": {
+        "attack": 182,
+        "defence": 91,
+        "health": 1820,
+        "name": "法器91级"
+    },
+    "90": {
+        "attack": 180,
+        "defence": 90,
+        "health": 1800,
+        "name": "法器90级"
+    },
+    "93": {
+        "attack": 186,
+        "defence": 93,
+        "health": 1860,
+        "name": "法器93级"
+    },
+    "92": {
+        "attack": 184,
+        "defence": 92,
+        "health": 1840,
+        "name": "法器92级"
+    },
+    "95": {
+        "attack": 190,
+        "defence": 95,
+        "health": 1900,
+        "name": "法器95级"
+    },
+    "94": {
+        "attack": 188,
+        "defence": 94,
+        "health": 1880,
+        "name": "法器94级"
+    },
+    "97": {
+        "attack": 194,
+        "defence": 97,
+        "health": 1940,
+        "name": "法器97级"
+    },
+    "96": {
+        "attack": 192,
+        "defence": 96,
+        "health": 1920,
+        "name": "法器96级"
+    },
+    "11": {
+        "attack": 22,
+        "defence": 11,
+        "health": 220,
+        "name": "法器11级"
+    },
+    "10": {
+        "attack": 20,
+        "defence": 10,
+        "health": 200,
+        "name": "法器10级"
+    },
+    "13": {
+        "attack": 26,
+        "defence": 13,
+        "health": 260,
+        "name": "法器13级"
+    },
+    "12": {
+        "attack": 24,
+        "defence": 12,
+        "health": 240,
+        "name": "法器12级"
+    },
+    "15": {
+        "attack": 30,
+        "defence": 15,
+        "health": 300,
+        "name": "法器15级"
+    },
+    "14": {
+        "attack": 28,
+        "defence": 14,
+        "health": 280,
+        "name": "法器14级"
+    },
+    "17": {
+        "attack": 34,
+        "defence": 17,
+        "health": 340,
+        "name": "法器17级"
+    },
+    "16": {
+        "attack": 32,
+        "defence": 16,
+        "health": 320,
+        "name": "法器16级"
+    },
+    "19": {
+        "attack": 38,
+        "defence": 19,
+        "health": 380,
+        "name": "法器19级"
+    },
+    "18": {
+        "attack": 36,
+        "defence": 18,
+        "health": 360,
+        "name": "法器18级"
+    },
+    "117": {
+        "attack": 234,
+        "defence": 117,
+        "health": 2340,
+        "name": "法器117级"
+    },
+    "116": {
+        "attack": 232,
+        "defence": 116,
+        "health": 2320,
+        "name": "法器116级"
+    },
+    "48": {
+        "attack": 96,
+        "defence": 48,
+        "health": 960,
+        "name": "法器48级"
+    },
+    "49": {
+        "attack": 98,
+        "defence": 49,
+        "health": 980,
+        "name": "法器49级"
+    },
+    "46": {
+        "attack": 92,
+        "defence": 46,
+        "health": 920,
+        "name": "法器46级"
+    },
+    "86": {
+        "attack": 172,
+        "defence": 86,
+        "health": 1720,
+        "name": "法器86级"
+    },
+    "44": {
+        "attack": 88,
+        "defence": 44,
+        "health": 880,
+        "name": "法器44级"
+    },
+    "45": {
+        "attack": 90,
+        "defence": 45,
+        "health": 900,
+        "name": "法器45级"
+    },
+    "42": {
+        "attack": 84,
+        "defence": 42,
+        "health": 840,
+        "name": "法器42级"
+    },
+    "43": {
+        "attack": 86,
+        "defence": 43,
+        "health": 860,
+        "name": "法器43级"
+    },
+    "40": {
+        "attack": 80,
+        "defence": 40,
+        "health": 800,
+        "name": "法器40级"
+    },
+    "87": {
+        "attack": 174,
+        "defence": 87,
+        "health": 1740,
+        "name": "法器87级"
+    },
+    "1": {
+        "attack": 2,
+        "defence": 1,
+        "health": 20,
+        "name": "法器1级"
+    },
+    "5": {
+        "attack": 10,
+        "defence": 5,
+        "health": 100,
+        "name": "法器5级"
+    },
+    "9": {
+        "attack": 18,
+        "defence": 9,
+        "health": 180,
+        "name": "法器9级"
+    },
+    "77": {
+        "attack": 154,
+        "defence": 77,
+        "health": 1540,
+        "name": "法器77级"
+    },
+    "76": {
+        "attack": 152,
+        "defence": 76,
+        "health": 1520,
+        "name": "法器76级"
+    },
+    "75": {
+        "attack": 150,
+        "defence": 75,
+        "health": 1500,
+        "name": "法器75级"
+    },
+    "74": {
+        "attack": 148,
+        "defence": 74,
+        "health": 1480,
+        "name": "法器74级"
+    },
+    "73": {
+        "attack": 146,
+        "defence": 73,
+        "health": 1460,
+        "name": "法器73级"
+    },
+    "72": {
+        "attack": 144,
+        "defence": 72,
+        "health": 1440,
+        "name": "法器72级"
+    },
+    "71": {
+        "attack": 142,
+        "defence": 71,
+        "health": 1420,
+        "name": "法器71级"
+    },
+    "70": {
+        "attack": 140,
+        "defence": 70,
+        "health": 1400,
+        "name": "法器70级"
+    },
+    "79": {
+        "attack": 158,
+        "defence": 79,
+        "health": 1580,
+        "name": "法器79级"
+    },
+    "78": {
+        "attack": 156,
+        "defence": 78,
+        "health": 1560,
+        "name": "法器78级"
+    },
+    "47": {
+        "attack": 94,
+        "defence": 47,
+        "health": 940,
+        "name": "法器47级"
+    }
+}

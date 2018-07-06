@@ -1,0 +1,27 @@
+{
+	/*组队副本*/
+	"team_fb":
+	[
+		{
+			/*普通组队*/
+			"fb_id": 0,
+			"fb_name": "普通组队",
+			"need_lvl": 0,
+			"max_times": 0
+		},
+		{
+			/*副本*/
+			"fb_id": 200001,
+			"fb_name": "副本1",
+			"need_lvl": 0,
+			"max_times": 5
+		},
+		{
+			/*副本2*/
+			"fb_id": 200002,
+			"fb_name": "副本2",
+			"need_lvl": 0,
+			"max_times": 5
+		}
+	]
+}

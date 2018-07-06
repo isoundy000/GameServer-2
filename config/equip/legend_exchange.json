@@ -1,0 +1,906 @@
+{
+    "60": {
+        "position": 4,
+        "get_item": [
+            216041322,
+            1,
+            1
+        ],
+        "weapon_id": 110221100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "61": {
+        "position": 5,
+        "get_item": [
+            216041323,
+            1,
+            1
+        ],
+        "weapon_id": 110231100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "62": {
+        "position": 6,
+        "get_item": [
+            216041324,
+            1,
+            1
+        ],
+        "weapon_id": 110241100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "63": {
+        "position": 7,
+        "get_item": [
+            216041325,
+            1,
+            1
+        ],
+        "weapon_id": 110251100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "64": {
+        "position": 8,
+        "get_item": [
+            216041326,
+            1,
+            1
+        ],
+        "weapon_id": 110261100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "24": {
+        "position": 8,
+        "get_item": [
+            216040826,
+            1,
+            1
+        ],
+        "weapon_id": 110260600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "25": {
+        "position": 1,
+        "get_item": [
+            216040910,
+            1,
+            1
+        ],
+        "weapon_id": 110100700,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 8
+    },
+    "26": {
+        "position": 2,
+        "get_item": [
+            216040920,
+            1,
+            1
+        ],
+        "weapon_id": 110200700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "27": {
+        "position": 3,
+        "get_item": [
+            216040921,
+            1,
+            1
+        ],
+        "weapon_id": 110210700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "20": {
+        "position": 4,
+        "get_item": [
+            216040822,
+            1,
+            1
+        ],
+        "weapon_id": 110220600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "21": {
+        "position": 5,
+        "get_item": [
+            216040823,
+            1,
+            1
+        ],
+        "weapon_id": 110230600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "22": {
+        "position": 6,
+        "get_item": [
+            216040824,
+            1,
+            1
+        ],
+        "weapon_id": 110240600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "23": {
+        "position": 7,
+        "get_item": [
+            216040825,
+            1,
+            1
+        ],
+        "weapon_id": 110250600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "28": {
+        "position": 4,
+        "get_item": [
+            216040922,
+            1,
+            1
+        ],
+        "weapon_id": 110220700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "29": {
+        "position": 5,
+        "get_item": [
+            216040923,
+            1,
+            1
+        ],
+        "weapon_id": 110230700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "2": {
+        "weapon_id": 110200400,
+        "level": 5,
+        "get_item_name": "项链",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 2,
+        "get_item": [
+            216040620,
+            1,
+            1
+        ]
+    },
+    "4": {
+        "weapon_id": 110220400,
+        "level": 5,
+        "get_item_name": "护腕",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 4,
+        "get_item": [
+            216040622,
+            1,
+            1
+        ]
+    },
+    "6": {
+        "weapon_id": 110240400,
+        "level": 5,
+        "get_item_name": "战甲",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 6,
+        "get_item": [
+            216040624,
+            1,
+            1
+        ]
+    },
+    "8": {
+        "weapon_id": 110260400,
+        "level": 5,
+        "get_item_name": "战靴",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 8,
+        "get_item": [
+            216040626,
+            1,
+            1
+        ]
+    },
+    "15": {
+        "position": 7,
+        "get_item": [
+            216040725,
+            1,
+            1
+        ],
+        "weapon_id": 110250500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "14": {
+        "position": 6,
+        "get_item": [
+            216040724,
+            1,
+            1
+        ],
+        "weapon_id": 110240500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "11": {
+        "position": 3,
+        "get_item": [
+            216040721,
+            1,
+            1
+        ],
+        "weapon_id": 110210500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "10": {
+        "position": 2,
+        "get_item": [
+            216040720,
+            1,
+            1
+        ],
+        "weapon_id": 110200500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "13": {
+        "position": 5,
+        "get_item": [
+            216040723,
+            1,
+            1
+        ],
+        "weapon_id": 110230500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "12": {
+        "position": 4,
+        "get_item": [
+            216040722,
+            1,
+            1
+        ],
+        "weapon_id": 110220500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "59": {
+        "position": 3,
+        "get_item": [
+            216041321,
+            1,
+            1
+        ],
+        "weapon_id": 110211100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "58": {
+        "position": 2,
+        "get_item": [
+            216041320,
+            1,
+            1
+        ],
+        "weapon_id": 110201100,
+        "cost_item": [
+            216310102,
+            16
+        ],
+        "level": 12
+    },
+    "17": {
+        "position": 1,
+        "get_item": [
+            216040810,
+            1,
+            1
+        ],
+        "weapon_id": 110100600,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 7
+    },
+    "16": {
+        "position": 8,
+        "get_item": [
+            216040726,
+            1,
+            1
+        ],
+        "weapon_id": 110260500,
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "level": 6
+    },
+    "19": {
+        "position": 3,
+        "get_item": [
+            216040821,
+            1,
+            1
+        ],
+        "weapon_id": 110210600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "54": {
+        "position": 6,
+        "get_item": [
+            216041224,
+            1,
+            1
+        ],
+        "weapon_id": 110241000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "57": {
+        "position": 1,
+        "get_item": [
+            216041310,
+            1,
+            1
+        ],
+        "weapon_id": 110101100,
+        "cost_item": [
+            216310102,
+            24
+        ],
+        "level": 12
+    },
+    "56": {
+        "position": 8,
+        "get_item": [
+            216041226,
+            1,
+            1
+        ],
+        "weapon_id": 110261000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "51": {
+        "position": 3,
+        "get_item": [
+            216041221,
+            1,
+            1
+        ],
+        "weapon_id": 110211000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "50": {
+        "position": 2,
+        "get_item": [
+            216041220,
+            1,
+            1
+        ],
+        "weapon_id": 110201000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "53": {
+        "position": 5,
+        "get_item": [
+            216041223,
+            1,
+            1
+        ],
+        "weapon_id": 110231000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "52": {
+        "position": 4,
+        "get_item": [
+            216041222,
+            1,
+            1
+        ],
+        "weapon_id": 110221000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "55": {
+        "position": 7,
+        "get_item": [
+            216041225,
+            1,
+            1
+        ],
+        "weapon_id": 110251000,
+        "cost_item": [
+            216310102,
+            14
+        ],
+        "level": 11
+    },
+    "18": {
+        "position": 2,
+        "get_item": [
+            216040820,
+            1,
+            1
+        ],
+        "weapon_id": 110200600,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 7
+    },
+    "48": {
+        "position": 8,
+        "get_item": [
+            216041126,
+            1,
+            1
+        ],
+        "weapon_id": 110260900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "49": {
+        "position": 1,
+        "get_item": [
+            216041210,
+            1,
+            1
+        ],
+        "weapon_id": 110101000,
+        "cost_item": [
+            216310102,
+            21
+        ],
+        "level": 11
+    },
+    "46": {
+        "position": 6,
+        "get_item": [
+            216041124,
+            1,
+            1
+        ],
+        "weapon_id": 110240900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "47": {
+        "position": 7,
+        "get_item": [
+            216041125,
+            1,
+            1
+        ],
+        "weapon_id": 110250900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "44": {
+        "position": 4,
+        "get_item": [
+            216041122,
+            1,
+            1
+        ],
+        "weapon_id": 110220900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "45": {
+        "position": 5,
+        "get_item": [
+            216041123,
+            1,
+            1
+        ],
+        "weapon_id": 110230900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "42": {
+        "position": 2,
+        "get_item": [
+            216041120,
+            1,
+            1
+        ],
+        "weapon_id": 110200900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "43": {
+        "position": 3,
+        "get_item": [
+            216041121,
+            1,
+            1
+        ],
+        "weapon_id": 110210900,
+        "cost_item": [
+            216310102,
+            12
+        ],
+        "level": 10
+    },
+    "40": {
+        "position": 8,
+        "get_item": [
+            216041026,
+            1,
+            1
+        ],
+        "weapon_id": 110260800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    },
+    "41": {
+        "position": 1,
+        "get_item": [
+            216041110,
+            1,
+            1
+        ],
+        "weapon_id": 110100900,
+        "cost_item": [
+            216310102,
+            18
+        ],
+        "level": 10
+    },
+    "1": {
+        "weapon_id": 110100400,
+        "level": 5,
+        "get_item_name": "武器",
+        "cost_item": [
+            216310102,
+            6
+        ],
+        "position": 1,
+        "get_item": [
+            216040610,
+            1,
+            1
+        ]
+    },
+    "3": {
+        "weapon_id": 110210400,
+        "level": 5,
+        "get_item_name": "戒指",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 3,
+        "get_item": [
+            216040621,
+            1,
+            1
+        ]
+    },
+    "5": {
+        "weapon_id": 110230400,
+        "level": 5,
+        "get_item_name": "战盔",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 5,
+        "get_item": [
+            216040623,
+            1,
+            1
+        ]
+    },
+    "7": {
+        "weapon_id": 110250400,
+        "level": 5,
+        "get_item_name": "护腿",
+        "cost_item": [
+            216310102,
+            4
+        ],
+        "position": 7,
+        "get_item": [
+            216040625,
+            1,
+            1
+        ]
+    },
+    "9": {
+        "position": 1,
+        "get_item": [
+            216040710,
+            1,
+            1
+        ],
+        "weapon_id": 110100500,
+        "cost_item": [
+            216310102,
+            9
+        ],
+        "level": 6
+    },
+    "39": {
+        "position": 7,
+        "get_item": [
+            216041025,
+            1,
+            1
+        ],
+        "weapon_id": 110250800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    },
+    "38": {
+        "position": 6,
+        "get_item": [
+            216041024,
+            1,
+            1
+        ],
+        "weapon_id": 110240800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    },
+    "33": {
+        "position": 1,
+        "get_item": [
+            216041010,
+            1,
+            1
+        ],
+        "weapon_id": 110100800,
+        "cost_item": [
+            216310102,
+            15
+        ],
+        "level": 9
+    },
+    "32": {
+        "position": 8,
+        "get_item": [
+            216040926,
+            1,
+            1
+        ],
+        "weapon_id": 110260700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "31": {
+        "position": 7,
+        "get_item": [
+            216040925,
+            1,
+            1
+        ],
+        "weapon_id": 110250700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "30": {
+        "position": 6,
+        "get_item": [
+            216040924,
+            1,
+            1
+        ],
+        "weapon_id": 110240700,
+        "cost_item": [
+            216310102,
+            8
+        ],
+        "level": 8
+    },
+    "37": {
+        "position": 5,
+        "get_item": [
+            216041023,
+            1,
+            1
+        ],
+        "weapon_id": 110230800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    },
+    "36": {
+        "position": 4,
+        "get_item": [
+            216041022,
+            1,
+            1
+        ],
+        "weapon_id": 110220800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    },
+    "35": {
+        "position": 3,
+        "get_item": [
+            216041021,
+            1,
+            1
+        ],
+        "weapon_id": 110210800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    },
+    "34": {
+        "position": 2,
+        "get_item": [
+            216041020,
+            1,
+            1
+        ],
+        "weapon_id": 110200800,
+        "cost_item": [
+            216310102,
+            10
+        ],
+        "level": 9
+    }
+}

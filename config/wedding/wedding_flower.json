@@ -1,0 +1,35 @@
+{
+    "216310002": {
+        "chat_info": "鲜花唯赠有心人！[18ff00]%s[-]向[18ff00]你[-]赠送[18ff01]%s* %d[-]朵以表心意，一束香花在手，民中情谊长久！",
+        "self_sweet": 100,
+        "flower_item": 216310002,
+        "is_effects": 1,
+        "glamour": 100,
+        "cast_id": 111001,
+        "flower_name": "地久之恋",
+        "opposite_sweet": 50,
+        "intimacy": 100
+    },
+    "216310003": {
+        "chat_info": "鲜花唯赠有心人！[18ff00]%s[-]向[18ff00]你[-]赠送[18ff02]%s* %d[-]朵以表心意，一束香花在手，民中情谊长久！",
+        "self_sweet": 600,
+        "flower_item": 216310003,
+        "is_effects": 1,
+        "glamour": 600,
+        "cast_id": 111001,
+        "flower_name": "天长之恋",
+        "opposite_sweet": 300,
+        "intimacy": 600
+    },
+    "216310001": {
+        "chat_info": "鲜花唯赠有心人！[18ff00]%s[-]向[18ff00]你[-]赠送[18ff00]%s* %d[-]朵以表心意，一束香花在手，民中情谊长久！",
+        "self_sweet": 2,
+        "flower_item": 216310001,
+        "is_effects": 0,
+        "glamour": 2,
+        "cast_id": 0,
+        "flower_name": "纯洁之恋",
+        "opposite_sweet": 1,
+        "intimacy": 2
+    }
+}

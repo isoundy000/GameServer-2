@@ -1,0 +1,122 @@
+{
+    "11": {
+        "item_id": 216040421,
+        "is_rare": 0,
+        "need_item": [
+            216310130,
+            2
+        ],
+        "frequency_limit": 999,
+        "item_amount": 500
+    },
+    "10": {
+        "item_id": 216040420,
+        "is_rare": 0,
+        "need_item": [
+            216310130,
+            1
+        ],
+        "frequency_limit": 999,
+        "item_amount": 20
+    },
+    "12": {
+        "item_id": 216040422,
+        "is_rare": 0,
+        "need_item": [
+            216310130,
+            1
+        ],
+        "frequency_limit": 50,
+        "item_amount": 10
+    },
+    "1": {
+        "item_id": 216040310,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            20
+        ],
+        "frequency_limit": 1,
+        "item_amount": 1
+    },
+    "3": {
+        "item_id": 216040321,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            12
+        ],
+        "frequency_limit": 1,
+        "item_amount": 1
+    },
+    "2": {
+        "item_id": 216040320,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            15
+        ],
+        "frequency_limit": 1,
+        "item_amount": 1
+    },
+    "5": {
+        "item_id": 216040323,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            5
+        ],
+        "frequency_limit": 5,
+        "item_amount": 1
+    },
+    "4": {
+        "item_id": 216040322,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            3
+        ],
+        "frequency_limit": 1,
+        "item_amount": 5
+    },
+    "7": {
+        "item_id": 216040325,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            1
+        ],
+        "frequency_limit": 999,
+        "item_amount": 50
+    },
+    "6": {
+        "item_id": 216040324,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            1
+        ],
+        "frequency_limit": 999,
+        "item_amount": 20
+    },
+    "9": {
+        "item_id": 216040410,
+        "is_rare": 0,
+        "need_item": [
+            216310130,
+            1
+        ],
+        "frequency_limit": 999,
+        "item_amount": 1
+    },
+    "8": {
+        "item_id": 216040326,
+        "is_rare": 1,
+        "need_item": [
+            216310130,
+            1
+        ],
+        "frequency_limit": 999,
+        "item_amount": 1
+    }
+}

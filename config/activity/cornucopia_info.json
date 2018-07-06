@@ -1,0 +1,216 @@
+{
+    "11": {
+        "index": 0,
+        "name": "跨服副本",
+        "image": "icon/functionIcon/tb_35.png",
+        "open_window": "TEAM_COPY_WINDOW",
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "plus": 500,
+        "condition": 10
+    },
+    "10": {
+        "index": 0,
+        "name": "世界BOSS",
+        "image": "icon/functionIcon/tb_29.png",
+        "open_window": "ACT_WINDOW",
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "plus": 500,
+        "condition": 1
+    },
+    "13": {
+        "fly": 1,
+        "index": 1,
+        "name": "护送美人",
+        "image": "icon/functionIcon/tb_28.png",
+        "plus": 500,
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "condition": 1
+    },
+    "12": {
+        "index": 0,
+        "name": "装备强化",
+        "image": "icon/functionIcon/tb_13.png",
+        "open_window": "ForgeWindow",
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "plus": 500,
+        "condition": 10
+    },
+    "15": {
+        "index": 1,
+        "name": "好友送花",
+        "image": "icon/functionIcon/tb_56.png",
+        "open_window": "FRIEND_WIDNOW",
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "plus": 500,
+        "condition": 1
+    },
+    "14": {
+        "index": 0,
+        "name": "江湖榜",
+        "image": "icon/functionIcon/tb_26.png",
+        "open_window": "RIVERLAKERANKINGWINDOW",
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "plus": 500,
+        "condition": 3
+    },
+    "16": {
+        "index": 0,
+        "name": "进阶副本",
+        "image": "icon/functionIcon/tb_37.png",
+        "open_window": "COPY_WINDOW",
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "plus": 500,
+        "condition": 3
+    },
+    "1": {
+        "index": 1,
+        "name": "骑宠进阶",
+        "image": "icon/functionIcon/cj_qc_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 1,
+        "plus": 500,
+        "condition": 4
+    },
+    "3": {
+        "index": 2,
+        "name": "魔刃进阶",
+        "image": "icon/functionIcon/cj_mr_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 3,
+        "plus": 500,
+        "condition": 4
+    },
+    "2": {
+        "index": 4,
+        "name": "神翼进阶",
+        "image": "icon/functionIcon/cj_sy_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 2,
+        "plus": 500,
+        "condition": 4
+    },
+    "5": {
+        "index": 5,
+        "name": "仙童进阶",
+        "image": "icon/functionIcon/cj_st_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 5,
+        "plus": 500,
+        "condition": 4
+    },
+    "4": {
+        "index": 3,
+        "name": "宝器进阶",
+        "image": "icon/functionIcon/cj_bq_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 4,
+        "plus": 500,
+        "condition": 4
+    },
+    "7": {
+        "index": 7,
+        "name": "仙兽进阶",
+        "image": "icon/functionIcon/cj_ss_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 7,
+        "plus": 500,
+        "condition": 4
+    },
+    "6": {
+        "index": 6,
+        "name": "仙武进阶",
+        "image": "icon/functionIcon/cj_sw_dj.png",
+        "open_window": "ROLE_WINDOW",
+        "open_day": 6,
+        "plus": 500,
+        "condition": 4
+    },
+    "9": {
+        "index": 1,
+        "name": "帮派任务",
+        "image": "icon/functionIcon/tb_34.png",
+        "plus": 500,
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "condition": 10
+    },
+    "8": {
+        "index": 1,
+        "name": "日常任务",
+        "image": "icon/functionIcon/tb_25.png",
+        "plus": 500,
+        "open_day": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "condition": 10
+    }
+}

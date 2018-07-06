@@ -1,0 +1,183 @@
+{
+    "scene_id" : 40007,
+    "name" : "夺宝奇兵",
+    "level" : 30,
+	"gather_interval" : 15,	//采集间隔
+	"state_locked" : 1, //进入该场景后，战斗状态不可以改变
+	"default_state": 1, //进入该场景时，战斗状态设置为0 和平，1 全体， 2 队伍，3 宗派，4善恶
+	"recover_state": 1, //退出场景时是否要恢复进入场景前的战斗状态
+    "relive" : {
+        "type" : "11",
+        "relive_item" : 200000016,
+		"wait" : 5, 
+        "multi_point" : [[584,704],[498,5990],[5842,6076]],
+		"state" : [50,100,50] //复活点复活，道具复活，随机点复活 
+    },
+    "reward":
+    {
+    	"505000024":[[206000052,1,2,100]],	//[道具ID,数量,绑定,概率] 
+    	"505000023":[[206000051,1,2,100]],	
+    	"505000022":[[206000050,1,2,100]],
+    	"505000021":[[206000049,1,2,100]]
+    },
+    "debuff":
+    {
+    	"505000024":	//紫
+		{
+			"view_buff" : {
+                "id" : 5033,
+                "last" : 180
+        	},
+			"effect" : [{
+				"name" : "speed",
+                "reMark" : "减速20%，持续5秒！",
+                "percent" : -40
+			},
+			{
+				"name" : "base_attr",
+		        "last" : 180,
+                "reMark" : "减速20%，持续5秒！",
+                "percent" : -25
+			}]
+		},
+    	"505000023":
+    	{	//蓝
+			"view_buff" : {
+                "id" : 5032,
+                "last" : 180
+        	},
+			"effect" : [{
+				"name" : "speed",
+		        "last" : 180,
+                "reMark" : "减速20%，持续5秒！",
+                "percent" : -30
+			},
+			{
+				"name" : "base_attr",
+		        "last" : 180,
+                "reMark" : "减速20%，持续5秒！",
+                "percent" : -10
+			}]
+		},
+    	"505000022":
+    	{	//绿
+			"view_buff" : {
+                "id" : 5031,
+                "last" : 180
+        	},
+			"effect" : [{
+				"name" : "speed",
+		        "last" : 180,
+                "reMark" : "减速20%，持续5秒！",
+                "percent" : -20
+			}]
+		},
+    	"505000021":
+    	{	//白
+			"view_buff" : {
+                "id" : 5030,
+                "last" : 180
+        	},
+			"effect" : [{
+				"name" : "speed",
+		        "last" : 180,
+                "reMark" : "减速20%，持续5秒！",
+                "percent" : -10
+			}]
+		}
+    },
+    "layout" : [{
+    	//紫色品质宝珠
+				"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 505000024,
+        "next_sort"	: 0,	//成长到下一级的sort
+        "monster_tree" : "bev1001.json", 
+        "born_range" : 0,              // 离中心点范围（格子）
+        "center_coordxy" : [3257,3248,3406,3376], // 出生中心点
+        "born_count" : 1,          // 每波数量
+        "max_count" : 2,			//场景中最多存在多少只
+        "fresh_count" : 2,
+        "flag_set" : ["no_move"],
+        "born_interval" : 120,     // 生成间隔
+        "hand_max" : 10,		//最大交付数量
+        "growth_tick" : 999999		//到下一级的成长时间
+    },{
+    	//蓝珠
+				"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 505000023,
+        "next_sort"	: 505000024,	//成长到下一级的sort
+        "monster_tree" : "bev1001.json",
+        "born_range" : 0,
+        "center_coordxy" : [2873,2987,2774,3616,3585,3824,4037,3325,3572,2874],
+        "born_count" : 1,
+				"max_count" : 5,
+				"fresh_count" : 5,
+        "flag_set" : ["no_move"],
+        "born_interval" : 100,
+        "hand_max" : 20,		//最大交付数量
+        "growth_tick" : 999999		//到下一级的成长时间
+    },{
+    	//绿珠
+				"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 505000022,
+        "next_sort"	: 505000023,	//成长到下一级的sort
+        "monster_tree" : "bev1001.json",
+        "born_range" : 0,
+        "center_coordxy" : [2385,2662,
+1847,3204,
+1826,3842,
+2301,4271,
+3046,4609,
+3883,4204,
+4478,3608,
+4705,2924,
+3892,2298,
+3138,2259],
+        "born_count" : 1,
+				"max_count" : 10,
+				"fresh_count" : 10,
+        "flag_set" : ["no_move"],
+        "born_interval" : 80,
+        "hand_max" : 30,		//最大交付数量
+        "growth_tick" : 999999		//到下一级的成长时间
+    },
+	{
+		//白珠
+				"born_type" : "center",         
+        "born_times" : "unlimited",
+        "monster_sort" : 505000021,
+        "next_sort"	: 505000022,	//成长到下一级的sort
+        "monster_tree" : "bev1001.json",
+        "born_range" : 0,
+        "center_coordxy" :[1584,1637,
+1036,2055,
+644,2691,
+216,3455,
+284,4186,
+802,4879,
+1658,5651,
+2298,5939,
+3079,6042,
+4082,5858,
+4937,5356,
+5324,4935,
+5619,4432,
+5990,3829,
+6136,2959,
+2377,1118,
+3160,897,
+3851,918,
+4689,1255,
+5619,1995],
+        "born_count" : 1,
+				"max_count" : 20,
+				"fresh_count" : 20,
+        "flag_set" : ["no_move"],
+        "born_interval" : 60,
+        "hand_max" : 40,		//最大交付数量
+        "growth_tick" : 999999		//到下一级的成长时间
+    }]
+}

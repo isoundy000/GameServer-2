@@ -1,0 +1,360 @@
+import "ProtoPublic.proto";
+
+message Proto81400104       // 主线任务信息更新
+{
+    optional int32 cmd = 1;       // 1:增加 2：删除 3：更新
+    optional ProtoTaskInfo task_info = 2;       // 
+    optional int32 is_finish_guide = 3;       // 是否完成新手引导任务
+}
+
+message Proto51400112       // 打开背包(返回)
+{
+    optional int32 force = 1;       // 战力
+    repeated ProtoItem equip_list = 2;       // 装备
+}
+
+message Proto11400111       // 背包格子点击
+{
+    optional int32 index = 1;       // 格子索引
+    optional int32 pack_type = 2;       // 背包类型
+}
+
+message Proto51400111       // 背包格子点击(返回)
+{
+    optional int32 index = 1;       // 背包索引
+    optional int32 pack_type = 2;       // 背包类型
+    optional int32 item_id = 3;       // 物品ID
+    optional int32 item_bind = 4;       // 绑定
+}
+
+message Proto80100101       // 主动通知玩家被别人加为好友
+{
+    optional ProtoFriendInfo friend_info = 1;       // 该玩家将你添加为好友
+}
+
+message Proto10400201       // 准备战斗先播放效果
+{
+    optional int32 skill_id = 1;       // 技能ID
+    optional int32 skill_pixel_x = 2;       // 技能触发点X坐标，单位像素
+    optional int32 skill_pixel_y = 3;       // 技能触发点Y坐标，单位像素
+    repeated ProtoSkillTarget target_list = 4;       // 技能攻击对象列表
+    optional int32 skill_step = 5;       // 连击步骤;索引从1开始
+    optional int32 skill_level = 6;       // 技能等级
+    optional int32 from_skill = 7;       // 源技能
+    optional float angle = 8;       // 玩家朝向; 单位：弧度
+    optional int64 target_id = 9;       // 玩家当前攻击对象
+    optional ProtoCoord cur_coord = 10;       // 玩家当前位置，用于校正微小距离不一致
+}
+
+message Proto10400203       // 请求复活
+{
+    optional int32 relive = 1;       // 复活标识。1－复活点复活；2－原地复活；4 随机点复活
+    optional int32 item_id = 2;       // 道具ID
+}
+
+message Proto50400203       // 请求复活(返回)
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+    optional int32 space_id = 4;       // 空间ID
+    optional int32 cur_blood = 5;       // 当前血量
+}
+
+message Proto80400201       // 播放技能效果通知
+{
+    optional int64 fighter_id = 1;       // 触发者ID
+    optional int32 skill_id = 2;       // 技能ID
+    optional int32 skill_level = 3;       // 技能等级
+    optional int32 skill_pixel_x = 4;       // 技能触发点X坐标
+    optional int32 skill_pixel_y = 5;       // 技能触发点Y坐标
+    repeated ProtoSkillTarget target_list = 6;       // 技能攻击对象列表
+    optional int32 skill_step = 7;       // 连击步骤
+    optional int32 is_full_screen = 8;       // 是否全屏技能; 0 不是, 1 全屏
+    optional int32 strength_level = 9;       // 技能神化等级，没有神化则为0
+    optional int32 passive_id = 10;       // 神化后的被动技能ID,暂时为1~3
+    optional double add_tick = 11;       // 增加特效时间，单位秒
+    optional int64 target_id = 12;       // 当前攻击的对象ID
+}
+
+message Proto80400202       // 战斗信息更新
+{
+    optional int64 fighter_id = 1;       // 更新对象ID（即对象ID）
+    optional ProtoFightInfo fight_info = 2;       // 战斗更新信息
+}
+
+message Proto80400203       // 通知更新客户端的BUFF列表
+{
+    optional int64 fighter_id = 1;       // 更新对象ID
+    repeated int32 status_id_list = 2;       // 状态列表
+    repeated ProtoStatus status_list = 3;       // 具体状态信息列表
+}
+
+message Proto80400205       // 通知客户端移除一个BUFF
+{
+    optional int64 fighter_id = 1;       // 更新对象ID
+    optional int32 status = 2;       // 移除的状态ID
+}
+
+message Proto80400206       // 更新战斗等级和属性通知
+{
+    optional int32 force = 1;       // 战力
+    optional int32 level = 2;       // 等级
+    optional int32 attack = 3;       // 攻击
+    optional int32 defence = 4;       // 防御
+    optional int32 max_blood = 5;       // 生命
+    optional int32 hit = 6;       // 命中
+    optional int32 avoid = 7;       // 闪避
+    optional int32 crit = 8;       // 暴击
+    optional int32 toughness = 9;       // 坚韧
+    optional int32 crit_hurt = 10;       // 暴机伤害
+    optional int32 damage = 11;       // 伤害加成
+    optional int32 reduction = 12;       // 伤害减免
+    optional int32 pk = 13;       // pk值
+    optional int32 glamour = 14;       // 魅力值
+}
+
+message Proto10100150       // 获取好友面板信息
+{
+    optional int32 friend_type = 1;       // 好友类型(5仇人，6 附近玩家)
+}
+
+message Proto10100151       // 加入列表
+{
+    repeated int64 role_id = 1;       // 角色id列表
+    optional int32 friend_type = 2;       // 好友类型
+}
+
+message Proto10100152       // 从好友列表删除
+{
+    repeated int64 role_id = 1;       // 即将被删除的玩家id列表
+    optional int32 src_friend_type = 2;       // 当前好友类型
+}
+
+message Proto10100153       // 查找好友
+{
+    optional string name = 1;       // 玩家角色名
+}
+
+message Proto50100150       // 获取好友面板信息（返回）
+{
+    optional int32 friend_type = 1;       // 好友类型
+    repeated ProtoFriendInfo friend_list = 2;       // 好友信息列表
+}
+
+message Proto50100151       // 加入列表（返回）
+{
+    repeated int64 role_id = 1;       // 成功加为好友的玩家id列表
+    optional int32 src_friend_type = 2;       // 加入前，玩家的好友类型
+    optional int32 des_friend_type = 3;       // 加入后，玩家的好友类型
+}
+
+message Proto50100152       // 从好友列表删除（返回）
+{
+    repeated int64 role_set = 1;       // id列表
+}
+
+message Proto50100153       // 查找好友（返回）
+{
+    repeated ProtoFriendInfo friend_info = 1;       // 好友信息
+}
+
+message Proto50100154       // 好友推送（返回）
+{
+    repeated ProtoFriendInfo friend_list = 1;       // 好友信息列表
+}
+
+message Proto10100501       // 市场信息
+{
+    optional int32 main_type = 1;       // 主要类型，0表示所有
+    optional int32 sub_type = 2;       // 子类型
+    optional int32 page_index = 3;       // 请求页
+    optional int32 sort = 4;       // 1降序，2升序
+    optional int32 type = 5;       // 类型，0时间，1数量，2单价，3总价
+}
+
+message Proto10100502       // 上架
+{
+    optional int32 money_type = 1;       // 金钱类型0元宝，1绑元
+    optional int32 index = 2;       // 物品索引
+    optional int32 amount = 3;       // 物品数量
+    optional int32 price = 4;       // 单价
+}
+
+message Proto10100503       // 购买
+{
+    optional int32 market_index = 1;       // 市场索引
+    optional int32 item_id = 2;       // 物品ID
+    optional int32 buy_amount = 3;       // 购买数量
+}
+
+message Proto10100504       // 我的上架
+{
+    optional int32 page_index = 1;       // 请求页
+}
+
+message Proto10100505       // 下架
+{
+    optional int32 market_index = 1;       // 索引
+}
+
+message Proto10100506       // 续期
+{
+    optional int32 market_index = 1;       // 索引
+}
+
+message Proto50100501       // 市场信息(返回)
+{
+    optional int32 type = 1;       // 类型
+    optional int32 main_type = 2;       // 主类型
+    optional int32 sub_type = 3;       // 子类型
+    optional int32 page_index = 4;       // 当前页
+    optional int32 total_page = 5;       // 总页数
+    repeated ProtoMarketItem market_set = 6;       // 物品列表
+    optional int32 buy_times = 7;       // 今天购买次数
+}
+
+message Proto10100155       // 查看好友基本信息
+{
+    optional int64 role_id = 1;       // 被查看的玩家id
+}
+
+message Proto50100155       // 查看好友基本信息
+{
+    optional ProtoFriendInfo friend_info = 1;       // 好友信息
+}
+
+message Proto11400132       // 回购
+{
+    optional int32 index = 1;       // 索引
+}
+
+message Proto51400133       // 回购信息列表(返回)
+{
+    repeated ProtoSellOut sellout_set = 1;       // 出售列表
+}
+
+message Proto50100504       // 我的上架(返回)
+{
+    repeated ProtoMarketItem onsell_set = 1;       // 上架
+    optional int32 page_index = 2;       // 当前页
+    optional int32 total_page = 3;       // 总页数
+}
+
+message Proto11400301       // 获取邮件列表
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto51400301       // 返回邮件列表
+{
+    repeated ProtoMailInfo mail_list = 1;       // 邮件列表
+    optional int32 deposit_mail_amount = 2;       // 寄存的邮件数量
+}
+
+message Proto11400302       // 获取邮件信息
+{
+    required int64 mail_id = 1;       // 邮件id
+}
+
+message Proto51400302       // 返回邮件信息
+{
+    optional int64 mail_id = 1;       // 邮件id
+    optional int32 mail_type = 2;       // 邮件类型 ３01私人；３02系统
+    optional string role_name = 3;       // 发件人角色名
+    optional string mail_title = 4;       // 邮件标题
+    optional string mail_content = 5;       // 邮件内容
+    optional int32 gold = 6;       // 元宝
+    optional int32 coupon = 7;       // 礼金
+    optional int32 copper = 8;       // 铜钱
+    optional int32 bind_copper = 9;       // 绑铜
+    repeated ProtoItem goods_list = 10;       // 附件列表
+    optional int32 left_minute = 11;       // 剩余时间（单位：分钟）
+    optional int32 sender_vip = 12;       // 发件人vip等级（系统邮件为-1）
+}
+
+message Proto11400304       // 提取邮件附件（包含货币）
+{
+    required int64 mail_id = 1;       // 邮件id
+}
+
+message Proto11400306       // 删除邮件
+{
+    optional int32 del_type = 1;       // 删除类型：1全部；2已读；3单个；4没有附件
+    repeated int64 del_list = 2;       // 删除列表（邮件id）
+}
+
+message Proto11400307       // 发送邮件
+{
+    optional string receiver_name = 1;       // 收件人角色名
+    optional string mail_title = 2;       // 邮件标题
+    optional string mail_content = 3;       // 邮件内容
+    optional int32 mail_gold = 4;       // 邮件元宝
+    optional int32 mail_copper = 5;       // 邮件铜钱
+    repeated MailAttach attach_list = 6;       // 附件列表
+}
+
+message Proto10100507       // 市场最低价
+{
+    optional int32 item_id = 1;       // 物品ID
+}
+
+message Proto50100507       // 市场最低价(返回)
+{
+    optional int32 low_price = 1;       // 市场最低价
+}
+
+message Proto50100012       // 商店信息(返回)
+{
+    optional int32 shop_type = 1;       // 商店类型
+    repeated ProtoShopItem shop_set = 2;       // 商品列表
+}
+
+message Proto11400401       // 获取战骑信息
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto51400401       // 获取战骑信息(返回)
+{
+    optional int32 mount_grade = 1;       // 战骑等级
+    optional int32 hidden_flag = 2;       // 是否隐藏，0表示否，1表示是
+    optional int32 mount_shape = 3;       // 使用战骑等级
+    optional int32 force = 4;       // 战力
+    optional int32 bless = 5;       // 祝福值
+    optional int32 left_time = 6;       // 剩余时间
+    optional ProtoFightPro prop = 7;       // 属性
+    optional int32 type = 8;       // 类型
+    optional int32 ability = 9;       // 已有资质丹
+    optional int32 growth = 10;       // 已有成长丹
+    optional ProtoFightPro temp = 11;       // 临时属性
+    repeated ProtoSkill skill = 12;       // 技能列表
+    optional int32 act_shape = 13;       // 活动购买外形
+}
+
+message Proto11400402       // 战骑进阶
+{
+    optional int32 auto_buy = 1;       // 自动购买；1 自动
+    optional int32 type = 2;       // 类型
+}
+
+message Proto51400402       // 战骑进阶(返回)
+{
+    optional int32 eva_flag = 1;       // 进化标识，0失败，1成功
+    optional int32 mount_grade = 2;       // 坐骑等级
+    optional int32 bless = 3;       // 失败祝福值
+    optional int32 force = 4;       // 战力
+    optional int32 type = 5;       // 类型
+}
+
+message Proto11400403       // 显示
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto51400403       // 显示(返回)
+{
+    optional int32 type = 1;       // 类型
+}
+
+

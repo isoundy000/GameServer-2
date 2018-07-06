@@ -1,0 +1,307 @@
+import "ProtoPublic.proto";
+
+message Proto80400213       // 通知进入技能引导状态
+{
+    optional int32 skill_id = 1;       // 引导的技能ID
+    optional int32 guide_tick_sec = 2;       // 引导时间，单位秒
+    optional int64 fighter_id = 3;       // 进入引导的对象ID
+    optional int32 no_view_text = 4;       // 1 不需要显示文字，0 需要显示文字
+}
+
+message Proto11400332       // 新手改名请求
+{
+    optional string role_name = 1;       // 新的角色名
+}
+
+message Proto81400105       // 角色名字更新通知
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional string role_name = 2;       // 新的名字
+}
+
+message Proto10400113       // 请求特殊动作
+{
+    optional int32 pixel_x = 1;       // 目标X坐标
+    optional int32 pixel_y = 2;       // 目标Y坐标
+    optional int32 action_type = 3;       // 动作类型，1表示跳跃
+    optional int32 index = 4;       // 配置里索引
+}
+
+message Proto80400214       // 特殊动作通知
+{
+    optional int64 mover_id = 1;       // 移动物体ID
+    optional int32 action_type = 2;       // 动作类型
+    optional int32 pixel_x = 3;       // 目标X坐标
+    optional int32 pixel_y = 4;       // 目标Y坐标
+}
+
+message Proto80400345       // 通知增加贡献(主动)
+{
+    optional int32 add_contri = 1;       // 增加的贡献
+}
+
+message Proto11400655       // 取消使用时装造型
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 pkg_index = 2;       // 所在位置索引
+}
+
+message Proto51400655       // 取消使用时装造型（返回）
+{
+    optional int32 pkg_type = 1;       // 背包类型
+    optional int32 equip_part = 2;       // 装备的部位
+}
+
+message Proto11401202       // 请求扫荡单个副本
+{
+    optional int32 script_sort = 1;       // 副本ID(与副本类型2选一)
+    optional int32 script_type = 2;       // 副本类型(与副本ID2选一)
+}
+
+message Proto11401203       // 请求一键扫荡副本
+{
+    optional int32 script_type = 1;       // 副本类型
+}
+
+message Proto51401201       // 请求副本扫荡界面信息(返回)
+{
+    repeated ProtoScriptClean finished_script = 1;       // 已完成的副本信息, 副本次数为已完成次数(无用)
+    optional int32 exp = 2;       // 当前未领取经验(无用)
+    optional ProtoMoney money = 3;       // 当前未领取金钱(无用)
+    optional int32 script_sort = 4;       // 副本id
+    optional int32 script_type = 5;       // 副本类型
+    repeated ProtoItem item_list = 6;       // 通关物品
+    repeated ProtoItem drop_list = 7;       // 掉落奖励
+    optional int32 left_tick = 8;       // 扫荡剩余时间, 单位秒(无用)
+    optional int32 state = 9;       // 当前状态: 0 未开始，1 扫荡中(无用)
+    optional ProtoScriptClean cur_script = 10;       // 当前进行的副本(无用)
+    optional int32 is_show_card = 11;       // 是否显示模拟抽牌
+    optional int32 card_index = 12;       // 模拟抽中的牌索引，从0开始
+    repeated ProtoItem card_list = 13;       // 模拟牌内容
+    optional int32 is_vip_rate = 14;       // 是否VIP多倍
+    optional int32 savvy = 15;       // 当前未领取悟性
+    optional int32 reset_times = 16;       // 重置次数(进阶副本)
+    optional int32 top_floor = 17;       // 通过层数(问鼎江湖)
+    optional int32 pass_wave = 18;       // 通过波数(经验、罗摩)
+    optional int32 pass_chapter = 19;       // 通过章节(经验、罗摩)
+}
+
+message Proto51401202       // 请求扫荡单个副本(返回)
+{
+    optional int32 left_tick = 1;       // 剩余时间
+}
+
+message Proto51401203       // 请求一键扫荡副本(返回)
+{
+    optional int32 left_tick = 1;       // 剩余时间，单位秒
+}
+
+message Proto11401004       // 玩家修改挂机设置
+{
+    optional ProtoHookDetail hook_detail = 1;       // 
+}
+
+message Proto51401001       // 获取玩家挂机设置（返回）
+{
+    optional ProtoHookDetail hook_detail = 1;       // 
+}
+
+message Proto81401001       // 进入场景，需要自动挂机
+{
+    optional int32 is_hooking = 1;       // 0：不需要自动挂机，1：需要自动挂机
+}
+
+message Proto80400911       // 怪物数量准备达上限通知
+{
+    optional int32 max_num = 1;       // 怪物上限值
+}
+
+message Proto80400346       // 宗派位置(主动)
+{
+    optional int32 league_pos = 1;       // 宗派位置
+}
+
+message Proto10400707       // 调换两个技能位置
+{
+    optional int32 index_1 = 1;       // 索引位置1; 索引从0开始
+    optional int32 index_2 = 2;       // 索引位置2; 索引从0开始
+}
+
+message Proto81401703       // 主动提示红点
+{
+    optional int32 even_id = 1;       // 事件ID
+    optional int32 even_value = 2;       // 对应的值
+}
+
+message Proto51401702       // 系统提示详细内容(返回)
+{
+    repeated ProtoPairObj event_list = 1;       // 所有需要红点提示的事件
+}
+
+message Proto11401703       // 查看单次系统提示
+{
+    optional int64 tip_index = 1;       // 系统提示id
+    optional int32 event_id = 2;       // 事件id
+}
+
+message Proto10400909       // 获取斩妖伏魔录的篇信息
+{
+    optional int32 piece = 1;       // 第几篇, 值从1开始
+}
+
+message Proto50400909       // 获取斩妖伏魔录的篇信息(返回)
+{
+    optional int32 piece = 1;       // 第几篇
+    repeated ProtoScriptChapter chapter_info = 2;       // 章节信息
+}
+
+message Proto80400114       // 一次性特效播放通知
+{
+    optional int32 effect_id = 1;       // 特效对象全服唯一ID
+    optional int32 effect_sort = 2;       // 特效ID
+    optional int32 pixel_x = 3;       // X坐标
+    optional int32 pixel_y = 4;       // Y坐标
+}
+
+message Proto10400910       // 选中通关的一张牌
+{
+    optional int32 index = 1;       // 选中位置; 值从1开始
+}
+
+message Proto50400910       // 选中通关的一张牌(返回)
+{
+    optional int32 index = 1;       // 选中位置
+    repeated ProtoItem item_list = 2;       // 卡牌物品列表
+    optional int32 vip_multiple = 3;       // vip增加倍数 1时表示增加了1倍（两倍奖励）
+    optional int32 is_script_compact = 4;       // 契约加成奖励，1 表示有加成奖励
+}
+
+message Proto81401705       // 主动提示红点消失
+{
+    optional int32 even_id = 1;       // 事件ID
+}
+
+message Proto50400911       // 获取当前完成的篇(返回)
+{
+    optional int32 max_piece = 1;       // 显示最大的篇数
+}
+
+message Proto11401752       // 修改系统设置
+{
+    optional ProtoSysSetting system_setting = 1;       // 系统设置
+}
+
+message Proto81401751       // 主动通知系统设置信息
+{
+    optional ProtoSysSetting system_setting = 1;       // 
+}
+
+message Proto10100417       // 招募化身
+{
+    optional int64 role_id = 1;       // 角色id
+}
+
+message Proto50100416       // 副本招募化身信息(返回)
+{
+    repeated ProtoRpmRoleInfo replacement_role_list = 1;       // 化身信息列表
+}
+
+message Proto10100416       // 副本招募化身信息
+{
+    optional int32 is_introduction = 1;       // 是否使用引导的数据 1时表示使用引导
+}
+
+message Proto10400005       // 自动使用药包
+{
+    optional int32 use_type = 1;       // 使用类型，1背包，2购买，3手动使用
+    optional int32 left_capacity = 2;       // 剩余容量
+    optional int32 item_index = 3;       // 背包位置
+    optional int32 use_times = 4;       // 第几次使用
+}
+
+message Proto10400912       // 获取扫荡单个副本的时间
+{
+    optional int32 script_sort = 1;       // 副本ID
+}
+
+message Proto50400912       // 获取扫荡单个副本的时间(返回)
+{
+    optional int32 script_sort = 1;       // 副本ID
+    optional int32 left_times = 2;       // 剩余次数
+    optional int32 use_tick = 3;       // 剩余时间，单位秒
+}
+
+message Proto50400913       // 获取一键扫荡的时间(返回)
+{
+    optional int32 use_tick = 1;       // 剩余时间，单位秒
+}
+
+message Proto80400216       // 提示信息
+{
+    repeated TipsItem tips_set = 1;       // 提示集合
+    repeated string tips_str_set = 2;       // 提示字符串集合
+}
+
+message Proto80100406       // 队员当前副本使用次数列表(主动)
+{
+    repeated ProtoFBUseTimes use_times_set = 1;       // 玩家副本使用次数集合
+}
+
+message Proto10400914       // 获取副本的玩家信息
+{
+    optional int32 script_sort = 1;       // 副本ID
+    optional int32 script_type = 2;       // 副本类型
+}
+
+message Proto50400914       // 获取副本的玩家信息(返回)
+{
+    optional ProtoScriptInfo script_info = 1;       // 副本信息
+}
+
+message Proto80400913       // BOSS出现通知
+{
+    optional int32 floor = 1;       // 当前层数
+}
+
+message Proto80400403       // 更改队员ID
+{
+    optional int64 src_id = 1;       // 旧的ID
+    optional int64 new_id = 2;       // 新的ID
+}
+
+message Proto11400613       // 打开批量聚灵面板
+{
+    optional int32 magical_id = 1;       // 
+}
+
+message Proto80200007       // 后台推送的系统广播(顶部滚动)
+{
+    optional string content = 1;       // 广播内容
+    optional int32 type = 2;       // 类型
+}
+
+message Proto81400106       // 已完成的新手任务通知
+{
+    repeated int32 finish_task_list = 1;       // 已完成的任务ID列表[已作废]
+    optional int32 pass_piece = 2;       // 通过的篇
+    optional int32 pass_chapter = 3;       // 通过的章
+    repeated string pass_ui = 4;       // 已开放的UI通知
+}
+
+message Proto10100024       // 请求获取物品的详细信息
+{
+    optional int32 item_id = 1;       // 物品id
+}
+
+message Proto50100024       // 请求获取物品的详细信息
+{
+    optional int32 shop_type = 1;       // 商城类型
+    optional ProtoMallItem shop_item = 2;       // 物品信息
+}
+
+message Proto51400333       // 获取新手完成的步数(返回)
+{
+    optional int32 step = 1;       // 步数
+}
+
+

@@ -1,0 +1,24 @@
+{
+    "ucand" : {
+        "url" : "/hhsy/center/api.php?r=ucextend",
+        "data" : "sid=%s&gameData={\"category\":\"loginGameRole\",\"content\":{\"roldId\":\"%ld\",\"roleName\":\"%s\",\"roleLevel\":\"%d\",\"zoneName\":\"%s\",\"zoneId\":%d}}"
+    },
+    "play800":  {
+    	//"address":"data.play800.cn",
+    	//"port":80,
+    	//"url":"/api/income_log",
+		"address":"",
+    	"port":80,
+    	"url":"",
+		"site" : "",
+		"key" : "",
+  		"gid" : "",
+  		"aid":
+  		{
+  			"2900001":"9100770900781249",
+  			"2900002":"9100770900781249"
+  		},
+  		"income_currency":"CNY",
+  		"time_out":5
+    }
+}

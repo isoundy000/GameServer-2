@@ -1,0 +1,6887 @@
+{
+    "344": {
+        "defence": 6600,
+        "name": "2214",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 13200,
+        "health": 132000,
+        "red_now": 19
+    },
+    "345": {
+        "defence": 6875,
+        "name": "2215",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 13750,
+        "health": 137500,
+        "red_now": 20
+    },
+    "346": {
+        "defence": 3162,
+        "name": "2301",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 6325,
+        "health": 63250,
+        "red_now": 6
+    },
+    "347": {
+        "defence": 3450,
+        "name": "2302",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 6900,
+        "health": 69000,
+        "red_now": 7
+    },
+    "340": {
+        "defence": 5500,
+        "name": "2210",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 11000,
+        "health": 110000,
+        "red_now": 15
+    },
+    "341": {
+        "defence": 5775,
+        "name": "2211",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 11550,
+        "health": 115500,
+        "red_now": 16
+    },
+    "342": {
+        "defence": 6050,
+        "name": "2212",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 12100,
+        "health": 121000,
+        "red_now": 17
+    },
+    "343": {
+        "defence": 6325,
+        "name": "2213",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 12650,
+        "health": 126500,
+        "red_now": 18
+    },
+    "348": {
+        "defence": 3737,
+        "name": "2303",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 7475,
+        "health": 74750,
+        "red_now": 8
+    },
+    "349": {
+        "defence": 4025,
+        "name": "2304",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 8050,
+        "health": 80500,
+        "red_now": 9
+    },
+    "737": {
+        "defence": 7350,
+        "name": "4902",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 14700,
+        "health": 147000,
+        "red_now": 7
+    },
+    "719": {
+        "defence": 14100,
+        "name": "4714",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 28200,
+        "health": 282000,
+        "red_now": 19
+    },
+    "718": {
+        "defence": 13512,
+        "name": "4713",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 27025,
+        "health": 270250,
+        "red_now": 18
+    },
+    "717": {
+        "defence": 12925,
+        "name": "4712",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 25850,
+        "health": 258500,
+        "red_now": 17
+    },
+    "716": {
+        "defence": 12337,
+        "name": "4711",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 24675,
+        "health": 246750,
+        "red_now": 16
+    },
+    "715": {
+        "defence": 11750,
+        "name": "4710",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 23500,
+        "health": 235000,
+        "red_now": 15
+    },
+    "714": {
+        "defence": 11162,
+        "name": "4709",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 22325,
+        "health": 223250,
+        "red_now": 14
+    },
+    "713": {
+        "defence": 10575,
+        "name": "4708",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 21150,
+        "health": 211500,
+        "red_now": 13
+    },
+    "712": {
+        "defence": 9987,
+        "name": "4707",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 19975,
+        "health": 199750,
+        "red_now": 12
+    },
+    "711": {
+        "defence": 9400,
+        "name": "4706",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 18800,
+        "health": 188000,
+        "red_now": 11
+    },
+    "710": {
+        "defence": 8812,
+        "name": "4705",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 17625,
+        "health": 176250,
+        "red_now": 10
+    },
+    "129": {
+        "defence": 1900,
+        "name": "809",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 3800,
+        "health": 38000,
+        "red_now": 14
+    },
+    "298": {
+        "defence": 5462,
+        "name": "1913",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 10925,
+        "health": 109250,
+        "red_now": 18
+    },
+    "299": {
+        "defence": 5700,
+        "name": "1914",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 11400,
+        "health": 114000,
+        "red_now": 19
+    },
+    "296": {
+        "defence": 4987,
+        "name": "1911",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 9975,
+        "health": 99750,
+        "red_now": 16
+    },
+    "297": {
+        "defence": 5225,
+        "name": "1912",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 10450,
+        "health": 104500,
+        "red_now": 17
+    },
+    "294": {
+        "defence": 4512,
+        "name": "1909",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 9025,
+        "health": 90250,
+        "red_now": 14
+    },
+    "295": {
+        "defence": 4750,
+        "name": "1910",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 9500,
+        "health": 95000,
+        "red_now": 15
+    },
+    "292": {
+        "defence": 4037,
+        "name": "1907",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 8075,
+        "health": 80750,
+        "red_now": 12
+    },
+    "293": {
+        "defence": 4275,
+        "name": "1908",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 8550,
+        "health": 85500,
+        "red_now": 13
+    },
+    "290": {
+        "defence": 3562,
+        "name": "1905",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 7125,
+        "health": 71250,
+        "red_now": 10
+    },
+    "291": {
+        "defence": 3800,
+        "name": "1906",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 7600,
+        "health": 76000,
+        "red_now": 11
+    },
+    "591": {
+        "defence": 7800,
+        "name": "3906",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 15600,
+        "health": 156000,
+        "red_now": 11
+    },
+    "590": {
+        "defence": 7312,
+        "name": "3905",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 14625,
+        "health": 146250,
+        "red_now": 10
+    },
+    "593": {
+        "defence": 8775,
+        "name": "3908",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 17550,
+        "health": 175500,
+        "red_now": 13
+    },
+    "592": {
+        "defence": 8287,
+        "name": "3907",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 16575,
+        "health": 165750,
+        "red_now": 12
+    },
+    "595": {
+        "defence": 9750,
+        "name": "3910",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 19500,
+        "health": 195000,
+        "red_now": 15
+    },
+    "594": {
+        "defence": 9262,
+        "name": "3909",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 18525,
+        "health": 185250,
+        "red_now": 14
+    },
+    "597": {
+        "defence": 10725,
+        "name": "3912",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 21450,
+        "health": 214500,
+        "red_now": 17
+    },
+    "596": {
+        "defence": 10237,
+        "name": "3911",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 20475,
+        "health": 204750,
+        "red_now": 16
+    },
+    "195": {
+        "defence": 3750,
+        "name": "1215",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 7500,
+        "health": 75000,
+        "red_now": 20
+    },
+    "194": {
+        "defence": 3600,
+        "name": "1214",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 7200,
+        "health": 72000,
+        "red_now": 19
+    },
+    "197": {
+        "defence": 1950,
+        "name": "1302",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 3900,
+        "health": 39000,
+        "red_now": 7
+    },
+    "196": {
+        "defence": 1787,
+        "name": "1301",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 3575,
+        "health": 35750,
+        "red_now": 6
+    },
+    "191": {
+        "defence": 3150,
+        "name": "1211",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 6300,
+        "health": 63000,
+        "red_now": 16
+    },
+    "190": {
+        "defence": 3000,
+        "name": "1210",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 6000,
+        "health": 60000,
+        "red_now": 15
+    },
+    "193": {
+        "defence": 3450,
+        "name": "1213",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 6900,
+        "health": 69000,
+        "red_now": 18
+    },
+    "192": {
+        "defence": 3300,
+        "name": "1212",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 6600,
+        "health": 66000,
+        "red_now": 17
+    },
+    "270": {
+        "defence": 5312,
+        "name": "1715",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 10625,
+        "health": 106250,
+        "red_now": 20
+    },
+    "271": {
+        "defence": 2475,
+        "name": "1801",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 4950,
+        "health": 49500,
+        "red_now": 6
+    },
+    "272": {
+        "defence": 2700,
+        "name": "1802",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 5400,
+        "health": 54000,
+        "red_now": 7
+    },
+    "273": {
+        "defence": 2925,
+        "name": "1803",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 5850,
+        "health": 58500,
+        "red_now": 8
+    },
+    "274": {
+        "defence": 3150,
+        "name": "1804",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 6300,
+        "health": 63000,
+        "red_now": 9
+    },
+    "275": {
+        "defence": 3375,
+        "name": "1805",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 6750,
+        "health": 67500,
+        "red_now": 10
+    },
+    "276": {
+        "defence": 3600,
+        "name": "1806",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 7200,
+        "health": 72000,
+        "red_now": 11
+    },
+    "277": {
+        "defence": 3825,
+        "name": "1807",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 7650,
+        "health": 76500,
+        "red_now": 12
+    },
+    "278": {
+        "defence": 4050,
+        "name": "1808",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 8100,
+        "health": 81000,
+        "red_now": 13
+    },
+    "279": {
+        "defence": 4275,
+        "name": "1809",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 8550,
+        "health": 85500,
+        "red_now": 14
+    },
+    "524": {
+        "defence": 10200,
+        "name": "3414",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 20400,
+        "health": 204000,
+        "red_now": 19
+    },
+    "525": {
+        "defence": 10625,
+        "name": "3415",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 21250,
+        "health": 212500,
+        "red_now": 20
+    },
+    "526": {
+        "defence": 4812,
+        "name": "3501",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 9625,
+        "health": 96250,
+        "red_now": 6
+    },
+    "527": {
+        "defence": 5250,
+        "name": "3502",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 10500,
+        "health": 105000,
+        "red_now": 7
+    },
+    "520": {
+        "defence": 8500,
+        "name": "3410",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 17000,
+        "health": 170000,
+        "red_now": 15
+    },
+    "521": {
+        "defence": 8925,
+        "name": "3411",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 17850,
+        "health": 178500,
+        "red_now": 16
+    },
+    "522": {
+        "defence": 9350,
+        "name": "3412",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 18700,
+        "health": 187000,
+        "red_now": 17
+    },
+    "523": {
+        "defence": 9775,
+        "name": "3413",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 19550,
+        "health": 195500,
+        "red_now": 18
+    },
+    "528": {
+        "defence": 5687,
+        "name": "3503",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 11375,
+        "health": 113750,
+        "red_now": 8
+    },
+    "529": {
+        "defence": 6125,
+        "name": "3504",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 12250,
+        "health": 122500,
+        "red_now": 9
+    },
+    "449": {
+        "defence": 8700,
+        "name": "2914",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 17400,
+        "health": 174000,
+        "red_now": 19
+    },
+    "448": {
+        "defence": 8337,
+        "name": "2913",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 16675,
+        "health": 166750,
+        "red_now": 18
+    },
+    "443": {
+        "defence": 6525,
+        "name": "2908",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 13050,
+        "health": 130500,
+        "red_now": 13
+    },
+    "442": {
+        "defence": 6162,
+        "name": "2907",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 12325,
+        "health": 123250,
+        "red_now": 12
+    },
+    "441": {
+        "defence": 5800,
+        "name": "2906",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 11600,
+        "health": 116000,
+        "red_now": 11
+    },
+    "440": {
+        "defence": 5437,
+        "name": "2905",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 10875,
+        "health": 108750,
+        "red_now": 10
+    },
+    "447": {
+        "defence": 7975,
+        "name": "2912",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 15950,
+        "health": 159500,
+        "red_now": 17
+    },
+    "446": {
+        "defence": 7612,
+        "name": "2911",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 15225,
+        "health": 152250,
+        "red_now": 16
+    },
+    "445": {
+        "defence": 7250,
+        "name": "2910",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 14500,
+        "health": 145000,
+        "red_now": 15
+    },
+    "444": {
+        "defence": 6887,
+        "name": "2909",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 13775,
+        "health": 137750,
+        "red_now": 14
+    },
+    "108": {
+        "defence": 1137,
+        "name": "703",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 2275,
+        "health": 22750,
+        "red_now": 8
+    },
+    "109": {
+        "defence": 1225,
+        "name": "704",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 2450,
+        "health": 24500,
+        "red_now": 9
+    },
+    "102": {
+        "defence": 1650,
+        "name": "612",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 3300,
+        "health": 33000,
+        "red_now": 17
+    },
+    "103": {
+        "defence": 1725,
+        "name": "613",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 3450,
+        "health": 34500,
+        "red_now": 18
+    },
+    "100": {
+        "defence": 1500,
+        "name": "610",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 3000,
+        "health": 30000,
+        "red_now": 15
+    },
+    "101": {
+        "defence": 1575,
+        "name": "611",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 3150,
+        "health": 31500,
+        "red_now": 16
+    },
+    "106": {
+        "defence": 962,
+        "name": "701",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 1925,
+        "health": 19250,
+        "red_now": 6
+    },
+    "107": {
+        "defence": 1050,
+        "name": "702",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 2100,
+        "health": 21000,
+        "red_now": 7
+    },
+    "104": {
+        "defence": 1800,
+        "name": "614",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 3600,
+        "health": 36000,
+        "red_now": 19
+    },
+    "105": {
+        "defence": 1875,
+        "name": "615",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 3750,
+        "health": 37500,
+        "red_now": 20
+    },
+    "39": {
+        "defence": 475,
+        "name": "209",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 950,
+        "health": 9500,
+        "red_now": 14
+    },
+    "38": {
+        "defence": 450,
+        "name": "208",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 900,
+        "health": 9000,
+        "red_now": 13
+    },
+    "33": {
+        "defence": 325,
+        "name": "203",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 650,
+        "health": 6500,
+        "red_now": 8
+    },
+    "32": {
+        "defence": 300,
+        "name": "202",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 600,
+        "health": 6000,
+        "red_now": 7
+    },
+    "31": {
+        "defence": 275,
+        "name": "201",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 550,
+        "health": 5500,
+        "red_now": 6
+    },
+    "30": {
+        "defence": 312,
+        "name": "115",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 625,
+        "health": 6250,
+        "red_now": 20
+    },
+    "37": {
+        "defence": 425,
+        "name": "207",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 850,
+        "health": 8500,
+        "red_now": 12
+    },
+    "36": {
+        "defence": 400,
+        "name": "206",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 800,
+        "health": 8000,
+        "red_now": 11
+    },
+    "35": {
+        "defence": 375,
+        "name": "205",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 750,
+        "health": 7500,
+        "red_now": 10
+    },
+    "34": {
+        "defence": 350,
+        "name": "204",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 700,
+        "health": 7000,
+        "red_now": 9
+    },
+    "641": {
+        "defence": 11025,
+        "name": "4211",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 22050,
+        "health": 220500,
+        "red_now": 16
+    },
+    "640": {
+        "defence": 10500,
+        "name": "4210",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 21000,
+        "health": 210000,
+        "red_now": 15
+    },
+    "643": {
+        "defence": 12075,
+        "name": "4213",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 24150,
+        "health": 241500,
+        "red_now": 18
+    },
+    "642": {
+        "defence": 11550,
+        "name": "4212",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 23100,
+        "health": 231000,
+        "red_now": 17
+    },
+    "645": {
+        "defence": 13125,
+        "name": "4215",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 26250,
+        "health": 262500,
+        "red_now": 20
+    },
+    "644": {
+        "defence": 12600,
+        "name": "4214",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 25200,
+        "health": 252000,
+        "red_now": 19
+    },
+    "438": {
+        "defence": 4712,
+        "name": "2903",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 9425,
+        "health": 94250,
+        "red_now": 8
+    },
+    "439": {
+        "defence": 5075,
+        "name": "2904",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 10150,
+        "health": 101500,
+        "red_now": 9
+    },
+    "436": {
+        "defence": 3987,
+        "name": "2901",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 7975,
+        "health": 79750,
+        "red_now": 6
+    },
+    "437": {
+        "defence": 4350,
+        "name": "2902",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 8700,
+        "health": 87000,
+        "red_now": 7
+    },
+    "434": {
+        "defence": 8400,
+        "name": "2814",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 16800,
+        "health": 168000,
+        "red_now": 19
+    },
+    "435": {
+        "defence": 8750,
+        "name": "2815",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 17500,
+        "health": 175000,
+        "red_now": 20
+    },
+    "432": {
+        "defence": 7700,
+        "name": "2812",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 15400,
+        "health": 154000,
+        "red_now": 17
+    },
+    "433": {
+        "defence": 8050,
+        "name": "2813",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 16100,
+        "health": 161000,
+        "red_now": 18
+    },
+    "430": {
+        "defence": 7000,
+        "name": "2810",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 14000,
+        "health": 140000,
+        "red_now": 15
+    },
+    "431": {
+        "defence": 7350,
+        "name": "2811",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 14700,
+        "health": 147000,
+        "red_now": 16
+    },
+    "339": {
+        "defence": 5225,
+        "name": "2209",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 10450,
+        "health": 104500,
+        "red_now": 14
+    },
+    "338": {
+        "defence": 4950,
+        "name": "2208",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 9900,
+        "health": 99000,
+        "red_now": 13
+    },
+    "335": {
+        "defence": 4125,
+        "name": "2205",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 8250,
+        "health": 82500,
+        "red_now": 10
+    },
+    "334": {
+        "defence": 3850,
+        "name": "2204",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 7700,
+        "health": 77000,
+        "red_now": 9
+    },
+    "337": {
+        "defence": 4675,
+        "name": "2207",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 9350,
+        "health": 93500,
+        "red_now": 12
+    },
+    "336": {
+        "defence": 4400,
+        "name": "2206",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 8800,
+        "health": 88000,
+        "red_now": 11
+    },
+    "331": {
+        "defence": 3025,
+        "name": "2201",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 6050,
+        "health": 60500,
+        "red_now": 6
+    },
+    "330": {
+        "defence": 6562,
+        "name": "2115",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 13125,
+        "health": 131250,
+        "red_now": 20
+    },
+    "333": {
+        "defence": 3575,
+        "name": "2203",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 7150,
+        "health": 71500,
+        "red_now": 8
+    },
+    "332": {
+        "defence": 3300,
+        "name": "2202",
+        "red_grade": 9,
+        "lv": 22,
+        "attack": 6600,
+        "health": 66000,
+        "red_now": 7
+    },
+    "559": {
+        "defence": 6475,
+        "name": "3704",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 12950,
+        "health": 129500,
+        "red_now": 9
+    },
+    "558": {
+        "defence": 6012,
+        "name": "3703",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 12025,
+        "health": 120250,
+        "red_now": 8
+    },
+    "555": {
+        "defence": 11250,
+        "name": "3615",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 22500,
+        "health": 225000,
+        "red_now": 20
+    },
+    "6": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 11
+    },
+    "99": {
+        "defence": 1425,
+        "name": "609",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 2850,
+        "health": 28500,
+        "red_now": 14
+    },
+    "98": {
+        "defence": 1350,
+        "name": "608",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 2700,
+        "health": 27000,
+        "red_now": 13
+    },
+    "91": {
+        "defence": 825,
+        "name": "601",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 1650,
+        "health": 16500,
+        "red_now": 6
+    },
+    "90": {
+        "defence": 1562,
+        "name": "515",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 3125,
+        "health": 31250,
+        "red_now": 20
+    },
+    "93": {
+        "defence": 975,
+        "name": "603",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 1950,
+        "health": 19500,
+        "red_now": 8
+    },
+    "92": {
+        "defence": 900,
+        "name": "602",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 1800,
+        "health": 18000,
+        "red_now": 7
+    },
+    "95": {
+        "defence": 1125,
+        "name": "605",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 2250,
+        "health": 22500,
+        "red_now": 10
+    },
+    "94": {
+        "defence": 1050,
+        "name": "604",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 2100,
+        "health": 21000,
+        "red_now": 9
+    },
+    "97": {
+        "defence": 1275,
+        "name": "607",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 2550,
+        "health": 25500,
+        "red_now": 12
+    },
+    "96": {
+        "defence": 1200,
+        "name": "606",
+        "red_grade": 6,
+        "lv": 6,
+        "attack": 2400,
+        "health": 24000,
+        "red_now": 11
+    },
+    "153": {
+        "defence": 1625,
+        "name": "1003",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 3250,
+        "health": 32500,
+        "red_now": 8
+    },
+    "740": {
+        "defence": 9187,
+        "name": "4905",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 18375,
+        "health": 183750,
+        "red_now": 10
+    },
+    "741": {
+        "defence": 9800,
+        "name": "4906",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 19600,
+        "health": 196000,
+        "red_now": 11
+    },
+    "742": {
+        "defence": 10412,
+        "name": "4907",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 20825,
+        "health": 208250,
+        "red_now": 12
+    },
+    "743": {
+        "defence": 11025,
+        "name": "4908",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 22050,
+        "health": 220500,
+        "red_now": 13
+    },
+    "744": {
+        "defence": 11637,
+        "name": "4909",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 23275,
+        "health": 232750,
+        "red_now": 14
+    },
+    "745": {
+        "defence": 12250,
+        "name": "4910",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 24500,
+        "health": 245000,
+        "red_now": 15
+    },
+    "746": {
+        "defence": 12862,
+        "name": "4911",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 25725,
+        "health": 257250,
+        "red_now": 16
+    },
+    "747": {
+        "defence": 13475,
+        "name": "4912",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 26950,
+        "health": 269500,
+        "red_now": 17
+    },
+    "748": {
+        "defence": 14087,
+        "name": "4913",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 28175,
+        "health": 281750,
+        "red_now": 18
+    },
+    "554": {
+        "defence": 10800,
+        "name": "3614",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 21600,
+        "health": 216000,
+        "red_now": 19
+    },
+    "557": {
+        "defence": 5550,
+        "name": "3702",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 11100,
+        "health": 111000,
+        "red_now": 7
+    },
+    "556": {
+        "defence": 5087,
+        "name": "3701",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 10175,
+        "health": 101750,
+        "red_now": 6
+    },
+    "551": {
+        "defence": 9450,
+        "name": "3611",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 18900,
+        "health": 189000,
+        "red_now": 16
+    },
+    "550": {
+        "defence": 9000,
+        "name": "3610",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 18000,
+        "health": 180000,
+        "red_now": 15
+    },
+    "553": {
+        "defence": 10350,
+        "name": "3613",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 20700,
+        "health": 207000,
+        "red_now": 18
+    },
+    "552": {
+        "defence": 9900,
+        "name": "3612",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 19800,
+        "health": 198000,
+        "red_now": 17
+    },
+    "238": {
+        "defence": 4312,
+        "name": "1513",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 8625,
+        "health": 86250,
+        "red_now": 18
+    },
+    "239": {
+        "defence": 4500,
+        "name": "1514",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 9000,
+        "health": 90000,
+        "red_now": 19
+    },
+    "234": {
+        "defence": 3562,
+        "name": "1509",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 7125,
+        "health": 71250,
+        "red_now": 14
+    },
+    "235": {
+        "defence": 3750,
+        "name": "1510",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 7500,
+        "health": 75000,
+        "red_now": 15
+    },
+    "236": {
+        "defence": 3937,
+        "name": "1511",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 7875,
+        "health": 78750,
+        "red_now": 16
+    },
+    "237": {
+        "defence": 4125,
+        "name": "1512",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 8250,
+        "health": 82500,
+        "red_now": 17
+    },
+    "230": {
+        "defence": 2812,
+        "name": "1505",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 5625,
+        "health": 56250,
+        "red_now": 10
+    },
+    "231": {
+        "defence": 3000,
+        "name": "1506",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 6000,
+        "health": 60000,
+        "red_now": 11
+    },
+    "232": {
+        "defence": 3187,
+        "name": "1507",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 6375,
+        "health": 63750,
+        "red_now": 12
+    },
+    "233": {
+        "defence": 3375,
+        "name": "1508",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 6750,
+        "health": 67500,
+        "red_now": 13
+    },
+    "1": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 6
+    },
+    "155": {
+        "defence": 1875,
+        "name": "1005",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 3750,
+        "health": 37500,
+        "red_now": 10
+    },
+    "146": {
+        "defence": 2362,
+        "name": "911",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 4725,
+        "health": 47250,
+        "red_now": 16
+    },
+    "147": {
+        "defence": 2475,
+        "name": "912",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 4950,
+        "health": 49500,
+        "red_now": 17
+    },
+    "144": {
+        "defence": 2137,
+        "name": "909",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 4275,
+        "health": 42750,
+        "red_now": 14
+    },
+    "619": {
+        "defence": 7175,
+        "name": "4104",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 14350,
+        "health": 143500,
+        "red_now": 9
+    },
+    "142": {
+        "defence": 1912,
+        "name": "907",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 3825,
+        "health": 38250,
+        "red_now": 12
+    },
+    "143": {
+        "defence": 2025,
+        "name": "908",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 4050,
+        "health": 40500,
+        "red_now": 13
+    },
+    "140": {
+        "defence": 1687,
+        "name": "905",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 3375,
+        "health": 33750,
+        "red_now": 10
+    },
+    "141": {
+        "defence": 1800,
+        "name": "906",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 3600,
+        "health": 36000,
+        "red_now": 11
+    },
+    "612": {
+        "defence": 11000,
+        "name": "4012",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 22000,
+        "health": 220000,
+        "red_now": 17
+    },
+    "613": {
+        "defence": 11500,
+        "name": "4013",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 23000,
+        "health": 230000,
+        "red_now": 18
+    },
+    "610": {
+        "defence": 10000,
+        "name": "4010",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 20000,
+        "health": 200000,
+        "red_now": 15
+    },
+    "611": {
+        "defence": 10500,
+        "name": "4011",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 21000,
+        "health": 210000,
+        "red_now": 16
+    },
+    "616": {
+        "defence": 5637,
+        "name": "4101",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 11275,
+        "health": 112750,
+        "red_now": 6
+    },
+    "617": {
+        "defence": 6150,
+        "name": "4102",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 12300,
+        "health": 123000,
+        "red_now": 7
+    },
+    "614": {
+        "defence": 12000,
+        "name": "4014",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 24000,
+        "health": 240000,
+        "red_now": 19
+    },
+    "149": {
+        "defence": 2700,
+        "name": "914",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 5400,
+        "health": 54000,
+        "red_now": 19
+    },
+    "154": {
+        "defence": 1750,
+        "name": "1004",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 3500,
+        "health": 35000,
+        "red_now": 9
+    },
+    "689": {
+        "defence": 13500,
+        "name": "4514",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 27000,
+        "health": 270000,
+        "red_now": 19
+    },
+    "688": {
+        "defence": 12937,
+        "name": "4513",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 25875,
+        "health": 258750,
+        "red_now": 18
+    },
+    "685": {
+        "defence": 11250,
+        "name": "4510",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 22500,
+        "health": 225000,
+        "red_now": 15
+    },
+    "684": {
+        "defence": 10687,
+        "name": "4509",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 21375,
+        "health": 213750,
+        "red_now": 14
+    },
+    "687": {
+        "defence": 12375,
+        "name": "4512",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 24750,
+        "health": 247500,
+        "red_now": 17
+    },
+    "686": {
+        "defence": 11812,
+        "name": "4511",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 23625,
+        "health": 236250,
+        "red_now": 16
+    },
+    "681": {
+        "defence": 9000,
+        "name": "4506",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 18000,
+        "health": 180000,
+        "red_now": 11
+    },
+    "680": {
+        "defence": 8437,
+        "name": "4505",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 16875,
+        "health": 168750,
+        "red_now": 10
+    },
+    "683": {
+        "defence": 10125,
+        "name": "4508",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 20250,
+        "health": 202500,
+        "red_now": 13
+    },
+    "682": {
+        "defence": 9562,
+        "name": "4507",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 19125,
+        "health": 191250,
+        "red_now": 12
+    },
+    "458": {
+        "defence": 6750,
+        "name": "3008",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 13500,
+        "health": 135000,
+        "red_now": 13
+    },
+    "459": {
+        "defence": 7125,
+        "name": "3009",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 14250,
+        "health": 142500,
+        "red_now": 14
+    },
+    "133": {
+        "defence": 2300,
+        "name": "813",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 4600,
+        "health": 46000,
+        "red_now": 18
+    },
+    "132": {
+        "defence": 2200,
+        "name": "812",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 4400,
+        "health": 44000,
+        "red_now": 17
+    },
+    "131": {
+        "defence": 2100,
+        "name": "811",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 4200,
+        "health": 42000,
+        "red_now": 16
+    },
+    "130": {
+        "defence": 2000,
+        "name": "810",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 4000,
+        "health": 40000,
+        "red_now": 15
+    },
+    "137": {
+        "defence": 1350,
+        "name": "902",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 2700,
+        "health": 27000,
+        "red_now": 7
+    },
+    "136": {
+        "defence": 1237,
+        "name": "901",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 2475,
+        "health": 24750,
+        "red_now": 6
+    },
+    "135": {
+        "defence": 2500,
+        "name": "815",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 5000,
+        "health": 50000,
+        "red_now": 20
+    },
+    "134": {
+        "defence": 2400,
+        "name": "814",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 4800,
+        "health": 48000,
+        "red_now": 19
+    },
+    "494": {
+        "defence": 9600,
+        "name": "3214",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 19200,
+        "health": 192000,
+        "red_now": 19
+    },
+    "495": {
+        "defence": 10000,
+        "name": "3215",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 20000,
+        "health": 200000,
+        "red_now": 20
+    },
+    "139": {
+        "defence": 1575,
+        "name": "904",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 3150,
+        "health": 31500,
+        "red_now": 9
+    },
+    "138": {
+        "defence": 1462,
+        "name": "903",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 2925,
+        "health": 29250,
+        "red_now": 8
+    },
+    "490": {
+        "defence": 8000,
+        "name": "3210",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 16000,
+        "health": 160000,
+        "red_now": 15
+    },
+    "491": {
+        "defence": 8400,
+        "name": "3211",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 16800,
+        "health": 168000,
+        "red_now": 16
+    },
+    "492": {
+        "defence": 8800,
+        "name": "3212",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 17600,
+        "health": 176000,
+        "red_now": 17
+    },
+    "493": {
+        "defence": 9200,
+        "name": "3213",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 18400,
+        "health": 184000,
+        "red_now": 18
+    },
+    "24": {
+        "defence": 237,
+        "name": "109",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 475,
+        "health": 4750,
+        "red_now": 14
+    },
+    "25": {
+        "defence": 250,
+        "name": "110",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 500,
+        "health": 5000,
+        "red_now": 15
+    },
+    "26": {
+        "defence": 262,
+        "name": "111",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 525,
+        "health": 5250,
+        "red_now": 16
+    },
+    "27": {
+        "defence": 275,
+        "name": "112",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 550,
+        "health": 5500,
+        "red_now": 17
+    },
+    "20": {
+        "defence": 187,
+        "name": "105",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 375,
+        "health": 3750,
+        "red_now": 10
+    },
+    "21": {
+        "defence": 200,
+        "name": "106",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 400,
+        "health": 4000,
+        "red_now": 11
+    },
+    "22": {
+        "defence": 212,
+        "name": "107",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 425,
+        "health": 4250,
+        "red_now": 12
+    },
+    "23": {
+        "defence": 225,
+        "name": "108",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 450,
+        "health": 4500,
+        "red_now": 13
+    },
+    "28": {
+        "defence": 287,
+        "name": "113",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 575,
+        "health": 5750,
+        "red_now": 18
+    },
+    "29": {
+        "defence": 300,
+        "name": "114",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 600,
+        "health": 6000,
+        "red_now": 19
+    },
+    "407": {
+        "defence": 4050,
+        "name": "2702",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 8100,
+        "health": 81000,
+        "red_now": 7
+    },
+    "406": {
+        "defence": 3712,
+        "name": "2701",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 7425,
+        "health": 74250,
+        "red_now": 6
+    },
+    "405": {
+        "defence": 8125,
+        "name": "2615",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 16250,
+        "health": 162500,
+        "red_now": 20
+    },
+    "404": {
+        "defence": 7800,
+        "name": "2614",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 15600,
+        "health": 156000,
+        "red_now": 19
+    },
+    "403": {
+        "defence": 7475,
+        "name": "2613",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 14950,
+        "health": 149500,
+        "red_now": 18
+    },
+    "402": {
+        "defence": 7150,
+        "name": "2612",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 14300,
+        "health": 143000,
+        "red_now": 17
+    },
+    "401": {
+        "defence": 6825,
+        "name": "2611",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 13650,
+        "health": 136500,
+        "red_now": 16
+    },
+    "400": {
+        "defence": 6500,
+        "name": "2610",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 13000,
+        "health": 130000,
+        "red_now": 15
+    },
+    "452": {
+        "defence": 4500,
+        "name": "3002",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 9000,
+        "health": 90000,
+        "red_now": 7
+    },
+    "409": {
+        "defence": 4725,
+        "name": "2704",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 9450,
+        "health": 94500,
+        "red_now": 9
+    },
+    "408": {
+        "defence": 4387,
+        "name": "2703",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 8775,
+        "health": 87750,
+        "red_now": 8
+    },
+    "453": {
+        "defence": 4875,
+        "name": "3003",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 9750,
+        "health": 97500,
+        "red_now": 8
+    },
+    "183": {
+        "defence": 1950,
+        "name": "1203",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 3900,
+        "health": 39000,
+        "red_now": 8
+    },
+    "379": {
+        "defence": 4375,
+        "name": "2504",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 8750,
+        "health": 87500,
+        "red_now": 9
+    },
+    "378": {
+        "defence": 4062,
+        "name": "2503",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 8125,
+        "health": 81250,
+        "red_now": 8
+    },
+    "228": {
+        "defence": 2437,
+        "name": "1503",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 4875,
+        "health": 48750,
+        "red_now": 8
+    },
+    "371": {
+        "defence": 6300,
+        "name": "2411",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 12600,
+        "health": 126000,
+        "red_now": 16
+    },
+    "370": {
+        "defence": 6000,
+        "name": "2410",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 12000,
+        "health": 120000,
+        "red_now": 15
+    },
+    "373": {
+        "defence": 6900,
+        "name": "2413",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 13800,
+        "health": 138000,
+        "red_now": 18
+    },
+    "372": {
+        "defence": 6600,
+        "name": "2412",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 13200,
+        "health": 132000,
+        "red_now": 17
+    },
+    "375": {
+        "defence": 7500,
+        "name": "2415",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 15000,
+        "health": 150000,
+        "red_now": 20
+    },
+    "374": {
+        "defence": 7200,
+        "name": "2414",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 14400,
+        "health": 144000,
+        "red_now": 19
+    },
+    "377": {
+        "defence": 3750,
+        "name": "2502",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 7500,
+        "health": 75000,
+        "red_now": 7
+    },
+    "376": {
+        "defence": 3437,
+        "name": "2501",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 6875,
+        "health": 68750,
+        "red_now": 6
+    },
+    "708": {
+        "defence": 7637,
+        "name": "4703",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 15275,
+        "health": 152750,
+        "red_now": 8
+    },
+    "709": {
+        "defence": 8225,
+        "name": "4704",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 16450,
+        "health": 164500,
+        "red_now": 9
+    },
+    "704": {
+        "defence": 13800,
+        "name": "4614",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 27600,
+        "health": 276000,
+        "red_now": 19
+    },
+    "705": {
+        "defence": 14375,
+        "name": "4615",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 28750,
+        "health": 287500,
+        "red_now": 20
+    },
+    "706": {
+        "defence": 6462,
+        "name": "4701",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 12925,
+        "health": 129250,
+        "red_now": 6
+    },
+    "707": {
+        "defence": 7050,
+        "name": "4702",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 14100,
+        "health": 141000,
+        "red_now": 7
+    },
+    "700": {
+        "defence": 11500,
+        "name": "4610",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 23000,
+        "health": 230000,
+        "red_now": 15
+    },
+    "618": {
+        "defence": 6662,
+        "name": "4103",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 13325,
+        "health": 133250,
+        "red_now": 8
+    },
+    "702": {
+        "defence": 12650,
+        "name": "4612",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 25300,
+        "health": 253000,
+        "red_now": 17
+    },
+    "703": {
+        "defence": 13225,
+        "name": "4613",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 26450,
+        "health": 264500,
+        "red_now": 18
+    },
+    "393": {
+        "defence": 4225,
+        "name": "2603",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 8450,
+        "health": 84500,
+        "red_now": 8
+    },
+    "392": {
+        "defence": 3900,
+        "name": "2602",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 7800,
+        "health": 78000,
+        "red_now": 7
+    },
+    "88": {
+        "defence": 1437,
+        "name": "513",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2875,
+        "health": 28750,
+        "red_now": 18
+    },
+    "145": {
+        "defence": 2250,
+        "name": "910",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 4500,
+        "health": 45000,
+        "red_now": 15
+    },
+    "397": {
+        "defence": 5525,
+        "name": "2607",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 11050,
+        "health": 110500,
+        "red_now": 12
+    },
+    "396": {
+        "defence": 5200,
+        "name": "2606",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 10400,
+        "health": 104000,
+        "red_now": 11
+    },
+    "395": {
+        "defence": 4875,
+        "name": "2605",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 9750,
+        "health": 97500,
+        "red_now": 10
+    },
+    "394": {
+        "defence": 4550,
+        "name": "2604",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 9100,
+        "health": 91000,
+        "red_now": 9
+    },
+    "82": {
+        "defence": 1062,
+        "name": "507",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2125,
+        "health": 21250,
+        "red_now": 12
+    },
+    "83": {
+        "defence": 1125,
+        "name": "508",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2250,
+        "health": 22500,
+        "red_now": 13
+    },
+    "80": {
+        "defence": 937,
+        "name": "505",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 1875,
+        "health": 18750,
+        "red_now": 10
+    },
+    "81": {
+        "defence": 1000,
+        "name": "506",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2000,
+        "health": 20000,
+        "red_now": 11
+    },
+    "86": {
+        "defence": 1312,
+        "name": "511",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2625,
+        "health": 26250,
+        "red_now": 16
+    },
+    "87": {
+        "defence": 1375,
+        "name": "512",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2750,
+        "health": 27500,
+        "red_now": 17
+    },
+    "84": {
+        "defence": 1187,
+        "name": "509",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2375,
+        "health": 23750,
+        "red_now": 14
+    },
+    "85": {
+        "defence": 1250,
+        "name": "510",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 2500,
+        "health": 25000,
+        "red_now": 15
+    },
+    "7": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 12
+    },
+    "170": {
+        "defence": 2062,
+        "name": "1105",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 4125,
+        "health": 41250,
+        "red_now": 10
+    },
+    "586": {
+        "defence": 5362,
+        "name": "3901",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 10725,
+        "health": 107250,
+        "red_now": 6
+    },
+    "587": {
+        "defence": 5850,
+        "name": "3902",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 11700,
+        "health": 117000,
+        "red_now": 7
+    },
+    "584": {
+        "defence": 11400,
+        "name": "3814",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 22800,
+        "health": 228000,
+        "red_now": 19
+    },
+    "585": {
+        "defence": 11875,
+        "name": "3815",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 23750,
+        "health": 237500,
+        "red_now": 20
+    },
+    "582": {
+        "defence": 10450,
+        "name": "3812",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 20900,
+        "health": 209000,
+        "red_now": 17
+    },
+    "583": {
+        "defence": 10925,
+        "name": "3813",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 21850,
+        "health": 218500,
+        "red_now": 18
+    },
+    "580": {
+        "defence": 9500,
+        "name": "3810",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 19000,
+        "health": 190000,
+        "red_now": 15
+    },
+    "581": {
+        "defence": 9975,
+        "name": "3811",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 19950,
+        "health": 199500,
+        "red_now": 16
+    },
+    "588": {
+        "defence": 6337,
+        "name": "3903",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 12675,
+        "health": 126750,
+        "red_now": 8
+    },
+    "589": {
+        "defence": 6825,
+        "name": "3904",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 13650,
+        "health": 136500,
+        "red_now": 9
+    },
+    "245": {
+        "defence": 3000,
+        "name": "1605",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 6000,
+        "health": 60000,
+        "red_now": 10
+    },
+    "244": {
+        "defence": 2800,
+        "name": "1604",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 5600,
+        "health": 56000,
+        "red_now": 9
+    },
+    "247": {
+        "defence": 3400,
+        "name": "1607",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 6800,
+        "health": 68000,
+        "red_now": 12
+    },
+    "246": {
+        "defence": 3200,
+        "name": "1606",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 6400,
+        "health": 64000,
+        "red_now": 11
+    },
+    "241": {
+        "defence": 2200,
+        "name": "1601",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 4400,
+        "health": 44000,
+        "red_now": 6
+    },
+    "148": {
+        "defence": 2587,
+        "name": "913",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 5175,
+        "health": 51750,
+        "red_now": 18
+    },
+    "243": {
+        "defence": 2600,
+        "name": "1603",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 5200,
+        "health": 52000,
+        "red_now": 8
+    },
+    "242": {
+        "defence": 2400,
+        "name": "1602",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 4800,
+        "health": 48000,
+        "red_now": 7
+    },
+    "615": {
+        "defence": 12500,
+        "name": "4015",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 25000,
+        "health": 250000,
+        "red_now": 20
+    },
+    "249": {
+        "defence": 3800,
+        "name": "1609",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 7600,
+        "health": 76000,
+        "red_now": 14
+    },
+    "248": {
+        "defence": 3600,
+        "name": "1608",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 7200,
+        "health": 72000,
+        "red_now": 13
+    },
+    "519": {
+        "defence": 8075,
+        "name": "3409",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 16150,
+        "health": 161500,
+        "red_now": 14
+    },
+    "518": {
+        "defence": 7650,
+        "name": "3408",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 15300,
+        "health": 153000,
+        "red_now": 13
+    },
+    "511": {
+        "defence": 4675,
+        "name": "3401",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 9350,
+        "health": 93500,
+        "red_now": 6
+    },
+    "510": {
+        "defence": 10312,
+        "name": "3315",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 20625,
+        "health": 206250,
+        "red_now": 20
+    },
+    "513": {
+        "defence": 5525,
+        "name": "3403",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 11050,
+        "health": 110500,
+        "red_now": 8
+    },
+    "512": {
+        "defence": 5100,
+        "name": "3402",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 10200,
+        "health": 102000,
+        "red_now": 7
+    },
+    "515": {
+        "defence": 6375,
+        "name": "3405",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 12750,
+        "health": 127500,
+        "red_now": 10
+    },
+    "514": {
+        "defence": 5950,
+        "name": "3404",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 11900,
+        "health": 119000,
+        "red_now": 9
+    },
+    "517": {
+        "defence": 7225,
+        "name": "3407",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 14450,
+        "health": 144500,
+        "red_now": 12
+    },
+    "516": {
+        "defence": 6800,
+        "name": "3406",
+        "red_grade": 11,
+        "lv": 34,
+        "attack": 13600,
+        "health": 136000,
+        "red_now": 11
+    },
+    "623": {
+        "defence": 9225,
+        "name": "4108",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 18450,
+        "health": 184500,
+        "red_now": 13
+    },
+    "622": {
+        "defence": 8712,
+        "name": "4107",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 17425,
+        "health": 174250,
+        "red_now": 12
+    },
+    "621": {
+        "defence": 8200,
+        "name": "4106",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 16400,
+        "health": 164000,
+        "red_now": 11
+    },
+    "620": {
+        "defence": 7687,
+        "name": "4105",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 15375,
+        "health": 153750,
+        "red_now": 10
+    },
+    "627": {
+        "defence": 11275,
+        "name": "4112",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 22550,
+        "health": 225500,
+        "red_now": 17
+    },
+    "626": {
+        "defence": 10762,
+        "name": "4111",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 21525,
+        "health": 215250,
+        "red_now": 16
+    },
+    "625": {
+        "defence": 10250,
+        "name": "4110",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 20500,
+        "health": 205000,
+        "red_now": 15
+    },
+    "624": {
+        "defence": 9737,
+        "name": "4109",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 19475,
+        "health": 194750,
+        "red_now": 14
+    },
+    "450": {
+        "defence": 9062,
+        "name": "2915",
+        "red_grade": 10,
+        "lv": 29,
+        "attack": 18125,
+        "health": 181250,
+        "red_now": 20
+    },
+    "451": {
+        "defence": 4125,
+        "name": "3001",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 8250,
+        "health": 82500,
+        "red_now": 6
+    },
+    "629": {
+        "defence": 12300,
+        "name": "4114",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 24600,
+        "health": 246000,
+        "red_now": 19
+    },
+    "628": {
+        "defence": 11787,
+        "name": "4113",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 23575,
+        "health": 235750,
+        "red_now": 18
+    },
+    "454": {
+        "defence": 5250,
+        "name": "3004",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 10500,
+        "health": 105000,
+        "red_now": 9
+    },
+    "455": {
+        "defence": 5625,
+        "name": "3005",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 11250,
+        "health": 112500,
+        "red_now": 10
+    },
+    "456": {
+        "defence": 6000,
+        "name": "3006",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 12000,
+        "health": 120000,
+        "red_now": 11
+    },
+    "457": {
+        "defence": 6375,
+        "name": "3007",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 12750,
+        "health": 127500,
+        "red_now": 12
+    },
+    "179": {
+        "defence": 3300,
+        "name": "1114",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 6600,
+        "health": 66000,
+        "red_now": 19
+    },
+    "178": {
+        "defence": 3162,
+        "name": "1113",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 6325,
+        "health": 63250,
+        "red_now": 18
+    },
+    "177": {
+        "defence": 3025,
+        "name": "1112",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 6050,
+        "health": 60500,
+        "red_now": 17
+    },
+    "199": {
+        "defence": 2275,
+        "name": "1304",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 4550,
+        "health": 45500,
+        "red_now": 9
+    },
+    "175": {
+        "defence": 2750,
+        "name": "1110",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 5500,
+        "health": 55000,
+        "red_now": 15
+    },
+    "174": {
+        "defence": 2612,
+        "name": "1109",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 5225,
+        "health": 52250,
+        "red_now": 14
+    },
+    "173": {
+        "defence": 2475,
+        "name": "1108",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 4950,
+        "health": 49500,
+        "red_now": 13
+    },
+    "172": {
+        "defence": 2337,
+        "name": "1107",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 4675,
+        "health": 46750,
+        "red_now": 12
+    },
+    "171": {
+        "defence": 2200,
+        "name": "1106",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 4400,
+        "health": 44000,
+        "red_now": 11
+    },
+    "198": {
+        "defence": 2112,
+        "name": "1303",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 4225,
+        "health": 42250,
+        "red_now": 8
+    },
+    "182": {
+        "defence": 1800,
+        "name": "1202",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 3600,
+        "health": 36000,
+        "red_now": 7
+    },
+    "657": {
+        "defence": 11825,
+        "name": "4312",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 23650,
+        "health": 236500,
+        "red_now": 17
+    },
+    "180": {
+        "defence": 3437,
+        "name": "1115",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 6875,
+        "health": 68750,
+        "red_now": 20
+    },
+    "656": {
+        "defence": 11287,
+        "name": "4311",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 22575,
+        "health": 225750,
+        "red_now": 16
+    },
+    "599": {
+        "defence": 11700,
+        "name": "3914",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 23400,
+        "health": 234000,
+        "red_now": 19
+    },
+    "654": {
+        "defence": 10212,
+        "name": "4309",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 20425,
+        "health": 204250,
+        "red_now": 14
+    },
+    "181": {
+        "defence": 1650,
+        "name": "1201",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 3300,
+        "health": 33000,
+        "red_now": 6
+    },
+    "186": {
+        "defence": 2400,
+        "name": "1206",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 4800,
+        "health": 48000,
+        "red_now": 11
+    },
+    "187": {
+        "defence": 2550,
+        "name": "1207",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 5100,
+        "health": 51000,
+        "red_now": 12
+    },
+    "184": {
+        "defence": 2100,
+        "name": "1204",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 4200,
+        "health": 42000,
+        "red_now": 9
+    },
+    "185": {
+        "defence": 2250,
+        "name": "1205",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 4500,
+        "health": 45000,
+        "red_now": 10
+    },
+    "652": {
+        "defence": 9137,
+        "name": "4307",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 18275,
+        "health": 182750,
+        "red_now": 12
+    },
+    "188": {
+        "defence": 2700,
+        "name": "1208",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 5400,
+        "health": 54000,
+        "red_now": 13
+    },
+    "189": {
+        "defence": 2850,
+        "name": "1209",
+        "red_grade": 7,
+        "lv": 12,
+        "attack": 5700,
+        "health": 57000,
+        "red_now": 14
+    },
+    "658": {
+        "defence": 12362,
+        "name": "4313",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 24725,
+        "health": 247250,
+        "red_now": 18
+    },
+    "653": {
+        "defence": 9675,
+        "name": "4308",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 19350,
+        "health": 193500,
+        "red_now": 13
+    },
+    "650": {
+        "defence": 8062,
+        "name": "4305",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 16125,
+        "health": 161250,
+        "red_now": 10
+    },
+    "651": {
+        "defence": 8600,
+        "name": "4306",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 17200,
+        "health": 172000,
+        "red_now": 11
+    },
+    "11": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 16
+    },
+    "10": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 15
+    },
+    "13": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 18
+    },
+    "12": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 17
+    },
+    "15": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 20
+    },
+    "14": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 19
+    },
+    "17": {
+        "defence": 150,
+        "name": "102",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 300,
+        "health": 3000,
+        "red_now": 7
+    },
+    "16": {
+        "defence": 137,
+        "name": "101",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 275,
+        "health": 2750,
+        "red_now": 6
+    },
+    "19": {
+        "defence": 175,
+        "name": "104",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 350,
+        "health": 3500,
+        "red_now": 9
+    },
+    "18": {
+        "defence": 162,
+        "name": "103",
+        "red_grade": 6,
+        "lv": 1,
+        "attack": 325,
+        "health": 3250,
+        "red_now": 8
+    },
+    "659": {
+        "defence": 12900,
+        "name": "4314",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 25800,
+        "health": 258000,
+        "red_now": 19
+    },
+    "568": {
+        "defence": 10637,
+        "name": "3713",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 21275,
+        "health": 212750,
+        "red_now": 18
+    },
+    "569": {
+        "defence": 11100,
+        "name": "3714",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 22200,
+        "health": 222000,
+        "red_now": 19
+    },
+    "322": {
+        "defence": 4462,
+        "name": "2107",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 8925,
+        "health": 89250,
+        "red_now": 12
+    },
+    "323": {
+        "defence": 4725,
+        "name": "2108",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 9450,
+        "health": 94500,
+        "red_now": 13
+    },
+    "320": {
+        "defence": 3937,
+        "name": "2105",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 7875,
+        "health": 78750,
+        "red_now": 10
+    },
+    "321": {
+        "defence": 4200,
+        "name": "2106",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 8400,
+        "health": 84000,
+        "red_now": 11
+    },
+    "326": {
+        "defence": 5512,
+        "name": "2111",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 11025,
+        "health": 110250,
+        "red_now": 16
+    },
+    "327": {
+        "defence": 5775,
+        "name": "2112",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 11550,
+        "health": 115500,
+        "red_now": 17
+    },
+    "324": {
+        "defence": 4987,
+        "name": "2109",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 9975,
+        "health": 99750,
+        "red_now": 14
+    },
+    "325": {
+        "defence": 5250,
+        "name": "2110",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 10500,
+        "health": 105000,
+        "red_now": 15
+    },
+    "328": {
+        "defence": 6037,
+        "name": "2113",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 12075,
+        "health": 120750,
+        "red_now": 18
+    },
+    "329": {
+        "defence": 6300,
+        "name": "2114",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 12600,
+        "health": 126000,
+        "red_now": 19
+    },
+    "562": {
+        "defence": 7862,
+        "name": "3707",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 15725,
+        "health": 157250,
+        "red_now": 12
+    },
+    "201": {
+        "defence": 2600,
+        "name": "1306",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 5200,
+        "health": 52000,
+        "red_now": 11
+    },
+    "200": {
+        "defence": 2437,
+        "name": "1305",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 4875,
+        "health": 48750,
+        "red_now": 10
+    },
+    "203": {
+        "defence": 2925,
+        "name": "1308",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 5850,
+        "health": 58500,
+        "red_now": 13
+    },
+    "202": {
+        "defence": 2762,
+        "name": "1307",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 5525,
+        "health": 55250,
+        "red_now": 12
+    },
+    "205": {
+        "defence": 3250,
+        "name": "1310",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 6500,
+        "health": 65000,
+        "red_now": 15
+    },
+    "204": {
+        "defence": 3087,
+        "name": "1309",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 6175,
+        "health": 61750,
+        "red_now": 14
+    },
+    "207": {
+        "defence": 3575,
+        "name": "1312",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 7150,
+        "health": 71500,
+        "red_now": 17
+    },
+    "206": {
+        "defence": 3412,
+        "name": "1311",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 6825,
+        "health": 68250,
+        "red_now": 16
+    },
+    "209": {
+        "defence": 3900,
+        "name": "1314",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 7800,
+        "health": 78000,
+        "red_now": 19
+    },
+    "208": {
+        "defence": 3737,
+        "name": "1313",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 7475,
+        "health": 74750,
+        "red_now": 18
+    },
+    "77": {
+        "defence": 750,
+        "name": "502",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 1500,
+        "health": 15000,
+        "red_now": 7
+    },
+    "76": {
+        "defence": 687,
+        "name": "501",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 1375,
+        "health": 13750,
+        "red_now": 6
+    },
+    "75": {
+        "defence": 1250,
+        "name": "415",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 2500,
+        "health": 25000,
+        "red_now": 20
+    },
+    "74": {
+        "defence": 1200,
+        "name": "414",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 2400,
+        "health": 24000,
+        "red_now": 19
+    },
+    "73": {
+        "defence": 1150,
+        "name": "413",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 2300,
+        "health": 23000,
+        "red_now": 18
+    },
+    "72": {
+        "defence": 1100,
+        "name": "412",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 2200,
+        "health": 22000,
+        "red_now": 17
+    },
+    "71": {
+        "defence": 1050,
+        "name": "411",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 2100,
+        "health": 21000,
+        "red_now": 16
+    },
+    "70": {
+        "defence": 1000,
+        "name": "410",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 2000,
+        "health": 20000,
+        "red_now": 15
+    },
+    "655": {
+        "defence": 10750,
+        "name": "4310",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 21500,
+        "health": 215000,
+        "red_now": 15
+    },
+    "567": {
+        "defence": 10175,
+        "name": "3712",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 20350,
+        "health": 203500,
+        "red_now": 17
+    },
+    "79": {
+        "defence": 875,
+        "name": "504",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 1750,
+        "health": 17500,
+        "red_now": 9
+    },
+    "78": {
+        "defence": 812,
+        "name": "503",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 1625,
+        "health": 16250,
+        "red_now": 8
+    },
+    "669": {
+        "defence": 10450,
+        "name": "4409",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 20900,
+        "health": 209000,
+        "red_now": 14
+    },
+    "668": {
+        "defence": 9900,
+        "name": "4408",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 19800,
+        "health": 198000,
+        "red_now": 13
+    },
+    "667": {
+        "defence": 9350,
+        "name": "4407",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 18700,
+        "health": 187000,
+        "red_now": 12
+    },
+    "666": {
+        "defence": 8800,
+        "name": "4406",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 17600,
+        "health": 176000,
+        "red_now": 11
+    },
+    "665": {
+        "defence": 8250,
+        "name": "4405",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 16500,
+        "health": 165000,
+        "red_now": 10
+    },
+    "664": {
+        "defence": 7700,
+        "name": "4404",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 15400,
+        "health": 154000,
+        "red_now": 9
+    },
+    "663": {
+        "defence": 7150,
+        "name": "4403",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 14300,
+        "health": 143000,
+        "red_now": 8
+    },
+    "662": {
+        "defence": 6600,
+        "name": "4402",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 13200,
+        "health": 132000,
+        "red_now": 7
+    },
+    "661": {
+        "defence": 6050,
+        "name": "4401",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 12100,
+        "health": 121000,
+        "red_now": 6
+    },
+    "660": {
+        "defence": 13437,
+        "name": "4315",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 26875,
+        "health": 268750,
+        "red_now": 20
+    },
+    "692": {
+        "defence": 6900,
+        "name": "4602",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 13800,
+        "health": 138000,
+        "red_now": 7
+    },
+    "693": {
+        "defence": 7475,
+        "name": "4603",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 14950,
+        "health": 149500,
+        "red_now": 8
+    },
+    "690": {
+        "defence": 14062,
+        "name": "4515",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 28125,
+        "health": 281250,
+        "red_now": 20
+    },
+    "691": {
+        "defence": 6325,
+        "name": "4601",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 12650,
+        "health": 126500,
+        "red_now": 6
+    },
+    "696": {
+        "defence": 9200,
+        "name": "4606",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 18400,
+        "health": 184000,
+        "red_now": 11
+    },
+    "697": {
+        "defence": 9775,
+        "name": "4607",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 19550,
+        "health": 195500,
+        "red_now": 12
+    },
+    "694": {
+        "defence": 8050,
+        "name": "4604",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 16100,
+        "health": 161000,
+        "red_now": 9
+    },
+    "695": {
+        "defence": 8625,
+        "name": "4605",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 17250,
+        "health": 172500,
+        "red_now": 10
+    },
+    "698": {
+        "defence": 10350,
+        "name": "4608",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 20700,
+        "health": 207000,
+        "red_now": 13
+    },
+    "699": {
+        "defence": 10925,
+        "name": "4609",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 21850,
+        "health": 218500,
+        "red_now": 14
+    },
+    "542": {
+        "defence": 5400,
+        "name": "3602",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 10800,
+        "health": 108000,
+        "red_now": 7
+    },
+    "543": {
+        "defence": 5850,
+        "name": "3603",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 11700,
+        "health": 117000,
+        "red_now": 8
+    },
+    "540": {
+        "defence": 10937,
+        "name": "3515",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 21875,
+        "health": 218750,
+        "red_now": 20
+    },
+    "541": {
+        "defence": 4950,
+        "name": "3601",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 9900,
+        "health": 99000,
+        "red_now": 6
+    },
+    "546": {
+        "defence": 7200,
+        "name": "3606",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 14400,
+        "health": 144000,
+        "red_now": 11
+    },
+    "547": {
+        "defence": 7650,
+        "name": "3607",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 15300,
+        "health": 153000,
+        "red_now": 12
+    },
+    "544": {
+        "defence": 6300,
+        "name": "3604",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 12600,
+        "health": 126000,
+        "red_now": 9
+    },
+    "545": {
+        "defence": 6750,
+        "name": "3605",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 13500,
+        "health": 135000,
+        "red_now": 10
+    },
+    "8": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 13
+    },
+    "548": {
+        "defence": 8100,
+        "name": "3608",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 16200,
+        "health": 162000,
+        "red_now": 13
+    },
+    "549": {
+        "defence": 8550,
+        "name": "3609",
+        "red_grade": 12,
+        "lv": 36,
+        "attack": 17100,
+        "health": 171000,
+        "red_now": 14
+    },
+    "598": {
+        "defence": 11212,
+        "name": "3913",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 22425,
+        "health": 224250,
+        "red_now": 18
+    },
+    "120": {
+        "defence": 2187,
+        "name": "715",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 4375,
+        "health": 43750,
+        "red_now": 20
+    },
+    "121": {
+        "defence": 1100,
+        "name": "801",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 2200,
+        "health": 22000,
+        "red_now": 6
+    },
+    "122": {
+        "defence": 1200,
+        "name": "802",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 2400,
+        "health": 24000,
+        "red_now": 7
+    },
+    "123": {
+        "defence": 1300,
+        "name": "803",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 2600,
+        "health": 26000,
+        "red_now": 8
+    },
+    "124": {
+        "defence": 1400,
+        "name": "804",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 2800,
+        "health": 28000,
+        "red_now": 9
+    },
+    "125": {
+        "defence": 1500,
+        "name": "805",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 3000,
+        "health": 30000,
+        "red_now": 10
+    },
+    "126": {
+        "defence": 1600,
+        "name": "806",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 3200,
+        "health": 32000,
+        "red_now": 11
+    },
+    "127": {
+        "defence": 1700,
+        "name": "807",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 3400,
+        "health": 34000,
+        "red_now": 12
+    },
+    "128": {
+        "defence": 1800,
+        "name": "808",
+        "red_grade": 6,
+        "lv": 8,
+        "attack": 3600,
+        "health": 36000,
+        "red_now": 13
+    },
+    "2": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 7
+    },
+    "219": {
+        "defence": 3325,
+        "name": "1409",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 6650,
+        "health": 66500,
+        "red_now": 14
+    },
+    "176": {
+        "defence": 2887,
+        "name": "1111",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 5775,
+        "health": 57750,
+        "red_now": 16
+    },
+    "563": {
+        "defence": 8325,
+        "name": "3708",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 16650,
+        "health": 166500,
+        "red_now": 13
+    },
+    "414": {
+        "defence": 6412,
+        "name": "2709",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 12825,
+        "health": 128250,
+        "red_now": 14
+    },
+    "415": {
+        "defence": 6750,
+        "name": "2710",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 13500,
+        "health": 135000,
+        "red_now": 15
+    },
+    "416": {
+        "defence": 7087,
+        "name": "2711",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 14175,
+        "health": 141750,
+        "red_now": 16
+    },
+    "417": {
+        "defence": 7425,
+        "name": "2712",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 14850,
+        "health": 148500,
+        "red_now": 17
+    },
+    "410": {
+        "defence": 5062,
+        "name": "2705",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 10125,
+        "health": 101250,
+        "red_now": 10
+    },
+    "411": {
+        "defence": 5400,
+        "name": "2706",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 10800,
+        "health": 108000,
+        "red_now": 11
+    },
+    "412": {
+        "defence": 5737,
+        "name": "2707",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 11475,
+        "health": 114750,
+        "red_now": 12
+    },
+    "413": {
+        "defence": 6075,
+        "name": "2708",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 12150,
+        "health": 121500,
+        "red_now": 13
+    },
+    "498": {
+        "defence": 5362,
+        "name": "3303",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 10725,
+        "health": 107250,
+        "red_now": 8
+    },
+    "418": {
+        "defence": 7762,
+        "name": "2713",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 15525,
+        "health": 155250,
+        "red_now": 18
+    },
+    "419": {
+        "defence": 8100,
+        "name": "2714",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 16200,
+        "health": 162000,
+        "red_now": 19
+    },
+    "499": {
+        "defence": 5775,
+        "name": "3304",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 11550,
+        "health": 115500,
+        "red_now": 9
+    },
+    "319": {
+        "defence": 3675,
+        "name": "2104",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 7350,
+        "health": 73500,
+        "red_now": 9
+    },
+    "318": {
+        "defence": 3412,
+        "name": "2103",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 6825,
+        "health": 68250,
+        "red_now": 8
+    },
+    "313": {
+        "defence": 5750,
+        "name": "2013",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 11500,
+        "health": 115000,
+        "red_now": 18
+    },
+    "312": {
+        "defence": 5500,
+        "name": "2012",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 11000,
+        "health": 110000,
+        "red_now": 17
+    },
+    "311": {
+        "defence": 5250,
+        "name": "2011",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 10500,
+        "health": 105000,
+        "red_now": 16
+    },
+    "310": {
+        "defence": 5000,
+        "name": "2010",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 10000,
+        "health": 100000,
+        "red_now": 15
+    },
+    "317": {
+        "defence": 3150,
+        "name": "2102",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 6300,
+        "health": 63000,
+        "red_now": 7
+    },
+    "316": {
+        "defence": 2887,
+        "name": "2101",
+        "red_grade": 9,
+        "lv": 21,
+        "attack": 5775,
+        "health": 57750,
+        "red_now": 6
+    },
+    "315": {
+        "defence": 6250,
+        "name": "2015",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 12500,
+        "health": 125000,
+        "red_now": 20
+    },
+    "314": {
+        "defence": 6000,
+        "name": "2014",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 12000,
+        "health": 120000,
+        "red_now": 19
+    },
+    "496": {
+        "defence": 4537,
+        "name": "3301",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 9075,
+        "health": 90750,
+        "red_now": 6
+    },
+    "497": {
+        "defence": 4950,
+        "name": "3302",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 9900,
+        "health": 99000,
+        "red_now": 7
+    },
+    "3": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 8
+    },
+    "725": {
+        "defence": 9000,
+        "name": "4805",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 18000,
+        "health": 180000,
+        "red_now": 10
+    },
+    "368": {
+        "defence": 5400,
+        "name": "2408",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 10800,
+        "health": 108000,
+        "red_now": 13
+    },
+    "369": {
+        "defence": 5700,
+        "name": "2409",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 11400,
+        "health": 114000,
+        "red_now": 14
+    },
+    "366": {
+        "defence": 4800,
+        "name": "2406",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 9600,
+        "health": 96000,
+        "red_now": 11
+    },
+    "367": {
+        "defence": 5100,
+        "name": "2407",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 10200,
+        "health": 102000,
+        "red_now": 12
+    },
+    "364": {
+        "defence": 4200,
+        "name": "2404",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 8400,
+        "health": 84000,
+        "red_now": 9
+    },
+    "365": {
+        "defence": 4500,
+        "name": "2405",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 9000,
+        "health": 90000,
+        "red_now": 10
+    },
+    "362": {
+        "defence": 3600,
+        "name": "2402",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 7200,
+        "health": 72000,
+        "red_now": 7
+    },
+    "363": {
+        "defence": 3900,
+        "name": "2403",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 7800,
+        "health": 78000,
+        "red_now": 8
+    },
+    "360": {
+        "defence": 7187,
+        "name": "2315",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 14375,
+        "health": 143750,
+        "red_now": 20
+    },
+    "361": {
+        "defence": 3300,
+        "name": "2401",
+        "red_grade": 9,
+        "lv": 24,
+        "attack": 6600,
+        "health": 66000,
+        "red_now": 6
+    },
+    "218": {
+        "defence": 3150,
+        "name": "1408",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 6300,
+        "health": 63000,
+        "red_now": 13
+    },
+    "380": {
+        "defence": 4687,
+        "name": "2505",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 9375,
+        "health": 93750,
+        "red_now": 10
+    },
+    "381": {
+        "defence": 5000,
+        "name": "2506",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 10000,
+        "health": 100000,
+        "red_now": 11
+    },
+    "382": {
+        "defence": 5312,
+        "name": "2507",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 10625,
+        "health": 106250,
+        "red_now": 12
+    },
+    "383": {
+        "defence": 5625,
+        "name": "2508",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 11250,
+        "health": 112500,
+        "red_now": 13
+    },
+    "384": {
+        "defence": 5937,
+        "name": "2509",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 11875,
+        "health": 118750,
+        "red_now": 14
+    },
+    "385": {
+        "defence": 6250,
+        "name": "2510",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 12500,
+        "health": 125000,
+        "red_now": 15
+    },
+    "386": {
+        "defence": 6562,
+        "name": "2511",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 13125,
+        "health": 131250,
+        "red_now": 16
+    },
+    "387": {
+        "defence": 6875,
+        "name": "2512",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 13750,
+        "health": 137500,
+        "red_now": 17
+    },
+    "388": {
+        "defence": 7187,
+        "name": "2513",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 14375,
+        "health": 143750,
+        "red_now": 18
+    },
+    "389": {
+        "defence": 7500,
+        "name": "2514",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 15000,
+        "health": 150000,
+        "red_now": 19
+    },
+    "151": {
+        "defence": 1375,
+        "name": "1001",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 2750,
+        "health": 27500,
+        "red_now": 6
+    },
+    "579": {
+        "defence": 9025,
+        "name": "3809",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 18050,
+        "health": 180500,
+        "red_now": 14
+    },
+    "578": {
+        "defence": 8550,
+        "name": "3808",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 17100,
+        "health": 171000,
+        "red_now": 13
+    },
+    "150": {
+        "defence": 2812,
+        "name": "915",
+        "red_grade": 6,
+        "lv": 9,
+        "attack": 5625,
+        "health": 56250,
+        "red_now": 20
+    },
+    "573": {
+        "defence": 6175,
+        "name": "3803",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 12350,
+        "health": 123500,
+        "red_now": 8
+    },
+    "572": {
+        "defence": 5700,
+        "name": "3802",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 11400,
+        "health": 114000,
+        "red_now": 7
+    },
+    "571": {
+        "defence": 5225,
+        "name": "3801",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 10450,
+        "health": 104500,
+        "red_now": 6
+    },
+    "570": {
+        "defence": 11562,
+        "name": "3715",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 23125,
+        "health": 231250,
+        "red_now": 20
+    },
+    "577": {
+        "defence": 8075,
+        "name": "3807",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 16150,
+        "health": 161500,
+        "red_now": 12
+    },
+    "576": {
+        "defence": 7600,
+        "name": "3806",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 15200,
+        "health": 152000,
+        "red_now": 11
+    },
+    "575": {
+        "defence": 7125,
+        "name": "3805",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 14250,
+        "health": 142500,
+        "red_now": 10
+    },
+    "574": {
+        "defence": 6650,
+        "name": "3804",
+        "red_grade": 12,
+        "lv": 38,
+        "attack": 13300,
+        "health": 133000,
+        "red_now": 9
+    },
+    "60": {
+        "defence": 937,
+        "name": "315",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1875,
+        "health": 18750,
+        "red_now": 20
+    },
+    "61": {
+        "defence": 550,
+        "name": "401",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1100,
+        "health": 11000,
+        "red_now": 6
+    },
+    "62": {
+        "defence": 600,
+        "name": "402",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1200,
+        "health": 12000,
+        "red_now": 7
+    },
+    "259": {
+        "defence": 2975,
+        "name": "1704",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 5950,
+        "health": 59500,
+        "red_now": 9
+    },
+    "64": {
+        "defence": 700,
+        "name": "404",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1400,
+        "health": 14000,
+        "red_now": 9
+    },
+    "65": {
+        "defence": 750,
+        "name": "405",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1500,
+        "health": 15000,
+        "red_now": 10
+    },
+    "66": {
+        "defence": 800,
+        "name": "406",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1600,
+        "health": 16000,
+        "red_now": 11
+    },
+    "67": {
+        "defence": 850,
+        "name": "407",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1700,
+        "health": 17000,
+        "red_now": 12
+    },
+    "68": {
+        "defence": 900,
+        "name": "408",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1800,
+        "health": 18000,
+        "red_now": 13
+    },
+    "253": {
+        "defence": 4600,
+        "name": "1613",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 9200,
+        "health": 92000,
+        "red_now": 18
+    },
+    "250": {
+        "defence": 4000,
+        "name": "1610",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 8000,
+        "health": 80000,
+        "red_now": 15
+    },
+    "251": {
+        "defence": 4200,
+        "name": "1611",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 8400,
+        "health": 84000,
+        "red_now": 16
+    },
+    "256": {
+        "defence": 2337,
+        "name": "1701",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 4675,
+        "health": 46750,
+        "red_now": 6
+    },
+    "257": {
+        "defence": 2550,
+        "name": "1702",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 5100,
+        "health": 51000,
+        "red_now": 7
+    },
+    "254": {
+        "defence": 4800,
+        "name": "1614",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 9600,
+        "health": 96000,
+        "red_now": 19
+    },
+    "255": {
+        "defence": 5000,
+        "name": "1615",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 10000,
+        "health": 100000,
+        "red_now": 20
+    },
+    "157": {
+        "defence": 2125,
+        "name": "1007",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 4250,
+        "health": 42500,
+        "red_now": 12
+    },
+    "156": {
+        "defence": 2000,
+        "name": "1006",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 4000,
+        "health": 40000,
+        "red_now": 11
+    },
+    "731": {
+        "defence": 12600,
+        "name": "4811",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 25200,
+        "health": 252000,
+        "red_now": 16
+    },
+    "730": {
+        "defence": 12000,
+        "name": "4810",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 24000,
+        "health": 240000,
+        "red_now": 15
+    },
+    "733": {
+        "defence": 13800,
+        "name": "4813",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 27600,
+        "health": 276000,
+        "red_now": 18
+    },
+    "732": {
+        "defence": 13200,
+        "name": "4812",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 26400,
+        "health": 264000,
+        "red_now": 17
+    },
+    "735": {
+        "defence": 15000,
+        "name": "4815",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 30000,
+        "health": 300000,
+        "red_now": 20
+    },
+    "734": {
+        "defence": 14400,
+        "name": "4814",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 28800,
+        "health": 288000,
+        "red_now": 19
+    },
+    "508": {
+        "defence": 9487,
+        "name": "3313",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 18975,
+        "health": 189750,
+        "red_now": 18
+    },
+    "736": {
+        "defence": 6737,
+        "name": "4901",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 13475,
+        "health": 134750,
+        "red_now": 6
+    },
+    "506": {
+        "defence": 8662,
+        "name": "3311",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 17325,
+        "health": 173250,
+        "red_now": 16
+    },
+    "738": {
+        "defence": 7962,
+        "name": "4903",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 15925,
+        "health": 159250,
+        "red_now": 8
+    },
+    "504": {
+        "defence": 7837,
+        "name": "3309",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 15675,
+        "health": 156750,
+        "red_now": 14
+    },
+    "505": {
+        "defence": 8250,
+        "name": "3310",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 16500,
+        "health": 165000,
+        "red_now": 15
+    },
+    "502": {
+        "defence": 7012,
+        "name": "3307",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 14025,
+        "health": 140250,
+        "red_now": 12
+    },
+    "503": {
+        "defence": 7425,
+        "name": "3308",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 14850,
+        "health": 148500,
+        "red_now": 13
+    },
+    "500": {
+        "defence": 6187,
+        "name": "3305",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 12375,
+        "health": 123750,
+        "red_now": 10
+    },
+    "501": {
+        "defence": 6600,
+        "name": "3306",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 13200,
+        "health": 132000,
+        "red_now": 11
+    },
+    "630": {
+        "defence": 12812,
+        "name": "4115",
+        "red_grade": 13,
+        "lv": 41,
+        "attack": 25625,
+        "health": 256250,
+        "red_now": 20
+    },
+    "631": {
+        "defence": 5775,
+        "name": "4201",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 11550,
+        "health": 115500,
+        "red_now": 6
+    },
+    "632": {
+        "defence": 6300,
+        "name": "4202",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 12600,
+        "health": 126000,
+        "red_now": 7
+    },
+    "633": {
+        "defence": 6825,
+        "name": "4203",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 13650,
+        "health": 136500,
+        "red_now": 8
+    },
+    "469": {
+        "defence": 5425,
+        "name": "3104",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 10850,
+        "health": 108500,
+        "red_now": 9
+    },
+    "468": {
+        "defence": 5037,
+        "name": "3103",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 10075,
+        "health": 100750,
+        "red_now": 8
+    },
+    "636": {
+        "defence": 8400,
+        "name": "4206",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 16800,
+        "health": 168000,
+        "red_now": 11
+    },
+    "637": {
+        "defence": 8925,
+        "name": "4207",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 17850,
+        "health": 178500,
+        "red_now": 12
+    },
+    "465": {
+        "defence": 9375,
+        "name": "3015",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 18750,
+        "health": 187500,
+        "red_now": 20
+    },
+    "464": {
+        "defence": 9000,
+        "name": "3014",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 18000,
+        "health": 180000,
+        "red_now": 19
+    },
+    "467": {
+        "defence": 4650,
+        "name": "3102",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 9300,
+        "health": 93000,
+        "red_now": 7
+    },
+    "466": {
+        "defence": 4262,
+        "name": "3101",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 8525,
+        "health": 85250,
+        "red_now": 6
+    },
+    "461": {
+        "defence": 7875,
+        "name": "3011",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 15750,
+        "health": 157500,
+        "red_now": 16
+    },
+    "460": {
+        "defence": 7500,
+        "name": "3010",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 15000,
+        "health": 150000,
+        "red_now": 15
+    },
+    "463": {
+        "defence": 8625,
+        "name": "3013",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 17250,
+        "health": 172500,
+        "red_now": 18
+    },
+    "462": {
+        "defence": 8250,
+        "name": "3012",
+        "red_grade": 11,
+        "lv": 30,
+        "attack": 16500,
+        "health": 165000,
+        "red_now": 17
+    },
+    "168": {
+        "defence": 1787,
+        "name": "1103",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 3575,
+        "health": 35750,
+        "red_now": 8
+    },
+    "169": {
+        "defence": 1925,
+        "name": "1104",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 3850,
+        "health": 38500,
+        "red_now": 9
+    },
+    "164": {
+        "defence": 3000,
+        "name": "1014",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 6000,
+        "health": 60000,
+        "red_now": 19
+    },
+    "165": {
+        "defence": 3125,
+        "name": "1015",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 6250,
+        "health": 62500,
+        "red_now": 20
+    },
+    "166": {
+        "defence": 1512,
+        "name": "1101",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 3025,
+        "health": 30250,
+        "red_now": 6
+    },
+    "167": {
+        "defence": 1650,
+        "name": "1102",
+        "red_grade": 7,
+        "lv": 11,
+        "attack": 3300,
+        "health": 33000,
+        "red_now": 7
+    },
+    "160": {
+        "defence": 2500,
+        "name": "1010",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 5000,
+        "health": 50000,
+        "red_now": 15
+    },
+    "161": {
+        "defence": 2625,
+        "name": "1011",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 5250,
+        "health": 52500,
+        "red_now": 16
+    },
+    "162": {
+        "defence": 2750,
+        "name": "1012",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 5500,
+        "health": 55000,
+        "red_now": 17
+    },
+    "163": {
+        "defence": 2875,
+        "name": "1013",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 5750,
+        "health": 57500,
+        "red_now": 18
+    },
+    "9": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 14
+    },
+    "647": {
+        "defence": 6450,
+        "name": "4302",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 12900,
+        "health": 129000,
+        "red_now": 7
+    },
+    "646": {
+        "defence": 5912,
+        "name": "4301",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 11825,
+        "health": 118250,
+        "red_now": 6
+    },
+    "649": {
+        "defence": 7525,
+        "name": "4304",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 15050,
+        "health": 150500,
+        "red_now": 9
+    },
+    "648": {
+        "defence": 6987,
+        "name": "4303",
+        "red_grade": 13,
+        "lv": 43,
+        "attack": 13975,
+        "health": 139750,
+        "red_now": 8
+    },
+    "357": {
+        "defence": 6325,
+        "name": "2312",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 12650,
+        "health": 126500,
+        "red_now": 17
+    },
+    "356": {
+        "defence": 6037,
+        "name": "2311",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 12075,
+        "health": 120750,
+        "red_now": 16
+    },
+    "355": {
+        "defence": 5750,
+        "name": "2310",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 11500,
+        "health": 115000,
+        "red_now": 15
+    },
+    "354": {
+        "defence": 5462,
+        "name": "2309",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 10925,
+        "health": 109250,
+        "red_now": 14
+    },
+    "353": {
+        "defence": 5175,
+        "name": "2308",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 10350,
+        "health": 103500,
+        "red_now": 13
+    },
+    "352": {
+        "defence": 4887,
+        "name": "2307",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 9775,
+        "health": 97750,
+        "red_now": 12
+    },
+    "351": {
+        "defence": 4600,
+        "name": "2306",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 9200,
+        "health": 92000,
+        "red_now": 11
+    },
+    "350": {
+        "defence": 4312,
+        "name": "2305",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 8625,
+        "health": 86250,
+        "red_now": 10
+    },
+    "359": {
+        "defence": 6900,
+        "name": "2314",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 13800,
+        "health": 138000,
+        "red_now": 19
+    },
+    "358": {
+        "defence": 6612,
+        "name": "2313",
+        "red_grade": 9,
+        "lv": 23,
+        "attack": 13225,
+        "health": 132250,
+        "red_now": 18
+    },
+    "216": {
+        "defence": 2800,
+        "name": "1406",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 5600,
+        "health": 56000,
+        "red_now": 11
+    },
+    "217": {
+        "defence": 2975,
+        "name": "1407",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 5950,
+        "health": 59500,
+        "red_now": 12
+    },
+    "214": {
+        "defence": 2450,
+        "name": "1404",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 4900,
+        "health": 49000,
+        "red_now": 9
+    },
+    "215": {
+        "defence": 2625,
+        "name": "1405",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 5250,
+        "health": 52500,
+        "red_now": 10
+    },
+    "212": {
+        "defence": 2100,
+        "name": "1402",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 4200,
+        "health": 42000,
+        "red_now": 7
+    },
+    "213": {
+        "defence": 2275,
+        "name": "1403",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 4550,
+        "health": 45500,
+        "red_now": 8
+    },
+    "210": {
+        "defence": 4062,
+        "name": "1315",
+        "red_grade": 7,
+        "lv": 13,
+        "attack": 8125,
+        "health": 81250,
+        "red_now": 20
+    },
+    "211": {
+        "defence": 1925,
+        "name": "1401",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 3850,
+        "health": 38500,
+        "red_now": 6
+    },
+    "762": {
+        "defence": 13750,
+        "name": "5012",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 27500,
+        "health": 275000,
+        "red_now": 17
+    },
+    "763": {
+        "defence": 14375,
+        "name": "5013",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 28750,
+        "health": 287500,
+        "red_now": 18
+    },
+    "760": {
+        "defence": 12500,
+        "name": "5010",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 25000,
+        "health": 250000,
+        "red_now": 15
+    },
+    "761": {
+        "defence": 13125,
+        "name": "5011",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 26250,
+        "health": 262500,
+        "red_now": 16
+    },
+    "764": {
+        "defence": 15000,
+        "name": "5014",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 30000,
+        "health": 300000,
+        "red_now": 19
+    },
+    "765": {
+        "defence": 15625,
+        "name": "5015",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 31250,
+        "health": 312500,
+        "red_now": 20
+    },
+    "289": {
+        "defence": 3325,
+        "name": "1904",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 6650,
+        "health": 66500,
+        "red_now": 9
+    },
+    "288": {
+        "defence": 3087,
+        "name": "1903",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 6175,
+        "health": 61750,
+        "red_now": 8
+    },
+    "4": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 9
+    },
+    "281": {
+        "defence": 4725,
+        "name": "1811",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 9450,
+        "health": 94500,
+        "red_now": 16
+    },
+    "280": {
+        "defence": 4500,
+        "name": "1810",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 9000,
+        "health": 90000,
+        "red_now": 15
+    },
+    "283": {
+        "defence": 5175,
+        "name": "1813",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 10350,
+        "health": 103500,
+        "red_now": 18
+    },
+    "282": {
+        "defence": 4950,
+        "name": "1812",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 9900,
+        "health": 99000,
+        "red_now": 17
+    },
+    "285": {
+        "defence": 5625,
+        "name": "1815",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 11250,
+        "health": 112500,
+        "red_now": 20
+    },
+    "284": {
+        "defence": 5400,
+        "name": "1814",
+        "red_grade": 8,
+        "lv": 18,
+        "attack": 10800,
+        "health": 108000,
+        "red_now": 19
+    },
+    "287": {
+        "defence": 2850,
+        "name": "1902",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 5700,
+        "health": 57000,
+        "red_now": 7
+    },
+    "286": {
+        "defence": 2612,
+        "name": "1901",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 5225,
+        "health": 52250,
+        "red_now": 6
+    },
+    "678": {
+        "defence": 7312,
+        "name": "4503",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 14625,
+        "health": 146250,
+        "red_now": 8
+    },
+    "679": {
+        "defence": 7875,
+        "name": "4504",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 15750,
+        "health": 157500,
+        "red_now": 9
+    },
+    "674": {
+        "defence": 13200,
+        "name": "4414",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 26400,
+        "health": 264000,
+        "red_now": 19
+    },
+    "675": {
+        "defence": 13750,
+        "name": "4415",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 27500,
+        "health": 275000,
+        "red_now": 20
+    },
+    "676": {
+        "defence": 6187,
+        "name": "4501",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 12375,
+        "health": 123750,
+        "red_now": 6
+    },
+    "677": {
+        "defence": 6750,
+        "name": "4502",
+        "red_grade": 13,
+        "lv": 45,
+        "attack": 13500,
+        "health": 135000,
+        "red_now": 7
+    },
+    "670": {
+        "defence": 11000,
+        "name": "4410",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 22000,
+        "health": 220000,
+        "red_now": 15
+    },
+    "671": {
+        "defence": 11550,
+        "name": "4411",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 23100,
+        "health": 231000,
+        "red_now": 16
+    },
+    "672": {
+        "defence": 12100,
+        "name": "4412",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 24200,
+        "health": 242000,
+        "red_now": 17
+    },
+    "673": {
+        "defence": 12650,
+        "name": "4413",
+        "red_grade": 13,
+        "lv": 44,
+        "attack": 25300,
+        "health": 253000,
+        "red_now": 18
+    },
+    "263": {
+        "defence": 3825,
+        "name": "1708",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 7650,
+        "health": 76500,
+        "red_now": 13
+    },
+    "262": {
+        "defence": 3612,
+        "name": "1707",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 7225,
+        "health": 72250,
+        "red_now": 12
+    },
+    "261": {
+        "defence": 3400,
+        "name": "1706",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 6800,
+        "health": 68000,
+        "red_now": 11
+    },
+    "260": {
+        "defence": 3187,
+        "name": "1705",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 6375,
+        "health": 63750,
+        "red_now": 10
+    },
+    "267": {
+        "defence": 4675,
+        "name": "1712",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 9350,
+        "health": 93500,
+        "red_now": 17
+    },
+    "266": {
+        "defence": 4462,
+        "name": "1711",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 8925,
+        "health": 89250,
+        "red_now": 16
+    },
+    "265": {
+        "defence": 4250,
+        "name": "1710",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 8500,
+        "health": 85000,
+        "red_now": 15
+    },
+    "264": {
+        "defence": 4037,
+        "name": "1709",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 8075,
+        "health": 80750,
+        "red_now": 14
+    },
+    "269": {
+        "defence": 5100,
+        "name": "1714",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 10200,
+        "health": 102000,
+        "red_now": 19
+    },
+    "268": {
+        "defence": 4887,
+        "name": "1713",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 9775,
+        "health": 97750,
+        "red_now": 18
+    },
+    "59": {
+        "defence": 900,
+        "name": "314",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1800,
+        "health": 18000,
+        "red_now": 19
+    },
+    "58": {
+        "defence": 862,
+        "name": "313",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1725,
+        "health": 17250,
+        "red_now": 18
+    },
+    "55": {
+        "defence": 750,
+        "name": "310",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1500,
+        "health": 15000,
+        "red_now": 15
+    },
+    "54": {
+        "defence": 712,
+        "name": "309",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1425,
+        "health": 14250,
+        "red_now": 14
+    },
+    "57": {
+        "defence": 825,
+        "name": "312",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1650,
+        "health": 16500,
+        "red_now": 17
+    },
+    "56": {
+        "defence": 787,
+        "name": "311",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1575,
+        "health": 15750,
+        "red_now": 16
+    },
+    "51": {
+        "defence": 600,
+        "name": "306",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1200,
+        "health": 12000,
+        "red_now": 11
+    },
+    "258": {
+        "defence": 2762,
+        "name": "1703",
+        "red_grade": 8,
+        "lv": 17,
+        "attack": 5525,
+        "health": 55250,
+        "red_now": 8
+    },
+    "53": {
+        "defence": 675,
+        "name": "308",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1350,
+        "health": 13500,
+        "red_now": 13
+    },
+    "52": {
+        "defence": 637,
+        "name": "307",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1275,
+        "health": 12750,
+        "red_now": 12
+    },
+    "537": {
+        "defence": 9625,
+        "name": "3512",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 19250,
+        "health": 192500,
+        "red_now": 17
+    },
+    "536": {
+        "defence": 9187,
+        "name": "3511",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 18375,
+        "health": 183750,
+        "red_now": 16
+    },
+    "535": {
+        "defence": 8750,
+        "name": "3510",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 17500,
+        "health": 175000,
+        "red_now": 15
+    },
+    "63": {
+        "defence": 650,
+        "name": "403",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1300,
+        "health": 13000,
+        "red_now": 8
+    },
+    "533": {
+        "defence": 7875,
+        "name": "3508",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 15750,
+        "health": 157500,
+        "red_now": 13
+    },
+    "532": {
+        "defence": 7437,
+        "name": "3507",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 14875,
+        "health": 148750,
+        "red_now": 12
+    },
+    "531": {
+        "defence": 7000,
+        "name": "3506",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 14000,
+        "health": 140000,
+        "red_now": 11
+    },
+    "530": {
+        "defence": 6562,
+        "name": "3505",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 13125,
+        "health": 131250,
+        "red_now": 10
+    },
+    "152": {
+        "defence": 1500,
+        "name": "1002",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 3000,
+        "health": 30000,
+        "red_now": 7
+    },
+    "539": {
+        "defence": 10500,
+        "name": "3514",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 21000,
+        "health": 210000,
+        "red_now": 19
+    },
+    "538": {
+        "defence": 10062,
+        "name": "3513",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 20125,
+        "health": 201250,
+        "red_now": 18
+    },
+    "50": {
+        "defence": 562,
+        "name": "305",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1125,
+        "health": 11250,
+        "red_now": 10
+    },
+    "115": {
+        "defence": 1750,
+        "name": "710",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 3500,
+        "health": 35000,
+        "red_now": 15
+    },
+    "252": {
+        "defence": 4400,
+        "name": "1612",
+        "red_grade": 8,
+        "lv": 16,
+        "attack": 8800,
+        "health": 88000,
+        "red_now": 17
+    },
+    "117": {
+        "defence": 1925,
+        "name": "712",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 3850,
+        "health": 38500,
+        "red_now": 17
+    },
+    "116": {
+        "defence": 1837,
+        "name": "711",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 3675,
+        "health": 36750,
+        "red_now": 16
+    },
+    "111": {
+        "defence": 1400,
+        "name": "706",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 2800,
+        "health": 28000,
+        "red_now": 11
+    },
+    "110": {
+        "defence": 1312,
+        "name": "705",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 2625,
+        "health": 26250,
+        "red_now": 10
+    },
+    "113": {
+        "defence": 1575,
+        "name": "708",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 3150,
+        "health": 31500,
+        "red_now": 13
+    },
+    "69": {
+        "defence": 950,
+        "name": "409",
+        "red_grade": 6,
+        "lv": 4,
+        "attack": 1900,
+        "health": 19000,
+        "red_now": 14
+    },
+    "119": {
+        "defence": 2100,
+        "name": "714",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 4200,
+        "health": 42000,
+        "red_now": 19
+    },
+    "118": {
+        "defence": 2012,
+        "name": "713",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 4025,
+        "health": 40250,
+        "red_now": 18
+    },
+    "429": {
+        "defence": 6650,
+        "name": "2809",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 13300,
+        "health": 133000,
+        "red_now": 14
+    },
+    "428": {
+        "defence": 6300,
+        "name": "2808",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 12600,
+        "health": 126000,
+        "red_now": 13
+    },
+    "534": {
+        "defence": 8312,
+        "name": "3509",
+        "red_grade": 12,
+        "lv": 35,
+        "attack": 16625,
+        "health": 166250,
+        "red_now": 14
+    },
+    "421": {
+        "defence": 3850,
+        "name": "2801",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 7700,
+        "health": 77000,
+        "red_now": 6
+    },
+    "420": {
+        "defence": 8437,
+        "name": "2715",
+        "red_grade": 10,
+        "lv": 27,
+        "attack": 16875,
+        "health": 168750,
+        "red_now": 20
+    },
+    "423": {
+        "defence": 4550,
+        "name": "2803",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 9100,
+        "health": 91000,
+        "red_now": 8
+    },
+    "422": {
+        "defence": 4200,
+        "name": "2802",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 8400,
+        "health": 84000,
+        "red_now": 7
+    },
+    "425": {
+        "defence": 5250,
+        "name": "2805",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 10500,
+        "health": 105000,
+        "red_now": 10
+    },
+    "424": {
+        "defence": 4900,
+        "name": "2804",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 9800,
+        "health": 98000,
+        "red_now": 9
+    },
+    "427": {
+        "defence": 5950,
+        "name": "2807",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 11900,
+        "health": 119000,
+        "red_now": 12
+    },
+    "426": {
+        "defence": 5600,
+        "name": "2806",
+        "red_grade": 10,
+        "lv": 28,
+        "attack": 11200,
+        "health": 112000,
+        "red_now": 11
+    },
+    "308": {
+        "defence": 4500,
+        "name": "2008",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 9000,
+        "health": 90000,
+        "red_now": 13
+    },
+    "309": {
+        "defence": 4750,
+        "name": "2009",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 9500,
+        "health": 95000,
+        "red_now": 14
+    },
+    "300": {
+        "defence": 5937,
+        "name": "1915",
+        "red_grade": 8,
+        "lv": 19,
+        "attack": 11875,
+        "health": 118750,
+        "red_now": 20
+    },
+    "301": {
+        "defence": 2750,
+        "name": "2001",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 5500,
+        "health": 55000,
+        "red_now": 6
+    },
+    "302": {
+        "defence": 3000,
+        "name": "2002",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 6000,
+        "health": 60000,
+        "red_now": 7
+    },
+    "303": {
+        "defence": 3250,
+        "name": "2003",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 6500,
+        "health": 65000,
+        "red_now": 8
+    },
+    "304": {
+        "defence": 3500,
+        "name": "2004",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 7000,
+        "health": 70000,
+        "red_now": 9
+    },
+    "305": {
+        "defence": 3750,
+        "name": "2005",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 7500,
+        "health": 75000,
+        "red_now": 10
+    },
+    "306": {
+        "defence": 4000,
+        "name": "2006",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 8000,
+        "health": 80000,
+        "red_now": 11
+    },
+    "307": {
+        "defence": 4250,
+        "name": "2007",
+        "red_grade": 9,
+        "lv": 20,
+        "attack": 8500,
+        "health": 85000,
+        "red_now": 12
+    },
+    "240": {
+        "defence": 4687,
+        "name": "1515",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 9375,
+        "health": 93750,
+        "red_now": 20
+    },
+    "390": {
+        "defence": 7812,
+        "name": "2515",
+        "red_grade": 10,
+        "lv": 25,
+        "attack": 15625,
+        "health": 156250,
+        "red_now": 20
+    },
+    "753": {
+        "defence": 8125,
+        "name": "5003",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 16250,
+        "health": 162500,
+        "red_now": 8
+    },
+    "752": {
+        "defence": 7500,
+        "name": "5002",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 15000,
+        "health": 150000,
+        "red_now": 7
+    },
+    "751": {
+        "defence": 6875,
+        "name": "5001",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 13750,
+        "health": 137500,
+        "red_now": 6
+    },
+    "750": {
+        "defence": 15312,
+        "name": "4915",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 30625,
+        "health": 306250,
+        "red_now": 20
+    },
+    "757": {
+        "defence": 10625,
+        "name": "5007",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 21250,
+        "health": 212500,
+        "red_now": 12
+    },
+    "756": {
+        "defence": 10000,
+        "name": "5006",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 20000,
+        "health": 200000,
+        "red_now": 11
+    },
+    "755": {
+        "defence": 9375,
+        "name": "5005",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 18750,
+        "health": 187500,
+        "red_now": 10
+    },
+    "754": {
+        "defence": 8750,
+        "name": "5004",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 17500,
+        "health": 175000,
+        "red_now": 9
+    },
+    "560": {
+        "defence": 6937,
+        "name": "3705",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 13875,
+        "health": 138750,
+        "red_now": 10
+    },
+    "561": {
+        "defence": 7400,
+        "name": "3706",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 14800,
+        "health": 148000,
+        "red_now": 11
+    },
+    "759": {
+        "defence": 11875,
+        "name": "5009",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 23750,
+        "health": 237500,
+        "red_now": 14
+    },
+    "758": {
+        "defence": 11250,
+        "name": "5008",
+        "red_grade": 13,
+        "lv": 50,
+        "attack": 22500,
+        "health": 225000,
+        "red_now": 13
+    },
+    "564": {
+        "defence": 8787,
+        "name": "3709",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 17575,
+        "health": 175750,
+        "red_now": 14
+    },
+    "565": {
+        "defence": 9250,
+        "name": "3710",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 18500,
+        "health": 185000,
+        "red_now": 15
+    },
+    "566": {
+        "defence": 9712,
+        "name": "3711",
+        "red_grade": 12,
+        "lv": 37,
+        "attack": 19425,
+        "health": 194250,
+        "red_now": 16
+    },
+    "701": {
+        "defence": 12075,
+        "name": "4611",
+        "red_grade": 13,
+        "lv": 46,
+        "attack": 24150,
+        "health": 241500,
+        "red_now": 16
+    },
+    "739": {
+        "defence": 8575,
+        "name": "4904",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 17150,
+        "health": 171500,
+        "red_now": 9
+    },
+    "229": {
+        "defence": 2625,
+        "name": "1504",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 5250,
+        "health": 52500,
+        "red_now": 9
+    },
+    "507": {
+        "defence": 9075,
+        "name": "3312",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 18150,
+        "health": 181500,
+        "red_now": 17
+    },
+    "227": {
+        "defence": 2250,
+        "name": "1502",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 4500,
+        "health": 45000,
+        "red_now": 7
+    },
+    "226": {
+        "defence": 2062,
+        "name": "1501",
+        "red_grade": 8,
+        "lv": 15,
+        "attack": 4125,
+        "health": 41250,
+        "red_now": 6
+    },
+    "225": {
+        "defence": 4375,
+        "name": "1415",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 8750,
+        "health": 87500,
+        "red_now": 20
+    },
+    "224": {
+        "defence": 4200,
+        "name": "1414",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 8400,
+        "health": 84000,
+        "red_now": 19
+    },
+    "223": {
+        "defence": 4025,
+        "name": "1413",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 8050,
+        "health": 80500,
+        "red_now": 18
+    },
+    "222": {
+        "defence": 3850,
+        "name": "1412",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 7700,
+        "health": 77000,
+        "red_now": 17
+    },
+    "221": {
+        "defence": 3675,
+        "name": "1411",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 7350,
+        "health": 73500,
+        "red_now": 16
+    },
+    "220": {
+        "defence": 3500,
+        "name": "1410",
+        "red_grade": 7,
+        "lv": 14,
+        "attack": 7000,
+        "health": 70000,
+        "red_now": 15
+    },
+    "114": {
+        "defence": 1662,
+        "name": "709",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 3325,
+        "health": 33250,
+        "red_now": 14
+    },
+    "391": {
+        "defence": 3575,
+        "name": "2601",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 7150,
+        "health": 71500,
+        "red_now": 6
+    },
+    "726": {
+        "defence": 9600,
+        "name": "4806",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 19200,
+        "health": 192000,
+        "red_now": 11
+    },
+    "727": {
+        "defence": 10200,
+        "name": "4807",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 20400,
+        "health": 204000,
+        "red_now": 12
+    },
+    "724": {
+        "defence": 8400,
+        "name": "4804",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 16800,
+        "health": 168000,
+        "red_now": 9
+    },
+    "89": {
+        "defence": 1500,
+        "name": "514",
+        "red_grade": 6,
+        "lv": 5,
+        "attack": 3000,
+        "health": 30000,
+        "red_now": 19
+    },
+    "722": {
+        "defence": 7200,
+        "name": "4802",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 14400,
+        "health": 144000,
+        "red_now": 7
+    },
+    "723": {
+        "defence": 7800,
+        "name": "4803",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 15600,
+        "health": 156000,
+        "red_now": 8
+    },
+    "720": {
+        "defence": 14687,
+        "name": "4715",
+        "red_grade": 13,
+        "lv": 47,
+        "attack": 29375,
+        "health": 293750,
+        "red_now": 20
+    },
+    "721": {
+        "defence": 6600,
+        "name": "4801",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 13200,
+        "health": 132000,
+        "red_now": 6
+    },
+    "728": {
+        "defence": 10800,
+        "name": "4808",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 21600,
+        "health": 216000,
+        "red_now": 13
+    },
+    "729": {
+        "defence": 11400,
+        "name": "4809",
+        "red_grade": 13,
+        "lv": 48,
+        "attack": 22800,
+        "health": 228000,
+        "red_now": 14
+    },
+    "605": {
+        "defence": 7500,
+        "name": "4005",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 15000,
+        "health": 150000,
+        "red_now": 10
+    },
+    "604": {
+        "defence": 7000,
+        "name": "4004",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 14000,
+        "health": 140000,
+        "red_now": 9
+    },
+    "607": {
+        "defence": 8500,
+        "name": "4007",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 17000,
+        "health": 170000,
+        "red_now": 12
+    },
+    "606": {
+        "defence": 8000,
+        "name": "4006",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 16000,
+        "health": 160000,
+        "red_now": 11
+    },
+    "601": {
+        "defence": 5500,
+        "name": "4001",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 11000,
+        "health": 110000,
+        "red_now": 6
+    },
+    "600": {
+        "defence": 12187,
+        "name": "3915",
+        "red_grade": 12,
+        "lv": 39,
+        "attack": 24375,
+        "health": 243750,
+        "red_now": 20
+    },
+    "603": {
+        "defence": 6500,
+        "name": "4003",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 13000,
+        "health": 130000,
+        "red_now": 8
+    },
+    "602": {
+        "defence": 6000,
+        "name": "4002",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 12000,
+        "health": 120000,
+        "red_now": 7
+    },
+    "159": {
+        "defence": 2375,
+        "name": "1009",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 4750,
+        "health": 47500,
+        "red_now": 14
+    },
+    "158": {
+        "defence": 2250,
+        "name": "1008",
+        "red_grade": 7,
+        "lv": 10,
+        "attack": 4500,
+        "health": 45000,
+        "red_now": 13
+    },
+    "112": {
+        "defence": 1487,
+        "name": "707",
+        "red_grade": 6,
+        "lv": 7,
+        "attack": 2975,
+        "health": 29750,
+        "red_now": 12
+    },
+    "609": {
+        "defence": 9500,
+        "name": "4009",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 19000,
+        "health": 190000,
+        "red_now": 14
+    },
+    "608": {
+        "defence": 9000,
+        "name": "4008",
+        "red_grade": 13,
+        "lv": 40,
+        "attack": 18000,
+        "health": 180000,
+        "red_now": 13
+    },
+    "634": {
+        "defence": 7350,
+        "name": "4204",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 14700,
+        "health": 147000,
+        "red_now": 9
+    },
+    "399": {
+        "defence": 6175,
+        "name": "2609",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 12350,
+        "health": 123500,
+        "red_now": 14
+    },
+    "635": {
+        "defence": 7875,
+        "name": "4205",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 15750,
+        "health": 157500,
+        "red_now": 10
+    },
+    "749": {
+        "defence": 14700,
+        "name": "4914",
+        "red_grade": 13,
+        "lv": 49,
+        "attack": 29400,
+        "health": 294000,
+        "red_now": 19
+    },
+    "398": {
+        "defence": 5850,
+        "name": "2608",
+        "red_grade": 10,
+        "lv": 26,
+        "attack": 11700,
+        "health": 117000,
+        "red_now": 13
+    },
+    "48": {
+        "defence": 487,
+        "name": "303",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 975,
+        "health": 9750,
+        "red_now": 8
+    },
+    "49": {
+        "defence": 525,
+        "name": "304",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 1050,
+        "health": 10500,
+        "red_now": 9
+    },
+    "46": {
+        "defence": 412,
+        "name": "301",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 825,
+        "health": 8250,
+        "red_now": 6
+    },
+    "47": {
+        "defence": 450,
+        "name": "302",
+        "red_grade": 6,
+        "lv": 3,
+        "attack": 900,
+        "health": 9000,
+        "red_now": 7
+    },
+    "44": {
+        "defence": 600,
+        "name": "214",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 1200,
+        "health": 12000,
+        "red_now": 19
+    },
+    "45": {
+        "defence": 625,
+        "name": "215",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 1250,
+        "health": 12500,
+        "red_now": 20
+    },
+    "42": {
+        "defence": 550,
+        "name": "212",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 1100,
+        "health": 11000,
+        "red_now": 17
+    },
+    "43": {
+        "defence": 575,
+        "name": "213",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 1150,
+        "health": 11500,
+        "red_now": 18
+    },
+    "40": {
+        "defence": 500,
+        "name": "210",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 1000,
+        "health": 10000,
+        "red_now": 15
+    },
+    "41": {
+        "defence": 525,
+        "name": "211",
+        "red_grade": 6,
+        "lv": 2,
+        "attack": 1050,
+        "health": 10500,
+        "red_now": 16
+    },
+    "638": {
+        "defence": 9450,
+        "name": "4208",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 18900,
+        "health": 189000,
+        "red_now": 13
+    },
+    "5": {
+        "defence": 0,
+        "name": "0",
+        "red_grade": 6,
+        "lv": 0,
+        "attack": 0,
+        "health": 0,
+        "red_now": 10
+    },
+    "639": {
+        "defence": 9975,
+        "name": "4209",
+        "red_grade": 13,
+        "lv": 42,
+        "attack": 19950,
+        "health": 199500,
+        "red_now": 14
+    },
+    "489": {
+        "defence": 7600,
+        "name": "3209",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 15200,
+        "health": 152000,
+        "red_now": 14
+    },
+    "488": {
+        "defence": 7200,
+        "name": "3208",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 14400,
+        "health": 144000,
+        "red_now": 13
+    },
+    "487": {
+        "defence": 6800,
+        "name": "3207",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 13600,
+        "health": 136000,
+        "red_now": 12
+    },
+    "486": {
+        "defence": 6400,
+        "name": "3206",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 12800,
+        "health": 128000,
+        "red_now": 11
+    },
+    "485": {
+        "defence": 6000,
+        "name": "3205",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 12000,
+        "health": 120000,
+        "red_now": 10
+    },
+    "484": {
+        "defence": 5600,
+        "name": "3204",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 11200,
+        "health": 112000,
+        "red_now": 9
+    },
+    "483": {
+        "defence": 5200,
+        "name": "3203",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 10400,
+        "health": 104000,
+        "red_now": 8
+    },
+    "482": {
+        "defence": 4800,
+        "name": "3202",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 9600,
+        "health": 96000,
+        "red_now": 7
+    },
+    "481": {
+        "defence": 4400,
+        "name": "3201",
+        "red_grade": 11,
+        "lv": 32,
+        "attack": 8800,
+        "health": 88000,
+        "red_now": 6
+    },
+    "480": {
+        "defence": 9687,
+        "name": "3115",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 19375,
+        "health": 193750,
+        "red_now": 20
+    },
+    "509": {
+        "defence": 9900,
+        "name": "3314",
+        "red_grade": 11,
+        "lv": 33,
+        "attack": 19800,
+        "health": 198000,
+        "red_now": 19
+    },
+    "472": {
+        "defence": 6587,
+        "name": "3107",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 13175,
+        "health": 131750,
+        "red_now": 12
+    },
+    "473": {
+        "defence": 6975,
+        "name": "3108",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 13950,
+        "health": 139500,
+        "red_now": 13
+    },
+    "470": {
+        "defence": 5812,
+        "name": "3105",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 11625,
+        "health": 116250,
+        "red_now": 10
+    },
+    "471": {
+        "defence": 6200,
+        "name": "3106",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 12400,
+        "health": 124000,
+        "red_now": 11
+    },
+    "476": {
+        "defence": 8137,
+        "name": "3111",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 16275,
+        "health": 162750,
+        "red_now": 16
+    },
+    "477": {
+        "defence": 8525,
+        "name": "3112",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 17050,
+        "health": 170500,
+        "red_now": 17
+    },
+    "474": {
+        "defence": 7362,
+        "name": "3109",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 14725,
+        "health": 147250,
+        "red_now": 14
+    },
+    "475": {
+        "defence": 7750,
+        "name": "3110",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 15500,
+        "health": 155000,
+        "red_now": 15
+    },
+    "478": {
+        "defence": 8912,
+        "name": "3113",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 17825,
+        "health": 178250,
+        "red_now": 18
+    },
+    "479": {
+        "defence": 9300,
+        "name": "3114",
+        "red_grade": 11,
+        "lv": 31,
+        "attack": 18600,
+        "health": 186000,
+        "red_now": 19
+    }
+}

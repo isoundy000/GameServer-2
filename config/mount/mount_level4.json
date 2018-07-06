@@ -1,0 +1,782 @@
+{
+    "130": {
+        "attack": 260,
+        "defence": 130,
+        "health": 2600,
+        "name": "仙羽130级"
+    },
+    "41": {
+        "attack": 82,
+        "defence": 41,
+        "health": 820,
+        "name": "仙羽41级"
+    },
+    "24": {
+        "attack": 48,
+        "defence": 24,
+        "health": 480,
+        "name": "仙羽24级"
+    },
+    "25": {
+        "attack": 50,
+        "defence": 25,
+        "health": 500,
+        "name": "仙羽25级"
+    },
+    "26": {
+        "attack": 52,
+        "defence": 26,
+        "health": 520,
+        "name": "仙羽26级"
+    },
+    "27": {
+        "attack": 54,
+        "defence": 27,
+        "health": 540,
+        "name": "仙羽27级"
+    },
+    "20": {
+        "attack": 40,
+        "defence": 20,
+        "health": 400,
+        "name": "仙羽20级"
+    },
+    "21": {
+        "attack": 42,
+        "defence": 21,
+        "health": 420,
+        "name": "仙羽21级"
+    },
+    "22": {
+        "attack": 44,
+        "defence": 22,
+        "health": 440,
+        "name": "仙羽22级"
+    },
+    "23": {
+        "attack": 46,
+        "defence": 23,
+        "health": 460,
+        "name": "仙羽23级"
+    },
+    "28": {
+        "attack": 56,
+        "defence": 28,
+        "health": 560,
+        "name": "仙羽28级"
+    },
+    "29": {
+        "attack": 58,
+        "defence": 29,
+        "health": 580,
+        "name": "仙羽29级"
+    },
+    "4": {
+        "attack": 8,
+        "defence": 4,
+        "health": 80,
+        "name": "仙羽4级"
+    },
+    "8": {
+        "attack": 16,
+        "defence": 8,
+        "health": 160,
+        "name": "仙羽8级"
+    },
+    "120": {
+        "attack": 240,
+        "defence": 120,
+        "health": 2400,
+        "name": "仙羽120级"
+    },
+    "121": {
+        "attack": 242,
+        "defence": 121,
+        "health": 2420,
+        "name": "仙羽121级"
+    },
+    "122": {
+        "attack": 244,
+        "defence": 122,
+        "health": 2440,
+        "name": "仙羽122级"
+    },
+    "123": {
+        "attack": 246,
+        "defence": 123,
+        "health": 2460,
+        "name": "仙羽123级"
+    },
+    "124": {
+        "attack": 248,
+        "defence": 124,
+        "health": 2480,
+        "name": "仙羽124级"
+    },
+    "125": {
+        "attack": 250,
+        "defence": 125,
+        "health": 2500,
+        "name": "仙羽125级"
+    },
+    "126": {
+        "attack": 252,
+        "defence": 126,
+        "health": 2520,
+        "name": "仙羽126级"
+    },
+    "127": {
+        "attack": 254,
+        "defence": 127,
+        "health": 2540,
+        "name": "仙羽127级"
+    },
+    "128": {
+        "attack": 256,
+        "defence": 128,
+        "health": 2560,
+        "name": "仙羽128级"
+    },
+    "129": {
+        "attack": 258,
+        "defence": 129,
+        "health": 2580,
+        "name": "仙羽129级"
+    },
+    "59": {
+        "attack": 118,
+        "defence": 59,
+        "health": 1180,
+        "name": "仙羽59级"
+    },
+    "58": {
+        "attack": 116,
+        "defence": 58,
+        "health": 1160,
+        "name": "仙羽58级"
+    },
+    "55": {
+        "attack": 110,
+        "defence": 55,
+        "health": 1100,
+        "name": "仙羽55级"
+    },
+    "54": {
+        "attack": 108,
+        "defence": 54,
+        "health": 1080,
+        "name": "仙羽54级"
+    },
+    "57": {
+        "attack": 114,
+        "defence": 57,
+        "health": 1140,
+        "name": "仙羽57级"
+    },
+    "56": {
+        "attack": 112,
+        "defence": 56,
+        "health": 1120,
+        "name": "仙羽56级"
+    },
+    "51": {
+        "attack": 102,
+        "defence": 51,
+        "health": 1020,
+        "name": "仙羽51级"
+    },
+    "50": {
+        "attack": 100,
+        "defence": 50,
+        "health": 1000,
+        "name": "仙羽50级"
+    },
+    "53": {
+        "attack": 106,
+        "defence": 53,
+        "health": 1060,
+        "name": "仙羽53级"
+    },
+    "52": {
+        "attack": 104,
+        "defence": 52,
+        "health": 1040,
+        "name": "仙羽52级"
+    },
+    "115": {
+        "attack": 230,
+        "defence": 115,
+        "health": 2300,
+        "name": "仙羽115级"
+    },
+    "114": {
+        "attack": 228,
+        "defence": 114,
+        "health": 2280,
+        "name": "仙羽114级"
+    },
+    "88": {
+        "attack": 176,
+        "defence": 88,
+        "health": 1760,
+        "name": "仙羽88级"
+    },
+    "89": {
+        "attack": 178,
+        "defence": 89,
+        "health": 1780,
+        "name": "仙羽89级"
+    },
+    "111": {
+        "attack": 222,
+        "defence": 111,
+        "health": 2220,
+        "name": "仙羽111级"
+    },
+    "110": {
+        "attack": 220,
+        "defence": 110,
+        "health": 2200,
+        "name": "仙羽110级"
+    },
+    "113": {
+        "attack": 226,
+        "defence": 113,
+        "health": 2260,
+        "name": "仙羽113级"
+    },
+    "112": {
+        "attack": 224,
+        "defence": 112,
+        "health": 2240,
+        "name": "仙羽112级"
+    },
+    "82": {
+        "attack": 164,
+        "defence": 82,
+        "health": 1640,
+        "name": "仙羽82级"
+    },
+    "83": {
+        "attack": 166,
+        "defence": 83,
+        "health": 1660,
+        "name": "仙羽83级"
+    },
+    "80": {
+        "attack": 160,
+        "defence": 80,
+        "health": 1600,
+        "name": "仙羽80级"
+    },
+    "81": {
+        "attack": 162,
+        "defence": 81,
+        "health": 1620,
+        "name": "仙羽81级"
+    },
+    "119": {
+        "attack": 238,
+        "defence": 119,
+        "health": 2380,
+        "name": "仙羽119级"
+    },
+    "118": {
+        "attack": 236,
+        "defence": 118,
+        "health": 2360,
+        "name": "仙羽118级"
+    },
+    "84": {
+        "attack": 168,
+        "defence": 84,
+        "health": 1680,
+        "name": "仙羽84级"
+    },
+    "85": {
+        "attack": 170,
+        "defence": 85,
+        "health": 1700,
+        "name": "仙羽85级"
+    },
+    "3": {
+        "attack": 6,
+        "defence": 3,
+        "health": 60,
+        "name": "仙羽3级"
+    },
+    "7": {
+        "attack": 14,
+        "defence": 7,
+        "health": 140,
+        "name": "仙羽7级"
+    },
+    "108": {
+        "attack": 216,
+        "defence": 108,
+        "health": 2160,
+        "name": "仙羽108级"
+    },
+    "109": {
+        "attack": 218,
+        "defence": 109,
+        "health": 2180,
+        "name": "仙羽109级"
+    },
+    "102": {
+        "attack": 204,
+        "defence": 102,
+        "health": 2040,
+        "name": "仙羽102级"
+    },
+    "103": {
+        "attack": 206,
+        "defence": 103,
+        "health": 2060,
+        "name": "仙羽103级"
+    },
+    "100": {
+        "attack": 200,
+        "defence": 100,
+        "health": 2000,
+        "name": "仙羽100级"
+    },
+    "101": {
+        "attack": 202,
+        "defence": 101,
+        "health": 2020,
+        "name": "仙羽101级"
+    },
+    "106": {
+        "attack": 212,
+        "defence": 106,
+        "health": 2120,
+        "name": "仙羽106级"
+    },
+    "107": {
+        "attack": 214,
+        "defence": 107,
+        "health": 2140,
+        "name": "仙羽107级"
+    },
+    "104": {
+        "attack": 208,
+        "defence": 104,
+        "health": 2080,
+        "name": "仙羽104级"
+    },
+    "105": {
+        "attack": 210,
+        "defence": 105,
+        "health": 2100,
+        "name": "仙羽105级"
+    },
+    "39": {
+        "attack": 78,
+        "defence": 39,
+        "health": 780,
+        "name": "仙羽39级"
+    },
+    "38": {
+        "attack": 76,
+        "defence": 38,
+        "health": 760,
+        "name": "仙羽38级"
+    },
+    "33": {
+        "attack": 66,
+        "defence": 33,
+        "health": 660,
+        "name": "仙羽33级"
+    },
+    "32": {
+        "attack": 64,
+        "defence": 32,
+        "health": 640,
+        "name": "仙羽32级"
+    },
+    "31": {
+        "attack": 62,
+        "defence": 31,
+        "health": 620,
+        "name": "仙羽31级"
+    },
+    "30": {
+        "attack": 60,
+        "defence": 30,
+        "health": 600,
+        "name": "仙羽30级"
+    },
+    "37": {
+        "attack": 74,
+        "defence": 37,
+        "health": 740,
+        "name": "仙羽37级"
+    },
+    "36": {
+        "attack": 72,
+        "defence": 36,
+        "health": 720,
+        "name": "仙羽36级"
+    },
+    "35": {
+        "attack": 70,
+        "defence": 35,
+        "health": 700,
+        "name": "仙羽35级"
+    },
+    "34": {
+        "attack": 68,
+        "defence": 34,
+        "health": 680,
+        "name": "仙羽34级"
+    },
+    "60": {
+        "attack": 120,
+        "defence": 60,
+        "health": 1200,
+        "name": "仙羽60级"
+    },
+    "61": {
+        "attack": 122,
+        "defence": 61,
+        "health": 1220,
+        "name": "仙羽61级"
+    },
+    "62": {
+        "attack": 124,
+        "defence": 62,
+        "health": 1240,
+        "name": "仙羽62级"
+    },
+    "63": {
+        "attack": 126,
+        "defence": 63,
+        "health": 1260,
+        "name": "仙羽63级"
+    },
+    "64": {
+        "attack": 128,
+        "defence": 64,
+        "health": 1280,
+        "name": "仙羽64级"
+    },
+    "65": {
+        "attack": 130,
+        "defence": 65,
+        "health": 1300,
+        "name": "仙羽65级"
+    },
+    "66": {
+        "attack": 132,
+        "defence": 66,
+        "health": 1320,
+        "name": "仙羽66级"
+    },
+    "67": {
+        "attack": 134,
+        "defence": 67,
+        "health": 1340,
+        "name": "仙羽67级"
+    },
+    "68": {
+        "attack": 136,
+        "defence": 68,
+        "health": 1360,
+        "name": "仙羽68级"
+    },
+    "69": {
+        "attack": 138,
+        "defence": 69,
+        "health": 1380,
+        "name": "仙羽69级"
+    },
+    "2": {
+        "attack": 4,
+        "defence": 2,
+        "health": 40,
+        "name": "仙羽2级"
+    },
+    "6": {
+        "attack": 12,
+        "defence": 6,
+        "health": 120,
+        "name": "仙羽6级"
+    },
+    "99": {
+        "attack": 198,
+        "defence": 99,
+        "health": 1980,
+        "name": "仙羽99级"
+    },
+    "98": {
+        "attack": 196,
+        "defence": 98,
+        "health": 1960,
+        "name": "仙羽98级"
+    },
+    "91": {
+        "attack": 182,
+        "defence": 91,
+        "health": 1820,
+        "name": "仙羽91级"
+    },
+    "90": {
+        "attack": 180,
+        "defence": 90,
+        "health": 1800,
+        "name": "仙羽90级"
+    },
+    "93": {
+        "attack": 186,
+        "defence": 93,
+        "health": 1860,
+        "name": "仙羽93级"
+    },
+    "92": {
+        "attack": 184,
+        "defence": 92,
+        "health": 1840,
+        "name": "仙羽92级"
+    },
+    "95": {
+        "attack": 190,
+        "defence": 95,
+        "health": 1900,
+        "name": "仙羽95级"
+    },
+    "94": {
+        "attack": 188,
+        "defence": 94,
+        "health": 1880,
+        "name": "仙羽94级"
+    },
+    "97": {
+        "attack": 194,
+        "defence": 97,
+        "health": 1940,
+        "name": "仙羽97级"
+    },
+    "96": {
+        "attack": 192,
+        "defence": 96,
+        "health": 1920,
+        "name": "仙羽96级"
+    },
+    "11": {
+        "attack": 22,
+        "defence": 11,
+        "health": 220,
+        "name": "仙羽11级"
+    },
+    "10": {
+        "attack": 20,
+        "defence": 10,
+        "health": 200,
+        "name": "仙羽10级"
+    },
+    "13": {
+        "attack": 26,
+        "defence": 13,
+        "health": 260,
+        "name": "仙羽13级"
+    },
+    "12": {
+        "attack": 24,
+        "defence": 12,
+        "health": 240,
+        "name": "仙羽12级"
+    },
+    "15": {
+        "attack": 30,
+        "defence": 15,
+        "health": 300,
+        "name": "仙羽15级"
+    },
+    "14": {
+        "attack": 28,
+        "defence": 14,
+        "health": 280,
+        "name": "仙羽14级"
+    },
+    "17": {
+        "attack": 34,
+        "defence": 17,
+        "health": 340,
+        "name": "仙羽17级"
+    },
+    "16": {
+        "attack": 32,
+        "defence": 16,
+        "health": 320,
+        "name": "仙羽16级"
+    },
+    "19": {
+        "attack": 38,
+        "defence": 19,
+        "health": 380,
+        "name": "仙羽19级"
+    },
+    "18": {
+        "attack": 36,
+        "defence": 18,
+        "health": 360,
+        "name": "仙羽18级"
+    },
+    "117": {
+        "attack": 234,
+        "defence": 117,
+        "health": 2340,
+        "name": "仙羽117级"
+    },
+    "116": {
+        "attack": 232,
+        "defence": 116,
+        "health": 2320,
+        "name": "仙羽116级"
+    },
+    "48": {
+        "attack": 96,
+        "defence": 48,
+        "health": 960,
+        "name": "仙羽48级"
+    },
+    "49": {
+        "attack": 98,
+        "defence": 49,
+        "health": 980,
+        "name": "仙羽49级"
+    },
+    "46": {
+        "attack": 92,
+        "defence": 46,
+        "health": 920,
+        "name": "仙羽46级"
+    },
+    "86": {
+        "attack": 172,
+        "defence": 86,
+        "health": 1720,
+        "name": "仙羽86级"
+    },
+    "44": {
+        "attack": 88,
+        "defence": 44,
+        "health": 880,
+        "name": "仙羽44级"
+    },
+    "45": {
+        "attack": 90,
+        "defence": 45,
+        "health": 900,
+        "name": "仙羽45级"
+    },
+    "42": {
+        "attack": 84,
+        "defence": 42,
+        "health": 840,
+        "name": "仙羽42级"
+    },
+    "43": {
+        "attack": 86,
+        "defence": 43,
+        "health": 860,
+        "name": "仙羽43级"
+    },
+    "40": {
+        "attack": 80,
+        "defence": 40,
+        "health": 800,
+        "name": "仙羽40级"
+    },
+    "87": {
+        "attack": 174,
+        "defence": 87,
+        "health": 1740,
+        "name": "仙羽87级"
+    },
+    "1": {
+        "attack": 2,
+        "defence": 1,
+        "health": 20,
+        "name": "仙羽1级"
+    },
+    "5": {
+        "attack": 10,
+        "defence": 5,
+        "health": 100,
+        "name": "仙羽5级"
+    },
+    "9": {
+        "attack": 18,
+        "defence": 9,
+        "health": 180,
+        "name": "仙羽9级"
+    },
+    "77": {
+        "attack": 154,
+        "defence": 77,
+        "health": 1540,
+        "name": "仙羽77级"
+    },
+    "76": {
+        "attack": 152,
+        "defence": 76,
+        "health": 1520,
+        "name": "仙羽76级"
+    },
+    "75": {
+        "attack": 150,
+        "defence": 75,
+        "health": 1500,
+        "name": "仙羽75级"
+    },
+    "74": {
+        "attack": 148,
+        "defence": 74,
+        "health": 1480,
+        "name": "仙羽74级"
+    },
+    "73": {
+        "attack": 146,
+        "defence": 73,
+        "health": 1460,
+        "name": "仙羽73级"
+    },
+    "72": {
+        "attack": 144,
+        "defence": 72,
+        "health": 1440,
+        "name": "仙羽72级"
+    },
+    "71": {
+        "attack": 142,
+        "defence": 71,
+        "health": 1420,
+        "name": "仙羽71级"
+    },
+    "70": {
+        "attack": 140,
+        "defence": 70,
+        "health": 1400,
+        "name": "仙羽70级"
+    },
+    "79": {
+        "attack": 158,
+        "defence": 79,
+        "health": 1580,
+        "name": "仙羽79级"
+    },
+    "78": {
+        "attack": 156,
+        "defence": 78,
+        "health": 1560,
+        "name": "仙羽78级"
+    },
+    "47": {
+        "attack": 94,
+        "defence": 47,
+        "health": 940,
+        "name": "仙羽47级"
+    }
+}

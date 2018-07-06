@@ -1,0 +1,44 @@
+{
+    "scene_id" : 70402,
+    "name" : "争霸天下",
+	
+	/*战斗时间*/
+	"fighting_time": 300,
+	/*退出时间*/
+	"quit_time": 15,
+	/*预热时间*/
+	"prep_time":300,
+	/*排队时间*/
+	"max_arrange_time":30,
+	/*传送时间*/
+	"max_transfer_time":5,
+	/*死亡次数*/
+	"max_die_times": 5,
+	/*进入点*/
+	"enter_pos":[[1053,1662], [5185,6024]],
+	/*复活保护时间*/
+	"relive_protected":[4, 4],
+	/*BUFF*/
+	"buff_list":[[70013],[70014]],
+	
+	/*MPV积分*/
+	"win_mpv":5,
+	/*单场积分胜利奖励*/
+	"win_point_reward": 30,
+	/*单场积分失败奖励*/
+	"lose_point_reward":15,
+	/*允许掉落奖励*/
+	"drop_reward":10,
+	/*单场胜利掉落奖励*/
+	"win_reward": 20461,
+	/*单场失败掉落奖励*/
+	"lose_reward":20462,
+	
+	/*复活*/
+	"relive" :  
+	{
+		"type" : "11",
+		"camp_pos":[[1053,1662], [5185,6024]],
+		"state":[100, 100]
+	}
+}

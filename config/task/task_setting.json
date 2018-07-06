@@ -1,0 +1,131 @@
+{
+    "task_type" : {
+        "main" : 1,
+        "branch" : 2,
+        "routine" : 3,
+        "league" : 4
+    },
+	"rename_task" : 100100001,			// 改名任务ID
+	"novice_birth_task" : 100100028,	// 不回去新手地图的任务ID
+    // 日常任务数量
+    "routine_sub_type" : {
+        "liveness" : 301,
+        // 活跃度
+        "script" : 302,
+        // 副本
+        "arena_pk" : 303,
+        // 竞技场
+        "consume" : 304,
+        // 消费
+        "other" : 305
+        // 其他
+    },
+    "cond_type" : {
+        "kill" : 1,
+        "collect" : 2,
+        "talk" : 3,
+        "lvl_up" : 4,
+        "activity" : 5,
+        "script" : 6,
+        "recharge" : 7,
+        "package" : 8,
+        "patrol" : 9
+        // 与NPC对话
+    },
+    "cond_enum" : [1,2,3,4,5,6,7,8,9],
+    "daliy_routine_start_level" : 48,   // 日常任务开放等级
+    "routine_number" : 15,       // 日常环式任务数据
+	"routine_ext_award" : 601001,	//额外奖励
+	
+    "offer_routine_start_level" : 48,   // 悬赏任务开放等级
+    "offer_routine_number" : 15,       // 悬赏任务数据 
+	"offer_routine_ext_award" : 601001,	//额外奖励
+		
+    "league_routine_start_level" : 48,   // 帮派任务开放等级
+    "league_routine_number" : 15,       // 帮派环式任务数据 
+	"league_routine_ext_award" : 601001,	//额外奖励     
+	
+    "routine_fast_money" : 2,  // 日常环式快速完成一个任务需要的元宝
+    "routine_double_award_money" :10,   // 日常环式双倍奖励需要的元宝 
+	"routine_star_fresh_copper" : 3000,     // 日常星级刷新需要的铜钱
+	"routine_protect_star_full" : [10, 5],  // 保底刷新10次必5星
+	"virtual_routine_appear" : 100100069,    // 构造的假环式任务出现时机
+	
+	"trial_number" : 15,	// 试炼任务次数
+	"trial_level" : 33,
+	"trial_list_junior" : [100500001,100500002,100500003,100500004,100500005,100500006,100500007],	// 试炼任务面板的初级任务列表
+	"trial_list_middle" : [100500008,100500009,100500010,100500011,100500012,100500013,100500014],	// 试炼任务面板的中级任务列表
+	"trial_list_seinor" : [100500015,100500016,100500017,100500018,100500019,100500020,100500021], 	// 试炼任务面板的高级任务列表
+    "daliy_reset" : ["routine","league"],
+	"novice_open_ui" : {
+        "prev_version" : {
+            "version" : 20150801,       // 旧版本号
+            "accept" : [                // 接受任务时开启的界面
+                []
+            ],
+			"submit" : [                // 提交任务后保持开启的界面
+                []
+            ],
+            "levelUP" : [               // 升级后开启的界面
+                []
+            ]
+        },
+        "current_version" : {
+            "version" : 20150807,       // 新版本号
+            "accept" : [
+				[100100078, "area"],
+				[100100070, "20100"],
+				[100100102, "PetGrowUp"],
+				[100100104, "PetForgeSoul"]
+            ],
+			/*任务刚完成时提示*/
+			"finish" : [
+			],
+			/*任务提交时提示*/
+            "submit" : [
+                [100100004, "skill"],
+								[100100011, "cutePet"], 
+								[100100019, "newbieWing"],
+								[100100030, "mount"],
+								[100100030, "MountIllusion"],
+								[100100034, "fuBenZhanYao"],
+								[100100042, "20500"],
+								[100100058, "BossMainWindow"],
+								[100100060, "CompoundWindow"],
+								[100100061, "EquipResolve"],
+								[100100041, "equipintensify"],
+								[100100063, "EquipInherit"],
+								[100100064, "EquipToOrange"],
+								[100100065, "Treasure"],
+								[100100067, "faction"],
+							    [100100069, "loopTaskWindow"],
+								[100100074, "chooseTaskWindow"],
+								[100100056, "pk"],
+								[100100110, "PetSkillPanel"],
+								[100100059, "equipupgrade"],
+								[100100101, "PetFuse"],
+								[100100103, "20400"],
+								[100100107, "equipwash"],
+								[100100090, "Artifact"],
+								[100100091, "22000"],
+								[100100109, "20200"],
+								[100100112, "ChangeLifeWindow"],
+								[100100119, "EquipInlay"],
+								[100100120, "20700"],
+								[100100070, "20100"]
+            ],
+            "levelUP" : [
+								[1, "wingWindow"],
+								[31, "ranking"],
+								[1045, "MagicTower"],
+								[1045, "TalismanUpgrade"],
+								[2055, "flyUpWindow"],
+                                [1050, "PetProtect"],
+								[2050, "Masterpiece"]
+            ],
+            "otherUI":{
+                "mount_grade" : [19,"MountEquip"]
+            }
+        }
+    }
+}

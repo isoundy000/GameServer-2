@@ -1,0 +1,124 @@
+{
+    "70701": {
+        "second_type": 1,
+        "red_point": 11951,
+        "name": "夫妻同心",
+        "limit_cond": [
+            1,
+            100
+        ],
+        "first_type": 7,
+        "act_title": "夫妻同心",
+        "open_time": 1
+    },
+    "70703": {
+        "second_type": 3,
+        "red_point": 11951,
+        "name": "夫妻同心",
+        "limit_cond": [
+            1,
+            100
+        ],
+        "first_type": 7,
+        "act_title": "夫妻同心",
+        "open_time": 3
+    },
+    "70702": {
+        "second_type": 2,
+        "red_point": 11951,
+        "name": "夫妻同心",
+        "limit_cond": [
+            1,
+            100
+        ],
+        "first_type": 7,
+        "act_title": "夫妻同心",
+        "open_time": 2
+    },
+    "70103": {
+        "second_type": 3,
+        "red_point": 11901,
+        "name": "每日登录",
+        "first_type": 1,
+        "act_title": "每日登录",
+        "open_time": 3
+    },
+    "70901": {
+        "second_type": 1,
+        "first_type": 9,
+        "name": "神秘兑换",
+        "act_title": "神秘兑换",
+        "open_time": [
+            1,
+            2,
+            3
+        ]
+    },
+    "70601": {
+        "second_type": 1,
+        "red_point": 11941,
+        "name": "每日充值",
+        "first_type": 6,
+        "act_title": "每日充值",
+        "open_time": 1
+    },
+    "70602": {
+        "second_type": 2,
+        "red_point": 11941,
+        "name": "每日充值",
+        "first_type": 6,
+        "act_title": "每日充值",
+        "open_time": 2
+    },
+    "70603": {
+        "second_type": 3,
+        "red_point": 11941,
+        "name": "每日充值",
+        "first_type": 6,
+        "act_title": "每日充值",
+        "open_time": 3
+    },
+    "70802": {
+        "second_type": 2,
+        "reset": 1,
+        "red_point": 11961,
+        "name": "劳动光荣",
+        "first_type": 8,
+        "act_title": "劳动光荣",
+        "open_time": 2
+    },
+    "70102": {
+        "second_type": 2,
+        "red_point": 11901,
+        "name": "每日登录",
+        "first_type": 1,
+        "act_title": "每日登录",
+        "open_time": 2
+    },
+    "70101": {
+        "second_type": 1,
+        "red_point": 11901,
+        "name": "每日登录",
+        "first_type": 1,
+        "act_title": "每日登录",
+        "open_time": 1
+    },
+    "70801": {
+        "second_type": 1,
+        "reset": 1,
+        "red_point": 11961,
+        "name": "劳动光荣",
+        "first_type": 8,
+        "act_title": "劳动光荣",
+        "open_time": 1
+    },
+    "70803": {
+        "second_type": 3,
+        "reset": 1,
+        "red_point": 11961,
+        "name": "劳动光荣",
+        "first_type": 8,
+        "act_title": "劳动光荣",
+        "open_time": 3
+    }
+}

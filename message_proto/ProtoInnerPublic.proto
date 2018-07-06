@@ -1,0 +1,549 @@
+import "ProtoPublic.proto";
+
+message ProtoServerAddress       // 服务器列表
+{
+    optional string server_name = 1;       // 服务器名称
+    optional string session = 2;       // 会话flag
+    optional string auth_ip = 3;       // 验证服IP
+    optional int32 auth_port = 4;       // 验证服端口
+    optional string role_name = 5;       // 角色名
+    optional int32 level = 6;       // 等级
+}
+
+message ProtoSyncStatus       // 场景切换的同步状态
+{
+    optional int32 status = 1;       // 状态ID
+    optional int32 view_status = 2;       // 客户端显示的状态ID
+    optional double view1 = 3;       // 客户端显示的状态参数值1
+    optional double view2 = 4;       // 客户端显示的状态参数值2
+    optional double view3 = 5;       // 客户端显示的状态参数值3
+    optional double value1 = 6;       // 状态值1
+    optional double value2 = 7;       // 状态值2
+    optional double value3 = 8;       // 状态值3
+    optional double value4 = 9;       // 状态值4
+    optional double value5 = 10;       // 状态值5
+    optional int64 check_sec = 11;       // 状态下次更新时间戳的秒数
+    optional int64 check_usec = 12;       // 状态下次更新时间戳的微秒数
+    optional int64 interval_sec = 13;       // 状态更新的间隔时间的秒数
+    optional int64 interval_usec = 14;       // 状态更新的间隔时间的微秒数
+    optional int64 last_sec = 15;       // 状态剩余持续时间的秒数
+    optional int64 last_usec = 16;       // 状态剩余持续时间的微秒数
+    optional int32 skill_id = 17;       // 施放状态的技能ID
+    optional int32 skill_level = 18;       // 施放状态时的技能等级
+    optional int32 attacker = 19;       // 状态的施放者
+    optional int32 accumulate = 20;       // 已累加次数
+}
+
+message ProtoPackageSet       // 背包类型集合
+{
+    optional ProtoMoney money = 1;       // 背包金钱
+    repeated ProtoPackage package_list = 2;       // 背包列表
+    optional ProtoMoney money_use = 3;       // 金钱消耗
+    optional int64 recharge_first_tick = 4;       // 首充时间戳
+    optional int64 recharge_gold = 5;       // 总充值元宝
+    repeated ProtoPairObj resource_map = 6;       // 资源
+    optional ProtoPairMap use_resource_map = 7;       // 使用资源记录
+}
+
+message ProtoPackage       // 背包信息
+{
+    optional int32 pack_type = 1;       // 背包类型
+    optional int32 pack_size = 2;       // 背包大小
+    optional int32 last_open_tick = 3;       // 上次开启时间
+    repeated ProtoItem item_list = 4;       // 物品列表
+    repeated ProtoPairObj grid_vec = 5;       // 格子信息
+    optional int32 is_open_sublime = 6;       // 是否开启升华功能
+    optional int32 sublime_level = 7;       // 升华等级
+}
+
+message ProtoLimitGrid       // 限制格子信息
+{
+    optional int32 index = 1;       // 格子索引
+    optional int32 left_tick = 2;       // 剩余时间
+}
+
+message ProtoSerialObj       // 流水
+{
+    optional int32 serial_type = 1;       // 流水类型
+    optional int32 sub_type = 2;       // 子类型
+    optional int32 serial_value = 3;       // 流水额外值
+}
+
+message ProtoProItem       // 属性项
+{
+    optional int32 offset = 1;       // 偏移量
+    optional ProtoPairObj pro_pair = 2;       // 属性
+}
+
+message ProtoInnerTaskInfo       // 内部同步任务信息
+{
+    optional int32 task_id = 1;       // 任务ID
+    optional int32 game_type = 2;       // 任务类型：TASK_GAME_TYPE
+    optional int64 accept_tick_sec = 3;       // 接受任务时间戳，秒
+    optional int64 accept_tick_usec = 4;       // 接受任务时间戳，微秒
+    optional int64 refresh_tick_sec = 5;       // 刷新任务时间戳，秒
+    optional int64 refresh_tick_usec = 6;       // 刷新任务时间戳，微秒
+    repeated ProtoInnerTaskCond task_cond_list = 7;       // 任务条件列表
+    optional int32 prev_task = 8;       // 前置任务ID
+    optional int32 post_task = 9;       // 后置任务ID
+    optional uint64 status = 10;       // 任务状态标志位
+    optional uint64 logic_type = 11;       // 任务条件标识标志位
+    optional int32 task_star = 12;       // 任务星级
+    optional int32 fast_finish_rate = 13;       // 快速完成的奖励倍率
+    optional int32 fresh_star_times = 14;       // 刷新星级次数
+}
+
+message ProtoInnerTaskCond       // 内部同步任务条件
+{
+    optional int32 type = 1;       // 条件类型；TASK_COND_TYPE
+    optional int32 current_value = 2;       // 当前值，如：怪物数量或收集物品数
+    optional int32 cond_index = 3;       // 多条件类型的索引
+    optional int32 id_list_index = 4;       // 多ID类型的索引
+    optional int32 cond_id = 5;       // 条件ID
+    optional int32 final_value = 6;       // 目标值
+    optional int32 kill_type = 7;       // 杀怪类型
+    optional int32 range_level = 8;       // 范围等级
+}
+
+message ProtoSignInfo       // 报名信息
+{
+    optional int32 sign_type = 1;       // 报名类型，0表示队伍，1表示个人
+    optional int64 type_index = 2;       // 队长ID或玩家ID
+    optional string role_name = 3;       // 名字
+    optional int32 type_lvl = 4;       // 等级
+    optional int32 type_force = 5;       // 战力
+    optional int32 type_count = 6;       // 人数
+}
+
+message ProtoFBItem       // 队伍副本信息
+{
+    optional int32 fb_id = 1;       // 副本ID
+    optional int32 finish_times = 2;       // 完成次数
+    optional int32 total_times = 3;       // 总次数
+}
+
+message RecordMoney       // 金钱流水
+{
+    optional string table_name = 1;       // 表名
+    optional int64 role_id = 2;       // 玩家ID
+    optional int32 serial_type = 3;       // 流水类型
+    optional int32 sub_serial_type = 4;       // 子流水类型
+    optional int32 sub_agent = 5;       // 子代理ID
+    optional int32 money_type = 6;       // 金钱类型
+    optional int32 money = 7;       // 变动的金钱数
+    optional int32 bind_money = 8;       // 变动的bind金钱数
+    optional int32 remain_money = 9;       // 剩余的金钱数
+    optional int32 remain_bind_money = 10;       // 剩余的bind金钱数
+    optional int32 time = 11;       // 记录时间
+    optional int32 platform = 12;       // 平台ID
+    optional int32 market = 13;       // 包(应用市场)
+}
+
+message RecordItem       // 道具流水
+{
+    optional string table_name = 1;       // 
+    optional int64 role_id = 2;       // 角色ID
+    optional int32 serial_type = 3;       // 流水类型
+    optional int32 sub_serial_type = 4;       // 流水子类型
+    optional int32 sub_agent = 5;       // 代理代号
+    optional int32 item_id = 6;       // 道具ID
+    optional int32 amount = 7;       // 数量
+    optional int32 bind = 8;       // 绑定状态
+    optional int32 time = 9;       // 写入时间
+    optional int32 platform = 10;       // 平台ID
+    optional int32 market = 11;       // 包(应用市场)
+    optional int64 src_role_id = 12;       // 来源，0为系统获得
+    optional int32 role_level = 13;       // 角色等级
+}
+
+message RecordEquipment       // 装备流水
+{
+    optional string table_name = 1;       // 表名
+    optional int64 role_id = 2;       // 角色ID
+    optional int32 serial_type = 3;       // 流水类型
+    optional int32 sub_agent = 4;       // 代理代号
+    optional int32 equip_id = 5;       // 装备ID
+    optional int32 amount = 6;       // 数量
+    optional int32 time = 7;       // 写入时间
+    optional int32 bind = 8;       // 绑定状态
+    optional int32 index = 9;       // 所在背包索引
+    optional int32 pack_type = 10;       // 所在背包类型
+    optional int32 refine_level = 11;       // 强化等级
+    optional int32 refine_degree = 12;       // 强化完成度
+    optional int32 serial_sub_type = 13;       // 流水子类型
+    optional int32 platform = 14;       // 平台ID
+    optional int32 luck_value = 15;       // 装备的幸运值（武器）
+    optional string jewel_lists = 16;       // 装备镶嵌宝石（第一个为宝石id，第二个为绑定状态）
+    optional string cur_polish = 17;       // 装备当前洗练属性
+    optional string extern_attr = 18;       // 装备的极品属性
+    optional string molding = 19;       // 装备铸魂属性
+}
+
+message RecordPlayerLevel       // 等级流水
+{
+    optional string table_name = 1;       // 
+    optional int64 role_id = 2;       // 
+    optional int32 serial_type = 3;       // 
+    optional int32 sub_agent = 4;       // 
+    optional int32 level = 5;       // 
+    optional int32 time = 6;       // 
+    optional int32 platform = 7;       // 平台ID
+}
+
+message RecordOtherSerial       // 其他流水
+{
+    optional string table_name = 1;       // 
+    optional int64 role_id = 2;       // 
+    optional int32 serial_type = 3;       // 
+    optional int32 sub_serial_type = 4;       // 
+    optional int32 sub_agent = 5;       // 
+    optional int64 value = 6;       // 
+    optional int64 ext1 = 7;       // 
+    optional int64 ext2 = 8;       // 
+    optional int32 time = 9;       // 
+    optional int32 platform = 10;       // 平台ID
+}
+
+message ProtoScriptRecord       // 玩家的副本记录
+{
+    optional int32 script_sort = 1;       // 副本配置ID
+    optional int32 used_times = 2;       // 已使用次数
+    optional int32 used_times_tick = 3;       // 使用次数刷新时间戳
+    optional int32 enter_script_tick = 4;       // 进入副本的时间戳
+    optional int64 progress_id = 5;       // 进度号
+    optional int32 best_use_tick = 6;       // 历史最好时间
+    optional int32 is_first_pass = 7;       // 是否已经首次通关。0未通过，1已通过
+    optional int32 buy_left_times = 8;       // 副本次数购买次数
+    optional int32 couple_buy_times = 9;       // 夫妻赠送次数
+    optional int32 day_pass_times = 10;       // 每日通过副本的次数
+    optional int32 is_even_enter = 11;       // 是否曾经进入过副本
+    optional int32 protect_beast_index = 12;       // 灵兽岛保护宠物索引
+}
+
+message ProtoLivenessTaskInfo       // 活跃度任务信息
+{
+    optional int32 task_id = 1;       // 活跃度任务ID
+    optional int32 status = 2;       // 任务状态
+    optional int32 time_index = 3;       // 当前应显示的任务时间的索引(start_time 数组)
+    optional int32 num = 4;       // 进度数值
+    optional int32 finish_num = 5;       // 任务完成要达到的数值
+}
+
+message ProtoExpRestoreRecord       // 经验找回单个记录
+{
+    optional int32 id = 1;       // 活动ID
+    optional int32 date = 2;       // 记录的日期
+    optional int32 count = 3;       // 已完成次数
+    optional bool valid = 4;       // 记录是否有效 false记录已无效 true有效
+}
+
+message ProtoMagicalPolish       // 不同等级段的神兵洗练
+{
+    optional int32 magical_id = 1;       // 神兵id
+    optional ProtoMagicalInfo cur_use = 2;       // 当前使用的神兵属性
+    optional ProtoMagicalInfo single_record = 3;       // 单次聚灵的属性结果
+    repeated ProtoMagicalInfo batch_record = 4;       // 批量聚灵的属性结果
+}
+
+message ProtoPieceInfo       // 章节信息
+{
+    optional int32 chapter_key = 1;       // 篇ID * 1000 + 章ID
+    optional int32 used_sec = 2;       // 最好成绩的时间, 单位秒
+    optional int32 used_times = 3;       // 使用次数; 每天刷新
+    optional int32 award_flag = 4;       // 奖励标识; 0未通关, 1 有奖励未领取, 2 已领取
+    repeated int32 chapter_item_id = 5;       // 通关奖励的物品ID列表
+    repeated int32 chapter_item_num = 6;       // 通关奖励的物品数量列表,与chapter_item_id一一对应
+    optional int32 today_pass_flag = 7;       // 当天通关标识; 0 未通关，1通关
+}
+
+message ProtoBrocastNewInfo       // 新广播格式
+{
+    optional int32 shout_id = 1;       // 广播号
+    optional int64 group_id = 2;       // 组织ID
+    optional int32 channel_type = 3;       // 聊天频道
+    repeated ProtoShoutDetail shout_detail_list = 4;       // 详细内容
+    optional int32 scene_id = 5;       // 场景ID
+    optional int64 role = 6;       // 触发者
+}
+
+message ProtoFashionTips       // 时装到期通知
+{
+    optional int32 fashion_id = 1;       // 
+    optional int32 fashion_force = 2;       // 
+    optional int32 left_sec = 3;       // 剩余时间：秒
+    optional int32 martial_id = 4;       // 原料id：为0说明是不可转化时装
+}
+
+message ProtoPlayerTipSyncInfo       // 系统提醒
+{
+    optional int32 event_id = 1;       // 事件ID
+    optional int32 arena_reward = 2;       // 事件值
+}
+
+message ProtoSyncLabel       // 场景切换时同步称号的结构
+{
+    optional int32 label_id = 1;       // 称号id
+    optional int64 expire_tick = 2;       // 过期时间戳
+}
+
+message RecordOnlineUsers       // 在线统计流水
+{
+    optional string table_name = 1;       // 表名
+    optional int32 sub_agent = 2;       // 
+    optional int32 platform = 3;       // 注意!!! 该字段不再使用
+    optional int32 market = 4;       // 市场ID
+    optional int32 users = 5;       // 玩家数
+    optional int32 hooking_users = 6;       // 挂机玩家数
+    optional int32 time = 7;       // 时间(5分钟取整)
+}
+
+message RecordLoginLogout       // 玩家上下线流水
+{
+    optional string table_name = 1;       // 
+    optional int64 role_id = 2;       // 
+    optional string role_name = 3;       // 
+    optional int32 level = 4;       // 
+    optional string account = 5;       // 
+    optional string client_ip = 6;       // 
+    optional int32 login_time = 7;       // 
+    optional int32 logout_time = 8;       // 
+    optional int32 online_time = 9;       // 
+    optional int32 market = 10;       // 
+    optional int32 sub_agent = 11;       // 
+    optional int32 platform = 12;       // 
+    optional string sys_model = 13;       // 机型
+    optional string sys_version = 14;       // 系统版本
+    optional string mac = 15;       // MAC地址
+}
+
+message BackRechargeOrder       // 后台充值订单
+{
+    optional int32 order_id = 1;       // 订单id
+    optional string order_num_str = 2;       // 订单号
+    optional int32 channel_id = 3;       // 充值渠道
+    optional int32 money = 4;       // 充值的RMB
+    optional int32 gold = 5;       // 充值元宝
+    optional string account = 6;       // 充值账户
+    optional int64 tick = 7;       // 订单时间
+}
+
+message ProtoERTimeStage       // 经验找回：时间对应的副本最高通过进度
+{
+    optional int64 time_sec = 1;       // 时间戳
+    optional int32 stage = 2;       // 副本最高通过进度
+}
+
+message ProtoERScriptStageInfo       // 经验找回：副本ID对应的副本最高通过进度时间信息
+{
+    repeated ProtoERTimeStage TimeStageSet = 1;       // 副本最高通过进度时间信息
+    optional int32 script_sort = 2;       // 副本ID
+}
+
+message ProtoOfflineBeast       // 宠物离线
+{
+    optional int64 beast_id = 1;       // 宠物ID
+    optional int32 beast_sort = 2;       // 宠物种类
+    optional string beast_name = 3;       // 宠物名称
+    repeated ProtoPairObj skill_set = 4;       // 技能列表
+    repeated ProtoPairObj prop_set = 5;       // 属性列表
+}
+
+message RecordTask       // 任务流水
+{
+    optional string table_name = 1;       // 表名
+    optional int64 role_id = 2;       // 角色ID
+    optional int32 serial_type = 3;       // 流水类型
+    optional int32 platform = 4;       // 平台ID
+    optional int32 sub_agent = 5;       // 渠道ID
+    optional int32 market = 6;       // 包号
+    optional int32 task_id = 7;       // 任务ID
+    optional int32 level = 8;       // 玩家等级
+    optional int32 time = 9;       // 写入时间
+}
+
+message RecordRank       // 排行流水
+{
+    optional string table_name = 1;       // 表名
+    optional int64 role_id = 2;       // ID
+    optional string role_name = 3;       // 名字
+    optional int32 rank_type = 4;       // 排行类型
+    optional int32 value = 5;       // 数值(排名、得分等)
+    optional int32 time = 6;       // 记录时间(同一场活动时间相同)
+    optional int64 ext_int_1 = 7;       // 附加1
+    optional int64 ext_int_2 = 8;       // 附加2
+    optional string ext_str_1 = 9;       // 附加3
+    optional int32 vip = 10;       // VIP等级
+}
+
+message RecordMail       // 邮件流水
+{
+    optional string table_name = 1;       // 表名
+    optional int64 mail_index = 2;       // 邮件的唯一索引
+    optional int64 sender_id = 3;       // 发送者id
+    optional int64 receiver_id = 4;       // 收件者id
+    optional int64 send_tick = 5;       // 邮件发送时间
+    optional int64 read_tick = 6;       // 邮件首次被读时间
+    optional int32 mail_type = 7;       // 邮件类型，301私人，302系统，303GM
+    optional int32 has_read = 8;       // 是否已读，0未读，1已读
+    optional string receiver_name = 9;       // 收件者名字
+    optional string sender_name = 10;       // 发件者名字
+    optional string title = 11;       // 邮件标题
+    optional string content = 12;       // 邮件内容
+    optional int32 serial_type = 13;       // 流水类型
+    optional int32 platform = 14;       // 平台ID
+    optional int32 sub_agent = 15;       // 渠道ID
+    optional int32 attach_gold = 16;       // 附件元宝
+    optional int32 attach_copper = 17;       // 附件铜钱
+    optional int32 attach_id_1 = 18;       // 邮件附件索引位置为1的物品id
+    optional int32 attach_amount_1 = 19;       // 邮件附件索引位置为1的物品amount
+    optional int32 attach_id_2 = 20;       // 
+    optional int32 attach_amount_2 = 21;       // 
+    optional int32 attach_id_3 = 22;       // 
+    optional int32 attach_amount_3 = 23;       // 
+    optional int32 attach_id_4 = 24;       // 
+    optional int32 attach_amount_4 = 25;       // 
+    optional int32 attach_bind_gold = 26;       // 附件绑定元宝(礼卷)
+    optional int32 attach_bind_copper = 27;       // 附件绑定铜钱
+    optional int32 mail_format = 28;       // 邮件类型
+}
+
+message ProtoOnSaleItem       // 同步商店物品信息
+{
+    optional int32 item_id = 1;       // 物品id
+    optional int32 item_bind = 2;       // 物品绑定状态
+    repeated int32 item_type = 3;       // 物品类型
+    optional int32 shop_type = 4;       // 商店类型
+    optional int32 money_type = 5;       // 金钱类型
+    optional int32 src_price = 6;       // 原价
+    optional int32 cur_price = 7;       // 现价
+    optional int32 start_tick = 8;       // 生效时间
+    optional int32 end_tick = 9;       // 结束时间
+    optional ProtoPairObj need_item = 10;       // 兑换需要物品信息
+}
+
+message RecordChat       // 聊天流水结构
+{
+    optional string table_name = 1;       // 
+    optional int64 role_id = 2;       // 
+    optional int32 serial_type = 3;       // 聊天频道
+    optional int32 time = 4;       // 写入时间
+    optional string content = 5;       // 聊天文字内容
+    optional int32 sub_agent = 6;       // 渠道代号
+    optional string server_flag = 7;       // 服务器标识
+    optional int32 market = 8;       // 包号
+}
+
+message ProtoLottery       // 限时神装同步结构体
+{
+    optional int32 gold_times = 1;       // 元宝抽取次数
+    optional int32 gold_free_times = 2;       // 第几次时免费
+    optional int32 free_times = 3;       // 免费抽取次数
+    optional int32 total_score = 4;       // 总获得积分
+    optional int32 total_gold = 5;       // 总使用元宝
+    optional int32 left_free_sec = 6;       // 剩余免费的秒数(在线)
+    optional int32 next_free_tick = 7;       // 下次增加免费次数的时间
+    optional int32 protect_gold = 8;       // 保底累加元宝统计
+    optional int32 end_tick = 9;       // 本次活动结束时间
+    repeated int32 jane_item_list = 10;       // 抽中的珍希道具列表
+    repeated ProtoLotteryWaitAward wait_award_list = 11;       // 异步奖励信息
+    optional int32 activity_id = 12;       // 活动ID
+}
+
+message ProtoActivityTick       // 后台活动时间同步
+{
+    optional int32 activity_id = 1;       // 活动ID
+    optional int32 begin_tick = 2;       // 开始时间
+    optional int32 end_tick = 3;       // 结束时间
+}
+
+message ProtoLotteryWaitAward       // 限时神装异步奖励信息
+{
+    optional int32 inc_gold = 1;       // 需要花费元宝
+    optional int32 inc_score = 2;       // 奖励积分
+    optional ProtoItem award_item = 3;       // 奖励道具
+    optional int32 buy_type = 4;       // 抽奖类型：0 元宝，1 免费
+}
+
+message ProtoMongoData       // mongo数据结构的字节流
+{
+    optional int32 op_type = 1;       // 操作类型
+    optional string table_name = 2;       // 表名
+    optional string cond_bson = 3;       // 条件BSON
+    optional int32 is_insert = 4;       // 是否插入新的
+    optional int32 data_type = 5;       // 数据类型，目前只有101
+    optional string data_bson = 6;       // 更新数据BSON
+}
+
+message ProtoActFlower       // 后台活动鲜花排行信息
+{
+    optional int64 role_id = 1;       // 
+    optional string name = 2;       // 
+    optional int32 rank_index = 3;       // 
+    optional int32 flower_num = 4;       // 
+    optional int32 carrer = 5;       // 职业
+}
+
+message ProtoMount       // 战骑类信息
+{
+    optional int32 mount_grade = 1;       // 阶数
+    optional int32 mount_shape = 2;       // 外形
+    optional int32 on_mount = 3;       // 是否骑上战骑
+    optional int32 bless = 4;       // 祝福
+    optional int32 fail_times = 5;       // 失败次数
+    optional int64 finish_bless = 6;       // 祝福结束时间
+    optional int32 ability = 7;       // 资质丹数量
+    optional int32 growth = 8;       // 成长丹数量
+    repeated ProtoPairObj skill = 9;       // 技能列表
+    optional int32 open = 10;       // 是否开启
+    optional int32 act_shape = 11;       // 活动类型
+}
+
+message ProtoScriptType       // 根据副本type统一副本记录
+{
+    optional int32 script_type = 1;       // 副本类型
+    repeated int32 script_sort = 2;       // 副本id列表
+    optional int32 pass_wave = 3;       // 通过波数
+    optional int32 pass_chapter = 4;       // 通过章节
+    optional int32 notify_wave = 5;       // 波数记录
+    optional int32 notify_chapter = 6;       // 章节记录
+    optional int32 is_sweep = 7;       // 是否扫荡
+    optional int32 used_times_tick = 8;       // 使用次数刷新时间戳
+    repeated ProtoPairObj reward_map = 9;       // 奖励记录
+    optional int32 start_wave = 10;       // 开始波数
+    optional int32 start_chapter = 11;       // 开始章节
+}
+
+message ProtoScriptFirstAward       // 经验副本首通奖励
+{
+    optional int32 script_wave_id = 1;       // key
+    optional int32 is_get = 2;       // 是否已领取
+}
+
+message RecordMount       // 战骑类流水
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional int32 sub_agent = 2;       // 代理渠道
+    optional int32 serial_type = 3;       // 流水类型
+    optional int32 mount_type = 4;       // 战骑类型
+    optional int32 grade = 5;       // 战骑阶数
+    optional string skill = 6;       // 技能Json
+    optional string equip = 7;       // 装备Json
+    optional int32 bless = 8;       // 祝福值
+    optional int64 time = 9;       // 操作时间
+    optional string table_name = 10;       // 表名
+}
+
+message RecordActivity       // 活动流水
+{
+    optional string table_name = 1;       // 表名
+    optional int64 time = 2;       // 时间戳
+    optional int32 act_type = 3;       // 类型
+    optional int32 total_attend = 4;       // 参加总数
+    optional int32 sub1_key = 5;       // 附加1Key
+    optional int32 sub1_value = 6;       // 附加1Value
+    optional int32 sub2_key = 7;       // 附加2Key
+    optional int32 sub2_value = 8;       // 附加2Value
+    optional string sub3 = 9;       // 附加3
+}
+
+

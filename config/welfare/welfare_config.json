@@ -1,0 +1,22 @@
+{
+    "sign" : {
+        "index" : 0,
+        "name" : "每日签到",
+        "display_lvl" : [15,999999],
+        "display_days" : [1,0]
+/*
+    },
+	"activity" : {
+        "index" : 1,
+        "name" : "礼包领取",
+        "display_lvl" : [30,999999],
+        "display_days" : [2,0]
+    },
+    "exp_restore" : {
+        "index" : 2,
+        "name" : "经验找回",
+        "display_lvl" : [24,999999],
+        "display_days" : [1,0]
+*/
+    }
+}

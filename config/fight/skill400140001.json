@@ -1,0 +1,382 @@
+{
+    "20": {
+        "remark": [
+            "440000"
+        ],
+        "name": "霸体",
+        "server_force": 2875,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "value": 440000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "11": {
+        "remark": [
+            "260000"
+        ],
+        "name": "霸体",
+        "server_force": 1750,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "value": 260000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "10": {
+        "remark": [
+            "240000"
+        ],
+        "name": "霸体",
+        "server_force": 1625,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "value": 240000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "13": {
+        "remark": [
+            "300000"
+        ],
+        "name": "霸体",
+        "server_force": 2000,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "value": 300000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "12": {
+        "remark": [
+            "280000"
+        ],
+        "name": "霸体",
+        "server_force": 1875,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "value": 280000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "15": {
+        "remark": [
+            "340000"
+        ],
+        "name": "霸体",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "value": 340000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "14": {
+        "remark": [
+            "320000"
+        ],
+        "name": "霸体",
+        "server_force": 2125,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "value": 320000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "17": {
+        "remark": [
+            "380000"
+        ],
+        "name": "霸体",
+        "server_force": 2500,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "value": 380000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "16": {
+        "remark": [
+            "360000"
+        ],
+        "name": "霸体",
+        "server_force": 2375,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "value": 360000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "19": {
+        "remark": [
+            "420000"
+        ],
+        "name": "霸体",
+        "server_force": 2750,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "value": 420000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "18": {
+        "remark": [
+            "400000"
+        ],
+        "name": "霸体",
+        "server_force": 2625,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "value": 400000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "1": {
+        "remark": [
+            "60000"
+        ],
+        "name": "霸体",
+        "server_force": 500,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "value": 60000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 500
+    },
+    "3": {
+        "remark": [
+            "100000"
+        ],
+        "name": "霸体",
+        "server_force": 750,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "value": 100000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "2": {
+        "remark": [
+            "80000"
+        ],
+        "name": "霸体",
+        "server_force": 625,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "value": 80000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "5": {
+        "remark": [
+            "140000"
+        ],
+        "name": "霸体",
+        "server_force": 1000,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "value": 140000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "4": {
+        "remark": [
+            "120000"
+        ],
+        "name": "霸体",
+        "server_force": 875,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "value": 120000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "7": {
+        "remark": [
+            "180000"
+        ],
+        "name": "霸体",
+        "server_force": 1250,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "value": 180000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "6": {
+        "remark": [
+            "160000"
+        ],
+        "name": "霸体",
+        "server_force": 1125,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "value": 160000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "9": {
+        "remark": [
+            "220000"
+        ],
+        "name": "霸体",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "value": 220000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    },
+    "8": {
+        "remark": [
+            "200000"
+        ],
+        "name": "霸体",
+        "server_force": 1375,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "value": 200000,
+            "last": 3,
+            "name": "buff",
+            "blood_per": 3000,
+            "id": 10051
+        },
+        "add_fight": 125
+    }
+}

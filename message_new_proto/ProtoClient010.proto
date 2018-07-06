@@ -1,0 +1,347 @@
+import "ProtoPublic.proto";
+
+message Proto80400348       // 连胜(主动)
+{
+    optional string win_name = 1;       // 胜者
+    optional string lose_name = 2;       // 输者
+    optional int32 win_count = 3;       // 胜数
+}
+
+message Proto80400349       // 第一换(主动)
+{
+    optional string win_name = 1;       // 胜者
+    optional string lose_name = 2;       // 输者
+}
+
+message Proto80400350       // 战斗信息(主动)
+{
+    optional int64 first_id = 1;       // 第一玩家
+    optional int32 first_cur_blood = 2;       // 第一玩家当前血量
+    optional int32 first_total_blood = 3;       // 第一玩家总血量
+    optional int32 first_cur_magic = 4;       // 第一玩家当前能量
+    optional int32 first_total_magic = 5;       // 第一玩家总能量
+    optional int64 second_id = 6;       // 第二玩家
+    optional int32 second_cur_blood = 7;       // 第二玩家当前血量
+    optional int32 second_total_blood = 8;       // 第二玩家总血量
+    optional int32 second_cur_magic = 9;       // 第二玩家当前能量
+    optional int32 second_total_magic = 10;       // 第二玩家总能量
+}
+
+message Proto80400351       // 进入信息(主动)
+{
+    optional ProtoRoleInfo first_role = 1;       // 第一玩家
+    optional ProtoRoleInfo second_role = 2;       // 第二玩家
+    optional int32 left_time = 3;       // 剩余时间
+    optional int32 is_first = 4;       // 是否第一次
+}
+
+message Proto10400803       // 请求战场排行榜
+{
+    optional int32 page = 1;       // 请求的页数
+}
+
+message Proto50400803       // 请求战场排行榜(返回)
+{
+    optional ProtoSMBattleRankRec self = 1;       // 自已信息
+    repeated ProtoSMBattleRankRec rank = 2;       // 排名榜
+}
+
+message Proto80400602       // 宠物收回通知
+{
+    optional int64 master_id = 1;       // 主人ID
+    optional int64 beast_id = 2;       // 回收的宠物ID
+}
+
+message Proto10100906       // 玩家评价客服回复
+{
+    optional int32 evaluate_level = 1;       // 评价等级，取值[1,5]
+    optional int64 record_id = 2;       // 记录的id
+}
+
+message Proto50100906       // 玩家评价客服回复（返回）
+{
+    optional int32 evaluate_level = 1;       // 
+    optional int64 record_id = 2;       // 
+}
+
+message Proto81400203       // 日常任务信息更新
+{
+    optional int32 cmd = 1;       // 1:增加 2：删除 3：更新
+    optional int32 task_id = 2;       // 任务ID
+    optional int32 type = 3;       // 任务类型(3: 日常)
+    optional int32 status = 4;       // 任务状态(1 可见，2 可接，3 进行中，4 已完成)
+    optional int32 cond_type = 5;       // 条件类型(1 杀怪，5 活动，9 NPC对话)
+    optional int32 cond_index = 6;       // 条件索引，从0开始
+    optional int32 cond_id = 7;       // 条件ID（怪物ID，活动ID，副本ID）
+    optional int32 cur_value = 8;       // 当前值
+    optional int32 final_value = 9;       // 目标值
+    optional int32 routine_dice = 10;       // 日常骰子数 [删除]
+    optional int32 is_first_routine = 11;       // 是否首次日常任务(1 是，0否)
+    optional int32 total_routine_size = 12;       // 最大环数
+    optional int32 routine_task_index = 13;       // 当前环数
+    optional int32 kill_type = 14;       // 杀怪类型
+    optional int32 range_level = 15;       // 范围等级
+}
+
+message Proto10400919       // 请求副本增加次数的元宝
+{
+    optional int32 script_sort = 1;       // 副本ID
+    optional int32 inc_times = 2;       // 需要购买的次数
+    optional int32 cur_gold = 3;       // 当前元宝数
+}
+
+message Proto50400919       // 请求副本增加次数的元宝(返回)
+{
+    optional int32 script_sort = 1;       // 副本ID
+    optional int32 gold = 2;       // 需要的元宝
+    optional int32 left_times = 3;       // 剩余购买次数
+}
+
+message Proto10400920       // 请求副本增加次数
+{
+    optional int32 script_sort = 1;       // 副本ID
+    optional int32 inc_times = 2;       // 增加次数
+}
+
+message Proto50400920       // 请求副本增加次数(返回)
+{
+    optional int32 script_sort = 1;       // 副本ID
+    optional int32 left_times = 2;       // 剩余次数
+    optional int32 left_buy_times = 3;       // 剩余购买次数
+    optional int32 left_get = 4;       // 剩余获赠次数
+}
+
+message Proto50400703       // 获取所有快捷方案(返回)
+{
+    repeated int32 scheme_1 = 1;       // 方案1
+    repeated int32 scheme_2 = 2;       // 方案2
+    repeated int32 scheme_3 = 3;       // 方案3
+    optional int32 cur_scheme = 4;       // 当前方案
+}
+
+message Proto10400705       // 切换罗摩技能
+{
+    optional int32 skill_id = 1;       // 罗摩技能ID
+}
+
+message Proto50400705       // 切换罗摩技能(返回)
+{
+    optional int32 skill_id = 1;       // 技能ID
+}
+
+message Proto81400109       // 弹窗提示某个类型的金钱不足
+{
+    optional int32 lack_copper = 1;       // 缺少的铜钱数量
+    optional int32 lack_bind_copper = 2;       // 缺少的绑铜数量
+    optional int32 return_recogn = 3;       // 返回消息（用来定位消耗金钱的操作）
+    optional int32 need_gold = 4;       // 需要消耗的金钱
+}
+
+message Proto81401801       // 充值活动开启状态(主动)
+{
+    optional int32 is_start = 1;       // 1 活动进行中 0活动结束
+}
+
+message Proto51401801       // 获取充值奖励活动信息(返回)
+{
+    repeated ProtoItem awards_item = 1;       // 奖励物品
+    optional ProtoItem display_item = 2;       // 展示物品的ID
+    optional int32 has_awards = 3;       // 是否有奖励可领 1可领取 0不可领取
+}
+
+message Proto11400150       // 玩家请求使用元宝兑换铜钱/绑铜
+{
+    optional int32 gold = 1;       // 需要消耗的元宝数量
+    optional int32 money_type = 2;       // 目标金钱类型
+    optional int32 recogn = 3;       // 对应消息号
+    optional int32 never_confirm = 4;       // 是否不再提示 0 不勾选 1 勾选
+}
+
+message Proto51400003       // 获取BUFF信息(返回)
+{
+    repeated ProtoBuffStatus buff_status_set = 1;       // 状态
+}
+
+message Proto81401803       // 通知每日充值奖励信息(主动)
+{
+    optional int32 today_recharge = 1;       // 今日充值元宝数
+    repeated int32 rewards_state = 2;       // 各阶段的奖励状态
+    repeated int32 reward_list = 3;       // 各阶段奖励ID
+    optional int32 show_icon = 4;       // 显示活动图标？ 非0为显示
+    optional int64 start_tick = 5;       // 开始时间戳
+    optional int64 end_tick = 6;       // 结束时间戳
+    optional int32 first_recharge = 7;       // 是否第一次充值
+    optional int32 vip_level = 8;       // vip等级
+    optional int32 index = 9;       // 循环序号
+    optional int32 first_gold = 10;       // 每日首充金额
+    optional int32 total_gold = 11;       // 每日累充金额
+}
+
+message Proto11401804       // 领取每日充值奖励
+{
+    optional int32 reward_index = 1;       // 奖励索引( 0 base)
+    repeated ProtoItem item_list = 2;       // 额外奖励
+}
+
+message Proto11400151       // 请求进入主城区域
+{
+    optional int32 scene_id = 1;       // 主城的场景ID
+}
+
+message Proto11401452       // 领取等级奖励物品
+{
+    optional int32 level = 1;       // 多少等级对应的物品
+}
+
+message Proto51401452       // 领取等级奖励物品(返回)
+{
+    optional int32 level = 1;       // 多少等级对应的物品
+}
+
+message Proto51401451       // 获取等级奖励信息(返回)
+{
+    repeated ProtoLvlReward rewards_info = 1;       // 奖励列表
+}
+
+message Proto81401406       // 通知等级奖励信息(主动)
+{
+    optional int32 enable = 1;       // 功能开启1 / 关闭0
+    optional int32 awrds_num = 2;       // 奖励数量
+}
+
+message Proto81401407       // 通知每日必做奖励信息(主动)
+{
+    repeated ProtoDailyRecord records = 1;       // 
+}
+
+message Proto11401461       // 领取日常奖励
+{
+    optional int32 id = 1;       // 
+}
+
+message Proto80400915       // 副本最后一击通知
+{
+    optional int64 attackor_id = 1;       // 攻击者ID
+    optional int64 defender_id = 2;       // 受击者ID
+}
+
+message Proto10400930       // 请求进入剧情副本
+{
+    optional int32 scene_id = 1;       // 场景id
+}
+
+message Proto50400932       // 设置剧情副本进度(返回)
+{
+    optional int32 stage = 1;       // 进度
+    optional int32 script_sort = 2;       // 副本ID
+}
+
+message Proto50400931       // 获取剧情副本进度(返回)
+{
+    optional int32 stage = 1;       // 进度
+    optional int32 script_sort = 2;       // 副本ID
+}
+
+message Proto10400931       // 获取剧情副本进度
+{
+    optional int32 script_sort = 1;       // 副本ID[不用]
+}
+
+message Proto10400932       // 设置剧情副本进度
+{
+    optional int32 script_sort = 1;       // 副本ID[不用]
+    optional int32 stage = 2;       // 进度
+}
+
+message Proto81401901       // 通知后台功能开关状态(主动)
+{
+    optional int32 equip_red = 1;       // 红装
+    optional int32 treasures = 2;       // 宝匣
+    optional int32 gift = 3;       // 激活码礼包
+    optional int32 market = 4;       // 市场
+    optional int32 shop = 5;       // 商店
+    optional int32 transfer = 6;       // 变身
+    optional int32 molding_spirit = 7;       // 铸魂
+    optional int32 jewel_sublime = 8;       // 宝石升华
+    optional int32 special_box = 9;       // 神秘宝箱
+}
+
+message Proto10400933       // 获取斩妖某篇的总星级信息
+{
+    optional int32 piece = 1;       // 第几篇
+}
+
+message Proto50400933       // 获取斩妖某篇的总星级信息(返回)
+{
+    optional int32 piece = 1;       // 第几篇
+    optional int32 total_star = 2;       // 当前总星星数
+    repeated int32 drawed_star = 3;       // 当前已领奖星星数(10, 20, ...)
+}
+
+message Proto10400934       // 领取斩妖篇的星级奖励
+{
+    optional int32 piece = 1;       // 领取第几篇奖励
+    optional int32 award_star = 2;       // 奖励的星级（值为对应星星数，如20等）
+}
+
+message Proto81401408       // 通知主城BUFF状态(天官赐福)(主动)
+{
+    optional int32 remain_tick = 1;       // 剩余时间
+    optional int32 reward_amount = 2;       // 累计已获得的奖励数
+}
+
+message Proto80400916       // 副本契约状态通知
+{
+    optional int32 compact_type = 1;       // 契约类型. 7 七天， 30 三十天
+    optional int32 left_tick = 2;       // 剩余秒数
+    optional int32 date_tick = 3;       // 到期时间戳
+}
+
+message Proto10100645       // 选择仙盟镖车
+{
+    optional int32 type = 1;       // 类型，0青铜，1白银，2黄金
+}
+
+message Proto50100646       // 打开镖车信息(返回)
+{
+    optional int32 left_times = 1;       // 剩余次数
+}
+
+message Proto10400322       // 获取仙盟运镖排行榜
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto50400322       // 仙盟运镖获取排行榜(返回)
+{
+    optional int32 page_index = 1;       // 第几页
+    optional int32 total_page = 2;       // 总页数
+    repeated ProtoLWarItem rank_set = 3;       // 排行榜
+    optional int32 left_time = 4;       // 剩余时间
+    optional int32 finish_percent = 5;       // 完成百分比
+    optional ProtoLWarItem self_item = 6;       // 自己仙盟
+}
+
+message Proto50400323       // 获取运镖地图信息(返回)
+{
+    optional ProtoEscortMapItem item_set = 1;       // 场景结点
+}
+
+message Proto80400223       // 羽翼类战斗时被动触发的技能
+{
+    optional int64 fighter_id = 1;       // 播放对象ID
+    optional int32 skill_id = 2;       // 被动技能ID
+    optional int32 skill_level = 3;       // 被动技能等级
+    optional int32 skill_pixel_x = 4;       // 技能触发点X坐标
+    optional int32 skill_pixel_y = 5;       // 技能触发点Y坐标
+    repeated ProtoSkillTarget target_list = 6;       // 技能攻击对象列表【删除】
+    repeated int64 target_id_list = 7;       // 技能攻击对象ID列表
+    optional int32 type = 8;       // 1法宝
+}
+
+message Proto80400365       // 运镖结束排行榜(主动)
+{
+    repeated ProtoLWarItem rank_set = 1;       // 排行榜
+}
+
+

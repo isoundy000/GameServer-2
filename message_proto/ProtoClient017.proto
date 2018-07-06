@@ -1,0 +1,320 @@
+import "ProtoPublic.proto";
+
+message Proto50101010       // 跳过动画改变（返回）
+{
+    optional int32 cur_status = 1;       // 当前状态 1 勾选 0不勾选
+}
+
+message Proto80400386       // 帮派争霸结算(主动)
+{
+    optional int64 win_league_id = 1;       // 第一战区胜利帮派id
+    optional string win_league_name = 2;       // 第一战区胜利帮派名称
+    optional string win_league_leader = 3;       // 帮主
+    repeated ProtoItemId item_list = 4;       // 获得物品
+    optional int32 space_id = 5;       // 我的战区id
+    repeated ProtoLeagueRankInfo league_rank = 6;       // 战区帮派排名
+}
+
+message Proto11400350       // 查询任务是否完成
+{
+    optional int32 task_id = 1;       // 任务ID
+}
+
+message Proto51400350       // 查询任务是否完成
+{
+    optional int32 status = 1;       // 状态 1完成 0 未完成
+}
+
+message Proto10100656       // 刷新护送品质
+{
+    optional int32 cur_quality = 1;       // 当前品质
+}
+
+message Proto50100656       // 刷新护送品质（返回）
+{
+    optional int32 cur_quality = 1;       // 当前品质
+    optional int32 status = 2;       // 1成功 或错误原因
+}
+
+message Proto51406001       // 打开剑池面板(返回)
+{
+    optional int32 level = 1;       // 等级
+    optional int32 exp = 2;       // 经验
+    optional int32 style_lv = 3;       // 当前幻化等级
+    repeated ProtoSwordPoolTask task_info = 4;       // 任务列表
+    repeated ProtoSwordPoolTask find_task = 5;       // 找回任务列表
+}
+
+message Proto51406002       // 剑池升级(返回)
+{
+    optional int32 level = 1;       // 等级
+    optional int32 exp = 2;       // 经验
+    optional int32 style_lv = 3;       // 当前幻化等级
+}
+
+message Proto11406003       // 找回单个任务经验
+{
+    optional int32 task_id = 1;       // 任务id
+}
+
+message Proto51406003       // 找回单个任务经验(返回)
+{
+    optional int32 add_exp = 1;       // 增加的经验
+    optional int32 task_id = 2;       // 任务id
+}
+
+message Proto51406004       // 一键找回(返回)
+{
+    optional int32 add_exp = 1;       // 增加的经验
+}
+
+message Proto10100211       // 某个活动
+{
+    optional int32 index = 1;       // 活动ID
+}
+
+message Proto50100211       // 某个活动(返回)
+{
+    optional int32 type = 1;       // 类型
+    optional int32 left_time = 2;       // 剩余时间
+    optional PActTypeItem act_detail = 3;       // 活动细节
+    optional ProtoTeamer first_role = 4;       // 第一名
+}
+
+message Proto10100212       // 领取奖励
+{
+    optional int32 index = 1;       // 活动ID
+    optional int32 reward_index = 2;       // 奖励索引
+}
+
+message Proto50100212       // 领取奖励(返回)
+{
+    optional int32 type = 1;       // 类型
+}
+
+message Proto10401524       // 升级运镖品质
+{
+    optional int32 cur_level = 1;       // 当前等级
+    optional int32 till = 2;       // 1是否勾选为止
+    optional int32 target_level = 3;       // 目标等级
+    optional int32 auto_buy = 4;       // 1 自动购买
+}
+
+message Proto50401524       // 升级运镖品质（返回）
+{
+    optional int32 cur_level = 1;       // 当前等级
+    optional int32 status = 2;       // 操作状态
+}
+
+message Proto50401525       // 运镖结束（返回）
+{
+    optional int64 convoy_exp = 1;       // 护送经验
+    optional int32 status = 2;       // 1 成功 0 超时 -1 被劫
+    optional int32 convoy_scale = 3;       // 护送收益比率
+    optional int32 is_double = 4;       // 是否双倍
+    optional int32 left_time = 5;       // 剩下次数
+    optional int64 rob_id = 6;       // 打劫玩家ID
+    optional string rob_name = 7;       // 打劫玩家名字
+}
+
+message Proto11406005       // 更改幻化等级
+{
+    optional int32 target_lv = 1;       // 更改等级
+}
+
+message Proto51406005       // 更改幻化等级(返回)
+{
+    optional int32 style_lv = 1;       // 幻化等级
+}
+
+message Proto10401526       // 运镖保护
+{
+    optional int64 player_id = 1;       // 被保护ID
+    optional int64 ai_id = 2;       // 护送id
+}
+
+message Proto50401526       // 运镖保护（返回）
+{
+    optional int32 scene_id = 1;       // 目标场景id
+    optional ProtoCoord coord = 2;       // 目标坐标
+    optional int32 status = 3;       // 状态 1保护
+}
+
+message Proto50100213       // 开服返利合服活动列表(返回)
+{
+    repeated int32 act_list = 1;       // 活动ID列表
+    optional int32 main_act = 2;       // 活动大类
+}
+
+message Proto10400940       // 请求问鼎江湖排行榜
+{
+    optional int32 num1 = 1;       // 值1
+    optional int32 num2 = 2;       // 值2
+}
+
+message Proto50400940       // 请求问鼎江湖排行榜(返回)
+{
+    repeated ProtoLegendTopRank legend_rank = 1;       // 排行榜数据
+    optional ProtoLegendTopRank my_rank = 2;       // 我的数据
+}
+
+message Proto50401528       // 运镖取消保护（返回）
+{
+    optional int64 player_id = 1;       // 被保护ID
+    optional string player_name = 2;       // 被保护名字
+    optional int64 protect_id = 3;       // 保护者ID
+    optional string protect_name = 4;       // 保护者名字
+    optional int32 player_type = 5;       // 本玩家类型 （1保护 2 被保护）
+}
+
+message Proto10100164       // 发送好友申请
+{
+    optional int64 friend_id = 1;       // 申请的好友id
+}
+
+message Proto10100165       // 接受好友申请
+{
+    repeated int64 friend_id_set = 1;       // 好友id列表
+}
+
+message Proto50100165       // 接受好友申请(返回)
+{
+    repeated ProtoFriendInfo friend_list = 1;       // 好友信息列表
+}
+
+message Proto80100109       // 向玩家推送加好友通知
+{
+    optional ProtoApplyInfo friend_info = 1;       // 好友信息
+}
+
+message Proto10100166       // 删除好友申请
+{
+    repeated int64 friend_id_set = 1;       // 申请id列表
+}
+
+message Proto50100166       // 删除好友申请(返回)
+{
+    repeated int64 role_set = 1;       // id列表
+}
+
+message Proto50100167       // 获取好友申请列表(返回)
+{
+    repeated ProtoApplyInfo apply_list = 1;       // 申请列表
+}
+
+message Proto80100110       // 通知玩家被好友删除
+{
+    optional int64 role_id = 1;       // id
+    optional string role_name = 2;       // 
+    optional int32 level = 3;       // 
+}
+
+message Proto11401701       // 取消红点
+{
+    optional int32 event_id = 1;       // 事件ID
+}
+
+message Proto80400408       // 主动通知护送保护者实时数据
+{
+    optional int32 scene_id = 1;       // 场景id
+    optional int32 space_id = 2;       // 空间id
+    optional ProtoCoord coord = 3;       // 玩家坐标
+    optional int64 start_tick = 4;       // 开始护送时间
+    optional int64 car_id = 5;       // 护送id
+    optional int32 protect_times = 6;       // 本玩家保护次数
+    optional int32 escort_times = 7;       // 本玩家护送次数
+    optional int32 rob_times = 8;       // 本玩家抢劫次数
+    optional int64 protect_id = 9;       // 被保护ID
+    optional string protect_name = 10;       // 被保护名字
+    repeated int64 other_protect = 11;       // 其他保护者ID
+    repeated string other_protect_name = 12;       // 其他保护者名字
+}
+
+message Proto80400409       // 主动通知护送保护或打劫奖励
+{
+    optional int32 status = 1;       // 1 保护奖励 2 打劫奖励
+    optional int32 award_id = 2;       // 奖励ID礼包
+    optional int64 exp_num = 3;       // 经验奖励
+    optional int32 escort_times = 4;       // 护送剩余次数
+    optional int32 protect_times = 5;       // 保护剩余次数
+    optional int32 rob_times = 6;       // 打劫剩余次数
+}
+
+message Proto50401529       // 玩家护送求救（返回）
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional string role_name = 2;       // 玩家名字
+    optional int32 escort_level = 3;       // 护送等级
+    optional int64 start_tick = 4;       // 护送开始时间
+    optional ProtoCoord coord = 5;       // 玩家坐标
+    optional int32 scene_id = 6;       // 场景
+    optional int32 space_id = 7;       // 空间
+}
+
+message Proto51400012       // 获取已引导信息(返回)
+{
+    repeated ProtoPairObj guide_list = 1;       // 已引导信息
+}
+
+message Proto11400013       // 保存引导信息
+{
+    optional int32 id = 1;       // ID
+    optional int32 times = 2;       // 已引导次数
+}
+
+message Proto81400702       // 主动通知未查看的称号
+{
+    repeated int32 new_list = 1;       // 未查看称号
+}
+
+message Proto11400705       // 查看新的称号
+{
+    optional int32 label_id = 1;       // 称号ID
+}
+
+message Proto51400705       // 查看新的称号（返回）
+{
+    optional int32 label_id = 1;       // 称号ID
+    optional int32 status = 2;       // 状态
+}
+
+message Proto81400651       // 通知剑池经验增加(主动)
+{
+    optional int32 add_exp = 1;       // 增加经验
+}
+
+message Proto80401026       // 通知全服世界boss变更(主动)
+{
+    optional int32 value = 1;       // 
+}
+
+message Proto10405035       // 温泉最近玩家
+{
+    optional int64 role_id = 1;       // 本玩家ID
+}
+
+message Proto50405035       // 温泉最近玩家（返回）
+{
+    optional int64 player_id = 1;       // 玩家ID
+    optional ProtoCoord coord = 2;       // 玩家坐标
+    optional string player_name = 3;       // 玩家名字
+}
+
+message Proto10100158       // 加入黑名单
+{
+    optional int64 role_id = 1;       // 
+}
+
+message Proto50100158       // 加入黑名单(返回)
+{
+    optional int64 role_id = 1;       // 
+    optional int32 src_friend_type = 2;       // 加入前，玩家的好友类型
+    optional int32 des_friend_type = 3;       // 加入后，玩家的好友类型
+}
+
+message Proto10100635       // 帮众投票弹劾
+{
+    optional int32 vote_type = 1;       // 1:同意 0:放弃
+}
+
+

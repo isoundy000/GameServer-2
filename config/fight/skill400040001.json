@@ -1,0 +1,1136 @@
+{
+    "60": {
+        "remark": [
+            "2520"
+        ],
+        "upgrade_goods": [
+            216010002,
+            16
+        ],
+        "add_fight": 12600,
+        "name": "攻击",
+        "detail": {
+            "attack": 2520
+        }
+    },
+    "61": {
+        "remark": [
+            "2560"
+        ],
+        "upgrade_goods": [
+            216010002,
+            16
+        ],
+        "add_fight": 12800,
+        "name": "攻击",
+        "detail": {
+            "attack": 2560
+        }
+    },
+    "62": {
+        "remark": [
+            "2600"
+        ],
+        "upgrade_goods": [
+            216010002,
+            16
+        ],
+        "add_fight": 13000,
+        "name": "攻击",
+        "detail": {
+            "attack": 2600
+        }
+    },
+    "63": {
+        "remark": [
+            "2640"
+        ],
+        "upgrade_goods": [
+            216010002,
+            16
+        ],
+        "add_fight": 13200,
+        "name": "攻击",
+        "detail": {
+            "attack": 2640
+        }
+    },
+    "64": {
+        "remark": [
+            "2680"
+        ],
+        "upgrade_goods": [
+            216010002,
+            18
+        ],
+        "add_fight": 13400,
+        "name": "攻击",
+        "detail": {
+            "attack": 2680
+        }
+    },
+    "65": {
+        "remark": [
+            "2720"
+        ],
+        "upgrade_goods": [
+            216010002,
+            18
+        ],
+        "add_fight": 13600,
+        "name": "攻击",
+        "detail": {
+            "attack": 2720
+        }
+    },
+    "66": {
+        "remark": [
+            "2760"
+        ],
+        "upgrade_goods": [
+            216010002,
+            18
+        ],
+        "add_fight": 13800,
+        "name": "攻击",
+        "detail": {
+            "attack": 2760
+        }
+    },
+    "67": {
+        "remark": [
+            "2800"
+        ],
+        "upgrade_goods": [
+            216010002,
+            18
+        ],
+        "add_fight": 14000,
+        "name": "攻击",
+        "detail": {
+            "attack": 2800
+        }
+    },
+    "68": {
+        "remark": [
+            "2840"
+        ],
+        "upgrade_goods": [
+            216010002,
+            18
+        ],
+        "add_fight": 14200,
+        "name": "攻击",
+        "detail": {
+            "attack": 2840
+        }
+    },
+    "69": {
+        "remark": [
+            "2880"
+        ],
+        "upgrade_goods": [
+            216010002,
+            20
+        ],
+        "add_fight": 14400,
+        "name": "攻击",
+        "detail": {
+            "attack": 2880
+        }
+    },
+    "24": {
+        "remark": [
+            "1080"
+        ],
+        "upgrade_goods": [
+            216010002,
+            6
+        ],
+        "add_fight": 5400,
+        "name": "攻击",
+        "detail": {
+            "attack": 1080
+        }
+    },
+    "25": {
+        "remark": [
+            "1120"
+        ],
+        "upgrade_goods": [
+            216010002,
+            6
+        ],
+        "add_fight": 5600,
+        "name": "攻击",
+        "detail": {
+            "attack": 1120
+        }
+    },
+    "26": {
+        "remark": [
+            "1160"
+        ],
+        "upgrade_goods": [
+            216010002,
+            6
+        ],
+        "add_fight": 5800,
+        "name": "攻击",
+        "detail": {
+            "attack": 1160
+        }
+    },
+    "27": {
+        "remark": [
+            "1200"
+        ],
+        "upgrade_goods": [
+            216010002,
+            6
+        ],
+        "add_fight": 6000,
+        "name": "攻击",
+        "detail": {
+            "attack": 1200
+        }
+    },
+    "20": {
+        "remark": [
+            "920"
+        ],
+        "upgrade_goods": [
+            216010002,
+            5
+        ],
+        "add_fight": 4600,
+        "name": "攻击",
+        "detail": {
+            "attack": 920
+        }
+    },
+    "21": {
+        "remark": [
+            "960"
+        ],
+        "upgrade_goods": [
+            216010002,
+            5
+        ],
+        "add_fight": 4800,
+        "name": "攻击",
+        "detail": {
+            "attack": 960
+        }
+    },
+    "22": {
+        "remark": [
+            "1000"
+        ],
+        "upgrade_goods": [
+            216010002,
+            5
+        ],
+        "add_fight": 5000,
+        "name": "攻击",
+        "detail": {
+            "attack": 1000
+        }
+    },
+    "23": {
+        "remark": [
+            "1040"
+        ],
+        "upgrade_goods": [
+            216010002,
+            5
+        ],
+        "add_fight": 5200,
+        "name": "攻击",
+        "detail": {
+            "attack": 1040
+        }
+    },
+    "28": {
+        "remark": [
+            "1240"
+        ],
+        "upgrade_goods": [
+            216010002,
+            6
+        ],
+        "add_fight": 6200,
+        "name": "攻击",
+        "detail": {
+            "attack": 1240
+        }
+    },
+    "29": {
+        "remark": [
+            "1280"
+        ],
+        "upgrade_goods": [
+            216010002,
+            7
+        ],
+        "add_fight": 6400,
+        "name": "攻击",
+        "detail": {
+            "attack": 1280
+        }
+    },
+    "0": {
+        "remark": [
+            "0"
+        ],
+        "upgrade_goods": [
+            216010002,
+            1
+        ],
+        "add_fight": 0,
+        "name": "攻击",
+        "detail": {
+            "attack": 0
+        }
+    },
+    "2": {
+        "remark": [
+            "200"
+        ],
+        "upgrade_goods": [
+            216010002,
+            1
+        ],
+        "add_fight": 1000,
+        "name": "攻击",
+        "detail": {
+            "attack": 200
+        }
+    },
+    "4": {
+        "remark": [
+            "280"
+        ],
+        "upgrade_goods": [
+            216010002,
+            2
+        ],
+        "add_fight": 1400,
+        "name": "攻击",
+        "detail": {
+            "attack": 280
+        }
+    },
+    "6": {
+        "remark": [
+            "360"
+        ],
+        "upgrade_goods": [
+            216010002,
+            2
+        ],
+        "add_fight": 1800,
+        "name": "攻击",
+        "detail": {
+            "attack": 360
+        }
+    },
+    "8": {
+        "remark": [
+            "440"
+        ],
+        "upgrade_goods": [
+            216010002,
+            2
+        ],
+        "add_fight": 2200,
+        "name": "攻击",
+        "detail": {
+            "attack": 440
+        }
+    },
+    "15": {
+        "remark": [
+            "720"
+        ],
+        "upgrade_goods": [
+            216010002,
+            4
+        ],
+        "add_fight": 3600,
+        "name": "攻击",
+        "detail": {
+            "attack": 720
+        }
+    },
+    "14": {
+        "remark": [
+            "680"
+        ],
+        "upgrade_goods": [
+            216010002,
+            4
+        ],
+        "add_fight": 3400,
+        "name": "攻击",
+        "detail": {
+            "attack": 680
+        }
+    },
+    "11": {
+        "remark": [
+            "560"
+        ],
+        "upgrade_goods": [
+            216010002,
+            3
+        ],
+        "add_fight": 2800,
+        "name": "攻击",
+        "detail": {
+            "attack": 560
+        }
+    },
+    "10": {
+        "remark": [
+            "520"
+        ],
+        "upgrade_goods": [
+            216010002,
+            3
+        ],
+        "add_fight": 2600,
+        "name": "攻击",
+        "detail": {
+            "attack": 520
+        }
+    },
+    "13": {
+        "remark": [
+            "640"
+        ],
+        "upgrade_goods": [
+            216010002,
+            3
+        ],
+        "add_fight": 3200,
+        "name": "攻击",
+        "detail": {
+            "attack": 640
+        }
+    },
+    "12": {
+        "remark": [
+            "600"
+        ],
+        "upgrade_goods": [
+            216010002,
+            3
+        ],
+        "add_fight": 3000,
+        "name": "攻击",
+        "detail": {
+            "attack": 600
+        }
+    },
+    "59": {
+        "remark": [
+            "2480"
+        ],
+        "upgrade_goods": [
+            216010002,
+            16
+        ],
+        "add_fight": 12400,
+        "name": "攻击",
+        "detail": {
+            "attack": 2480
+        }
+    },
+    "58": {
+        "remark": [
+            "2440"
+        ],
+        "upgrade_goods": [
+            216010002,
+            14
+        ],
+        "add_fight": 12200,
+        "name": "攻击",
+        "detail": {
+            "attack": 2440
+        }
+    },
+    "17": {
+        "remark": [
+            "800"
+        ],
+        "upgrade_goods": [
+            216010002,
+            4
+        ],
+        "add_fight": 4000,
+        "name": "攻击",
+        "detail": {
+            "attack": 800
+        }
+    },
+    "16": {
+        "remark": [
+            "760"
+        ],
+        "upgrade_goods": [
+            216010002,
+            4
+        ],
+        "add_fight": 3800,
+        "name": "攻击",
+        "detail": {
+            "attack": 760
+        }
+    },
+    "19": {
+        "remark": [
+            "880"
+        ],
+        "upgrade_goods": [
+            216010002,
+            5
+        ],
+        "add_fight": 4400,
+        "name": "攻击",
+        "detail": {
+            "attack": 880
+        }
+    },
+    "54": {
+        "remark": [
+            "2280"
+        ],
+        "upgrade_goods": [
+            216010002,
+            14
+        ],
+        "add_fight": 11400,
+        "name": "攻击",
+        "detail": {
+            "attack": 2280
+        }
+    },
+    "57": {
+        "remark": [
+            "2400"
+        ],
+        "upgrade_goods": [
+            216010002,
+            14
+        ],
+        "add_fight": 12000,
+        "name": "攻击",
+        "detail": {
+            "attack": 2400
+        }
+    },
+    "56": {
+        "remark": [
+            "2360"
+        ],
+        "upgrade_goods": [
+            216010002,
+            14
+        ],
+        "add_fight": 11800,
+        "name": "攻击",
+        "detail": {
+            "attack": 2360
+        }
+    },
+    "51": {
+        "remark": [
+            "2160"
+        ],
+        "upgrade_goods": [
+            216010002,
+            12
+        ],
+        "add_fight": 10800,
+        "name": "攻击",
+        "detail": {
+            "attack": 2160
+        }
+    },
+    "50": {
+        "remark": [
+            "2120"
+        ],
+        "upgrade_goods": [
+            216010002,
+            12
+        ],
+        "add_fight": 10600,
+        "name": "攻击",
+        "detail": {
+            "attack": 2120
+        }
+    },
+    "53": {
+        "remark": [
+            "2240"
+        ],
+        "upgrade_goods": [
+            216010002,
+            12
+        ],
+        "add_fight": 11200,
+        "name": "攻击",
+        "detail": {
+            "attack": 2240
+        }
+    },
+    "52": {
+        "remark": [
+            "2200"
+        ],
+        "upgrade_goods": [
+            216010002,
+            12
+        ],
+        "add_fight": 11000,
+        "name": "攻击",
+        "detail": {
+            "attack": 2200
+        }
+    },
+    "55": {
+        "remark": [
+            "2320"
+        ],
+        "upgrade_goods": [
+            216010002,
+            14
+        ],
+        "add_fight": 11600,
+        "name": "攻击",
+        "detail": {
+            "attack": 2320
+        }
+    },
+    "18": {
+        "remark": [
+            "840"
+        ],
+        "upgrade_goods": [
+            216010002,
+            4
+        ],
+        "add_fight": 4200,
+        "name": "攻击",
+        "detail": {
+            "attack": 840
+        }
+    },
+    "80": {
+        "remark": [
+            "3320"
+        ],
+        "upgrade_goods": [
+            216010002,
+            24
+        ],
+        "add_fight": 16600,
+        "name": "攻击",
+        "detail": {
+            "attack": 3320
+        }
+    },
+    "48": {
+        "remark": [
+            "2040"
+        ],
+        "upgrade_goods": [
+            216010002,
+            10
+        ],
+        "add_fight": 10200,
+        "name": "攻击",
+        "detail": {
+            "attack": 2040
+        }
+    },
+    "49": {
+        "remark": [
+            "2080"
+        ],
+        "upgrade_goods": [
+            216010002,
+            12
+        ],
+        "add_fight": 10400,
+        "name": "攻击",
+        "detail": {
+            "attack": 2080
+        }
+    },
+    "46": {
+        "remark": [
+            "1960"
+        ],
+        "upgrade_goods": [
+            216010002,
+            10
+        ],
+        "add_fight": 9800,
+        "name": "攻击",
+        "detail": {
+            "attack": 1960
+        }
+    },
+    "47": {
+        "remark": [
+            "2000"
+        ],
+        "upgrade_goods": [
+            216010002,
+            10
+        ],
+        "add_fight": 10000,
+        "name": "攻击",
+        "detail": {
+            "attack": 2000
+        }
+    },
+    "44": {
+        "remark": [
+            "1880"
+        ],
+        "upgrade_goods": [
+            216010002,
+            10
+        ],
+        "add_fight": 9400,
+        "name": "攻击",
+        "detail": {
+            "attack": 1880
+        }
+    },
+    "45": {
+        "remark": [
+            "1920"
+        ],
+        "upgrade_goods": [
+            216010002,
+            10
+        ],
+        "add_fight": 9600,
+        "name": "攻击",
+        "detail": {
+            "attack": 1920
+        }
+    },
+    "42": {
+        "remark": [
+            "1800"
+        ],
+        "upgrade_goods": [
+            216010002,
+            9
+        ],
+        "add_fight": 9000,
+        "name": "攻击",
+        "detail": {
+            "attack": 1800
+        }
+    },
+    "43": {
+        "remark": [
+            "1840"
+        ],
+        "upgrade_goods": [
+            216010002,
+            9
+        ],
+        "add_fight": 9200,
+        "name": "攻击",
+        "detail": {
+            "attack": 1840
+        }
+    },
+    "40": {
+        "remark": [
+            "1720"
+        ],
+        "upgrade_goods": [
+            216010002,
+            9
+        ],
+        "add_fight": 8600,
+        "name": "攻击",
+        "detail": {
+            "attack": 1720
+        }
+    },
+    "41": {
+        "remark": [
+            "1760"
+        ],
+        "upgrade_goods": [
+            216010002,
+            9
+        ],
+        "add_fight": 8800,
+        "name": "攻击",
+        "detail": {
+            "attack": 1760
+        }
+    },
+    "1": {
+        "remark": [
+            "160"
+        ],
+        "upgrade_goods": [
+            216010002,
+            1
+        ],
+        "add_fight": 800,
+        "name": "攻击",
+        "detail": {
+            "attack": 160
+        }
+    },
+    "3": {
+        "remark": [
+            "240"
+        ],
+        "upgrade_goods": [
+            216010002,
+            1
+        ],
+        "add_fight": 1200,
+        "name": "攻击",
+        "detail": {
+            "attack": 240
+        }
+    },
+    "5": {
+        "remark": [
+            "320"
+        ],
+        "upgrade_goods": [
+            216010002,
+            2
+        ],
+        "add_fight": 1600,
+        "name": "攻击",
+        "detail": {
+            "attack": 320
+        }
+    },
+    "7": {
+        "remark": [
+            "400"
+        ],
+        "upgrade_goods": [
+            216010002,
+            2
+        ],
+        "add_fight": 2000,
+        "name": "攻击",
+        "detail": {
+            "attack": 400
+        }
+    },
+    "9": {
+        "remark": [
+            "480"
+        ],
+        "upgrade_goods": [
+            216010002,
+            3
+        ],
+        "add_fight": 2400,
+        "name": "攻击",
+        "detail": {
+            "attack": 480
+        }
+    },
+    "77": {
+        "remark": [
+            "3200"
+        ],
+        "upgrade_goods": [
+            216010002,
+            22
+        ],
+        "add_fight": 16000,
+        "name": "攻击",
+        "detail": {
+            "attack": 3200
+        }
+    },
+    "76": {
+        "remark": [
+            "3160"
+        ],
+        "upgrade_goods": [
+            216010002,
+            22
+        ],
+        "add_fight": 15800,
+        "name": "攻击",
+        "detail": {
+            "attack": 3160
+        }
+    },
+    "75": {
+        "remark": [
+            "3120"
+        ],
+        "upgrade_goods": [
+            216010002,
+            22
+        ],
+        "add_fight": 15600,
+        "name": "攻击",
+        "detail": {
+            "attack": 3120
+        }
+    },
+    "74": {
+        "remark": [
+            "3080"
+        ],
+        "upgrade_goods": [
+            216010002,
+            22
+        ],
+        "add_fight": 15400,
+        "name": "攻击",
+        "detail": {
+            "attack": 3080
+        }
+    },
+    "73": {
+        "remark": [
+            "3040"
+        ],
+        "upgrade_goods": [
+            216010002,
+            20
+        ],
+        "add_fight": 15200,
+        "name": "攻击",
+        "detail": {
+            "attack": 3040
+        }
+    },
+    "72": {
+        "remark": [
+            "3000"
+        ],
+        "upgrade_goods": [
+            216010002,
+            20
+        ],
+        "add_fight": 15000,
+        "name": "攻击",
+        "detail": {
+            "attack": 3000
+        }
+    },
+    "71": {
+        "remark": [
+            "2960"
+        ],
+        "upgrade_goods": [
+            216010002,
+            20
+        ],
+        "add_fight": 14800,
+        "name": "攻击",
+        "detail": {
+            "attack": 2960
+        }
+    },
+    "70": {
+        "remark": [
+            "2920"
+        ],
+        "upgrade_goods": [
+            216010002,
+            20
+        ],
+        "add_fight": 14600,
+        "name": "攻击",
+        "detail": {
+            "attack": 2920
+        }
+    },
+    "79": {
+        "remark": [
+            "3280"
+        ],
+        "upgrade_goods": [
+            216010002,
+            24
+        ],
+        "add_fight": 16400,
+        "name": "攻击",
+        "detail": {
+            "attack": 3280
+        }
+    },
+    "78": {
+        "remark": [
+            "3240"
+        ],
+        "upgrade_goods": [
+            216010002,
+            22
+        ],
+        "add_fight": 16200,
+        "name": "攻击",
+        "detail": {
+            "attack": 3240
+        }
+    },
+    "39": {
+        "remark": [
+            "1680"
+        ],
+        "upgrade_goods": [
+            216010002,
+            9
+        ],
+        "add_fight": 8400,
+        "name": "攻击",
+        "detail": {
+            "attack": 1680
+        }
+    },
+    "38": {
+        "remark": [
+            "1640"
+        ],
+        "upgrade_goods": [
+            216010002,
+            8
+        ],
+        "add_fight": 8200,
+        "name": "攻击",
+        "detail": {
+            "attack": 1640
+        }
+    },
+    "33": {
+        "remark": [
+            "1440"
+        ],
+        "upgrade_goods": [
+            216010002,
+            7
+        ],
+        "add_fight": 7200,
+        "name": "攻击",
+        "detail": {
+            "attack": 1440
+        }
+    },
+    "32": {
+        "remark": [
+            "1400"
+        ],
+        "upgrade_goods": [
+            216010002,
+            7
+        ],
+        "add_fight": 7000,
+        "name": "攻击",
+        "detail": {
+            "attack": 1400
+        }
+    },
+    "31": {
+        "remark": [
+            "1360"
+        ],
+        "upgrade_goods": [
+            216010002,
+            7
+        ],
+        "add_fight": 6800,
+        "name": "攻击",
+        "detail": {
+            "attack": 1360
+        }
+    },
+    "30": {
+        "remark": [
+            "1320"
+        ],
+        "upgrade_goods": [
+            216010002,
+            7
+        ],
+        "add_fight": 6600,
+        "name": "攻击",
+        "detail": {
+            "attack": 1320
+        }
+    },
+    "37": {
+        "remark": [
+            "1600"
+        ],
+        "upgrade_goods": [
+            216010002,
+            8
+        ],
+        "add_fight": 8000,
+        "name": "攻击",
+        "detail": {
+            "attack": 1600
+        }
+    },
+    "36": {
+        "remark": [
+            "1560"
+        ],
+        "upgrade_goods": [
+            216010002,
+            8
+        ],
+        "add_fight": 7800,
+        "name": "攻击",
+        "detail": {
+            "attack": 1560
+        }
+    },
+    "35": {
+        "remark": [
+            "1520"
+        ],
+        "upgrade_goods": [
+            216010002,
+            8
+        ],
+        "add_fight": 7600,
+        "name": "攻击",
+        "detail": {
+            "attack": 1520
+        }
+    },
+    "34": {
+        "remark": [
+            "1480"
+        ],
+        "upgrade_goods": [
+            216010002,
+            8
+        ],
+        "add_fight": 7400,
+        "name": "攻击",
+        "detail": {
+            "attack": 1480
+        }
+    }
+}

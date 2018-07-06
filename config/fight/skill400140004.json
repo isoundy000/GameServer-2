@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "29"
+        ],
+        "name": "复苏",
+        "server_force": 6900,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "percent": 2900
+        },
+        "add_fight": 300
+    },
+    "11": {
+        "remark": [
+            "20"
+        ],
+        "name": "复苏",
+        "server_force": 4200,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "percent": 2000
+        },
+        "add_fight": 300
+    },
+    "10": {
+        "remark": [
+            "19"
+        ],
+        "name": "复苏",
+        "server_force": 3900,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "percent": 1900
+        },
+        "add_fight": 300
+    },
+    "13": {
+        "remark": [
+            "22"
+        ],
+        "name": "复苏",
+        "server_force": 4800,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "percent": 2200
+        },
+        "add_fight": 300
+    },
+    "12": {
+        "remark": [
+            "21"
+        ],
+        "name": "复苏",
+        "server_force": 4500,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "percent": 2100
+        },
+        "add_fight": 300
+    },
+    "15": {
+        "remark": [
+            "24"
+        ],
+        "name": "复苏",
+        "server_force": 5400,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "percent": 2400
+        },
+        "add_fight": 300
+    },
+    "14": {
+        "remark": [
+            "23"
+        ],
+        "name": "复苏",
+        "server_force": 5100,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "percent": 2300
+        },
+        "add_fight": 300
+    },
+    "17": {
+        "remark": [
+            "26"
+        ],
+        "name": "复苏",
+        "server_force": 6000,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "percent": 2600
+        },
+        "add_fight": 300
+    },
+    "16": {
+        "remark": [
+            "25"
+        ],
+        "name": "复苏",
+        "server_force": 5700,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "percent": 2500
+        },
+        "add_fight": 300
+    },
+    "19": {
+        "remark": [
+            "28"
+        ],
+        "name": "复苏",
+        "server_force": 6600,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "percent": 2800
+        },
+        "add_fight": 300
+    },
+    "18": {
+        "remark": [
+            "27"
+        ],
+        "name": "复苏",
+        "server_force": 6300,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "percent": 2700
+        },
+        "add_fight": 300
+    },
+    "1": {
+        "remark": [
+            "10"
+        ],
+        "name": "复苏",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "percent": 1000
+        },
+        "add_fight": 1200
+    },
+    "3": {
+        "remark": [
+            "12"
+        ],
+        "name": "复苏",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "percent": 1200
+        },
+        "add_fight": 300
+    },
+    "2": {
+        "remark": [
+            "11"
+        ],
+        "name": "复苏",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "percent": 1100
+        },
+        "add_fight": 300
+    },
+    "5": {
+        "remark": [
+            "14"
+        ],
+        "name": "复苏",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "percent": 1400
+        },
+        "add_fight": 300
+    },
+    "4": {
+        "remark": [
+            "13"
+        ],
+        "name": "复苏",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "percent": 1300
+        },
+        "add_fight": 300
+    },
+    "7": {
+        "remark": [
+            "16"
+        ],
+        "name": "复苏",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "percent": 1600
+        },
+        "add_fight": 300
+    },
+    "6": {
+        "remark": [
+            "15"
+        ],
+        "name": "复苏",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "percent": 1500
+        },
+        "add_fight": 300
+    },
+    "9": {
+        "remark": [
+            "18"
+        ],
+        "name": "复苏",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "percent": 1800
+        },
+        "add_fight": 300
+    },
+    "8": {
+        "remark": [
+            "17"
+        ],
+        "name": "复苏",
+        "server_force": 3300,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "percent": 1700
+        },
+        "add_fight": 300
+    }
+}

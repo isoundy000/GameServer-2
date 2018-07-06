@@ -1,0 +1,371 @@
+import "ProtoPublic.proto";
+import "ProtoInnerPublic.proto";
+
+message Proto31400121       // 场景切换：同步称号信息
+{
+    optional int32 cur_label_id = 1;       // 当前正在使用的称号id
+    repeated int32 permant_label_list = 2;       // 永久称号列表
+    repeated ProtoFlaunt limit_time_label_list = 3;       // 限时称号列表
+    repeated int32 unshown_list = 4;       // 不显示的称号id
+    repeated int32 new_list = 5;       // 未查看称号
+    optional int32 pre_label_id = 6;       // 
+}
+
+message Proto31400122       // 场景切换：同步成就信息
+{
+    repeated ProtoChildAchieve child_achieve = 1;       // 子成就列表
+    repeated ProtoAchieveDetail achieve_detail = 2;       // 成就记录列表
+    optional int32 achieve_level = 3;       // 成就等级
+    repeated ProtoPairObj achieve_point_map = 4;       // 每一类型的成就点数
+}
+
+message Proto30400429       // 领取奖励
+{
+    optional int32 scene_id = 1;       // 场景ID
+}
+
+message Proto30400430       // 人员排名
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto30400431       // 宗派排名
+{
+    optional int32 page_index = 1;       // 第几页
+}
+
+message Proto31400305       // 武道会奖励
+{
+    repeated ProtoItem item_set = 1;       // 奖励物品
+    optional int32 add_anima = 2;       // 增加灵力
+    optional int32 add_contri = 3;       // 增加贡献
+}
+
+message Proto31400501       // 传送扣取花费
+{
+    optional int32 scene_id = 1;       // 场景id
+    optional int32 pixel_x = 2;       // x坐标
+    optional int32 pixel_y = 3;       // y坐标
+    optional int32 client_type = 4;       // 客户端类型
+}
+
+message Proto30400501       // 传送
+{
+    optional int32 oper_result = 1;       // 0 扣取成功 1 金钱不足
+    optional int32 scene_id = 2;       // 场景id
+    optional int32 pixel_x = 3;       // x坐标
+    optional int32 pixel_y = 4;       // y坐标
+    optional int32 client_type = 5;       // 客户端类型
+}
+
+message Proto31400017       // 采集物品
+{
+    optional int64 goods_id = 1;       // 物品索引
+    optional int32 monster_sort = 2;       // 种类
+    optional int32 gather_flag = 3;       // 采集结果
+    optional ProtoItem gather_item = 4;       // 采集的道具
+}
+
+message Proto30100402       // 插入藏宝库公告信息
+{
+    optional int64 role_id = 1;       // 角色id
+    optional string role_name = 2;       // 角色名
+    repeated int32 item_id = 3;       // 物品id
+    repeated int32 item_amount = 4;       // 物品数量
+}
+
+message Proto30100403       // 获取藏宝库公告记录
+{
+    optional int64 role_id = 1;       // 角色id
+}
+
+message Proto30100401       // 玩家打开和关闭藏宝库面板
+{
+    optional int64 role_id = 1;       // 角色id
+    optional bool oper_type = 2;       // true打开面板，false关闭面板
+}
+
+message Proto30200119       // 将私聊玩家添加到好友>陌生人列表
+{
+    optional int64 role_id = 1;       // 
+}
+
+message Proto30200120       // 同步到聊天服：加好友
+{
+    repeated int64 role_id_set = 1;       // 
+}
+
+message Proto30200121       // 同步到聊天服：删除好友
+{
+    repeated int64 role_id_set = 1;       // 
+}
+
+message Proto31401404       // 场景切换: 使用bson同步对象数据(ML)
+{
+    optional int32 obj_type = 1;       // 同步的对象类型
+    optional bytes bson_raw_data = 2;       // 原始bson数据
+}
+
+message Proto30400432       // 传送巅峰对决离线玩家
+{
+    optional ProtoRoleInfo role_info = 1;       // 玩家信息
+    optional ProtoFightPro fight_prop = 2;       // 战斗属性
+    repeated ProtoPairObj skill_set = 3;       // 技能
+    repeated ProtoPairObj shape_set = 4;       // 时装
+    optional int32 space_id = 5;       // 空间ID
+    optional int32 scene_mode = 6;       // 场景模式
+    optional int32 scene_id = 7;       // 场景ID
+    optional int32 pos_x = 8;       // X坐标
+    optional int32 pos_y = 9;       // Y坐标
+    optional ProtoOfflineBeast offline_beast = 10;       // 宠物
+    optional int32 wing_id = 11;       // 当前羽翼ID
+    optional int32 wing_level = 12;       // 当前羽翼等级
+    optional int32 kill_num = 13;       // 杀人数
+    optional int32 killing_value = 14;       // 杀戳值
+    optional int32 cur_label = 15;       // 当前称号
+    optional int32 weapon_id = 16;       // 法宝id
+    optional int32 weapon_level = 17;       // 法宝等级
+    optional int32 equip_refine_lvl = 18;       // 强化特效等级
+    optional int32 fashion_id = 19;       // 时装id
+    optional int32 fashion_color = 20;       // 时装颜色
+    optional int32 solider_level = 21;       // 神兵等级
+    optional int32 magic_level = 22;       // 法器等级
+    optional int32 beast_level = 23;       // 灵宠等级
+    optional int32 mount_level = 24;       // 战骑等级
+}
+
+message Proto30400433       // 创建仙域战场
+{
+    repeated ProtoSyncLeague league_set = 1;       // 宗派信息
+}
+
+message Proto30400434       // 仙域战场信息
+{
+    optional int32 war_index = 1;       // 第几届
+    optional int64 league_index = 2;       // 宗派ID
+}
+
+message Proto31400123       // 场景切换：同步挂机信息
+{
+    optional ProtoHookDetail hook_detail = 1;       // 
+}
+
+message Proto30100215       // 设置玩家离线数据
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional int32 offline_type = 2;       // 离线数据类型
+    optional bytes offline_data = 3;       // 离线数据
+}
+
+message Proto30401102       // 创建日月争辉场景
+{
+    repeated int32 space_id = 1;       // 空间id
+}
+
+message Proto30100501       // 日月争辉阵营战：玩家获得积分
+{
+    optional int64 role_id = 1;       // 角色id
+    optional int32 space_id = 2;       // 空间id
+    optional int32 type = 3;       // 1采集 2杀死玩家
+    optional int64 peer_id = 4;       // 对方玩家id
+}
+
+message Proto30200122       // 同步到聊天服：vip状态
+{
+    optional int32 sync_type = 1;       // 
+    optional int32 vip_type = 2;       // 
+}
+
+message Proto30100502       // 玩家进入日月争辉场景
+{
+    optional int64 role_id = 1;       // 玩家id
+    optional int32 type = 2;       // 进入类型
+}
+
+message Proto30100503       // 玩家离开日月争辉场景
+{
+    optional int64 role_id = 1;       // 玩家id
+    optional int32 type = 2;       // 离开类型
+}
+
+message Proto30400014       // 直接增加血量
+{
+    optional int32 add_blood = 1;       // 增加的血量
+}
+
+message Proto31400124       // 场景切换：同步邮箱信息
+{
+    optional int64 send_mail_cool_tick = 1;       // 
+    optional int32 send_mail_count = 2;       // 单位时间内已发邮件数量
+    repeated ProtoMailInfo mail_list = 3;       // 邮件列表
+}
+
+message Proto30400015       // 地图使用物品
+{
+    optional ProtoItem item_info = 1;       // 使用物品
+}
+
+message Proto30401103       // 同步玩家阵营信息
+{
+    optional int32 camp_id = 1;       // 阵营id
+    optional bool respond_type = 2;       // 0不返回 1返回
+}
+
+message Proto30400435       // 玩家宗派技能信息
+{
+    repeated int32 skill_set = 1;       // 技能等级
+}
+
+message Proto30200124       // 新宗派、队伍、附近聊天广播
+{
+    optional ProtoBrocastNewInfo brocast_info = 1;       // 广播信息
+}
+
+message Proto30200123       // 新世界聊天广播
+{
+    optional ProtoBrocastNewInfo brocast_info = 1;       // 
+}
+
+message Proto30400107       // 场景切换：同步VIP信息
+{
+    optional int32 vip_type = 1;       // vip类型
+    optional int32 vip_start_time = 2;       // vip开始时间
+    optional int32 expired_time = 3;       // vip到期时间
+}
+
+message Proto30100601       // 通知活动提示系统活动状态变化
+{
+    optional int32 activity_id = 1;       // 活动ID
+    optional int32 activity_state = 2;       // 活动状态 1即将开始 2开始 3结束
+    optional int32 start_time = 3;       // 开始时间
+    optional int32 end_time = 4;       // 结束时间
+    optional int32 ahead_time = 5;       // 距离开始时间
+    optional int32 last_time = 6;       // 持续时间
+    optional int32 left_times = 7;       // 可进行次数(包括正在进行的)
+    optional int32 sub_value = 8;       // 附加值
+}
+
+message Proto31401501       // 活跃度事件通知(服内)
+{
+    optional int32 id = 1;       // 
+    optional int32 sub_id = 2;       // 
+    optional int32 type = 3;       // 
+    optional int32 num = 4;       // 
+}
+
+message Proto30100602       // 通知活动提醒模块玩家完成活动
+{
+    optional int64 role_id = 1;       // 玩家ID
+    optional int32 activity_id = 2;       // 活动ID
+    optional int32 time = 3;       // 完成时间
+}
+
+message Proto31400020       // 同步角色名字的修改
+{
+    optional int64 role_id = 1;       // 角色ID
+    optional string role_name = 2;       // 新的角色名
+}
+
+message Proto30100224       // 增加贡献
+{
+    optional int32 add_contri = 1;       // 增加贡献
+    optional ProtoSerialObj serial_obj = 2;       // 流水
+    optional int64 role_id = 3;       // 玩家
+    optional int64 league_id = 4;       // 宗派
+}
+
+message Proto31400901       // 扫荡获取副本信息
+{
+    optional int32 type = 1;       // 类型：0全部扫荡，1指定副本
+    optional int32 script_sort = 2;       // 扫荡副本ID
+    optional int32 scrit_type = 3;       // 副本类型
+    optional int32 mult = 4;       // 奖励倍数
+}
+
+message Proto31400902       // 扫荡副本返回剩余次数信息
+{
+    repeated ProtoScriptClean script_list = 1;       // 副本列表
+    optional int32 type = 2;       // 扫荡类型：0全部扫荡，1指定副本
+    optional int32 script_sort = 3;       // 原副本ID
+    optional int32 script_type = 4;       // 副本类型
+    optional int32 reset_times = 5;       // 重置次数(经验副本)
+    optional int32 top_floor = 6;       // 楼层信息(问鼎江湖)
+    optional int32 pass_wave = 7;       // 通过波数(经验、罗摩)
+    optional int32 pass_chapter = 8;       // 通过章节(经验、罗摩)
+    optional int32 mult = 9;       // 奖励倍数
+    optional int32 start_wave = 10;       // 开始波数
+    optional int32 start_chapter = 11;       // 开始章节
+}
+
+message Proto31400903       // 回滚副本扫荡扣除的次数
+{
+    repeated ProtoScriptClean rollback_script = 1;       // 要回滚的副本
+}
+
+message Proto30400108       // 切换场景：同步宗派信息
+{
+    optional int64 refresh_tick = 1;       // 刷新标识
+}
+
+message Proto30400109       // 场景切换：同步队伍信息
+{
+    repeated ProtoTravelTeam team_info = 1;       // 队伍
+}
+
+message Proto30400110       // 场景切换：同步击杀信息
+{
+    repeated ProtoMonster monster_set = 1;       // 杀怪信息集
+    optional int32 is_yellow = 2;       // 是否是黄名
+    optional int32 kill_num = 3;       // 击杀数量
+    optional int32 is_brocast = 4;       // 是否广播
+    optional int32 online_ticks = 5;       // 在线时间
+    optional int32 killing_value = 6;       // 杀戮值
+}
+
+message Proto30100603       // 批量通知活动提醒模块玩家完成活动
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 time = 2;       // 完成时间
+    repeated uint64 role_id = 3;       // 玩家ID
+}
+
+message Proto31400125       // 场景切换：同步系统提示栏信息
+{
+    repeated ProtoPlayerTipSyncInfo tip_list = 1;       // 
+    optional int32 max_tip_index = 2;       // 
+    repeated ProtoPairObj notify_record = 3;       // 
+    optional bool ingore_flag = 4;       // 
+}
+
+message Proto31401601       // 通知排行榜实时更新数据
+{
+    optional int32 rank_type = 1;       // 排行类型
+    optional int64 role_id = 2;       // 角色ID
+    optional string role_name = 3;       // 角色名
+    optional string league_name = 4;       // 帮派名
+    optional int32 vip_type = 5;       // vip等级
+    optional int64 achieve_tick = 6;       // 更新时间戳
+    optional int32 rank_value = 7;       // 排行值
+    optional int32 rank_force = 8;       // 排行战力
+    optional int32 ext_value = 9;       // 排行额外值
+    optional int64 worship_num = 10;       // 膜拜次数
+    optional int32 is_worship = 11;       // 是否膜拜
+}
+
+message Proto30400903       // 获取副本历史最好成绩
+{
+    optional int32 res_recogn = 1;       // 回复消息号
+    optional bytes res_body = 2;       // 回复的消息体
+}
+
+message Proto30400111       // 场景切换：同步血包信息
+{
+    optional int32 cur_blood = 1;       // 当前血量
+    optional int32 check_flag = 2;       // 是否检测过
+    optional int64 check_tick = 3;       // 检测时间
+    optional int32 non_tips = 4;       // 提示标识
+    optional int64 everyday_tick = 5;       // 每天标识
+    optional int64 last_tips_tick = 6;       // 上次提示时间
+}
+
+

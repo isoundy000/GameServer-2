@@ -1,0 +1,193 @@
+{
+    "10": {
+        "dodge": 600,
+        "defence": 3749,
+        "hit": 750,
+        "name": "化神10阶",
+        "damage_multi": 1100,
+        "attack": 7498,
+        "health": 74980,
+        "crit": 600,
+        "toughness": 450
+    },
+    "1": {
+        "dodge": 8,
+        "defence": 49,
+        "hit": 10,
+        "name": "化神1阶",
+        "damage_multi": 200,
+        "fight_cond": 1,
+        "lv_cond": 1,
+        "attack": 98,
+        "goods": [
+            [
+                216310111,
+                1
+            ]
+        ],
+        "health": 980,
+        "crit": 8,
+        "reward": 201011,
+        "toughness": 6
+    },
+    "3": {
+        "dodge": 40,
+        "defence": 249,
+        "hit": 50,
+        "name": "化神3阶",
+        "damage_multi": 400,
+        "fight_cond": 2000,
+        "lv_cond": 20,
+        "attack": 498,
+        "goods": [
+            [
+                216310111,
+                2
+            ]
+        ],
+        "health": 4980,
+        "crit": 40,
+        "reward": 201013,
+        "toughness": 30
+    },
+    "2": {
+        "dodge": 24,
+        "defence": 149,
+        "hit": 30,
+        "name": "化神2阶",
+        "damage_multi": 300,
+        "fight_cond": 1000,
+        "lv_cond": 10,
+        "attack": 298,
+        "goods": [
+            [
+                216310111,
+                1
+            ]
+        ],
+        "health": 2980,
+        "crit": 24,
+        "reward": 201012,
+        "toughness": 18
+    },
+    "5": {
+        "dodge": 128,
+        "defence": 799,
+        "hit": 160,
+        "name": "化神5阶",
+        "damage_multi": 600,
+        "fight_cond": 4000,
+        "lv_cond": 40,
+        "attack": 1598,
+        "goods": [
+            [
+                216310111,
+                3
+            ]
+        ],
+        "health": 15980,
+        "crit": 128,
+        "reward": 201015,
+        "toughness": 96
+    },
+    "4": {
+        "dodge": 80,
+        "defence": 499,
+        "hit": 100,
+        "name": "化神4阶",
+        "damage_multi": 500,
+        "fight_cond": 3000,
+        "lv_cond": 30,
+        "attack": 998,
+        "goods": [
+            [
+                216310111,
+                2
+            ]
+        ],
+        "health": 9980,
+        "crit": 80,
+        "reward": 201014,
+        "toughness": 60
+    },
+    "7": {
+        "dodge": 280,
+        "defence": 1749,
+        "hit": 350,
+        "name": "化神7阶",
+        "damage_multi": 800,
+        "fight_cond": 6000,
+        "lv_cond": 60,
+        "attack": 3498,
+        "goods": [
+            [
+                216310111,
+                5
+            ]
+        ],
+        "health": 34980,
+        "crit": 280,
+        "reward": 201017,
+        "toughness": 210
+    },
+    "6": {
+        "dodge": 200,
+        "defence": 1249,
+        "hit": 250,
+        "name": "化神6阶",
+        "damage_multi": 700,
+        "fight_cond": 5000,
+        "lv_cond": 50,
+        "attack": 2498,
+        "goods": [
+            [
+                216310111,
+                4
+            ]
+        ],
+        "health": 24980,
+        "crit": 200,
+        "reward": 201016,
+        "toughness": 150
+    },
+    "9": {
+        "dodge": 480,
+        "defence": 2999,
+        "hit": 600,
+        "name": "化神9阶",
+        "damage_multi": 1000,
+        "fight_cond": 8000,
+        "lv_cond": 80,
+        "attack": 5998,
+        "goods": [
+            [
+                216310111,
+                7
+            ]
+        ],
+        "health": 59980,
+        "crit": 480,
+        "reward": 201019,
+        "toughness": 360
+    },
+    "8": {
+        "dodge": 376,
+        "defence": 2349,
+        "hit": 470,
+        "name": "化神8阶",
+        "damage_multi": 900,
+        "fight_cond": 7000,
+        "lv_cond": 70,
+        "attack": 4698,
+        "goods": [
+            [
+                216310111,
+                6
+            ]
+        ],
+        "health": 46980,
+        "crit": 376,
+        "reward": 201018,
+        "toughness": 282
+    }
+}

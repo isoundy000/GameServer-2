@@ -1,0 +1,1783 @@
+{
+    "30187": {
+        "name": "帮旗lv87",
+        "altas": "buff",
+        "des": "攻击+2610   生命+26100\n防御+1305   伤害减免+18%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30186": {
+        "name": "帮旗lv86",
+        "altas": "buff",
+        "des": "攻击+2580   生命+25800\n防御+1290   伤害减免+18%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30185": {
+        "name": "帮旗lv85",
+        "altas": "buff",
+        "des": "攻击+2550   生命+25500\n防御+1275   伤害减免+17%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30184": {
+        "name": "帮旗lv84",
+        "altas": "buff",
+        "des": "攻击+2520   生命+25200\n防御+1260   伤害减免+17%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30183": {
+        "name": "帮旗lv83",
+        "altas": "buff",
+        "des": "攻击+2490   生命+24900\n防御+1245   伤害减免+17%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30182": {
+        "name": "帮旗lv82",
+        "altas": "buff",
+        "des": "攻击+2460   生命+24600\n防御+1230   伤害减免+17%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30181": {
+        "name": "帮旗lv81",
+        "altas": "buff",
+        "des": "攻击+2430   生命+24300\n防御+1215   伤害减免+17%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30180": {
+        "name": "帮旗lv80",
+        "altas": "buff",
+        "des": "攻击+2400   生命+24000\n防御+1200   伤害减免+16%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30189": {
+        "name": "帮旗lv89",
+        "altas": "buff",
+        "des": "攻击+2670   生命+26700\n防御+1335   伤害减免+18%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30188": {
+        "name": "帮旗lv88",
+        "altas": "buff",
+        "des": "攻击+2640   生命+26400\n防御+1320   伤害减免+18%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "10013": {
+        "name": "虚弱",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "攻击-{value1}",
+        "show_sort": 20000,
+        "sid": "06",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "131": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "剑落",
+        "buff_type": 131
+    },
+    "130": {
+        "show_type": 1,
+        "name": "冰封",
+        "buff_type": 130
+    },
+    "30011": {
+        "name": "VIP11特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+70%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30010": {
+        "name": "VIP10特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+60%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "50001": {
+        "name": "帮派副本增加血量",
+        "buff_type": 104,
+        "show_type": 2,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1,
+        "show_icon": 1
+    },
+    "50002": {
+        "name": "帮派副本增加攻击",
+        "buff_type": 106,
+        "show_type": 2,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1,
+        "show_icon": 1
+    },
+    "50003": {
+        "name": "帮派副本增加防御",
+        "buff_type": 107,
+        "show_type": 2,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1,
+        "show_icon": 1
+    },
+    "30132": {
+        "name": "帮旗lv32",
+        "altas": "buff",
+        "des": "攻击+960   生命+9600\n防御+480   伤害减免+7%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30133": {
+        "name": "帮旗lv33",
+        "altas": "buff",
+        "des": "攻击+990   生命+9900\n防御+495   伤害减免+7%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30130": {
+        "name": "帮旗lv30",
+        "altas": "buff",
+        "des": "攻击+900   生命+9000\n防御+450   伤害减免+6%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30131": {
+        "name": "帮旗lv31",
+        "altas": "buff",
+        "des": "攻击+930   生命+9300\n防御+465   伤害减免+7%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30136": {
+        "name": "帮旗lv36",
+        "altas": "buff",
+        "des": "攻击+1080   生命+10800\n防御+540   伤害减免+8%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30137": {
+        "name": "帮旗lv37",
+        "altas": "buff",
+        "des": "攻击+1110   生命+11100\n防御+555   伤害减免+8%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30134": {
+        "name": "帮旗lv34",
+        "altas": "buff",
+        "des": "攻击+1020   生命+10200\n防御+510   伤害减免+7%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30135": {
+        "name": "帮旗lv35",
+        "altas": "buff",
+        "des": "攻击+1050   生命+10500\n防御+525   伤害减免+7%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30138": {
+        "name": "帮旗lv38",
+        "altas": "buff",
+        "des": "攻击+1140   生命+11400\n防御+570   伤害减免+8%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "20008": {
+        "exit_game_remove": 1,
+        "exit_scene_remove": 1,
+        "die_remove": 1,
+        "name": "致命穿透",
+        "buff_type": 133
+    },
+    "30141": {
+        "name": "帮旗lv41",
+        "altas": "buff",
+        "des": "攻击+1230   生命+12300\n防御+615   伤害减免+9%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30190": {
+        "name": "帮旗lv90",
+        "altas": "buff",
+        "des": "攻击+2700   生命+27000\n防御+1350   伤害减免+18%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30191": {
+        "name": "帮旗lv91",
+        "altas": "buff",
+        "des": "攻击+2730   生命+27300\n防御+1365   伤害减免+19%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30192": {
+        "name": "帮旗lv92",
+        "altas": "buff",
+        "des": "攻击+2760   生命+27600\n防御+1380   伤害减免+19%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30193": {
+        "name": "帮旗lv93",
+        "altas": "buff",
+        "des": "攻击+2790   生命+27900\n防御+1395   伤害减免+19%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30194": {
+        "name": "帮旗lv94",
+        "altas": "buff",
+        "des": "攻击+2820   生命+28200\n防御+1410   伤害减免+19%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30195": {
+        "name": "帮旗lv95",
+        "altas": "buff",
+        "des": "攻击+2850   生命+28500\n防御+1425   伤害减免+19%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30196": {
+        "name": "帮旗lv96",
+        "altas": "buff",
+        "des": "攻击+2880   生命+28800\n防御+1440   伤害减免+20%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30197": {
+        "name": "帮旗lv97",
+        "altas": "buff",
+        "des": "攻击+2910   生命+29100\n防御+1455   伤害减免+20%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30198": {
+        "name": "帮旗lv98",
+        "altas": "buff",
+        "des": "攻击+2940   生命+29400\n防御+1470   伤害减免+20%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30199": {
+        "name": "帮旗lv99",
+        "altas": "buff",
+        "des": "攻击+2970   生命+29700\n防御+1485   伤害减免+20%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "10053": {
+        "name": "灵动",
+        "buff_type": 109,
+        "altas": "buff",
+        "des": "闪避+{value1}",
+        "show_sort": 20003,
+        "sid": "14",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10052": {
+        "name": "刚毅",
+        "buff_type": 107,
+        "altas": "buff",
+        "des": "防御+{value1}",
+        "show_sort": 20003,
+        "sid": "14",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10051": {
+        "name": "霸体",
+        "buff_type": 129,
+        "effect": "skill_hudun",
+        "show_type": 1,
+        "effectShowEveryOne": 1,
+        "die_remove": 1
+    },
+    "121": {
+        "show_type": 0,
+        "last": 0.5,
+        "name": "跳跃",
+        "buff_type": 121
+    },
+    "122": {
+        "show_type": 0,
+        "last": 5.0,
+        "name": "狂怒",
+        "buff_type": 122
+    },
+    "123": {
+        "show_type": 2,
+        "name": "免伤",
+        "buff_type": 123
+    },
+    "30145": {
+        "name": "帮旗lv45",
+        "altas": "buff",
+        "des": "攻击+1350   生命+13500\n防御+675   伤害减免+9%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "126": {
+        "noMove": 1,
+        "name": "眩晕",
+        "buff_type": 126,
+        "effect": "LM_skill03",
+        "show_type": 1,
+        "show_icon": 1,
+        "noAttack": 1
+    },
+    "127": {
+        "effectShowEveryOne": 1,
+        "effect": "gw_skill_hudun",
+        "show_type": 1,
+        "name": "BOSS护盾",
+        "buff_type": 127
+    },
+    "128": {
+        "show_type": 0,
+        "name": "复活保护",
+        "buff_type": 128
+    },
+    "30144": {
+        "name": "帮旗lv44",
+        "altas": "buff",
+        "des": "攻击+1320   生命+13200\n防御+660   伤害减免+9%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30109": {
+        "name": "帮旗lv9",
+        "altas": "buff",
+        "des": "攻击+270   生命+2700\n防御+135   伤害减免+2%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30108": {
+        "name": "帮旗lv8",
+        "altas": "buff",
+        "des": "攻击+240   生命+2400\n防御+120   伤害减免+2%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30107": {
+        "name": "帮旗lv7",
+        "altas": "buff",
+        "des": "攻击+210   生命+2100\n防御+105   伤害减免+2%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30106": {
+        "name": "帮旗lv6",
+        "altas": "buff",
+        "des": "攻击+180   生命+1800\n防御+90   伤害减免+2%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30105": {
+        "name": "帮旗lv5",
+        "altas": "buff",
+        "des": "攻击+150   生命+1500\n防御+75   伤害减免+1%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30104": {
+        "name": "帮旗lv4",
+        "altas": "buff",
+        "des": "攻击+120   生命+1200\n防御+60   伤害减免+1%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30103": {
+        "name": "帮旗lv3",
+        "altas": "buff",
+        "des": "攻击+90   生命+900\n防御+45   伤害减免+1%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30102": {
+        "name": "帮旗lv2",
+        "altas": "buff",
+        "des": "攻击+60   生命+600\n防御+30   伤害减免+1%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30101": {
+        "name": "帮旗lv1",
+        "altas": "buff",
+        "des": "攻击+30   生命+300\n防御+15   伤害减免+1%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30169": {
+        "name": "帮旗lv69",
+        "altas": "buff",
+        "des": "攻击+2070   生命+20700\n防御+1035   伤害减免+14%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30168": {
+        "name": "帮旗lv68",
+        "altas": "buff",
+        "des": "攻击+2040   生命+20400\n防御+1020   伤害减免+14%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30165": {
+        "name": "帮旗lv65",
+        "altas": "buff",
+        "des": "攻击+1950   生命+19500\n防御+975   伤害减免+13%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "10041": {
+        "name": "不屈",
+        "buff_type": 107,
+        "des": "韧性-{value1}",
+        "show_type": 1,
+        "sid": "12",
+        "die_remove": 1
+    },
+    "30167": {
+        "name": "帮旗lv67",
+        "altas": "buff",
+        "des": "攻击+2010   生命+20100\n防御+1005   伤害减免+14%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30166": {
+        "name": "帮旗lv66",
+        "altas": "buff",
+        "des": "攻击+1980   生命+19800\n防御+990   伤害减免+14%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30161": {
+        "name": "帮旗lv61",
+        "altas": "buff",
+        "des": "攻击+1830   生命+18300\n防御+915   伤害减免+13%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30160": {
+        "name": "帮旗lv60",
+        "altas": "buff",
+        "des": "攻击+1800   生命+18000\n防御+900   伤害减免+12%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30163": {
+        "name": "帮旗lv63",
+        "altas": "buff",
+        "des": "攻击+1890   生命+18900\n防御+945   伤害减免+13%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30162": {
+        "name": "帮旗lv62",
+        "altas": "buff",
+        "des": "攻击+1860   生命+18600\n防御+930   伤害减免+13%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "114": {
+        "show_type": 2,
+        "name": "暴击伤害",
+        "buff_type": 114
+    },
+    "113": {
+        "show_type": 2,
+        "name": "暴击率",
+        "buff_type": 113
+    },
+    "30139": {
+        "name": "帮旗lv39",
+        "altas": "buff",
+        "des": "攻击+1170   生命+11700\n防御+585   伤害减免+8%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30118": {
+        "name": "帮旗lv18",
+        "altas": "buff",
+        "des": "攻击+540   生命+5400\n防御+270   伤害减免+4%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30119": {
+        "name": "帮旗lv19",
+        "altas": "buff",
+        "des": "攻击+570   生命+5700\n防御+285   伤害减免+4%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30110": {
+        "name": "帮旗lv10",
+        "altas": "buff",
+        "des": "攻击+300   生命+3000\n防御+150   伤害减免+2%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30111": {
+        "name": "帮旗lv11",
+        "altas": "buff",
+        "des": "攻击+330   生命+3300\n防御+165   伤害减免+3%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30112": {
+        "name": "帮旗lv12",
+        "altas": "buff",
+        "des": "攻击+360   生命+3600\n防御+180   伤害减免+3%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30113": {
+        "name": "帮旗lv13",
+        "altas": "buff",
+        "des": "攻击+390   生命+3900\n防御+195   伤害减免+3%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30114": {
+        "name": "帮旗lv14",
+        "altas": "buff",
+        "des": "攻击+420   生命+4200\n防御+210   伤害减免+3%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30115": {
+        "name": "帮旗lv15",
+        "altas": "buff",
+        "des": "攻击+450   生命+4500\n防御+225   伤害减免+3%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30116": {
+        "name": "帮旗lv16",
+        "altas": "buff",
+        "des": "攻击+480   生命+4800\n防御+240   伤害减免+4%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30117": {
+        "name": "帮旗lv17",
+        "altas": "buff",
+        "des": "攻击+510   生命+5100\n防御+255   伤害减免+4%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30178": {
+        "name": "帮旗lv78",
+        "altas": "buff",
+        "des": "攻击+2340   生命+23400\n防御+1170   伤害减免+16%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30179": {
+        "name": "帮旗lv79",
+        "altas": "buff",
+        "des": "攻击+2370   生命+23700\n防御+1185   伤害减免+16%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30176": {
+        "name": "帮旗lv76",
+        "altas": "buff",
+        "des": "攻击+2280   生命+22800\n防御+1140   伤害减免+16%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30177": {
+        "name": "帮旗lv77",
+        "altas": "buff",
+        "des": "攻击+2310   生命+23100\n防御+1155   伤害减免+16%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30174": {
+        "name": "帮旗lv74",
+        "altas": "buff",
+        "des": "攻击+2220   生命+22200\n防御+1110   伤害减免+15%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30175": {
+        "name": "帮旗lv75",
+        "altas": "buff",
+        "des": "攻击+2250   生命+22500\n防御+1125   伤害减免+15%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30172": {
+        "name": "帮旗lv72",
+        "altas": "buff",
+        "des": "攻击+2160   生命+21600\n防御+1080   伤害减免+15%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30173": {
+        "name": "帮旗lv73",
+        "altas": "buff",
+        "des": "攻击+2190   生命+21900\n防御+1095   伤害减免+15%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30170": {
+        "name": "帮旗lv70",
+        "altas": "buff",
+        "des": "攻击+2100   生命+21000\n防御+1050   伤害减免+14%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30171": {
+        "name": "帮旗lv71",
+        "altas": "buff",
+        "des": "攻击+2130   生命+21300\n防御+1065   伤害减免+15%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "60003": {
+        "name": "伤害加成50%",
+        "buff_type": 116,
+        "inoperative_scene": [
+            50201
+        ],
+        "show_type": 2,
+        "exit_game_remove": 1,
+        "show_icon": 1
+    },
+    "60002": {
+        "exit_game_remove": 1,
+        "show_icon": 1,
+        "name": "经验加成100%",
+        "show_type": 2
+    },
+    "60001": {
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1,
+        "name": "攻击加成10%",
+        "buff_type": 106
+    },
+    "60004": {
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1,
+        "name": "免疫眩晕20%",
+        "buff_type": 139
+    },
+    "102": {
+        "name": "王城守卫暴击率",
+        "buff_type": 113,
+        "percent": 5000,
+        "show_type": 2,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1
+    },
+    "103": {
+        "name": "王城守卫暴击伤害",
+        "buff_type": 114,
+        "percent": 5000,
+        "show_type": 2,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1
+    },
+    "101": {
+        "name": "王城守卫攻击",
+        "buff_type": 106,
+        "value": 10000,
+        "show_type": 2,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1
+    },
+    "106": {
+        "show_type": 1,
+        "name": "攻击",
+        "buff_type": 106
+    },
+    "107": {
+        "show_type": 1,
+        "name": "防御",
+        "buff_type": 107
+    },
+    "10033": {
+        "name": "灵巧",
+        "buff_type": 109,
+        "altas": "buff",
+        "des": "闪避+{value1}",
+        "show_sort": 20002,
+        "sid": "15",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10032": {
+        "name": "护体",
+        "buff_type": 111,
+        "altas": "buff",
+        "des": "韧性+{value1}",
+        "show_sort": 20002,
+        "sid": "15",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "30147": {
+        "name": "帮旗lv47",
+        "altas": "buff",
+        "des": "攻击+1410   生命+14100\n防御+705   伤害减免+10%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "20021": {
+        "name": "放血",
+        "buff_type": 103,
+        "effect": "lunjian_fangxue",
+        "show_type": 1,
+        "effectShowEveryOne": 1,
+        "avoid_buff": 136
+    },
+    "20020": {
+        "noMove": 1,
+        "name": "眩晕",
+        "buff_type": 126,
+        "effect": "lunjian_xuanyun",
+        "show_type": 1,
+        "effectShowEveryOne": 1,
+        "avoid_buff": 135,
+        "noAttack": 1
+    },
+    "20022": {
+        "name": "城池战护盾",
+        "buff_type": 123,
+        "effect": "lunjian_rw_hudun",
+        "show_type": 1,
+        "effectShowEveryOne": 1,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1,
+        "die_remove": 1
+    },
+    "30200": {
+        "name": "帮旗lv100",
+        "altas": "buff",
+        "des": "攻击+3000   生命+30000\n防御+1500   伤害减免+20%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30201": {
+        "name": "生命包",
+        "altas": "buff",
+        "des": "[ffffff]每5秒恢复一次生命[-]\n总剩余血量：{value1}",
+        "show_sort": 10000,
+        "sid": "01",
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "30149": {
+        "name": "帮旗lv49",
+        "altas": "buff",
+        "des": "攻击+1470   生命+14700\n防御+735   伤害减免+10%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30148": {
+        "name": "帮旗lv48",
+        "altas": "buff",
+        "des": "攻击+1440   生命+14400\n防御+720   伤害减免+10%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30309": {
+        "name": "比翼双飞9级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+500   生命+5000\n防御+250",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000009
+    },
+    "30308": {
+        "name": "比翼双飞8级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+450   生命+4500\n防御+225",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000008
+    },
+    "30012": {
+        "name": "VIP12特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+80%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30143": {
+        "name": "帮旗lv43",
+        "altas": "buff",
+        "des": "攻击+1290   生命+12900\n防御+645   伤害减免+9%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30304": {
+        "name": "比翼双飞4级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+250   生命+2500\n防御+125",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000004
+    },
+    "30307": {
+        "name": "比翼双飞7级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+400   生命+4000\n防御+200",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000007
+    },
+    "30140": {
+        "name": "帮旗lv40",
+        "altas": "buff",
+        "des": "攻击+1200   生命+12000\n防御+600   伤害减免+8%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30301": {
+        "name": "比翼双飞1级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+50   生命+100\n防御+25",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000001
+    },
+    "30146": {
+        "name": "帮旗lv46",
+        "altas": "buff",
+        "des": "攻击+1380   生命+13800\n防御+690   伤害减免+10%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30303": {
+        "name": "比翼双飞3级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+200   生命+2000\n防御+100",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000003
+    },
+    "30302": {
+        "name": "比翼双飞2级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+100   生命+1000\n防御+50",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000002
+    },
+    "10034": {
+        "name": "聚力",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "攻击+{value1}",
+        "show_sort": 20002,
+        "sid": "15",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10024": {
+        "name": "狂暴",
+        "buff_type": 110,
+        "altas": "buff",
+        "des": "暴击+{value1}",
+        "show_sort": 20001,
+        "sid": "04",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10022": {
+        "name": "坚韧",
+        "buff_type": 111,
+        "altas": "buff",
+        "des": "韧性+{value1}",
+        "show_sort": 20001,
+        "sid": "04",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10023": {
+        "name": "强击",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "攻击+{value1}",
+        "show_sort": 20001,
+        "sid": "04",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10021": {
+        "name": "守护",
+        "buff_type": 107,
+        "altas": "buff",
+        "des": "防御+{value1}",
+        "show_sort": 20001,
+        "sid": "04",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "70011": {
+        "last": 300.0,
+        "name": "攻击+20%",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "增加玩家攻击力20%",
+        "percent": 2000,
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "sid": "05",
+        "exit_game_remove": 1,
+        "show_sort": 10009,
+        "show_icon": 1
+    },
+    "40001": {
+        "last": 1800.0,
+        "name": "战场生命加成",
+        "buff_type": 104,
+        "percent": 10000,
+        "show_type": 0,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1
+    },
+    "70013": {
+        "last": 300.0,
+        "name": "最大生命+150%",
+        "buff_type": 104,
+        "altas": "buff",
+        "des": "增加玩家生命上限150%",
+        "percent": 15000,
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "sid": "05",
+        "exit_game_remove": 1,
+        "show_sort": 10009,
+        "show_icon": 1
+    },
+    "70012": {
+        "last": 300.0,
+        "name": "防御+20%",
+        "buff_type": 107,
+        "altas": "buff",
+        "des": "增加玩家防御力20%",
+        "percent": 2000,
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "sid": "05",
+        "exit_game_remove": 1,
+        "show_sort": 10009,
+        "show_icon": 1
+    },
+    "70015": {
+        "name": "受到仙童伤害-50%",
+        "altas": "buff",
+        "percent": 5000,
+        "show_sort": 10009,
+        "exit_scene_remove": 1,
+        "sid": "05",
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "70014": {
+        "last": 300.0,
+        "name": "最大生命+200%",
+        "buff_type": 104,
+        "altas": "buff",
+        "des": "增加玩家生命上限200%",
+        "percent": 20000,
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "sid": "05",
+        "exit_game_remove": 1,
+        "show_sort": 10009,
+        "show_icon": 1
+    },
+    "20032": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "火龙卷",
+        "buff_type": 131
+    },
+    "20033": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "冰刺",
+        "buff_type": 131
+    },
+    "20031": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "水龙卷",
+        "buff_type": 131
+    },
+    "20036": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "闪电",
+        "buff_type": 131
+    },
+    "20034": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "金钟",
+        "buff_type": 131
+    },
+    "20035": {
+        "client_msg": 1,
+        "show_type": 1,
+        "name": "鬼缠",
+        "buff_type": 131
+    },
+    "40002": {
+        "last": 1800.0,
+        "name": "战场攻击加成",
+        "buff_type": 106,
+        "value": 10000,
+        "show_type": 0,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1
+    },
+    "30164": {
+        "name": "帮旗lv64",
+        "altas": "buff",
+        "des": "攻击+1920   生命+19200\n防御+960   伤害减免+13%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30306": {
+        "name": "比翼双飞6级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+350   生命+3500\n防御+175",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000006
+    },
+    "30006": {
+        "name": "VIP6特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+20%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30007": {
+        "name": "VIP7特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+30%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30004": {
+        "name": "VIP4特权",
+        "altas": "buff",
+        "des": "温泉经验+20%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30005": {
+        "name": "VIP5特权",
+        "altas": "buff",
+        "des": "温泉经验+20%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "10031": {
+        "name": "护盾",
+        "buff_type": 107,
+        "altas": "buff",
+        "des": "防御+{value1}",
+        "show_sort": 20002,
+        "sid": "15",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "30003": {
+        "name": "VIP3特权",
+        "altas": "buff",
+        "des": "温泉经验+20%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30001": {
+        "name": "VIP1特权",
+        "altas": "buff",
+        "des": "温泉经验+20%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30008": {
+        "name": "VIP8特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+40%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30009": {
+        "name": "VIP9特权",
+        "altas": "buff",
+        "des": "温泉经验+20%\n打怪、护送经验+50%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "20007": {
+        "exit_game_remove": 1,
+        "exit_scene_remove": 1,
+        "die_remove": 1,
+        "name": "圣御",
+        "buff_type": 123
+    },
+    "20006": {
+        "name": "保护减伤",
+        "buff_type": 123
+    },
+    "20005": {
+        "effectShowEveryOne": 1,
+        "effect": "skill_hudun",
+        "show_type": 1,
+        "name": "祝福减伤",
+        "buff_type": 123
+    },
+    "20004": {
+        "name": "护送减速",
+        "buff_type": 105,
+        "altas": "buff",
+        "des": "护送期间移动速度减少[ffffff]30%[-]",
+        "show_sort": 10007,
+        "sid": "13",
+        "show_type": 1,
+        "show_icon": 1
+    },
+    "20003": {
+        "show_type": 1,
+        "name": "无双护盾",
+        "buff_type": 123
+    },
+    "20002": {
+        "name": "2倍经验卡",
+        "buff_type": 1102,
+        "altas": "buff",
+        "des": "[ffffff]战斗获得2倍经验[-]\n剩余时间：{time}",
+        "show_sort": 10004,
+        "never_shield": 1,
+        "sid": "18",
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "20001": {
+        "name": "1.5倍经验卡",
+        "buff_type": 1102,
+        "altas": "buff",
+        "des": "[ffffff]战斗获得1.5倍经验[-]\n剩余时间：{time}",
+        "show_sort": 10005,
+        "sid": "17",
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "30142": {
+        "name": "帮旗lv42",
+        "altas": "buff",
+        "des": "攻击+1260   生命+12600\n防御+630   伤害减免+9%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "10012": {
+        "name": "减韧",
+        "buff_type": 111,
+        "altas": "buff",
+        "des": "韧性-{value1}",
+        "show_sort": 20000,
+        "sid": "06",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10011": {
+        "name": "破甲",
+        "buff_type": 107,
+        "altas": "buff",
+        "des": "防御-{value1}",
+        "show_sort": 20000,
+        "sid": "06",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "10010": {
+        "name": "攻击加成",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "古宝地窑副本内攻击加成100%",
+        "percent": 10000,
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "sid": "26",
+        "exit_game_remove": 1,
+        "show_sort": 10006,
+        "show_icon": 1
+    },
+    "20019": {
+        "effectShowEveryOne": 1,
+        "effect": "lunjian_menggong",
+        "show_type": 1,
+        "name": "狂战2",
+        "buff_type": 114
+    },
+    "20009": {
+        "exit_game_remove": 1,
+        "exit_scene_remove": 1,
+        "die_remove": 1,
+        "name": "不动如山",
+        "buff_type": 107
+    },
+    "10014": {
+        "name": "威慑",
+        "buff_type": 110,
+        "altas": "buff",
+        "des": "暴击-{value1}",
+        "show_sort": 20000,
+        "sid": "06",
+        "show_type": 1,
+        "show_icon": 1,
+        "die_remove": 1
+    },
+    "70002": {
+        "last": 300.0,
+        "name": "华山秘宝加成",
+        "buff_type": 104,
+        "altas": "buff",
+        "des": "增加玩家生命上限100%",
+        "percent": 10000,
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "sid": "22",
+        "exit_game_remove": 1,
+        "show_sort": 10008,
+        "show_icon": 1
+    },
+    "70001": {
+        "name": "华山秘宝BUFF",
+        "buff_type": 70001,
+        "effect": "Mibaotexiao",
+        "show_type": 1,
+        "effectShowEveryOne": 1,
+        "exit_scene_remove": 0,
+        "never_shield": 1,
+        "exit_game_remove": 0,
+        "die_remove": 0
+    },
+    "1104": {
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1,
+        "name": "武神临凡增加经验",
+        "buff_type": 1104
+    },
+    "1103": {
+        "name": "五倍挂机活动",
+        "buff_type": 1103,
+        "show_time": 1,
+        "des": "经验卡BUFF，value1:{value1},value2:{value2},value3:{value3},时间：{time}",
+        "show_type": 2,
+        "altas": "buff",
+        "sid": "101"
+    },
+    "1101": {
+        "last": 5.0,
+        "name": "连斩",
+        "buff_type": 1101,
+        "show_time": 1,
+        "des": "连斩BUFF，value1:{value1},value2:{value2},value3:{value3},时间：{time}",
+        "show_type": 2,
+        "altas": "buff",
+        "sid": "101"
+    },
+    "10004": {
+        "name": "罗摩流血",
+        "buff_type": 103,
+        "effect": "LM_skill02",
+        "show_type": 1,
+        "sid": "10",
+        "show_icon": 1
+    },
+    "10001": {
+        "name": "罗摩减速",
+        "buff_type": 105,
+        "effect": "LM_skill01",
+        "show_type": 1,
+        "sid": "13",
+        "show_icon": 1
+    },
+    "10002": {
+        "show_type": 1,
+        "show_icon": 1,
+        "name": "罗摩伤害加深",
+        "buff_type": 112
+    },
+    "20010": {
+        "name": "生命护盾",
+        "buff_type": 138,
+        "effect": "lunjian_rw_hudun",
+        "show_type": 1,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1,
+        "die_remove": 1
+    },
+    "20011": {
+        "noMove": 1,
+        "name": "强力眩晕",
+        "buff_type": 137,
+        "effect": "lunjian_xuanyun",
+        "show_type": 1,
+        "effectShowEveryOne": 1,
+        "exit_scene_remove": 1,
+        "exit_game_remove": 1,
+        "die_remove": 1,
+        "noAttack": 1
+    },
+    "20012": {
+        "exit_game_remove": 1,
+        "exit_scene_remove": 1,
+        "die_remove": 1,
+        "name": "流血免疫",
+        "buff_type": 136
+    },
+    "20013": {
+        "exit_game_remove": 1,
+        "exit_scene_remove": 1,
+        "die_remove": 1,
+        "name": "眩晕免疫",
+        "buff_type": 135
+    },
+    "20014": {
+        "exit_game_remove": 1,
+        "exit_scene_remove": 1,
+        "die_remove": 1,
+        "name": "无敌金身",
+        "buff_type": 134
+    },
+    "20015": {
+        "effectShowEveryOne": 1,
+        "effect": "lunjian_menggong",
+        "show_type": 1,
+        "name": "狂热攻击",
+        "buff_type": 106
+    },
+    "20016": {
+        "effectShowEveryOne": 1,
+        "effect": "lunjian_gw_hudun",
+        "show_type": 1,
+        "name": "战争护盾",
+        "buff_type": 138
+    },
+    "20017": {
+        "effectShowEveryOne": 1,
+        "effect": "lunjian_menggong",
+        "show_type": 1,
+        "name": "猛攻",
+        "buff_type": 116
+    },
+    "20018": {
+        "effectShowEveryOne": 1,
+        "effect": "lunjian_menggong",
+        "show_type": 1,
+        "name": "狂战1",
+        "buff_type": 110
+    },
+    "30002": {
+        "name": "VIP2特权",
+        "altas": "buff",
+        "des": "温泉经验+20%",
+        "show_sort": 10001,
+        "sid": "02",
+        "show_icon": 1
+    },
+    "30121": {
+        "name": "帮旗lv21",
+        "altas": "buff",
+        "des": "攻击+630   生命+6300\n防御+315   伤害减免+5%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30120": {
+        "name": "帮旗lv20",
+        "altas": "buff",
+        "des": "攻击+600   生命+6000\n防御+300   伤害减免+4%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30154": {
+        "name": "帮旗lv54",
+        "altas": "buff",
+        "des": "攻击+1620   生命+16200\n防御+810   伤害减免+11%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30155": {
+        "name": "帮旗lv55",
+        "altas": "buff",
+        "des": "攻击+1650   生命+16500\n防御+825   伤害减免+11%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30156": {
+        "name": "帮旗lv56",
+        "altas": "buff",
+        "des": "攻击+1680   生命+16800\n防御+840   伤害减免+12%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30157": {
+        "name": "帮旗lv57",
+        "altas": "buff",
+        "des": "攻击+1710   生命+17100\n防御+855   伤害减免+12%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30150": {
+        "name": "帮旗lv50",
+        "altas": "buff",
+        "des": "攻击+1500   生命+15000\n防御+750   伤害减免+10%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30151": {
+        "name": "帮旗lv51",
+        "altas": "buff",
+        "des": "攻击+1530   生命+15300\n防御+765   伤害减免+11%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30152": {
+        "name": "帮旗lv52",
+        "altas": "buff",
+        "des": "攻击+1560   生命+15600\n防御+780   伤害减免+11%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30153": {
+        "name": "帮旗lv53",
+        "altas": "buff",
+        "des": "攻击+1590   生命+15900\n防御+795   伤害减免+11%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30158": {
+        "name": "帮旗lv58",
+        "altas": "buff",
+        "des": "攻击+1740   生命+17400\n防御+870   伤害减免+12%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30159": {
+        "name": "帮旗lv59",
+        "altas": "buff",
+        "des": "攻击+1770   生命+17700\n防御+885   伤害减免+12%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30124": {
+        "name": "帮旗lv24",
+        "altas": "buff",
+        "des": "攻击+720   生命+7200\n防御+360   伤害减免+5%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30127": {
+        "name": "帮旗lv27",
+        "altas": "buff",
+        "des": "攻击+810   生命+8100\n防御+405   伤害减免+6%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30126": {
+        "name": "帮旗lv26",
+        "altas": "buff",
+        "des": "攻击+780   生命+7800\n防御+390   伤害减免+6%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30310": {
+        "name": "比翼双飞10级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+550   生命+5500\n防御+275",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000010
+    },
+    "30311": {
+        "name": "比翼双飞11级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+600   生命+6000\n防御+300",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000011
+    },
+    "30305": {
+        "name": "比翼双飞5级",
+        "buff_type": 132,
+        "altas": "buff",
+        "des": "攻击+300   生命+3000\n防御+150",
+        "show_sort": 10003,
+        "sid": "23",
+        "show_type": 2,
+        "show_icon": 1,
+        "prop": 300000005
+    },
+    "61004": {
+        "name": "汉寿亭侯",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "变身期间攻击加成[ffffff]10%[-]\n免疫眩晕几率增加20%",
+        "show_sort": 30001,
+        "sid": "25",
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "61005": {
+        "name": "魔神降世",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "变身期间攻击加成[ffffff]10%[-]\n攻击时[ffffff]10%[-]几率眩晕敌人[ffffff]1.5[-]",
+        "show_sort": 30001,
+        "sid": "25",
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "30123": {
+        "name": "帮旗lv23",
+        "altas": "buff",
+        "des": "攻击+690   生命+6900\n防御+345   伤害减免+5%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30122": {
+        "name": "帮旗lv22",
+        "altas": "buff",
+        "des": "攻击+660   生命+6600\n防御+330   伤害减免+5%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30125": {
+        "name": "帮旗lv25",
+        "altas": "buff",
+        "des": "攻击+750   生命+7500\n防御+375   伤害减免+5%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "61001": {
+        "name": "常胜将军",
+        "buff_type": 106,
+        "altas": "buff",
+        "des": "变身期间攻击加成[ffffff]10%[-]",
+        "show_sort": 30001,
+        "sid": "25",
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "61002": {
+        "name": "武神临凡",
+        "buff_type": 1104,
+        "altas": "buff",
+        "des": "变身期间打怪经验增加[ffffff]100%[-]",
+        "show_sort": 30001,
+        "sid": "25",
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "61003": {
+        "name": "斗战胜佛",
+        "buff_type": 116,
+        "altas": "buff",
+        "des": "变身期间伤害加成[ffffff]50%[-]\n武林擂台中此效果无效",
+        "show_sort": 30001,
+        "inoperative_scene": [
+            50201
+        ],
+        "sid": "25",
+        "exit_game_remove": 1,
+        "show_type": 2,
+        "show_icon": 1
+    },
+    "30129": {
+        "name": "帮旗lv29",
+        "altas": "buff",
+        "des": "攻击+870   生命+8700\n防御+435   伤害减免+6%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    },
+    "30128": {
+        "name": "帮旗lv28",
+        "altas": "buff",
+        "des": "攻击+840   生命+8400\n防御+420   伤害减免+6%",
+        "show_sort": 10002,
+        "sid": "03",
+        "show_icon": 1
+    }
+}

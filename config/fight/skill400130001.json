@@ -1,0 +1,302 @@
+{
+    "20": {
+        "remark": [
+            "1150"
+        ],
+        "name": "穿刺",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage": 1150
+        },
+        "add_fight": 150
+    },
+    "11": {
+        "remark": [
+            "700"
+        ],
+        "name": "穿刺",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage": 700
+        },
+        "add_fight": 150
+    },
+    "10": {
+        "remark": [
+            "650"
+        ],
+        "name": "穿刺",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage": 650
+        },
+        "add_fight": 150
+    },
+    "13": {
+        "remark": [
+            "800"
+        ],
+        "name": "穿刺",
+        "server_force": 2550,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage": 800
+        },
+        "add_fight": 150
+    },
+    "12": {
+        "remark": [
+            "750"
+        ],
+        "name": "穿刺",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage": 750
+        },
+        "add_fight": 150
+    },
+    "15": {
+        "remark": [
+            "900"
+        ],
+        "name": "穿刺",
+        "server_force": 2850,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage": 900
+        },
+        "add_fight": 150
+    },
+    "14": {
+        "remark": [
+            "850"
+        ],
+        "name": "穿刺",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage": 850
+        },
+        "add_fight": 150
+    },
+    "17": {
+        "remark": [
+            "1000"
+        ],
+        "name": "穿刺",
+        "server_force": 3150,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage": 1000
+        },
+        "add_fight": 150
+    },
+    "16": {
+        "remark": [
+            "950"
+        ],
+        "name": "穿刺",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216130901,
+            4
+        ],
+        "detail": {
+            "damage": 950
+        },
+        "add_fight": 150
+    },
+    "19": {
+        "remark": [
+            "1100"
+        ],
+        "name": "穿刺",
+        "server_force": 3450,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage": 1100
+        },
+        "add_fight": 150
+    },
+    "18": {
+        "remark": [
+            "1050"
+        ],
+        "name": "穿刺",
+        "server_force": 3300,
+        "upgrade_goods": [
+            216130901,
+            5
+        ],
+        "detail": {
+            "damage": 1050
+        },
+        "add_fight": 150
+    },
+    "1": {
+        "remark": [
+            "200"
+        ],
+        "name": "穿刺",
+        "server_force": 750,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage": 20000
+        },
+        "add_fight": 750
+    },
+    "3": {
+        "remark": [
+            "300"
+        ],
+        "name": "穿刺",
+        "server_force": 1050,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage": 300
+        },
+        "add_fight": 150
+    },
+    "2": {
+        "remark": [
+            "250"
+        ],
+        "name": "穿刺",
+        "server_force": 900,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage": 250
+        },
+        "add_fight": 150
+    },
+    "5": {
+        "remark": [
+            "400"
+        ],
+        "name": "穿刺",
+        "server_force": 1350,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage": 400
+        },
+        "add_fight": 150
+    },
+    "4": {
+        "remark": [
+            "350"
+        ],
+        "name": "穿刺",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130901,
+            1
+        ],
+        "detail": {
+            "damage": 350
+        },
+        "add_fight": 150
+    },
+    "7": {
+        "remark": [
+            "500"
+        ],
+        "name": "穿刺",
+        "server_force": 1650,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage": 500
+        },
+        "add_fight": 150
+    },
+    "6": {
+        "remark": [
+            "450"
+        ],
+        "name": "穿刺",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage": 450
+        },
+        "add_fight": 150
+    },
+    "9": {
+        "remark": [
+            "600"
+        ],
+        "name": "穿刺",
+        "server_force": 1950,
+        "upgrade_goods": [
+            216130901,
+            3
+        ],
+        "detail": {
+            "damage": 600
+        },
+        "add_fight": 150
+    },
+    "8": {
+        "remark": [
+            "550"
+        ],
+        "name": "穿刺",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216130901,
+            2
+        ],
+        "detail": {
+            "damage": 550
+        },
+        "add_fight": 150
+    }
+}

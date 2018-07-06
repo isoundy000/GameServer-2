@@ -1,0 +1,383 @@
+import "ProtoPublic.proto";
+
+message Proto10100310       // 响应申请入队
+{
+    optional int32 respone_type = 1;       // 响应类型，0表示拒绝，1表示同意
+    repeated int64 role_id = 2;       // 申请者的ID
+}
+
+message Proto80400306       // 队伍信息(主动)
+{
+    repeated ProtoTeamer teamer_set = 1;       // 队伍成员信息
+    optional int64 leader_id = 2;       // 队长ID
+    optional int32 team_state = 3;       // 队伍状态：1普通组队 2副本组队
+    optional int32 no_team = 4;       // 1：无队伍
+    optional int32 auto_invite = 5;       // 自动接受邀请 0否 1是
+    optional int32 auto_accept = 6;       // 自动接受申请 0否 1是
+}
+
+message Proto80400309       // 组队申请(主动)
+{
+    optional int32 oper_type = 1;       // 0表示邀请入队，1表示申请入队
+    optional int64 role_id = 2;       // 玩家ID
+    optional string role_name = 3;       // 玩家名称
+    optional int32 role_level = 4;       // 玩家等级
+    optional int32 fight_force = 5;       // 战力
+    optional string league_name = 6;       // 帮派
+    optional ProtoThreeObj other_info = 7;       // 
+}
+
+message Proto80400310       // 消息描述：操作结果(主动)
+{
+    optional int32 oper_type = 1;       // 操作类型(0表示邀请对方进入队伍，1表示申请加入对方组队，2副本申请加入对方队伍)
+    optional int32 oper_result = 2;       // 操作结果(0表示拒绝，1表示同意)
+    optional string oper_name = 3;       // 玩家名字
+}
+
+message Proto51400901       // 获取藏宝库物品预览信息(返回)
+{
+    repeated ProtoItem divine_items = 1;       // 可能获取的物品(如果数量为0表示已经获取)
+    repeated ProtoItem obtained_items = 2;       // 已经获得的物品
+}
+
+message Proto51400902       // 获取藏宝库面板信息(返回)
+{
+    optional int32 luck_value = 1;       // 幸运值
+    optional int32 left_times = 2;       // 再抽left_times次必出紫色以上装备
+    repeated int32 cost_one = 3;       // 抽取一次消耗
+    repeated int32 cost_ten = 4;       // 抽取10次消耗
+    optional int32 left_gold = 5;       // 剩余元宝数
+    repeated int32 cost_fifty = 6;       // 抽取50次消耗
+}
+
+message Proto11400903       // 抽1次
+{
+    optional int32 is_force_buy = 1;       // 
+}
+
+message Proto51400903       // 抽一次(返回)
+{
+    repeated ProtoItem item_list = 1;       // 操作获得的物品
+    optional int32 lack_copper = 2;       // 
+    optional int32 lack_bind_copper = 3;       // 
+    optional int32 need_gold = 4;       // 
+    optional int32 cur_lucky = 5;       // 当前幸运值
+}
+
+message Proto10400302       // 参加斗法
+{
+    optional int32 team_side = 1;       // 队伍类型，0表示红，表示蓝
+    optional int32 team_pos = 2;       // 队伍位置，从0开始
+}
+
+message Proto10400303       // 增加斗法值
+{
+    optional int32 add_hits = 1;       // 增加斗法值
+}
+
+message Proto80400331       // 斗法结果(主动)
+{
+    optional int32 left_time = 1;       // 剩余时间
+    optional int32 red_score = 2;       // 红队斗法值
+    optional int32 blue_score = 3;       // 蓝色斗法值
+}
+
+message Proto80400332       // 增加宗派经验(主动)
+{
+    optional int32 add_exp = 1;       // 增加的经验
+    optional int32 total_exp = 2;       // 总经验
+}
+
+message Proto51400701       // 获取称号面板信息（返回）
+{
+    optional int32 cur_label_id = 1;       // 当前正在使用的称号id
+    repeated int32 permant_label_list = 2;       // 永久称号列表
+    repeated ProtoLimitTimeLabel limit_time_label_list = 3;       // 限时称号列表
+    optional ProtoFightPro prop_list = 4;       // 玩家获得的总属性
+    repeated int32 unshown_list = 5;       // 不显示的称号id
+}
+
+message Proto11400702       // 选择使用称号
+{
+    optional int32 label_id = 1;       // 称号id
+}
+
+message Proto51400702       // 选择使用称号（返回）
+{
+    optional int32 label_id = 1;       // 称号id
+}
+
+message Proto81400701       // 主动通知称号变化
+{
+    optional int32 operate = 1;       // 1增加称号，2删除称号
+    optional int32 label_id = 2;       // 称号id
+    optional int32 left_time = 3;       // 如果是限时称号，则有这个字段；单位：sec
+    optional ProtoFightPro prop_list = 4;       // 玩家获得的总属性
+}
+
+message Proto11400904       // 抽10次
+{
+    optional int32 is_force_buy = 1;       // 
+}
+
+message Proto51400904       // 抽10次(返回)
+{
+    repeated ProtoItem item_list = 1;       // 占卜全部得到的物品列表
+    optional int32 lack_copper = 2;       // 
+    optional int32 lack_bind_copper = 3;       // 
+    optional int32 need_gold = 4;       // 
+    optional int32 cur_lucky = 5;       // 当前幸运值
+}
+
+message Proto81400901       // 藏宝库获奖记录更新(主动)
+{
+    repeated ProtoDivineRecord record_list = 1;       // 占卜获奖记录
+}
+
+message Proto51400908       // 获取藏宝库奖品记录(返回)
+{
+    repeated ProtoDivineRecord record_list = 1;       // 占卜获奖记录
+}
+
+message Proto11401102       // 领取成就奖励
+{
+    optional int32 ach_index = 1;       // 成就的大类
+    optional int32 achieve_id = 2;       // 成就id
+}
+
+message Proto81401101       // 主动通知新完成的成就未查看
+{
+    optional int32 achieve_id = 1;       // 成就id
+}
+
+message Proto51401101       // 获取成就面板信息（返回）
+{
+    repeated ProtoAchieveDetail achieve_list = 1;       // 成就列表信息
+    optional int32 achieve_level = 2;       // 成就等级
+    repeated ProtoPairObj point_set = 3;       // 每一类成就的成就点数
+    optional int32 progress = 4;       // 属性奖励的获得进度
+}
+
+message Proto51401102       // 领取成就奖励（返回）
+{
+    optional int32 achieve_id = 1;       // 成就id
+}
+
+message Proto11400703       // 放弃当前称号
+{
+    optional int32 label_id = 1;       // 当前勾选的称号id
+}
+
+message Proto51400703       // 放弃当前称号（返回）
+{
+    optional int32 label_id = 1;       // 当前勾选的称号id
+}
+
+message Proto11400704       // 获取单个称号信息
+{
+    optional int32 label_id = 1;       // 称号id
+}
+
+message Proto51400704       // 获取单个称号信息（返回）
+{
+    optional int32 label_id = 1;       // 称号id
+    optional int32 left_time = 2;       // 倒计时，单位：sec；如果是永久长哈，该字段则为-1
+}
+
+message Proto50400706       // 获取技能快捷键列表(返回)
+{
+    repeated int32 skill_list = 1;       // 技能列表
+}
+
+message Proto10400901       // 请求进入副本
+{
+    optional int32 script_sort = 1;       // 副本配置ID
+    optional int32 piece = 2;       // 第几篇
+    optional int32 chapter = 3;       // 第几章
+    repeated int64 replacements_set = 4;       // 化身role_id列表
+    optional int64 team_id = 5;       // 队伍ID
+    repeated int64 team_set = 6;       // 队伍成员
+    optional int32 cheer_num = 7;       // 助威人数
+    optional int32 encourage_num = 8;       // 鼓舞人数
+}
+
+message Proto50400901       // 请求进入副本(返回)
+{
+    optional int32 day_pass_time = 1;       // 当日通过次数
+}
+
+message Proto80400901       // 连斩BUFF通知
+{
+    optional int32 even_cut = 1;       // 连斩数
+    optional int32 prop_rate = 2;       // 属性加成百分比
+    optional int32 max_even_cut = 3;       // 最大连斩数
+}
+
+message Proto50400903       // 副本进度信息(返回)
+{
+    optional int32 left_sec = 1;       // 剩余时间
+    optional int32 script_sort = 2;       // 副本id
+    optional int32 total_sec = 3;       // 总时间
+    optional int32 left_relive = 4;       // 剩余复活次数
+    optional int32 total_relive = 5;       // 总的复活次数
+    optional int32 left_monster = 6;       // 当前剩余怪物数量
+    optional int32 total_monster = 7;       // 总的怪物数量
+    repeated ProtoMonster monster_rec = 8;       // 怪物记录
+    optional int32 top_evencut = 9;       // 最高连斩数
+    optional int32 script_status = 10;       // 1 暂停; 2 启动；3 准备状态
+    optional int32 killed_monster = 11;       // 当前击杀怪物数量
+    optional int32 current_wave = 12;       // 当前波数
+    optional int32 current_floor = 13;       // 当前层数
+    optional int32 protect_npc_blood = 14;       // 守护NPC当前血量(城旗)
+    optional int32 protect_npc_maxblood = 15;       // 守护NPC最大血量(城旗)
+    optional int32 piece = 16;       // 第几章，从1开始
+    optional int32 chapter = 17;       // 第几篇，从1开始
+    optional int32 used_sec = 18;       // 已使用的时间
+    repeated int32 puppet_list = 19;       // 傀儡列表（按顺序对应1，2，3）（0 未激活，1 可激活 2 已激活）
+    optional int32 rescue_sort = 20;       // 营救的怪物ID
+    optional int32 rescue_left = 21;       // 营救的剩余时间
+    optional string poem_text = 22;       // 诗句内容
+    repeated int32 poem_appear_index = 23;       // 出现的文字索引
+    optional int32 poem_size = 24;       // 诗句字数,内容由客户端随机
+    optional int32 is_first_script = 25;       // 是否首次进行该副本，1是，0不是第一次
+    optional int32 difficulty = 26;       // 当前难度（1人间、2荆棘、3血海、4鬼狱）
+    optional int32 day_pass_time = 27;       // 当日通关次数
+    optional int32 hatch_sort = 28;       // 下级孵化boss的sort
+    optional int32 hatch_cond = 29;       // 下级孵化boss的需击杀虫卵的数量（-1表示已为最搞阶段）
+    optional int32 total_wave = 30;       // 总波数
+    optional int32 begin_wave = 31;       // 开始波数
+    optional int32 get_exp = 32;       // 获得经验（经验副本）
+}
+
+message Proto80400902       // 副本怪物记录更新通知
+{
+    optional int32 left_monster = 1;       // 剩余怪物数量
+    optional int32 total_monster = 2;       // 已生成的总怪物数量
+    repeated ProtoMonster monster_rec = 3;       // 怪物记录
+    optional int32 killed_monster = 4;       // 击杀怪物数量
+    optional int32 hatch_sort = 5;       // 下级孵化boss的sort
+    optional int32 hatch_cond = 6;       // 下级孵化boss的需击杀虫卵的数量（-1表示已为最高阶段）
+}
+
+message Proto80400903       // 复活信息更新通知
+{
+    optional int32 left_relive = 1;       // 剩余复活次数
+    optional int32 total_relive = 2;       // 总的复活次数
+}
+
+message Proto10400111       // 传送到指定场景
+{
+    optional int32 scene_id = 1;       // 目标场景ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+    optional int32 type = 4;       // 类型
+    optional int32 client_type = 5;       // 客户端类型
+}
+
+message Proto50400110       // 切换场景请求(返回)
+{
+    optional int32 scene_id = 1;       // 目标场景ID
+    optional int32 pixel_x = 2;       // X坐标，像素
+    optional int32 pixel_y = 3;       // Y坐标，像素
+    optional int32 is_first_enter = 4;       // 是否第一次进入
+    optional int32 space_id = 5;       // 空间ID
+    optional int32 type = 6;       // 0表示普通，1表示小飞鞋
+    optional int32 client_type = 7;       // 客户端类型
+}
+
+message Proto51400600       // 查看装备强化界面（返回）
+{
+    optional int32 refine_level = 1;       // 强化等级
+    optional int32 refine_degree = 2;       // 当前强化数值
+    optional ProtoMoney cost_money = 3;       // 消耗的金钱
+    repeated ProtoPairObj cost_item = 4;       // 消耗材料，左值：id，右值：数量
+    optional ProtoMoney atual_cost_money = 5;       // 兑换后消耗的金钱
+}
+
+message Proto81401201       // 主动通知活动状态
+{
+    repeated ProtoActivityInfo activity_info = 1;       // 活动信息
+}
+
+message Proto10001       // 装备炫耀
+{
+    optional int32 item_id = 1;       // id
+    optional int32 refine_level = 2;       // 当前强化等级
+    optional int32 is_brighten = 3;       // 是否开光
+    optional int32 bind_status = 4;       // 绑定状态
+    optional int32 luck_value = 5;       // 装备的幸运值
+    repeated ProtoPairObj jewel_lists = 6;       // 装备镶嵌的宝石id列表(宝石id，绑定状态)
+    optional ProtoEquipPolishStruct extras_attr = 7;       // 装备的极品属性
+    optional ProtoEquipPolish base_polish = 8;       // 装备的基础洗练属性
+    optional ProtoPairObj special_jewel = 9;       // 废弃不用，使用special_jewels字段
+    repeated ProtoPairObj special_jewels = 10;       // 装备镶嵌的特殊宝石(宝石id，绑定状态)
+}
+
+message Proto10002       // 道具炫耀
+{
+    optional int32 item_id = 1;       // 道具id
+    optional int32 bind_status = 2;       // 绑定状态
+}
+
+message Proto10003       // 时装炫耀
+{
+    optional int32 item_id = 1;       // 时装id
+    optional int32 is_limit_time = 2;       // 是否是限时时装，1是，0否
+    optional int32 left_time = 3;       // 剩余时间，单位：sec
+    optional int32 bind_status = 4;       // 绑定状态
+}
+
+message Proto10004       // 礼包炫耀
+{
+    optional int32 item_id = 1;       // 自身的道具id
+    repeated int32 sub_item_list = 2;       // 礼包里面包含的子道具id
+    optional int32 bind_status = 3;       // 绑定状态
+}
+
+message Proto10005       // 宠物炫耀
+{
+    optional int64 pet_id = 1;       // 宠物id
+    optional string pet_name = 2;       // 宠物的名字
+    optional int32 ablity = 3;       // 宠物资质
+    optional int32 pet_sort = 4;       // 宠物模型id
+    optional int32 bind_status = 5;       // 绑定状态
+}
+
+message Proto80400904       // 波数更新通知
+{
+    optional int32 current_wave = 1;       // 当前波数
+    optional int32 finish_wave = 2;       // 已完成波数
+    optional int32 total_wave = 3;       // 总波数
+}
+
+message Proto10400501       // 宠物移动请求
+{
+    repeated ProtoCoord step_list = 1;       // 移动步数
+    optional int32 toward = 2;       // 方向
+}
+
+message Proto50400109       // 玩家移动请求(返回)
+{
+    optional int32 scene_id = 1;       // 场景ID
+    optional int32 pixel_x = 2;       // X坐标
+    optional int32 pixel_y = 3;       // Y坐标
+}
+
+message Proto10200007       // 客户端请求获取炫耀记录的详细内容（炫耀）
+{
+    optional int64 flaunt_id = 1;       // 炫耀的唯一id
+}
+
+message Proto50200007       // 客户端请求获取炫耀记录的详细内容（炫耀）（返回）
+{
+    optional int64 flaunt_id = 1;       // 炫耀的唯一id
+    optional int32 type = 2;       // 炫耀的类型，10001装备
+    optional bytes msg = 3;       // 
+}
+
+message Proto10400002       // 玩家拾取物品
+{
+    optional int64 drop_id = 1;       // 掉落的ID
+}
+
+

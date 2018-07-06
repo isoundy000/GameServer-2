@@ -1,0 +1,15 @@
+{
+    "scene_id" : 10200,
+    "name" : "京都",
+    "layout" : [ 
+    {
+        "born_type" : "center",
+        "monster_sort" : 500100005,
+        "monster_tree" : "bev1001.json",
+        "born_count" : 1,
+        "born_range" : 1,
+        "center_coordxy" : [6079,4547],
+		"flag_set" : ["no_move"],
+        "born_times" : "unlimited"
+    }]
+}

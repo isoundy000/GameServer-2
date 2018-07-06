@@ -1,0 +1,378 @@
+import "ProtoPublic.proto";
+import "ProtoInnerPublic.proto";
+
+message Proto31400044       // 轮盘活动消耗金钱
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional int32 amount = 2;       // 次数
+    optional ProtoMoney money = 3;       // 消耗金钱
+    optional ProtoSerialObj obj = 4;       // 流水
+    optional int32 type = 5;       // 消费类型
+    optional int32 recogn = 6;       // 消息名
+    optional int32 time_point = 7;       // 时间点
+    optional int32 slot_id = 8;       // 格子id
+    optional int32 is_all = 9;       // 是否全买
+    optional int32 column = 10;       // 列数
+    optional int32 num = 11;       // 第几个
+    repeated int32 fish_index = 12;       // 消耗的鱼的索引
+}
+
+message Proto31400023       // 支线任务数据更新
+{
+    optional int32 id = 1;       // 支线任务类型ID
+    optional int32 num = 2;       // 更新数据
+    optional ProtoThreeObj other_info = 3;       // 
+}
+
+message Proto30400026       // 支线任务数据同步
+{
+    optional int32 id = 1;       // 支线任务类型ID
+    optional int32 num = 2;       // 更新数据
+    optional ProtoThreeObj other_info = 3;       // 
+}
+
+message Proto31400045       // 运营活动重置消耗金钱
+{
+    optional int32 activity_id = 1;       // 活动id
+    optional ProtoMoney money = 2;       // 消耗金钱
+    optional ProtoSerialObj obj = 3;       // 流水
+}
+
+message Proto30103102       // 活动流水更新
+{
+    optional int32 type = 1;       // 
+    optional int64 id = 2;       // 
+    optional int64 value = 3;       // 
+    optional int32 sub_1 = 4;       // 
+    optional int32 sub_2 = 5;       // 
+    optional ProtoThreeObj other_info = 6;       // 
+}
+
+message Proto30400454       // 更新帮派boss旗帜等级
+{
+    optional int32 flag_lvl = 1;       // 旗帜等级
+    optional int64 league_index = 2;       // 帮派id
+}
+
+message Proto30100409       // 护送当日元宝消耗
+{
+    optional int64 gold = 1;       // 元宝
+    optional ProtoThreeObj other_info = 2;       // 
+}
+
+message Proto30100410       // 同步杀怪经验
+{
+    optional int32 exp = 1;       // 
+    optional ProtoThreeObj other_info = 2;       // 
+}
+
+message Proto30600104       // 流水
+{
+    optional int32 flag = 1;       // 标识
+    optional string name = 2;       // 表名
+    optional bytes content = 3;       // 日志内容
+}
+
+message Proto30400040       // 节日活动产生BOSS
+{
+    optional int32 boss_id = 1;       // ID
+    optional ProtoCoord coord = 2;       // 坐标
+    optional int32 scene_id = 3;       // 场景
+}
+
+message Proto30100606       // 同步消费元宝
+{
+    optional int32 today_gold = 1;       // 今天消费元宝
+    optional int32 today_bind_gold = 2;       // 今天消费绑元
+    optional int32 consum_gold = 3;       // 当次消费元宝
+    optional int32 consum_bind_gold = 4;       // 当次消费绑元
+}
+
+message Proto30400041       // 节日活动信息
+{
+    optional int32 icon_type = 1;       // 类型
+    optional int32 drop_act = 2;       // 掉落活动
+    optional int64 start_tick = 3;       // 开始时间
+    optional int64 end_tick = 4;       // 结束时间
+    optional int64 update_tick = 5;       // 更新时间
+}
+
+message Proto31400146       // 场景切换：同步时装信息
+{
+    optional int32 level = 1;       // 等级
+    optional int32 exp = 2;       // 经验
+    optional int32 select_id = 3;       // 选择的时装id/外观id
+    optional int32 select_color_id = 4;       // 选择的颜色
+    optional int32 open = 5;       // 开启状态
+    repeated int32 send_set = 6;       // 已经补发的时装id集合
+    repeated ProtoFashionDetail fashion_info = 7;       // 单个时装信息
+}
+
+message Proto30400410       // 时装同步
+{
+    optional int32 level = 1;       // 等级
+    optional int32 exp = 2;       // 经验
+    optional int32 open = 3;       // 是否开启
+    optional int32 notify_flag = 4;       // 通知：0:不通知，1:通知外形
+    optional int32 select_id = 5;       // 选择的时装id/外观id
+    optional int32 sel_color_id = 6;       // 选择的染色id
+}
+
+message Proto30402401       // 玩家增加魅力值
+{
+    optional int32 item_id = 1;       // 物品id
+    optional int32 item_num = 2;       // 
+    optional int64 receiver_id = 3;       // 
+    optional string receiver_name = 4;       // 
+}
+
+message Proto30100243       // 同步帮派姓名的修改
+{
+    optional int64 league_index = 1;       // 帮派id
+}
+
+message Proto30400455       // 修改帮派名称
+{
+    optional int32 index = 1;       // 索引
+    optional string name = 2;       // 名字
+}
+
+message Proto31400048       // 结婚升级消耗物品
+{
+    repeated ProtoItem item_list = 1;       // 物品
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto30400914       // 夫妻副本赠送离线处理
+{
+    optional int64 role_id = 1;       // 角色id
+}
+
+message Proto30400915       // 登陆获取夫妻副本赠送情况
+{
+    optional int32 prev_scene_id = 1;       // 前一个场景ID
+}
+
+message Proto30400916       // 返回夫妻副本赠送状态
+{
+    optional int32 state = 1;       // 是否有赠送次数
+}
+
+message Proto31400049       // 购买结婚宝匣
+{
+    optional int32 type = 1;       // 类型
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto31400050       // 角色变性
+{
+    optional int32 index = 1;       // 索引
+    optional int32 operate = 2;       // 操作
+}
+
+message Proto30400507       // 添加结婚排行榜信息
+{
+    optional ProtoWeddingRank rank_info = 1;       // 婚姻信息
+}
+
+message Proto30102101       // 逻辑服通知获得buff
+{
+    optional int32 buff_id = 1;       // buff ID
+    optional int32 buff_time = 2;       // buff 时间
+    optional int32 from = 3;       // 获得途径
+    optional int32 status = 4;       // 0 remove 1 get
+    optional ProtoThreeObj other_info = 5;       // 其他信息
+}
+
+message Proto30102102       // 切换地图通知逻辑进程刷新属性
+{
+    optional int32 type = 1;       // 刷新类型
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto30400508       // 获取婚姻排行榜数据
+{
+    optional int32 label_get = 1;       // 称号领取情况
+    optional int32 reward_get = 2;       // 排名领取情况
+    optional int32 left_tick = 3;       // 刷新时间
+    optional int32 label_reward = 4;       // 称号奖励
+    optional int32 rank_reward = 5;       // 排名奖励
+    optional int32 page = 6;       // 页数
+    optional int64 role_id = 7;       // 角色id
+}
+
+message Proto30400509       // 婚姻排行榜数据
+{
+    optional int32 rank = 1;       // 排名
+    optional int64 player1 = 2;       // 玩家1
+    optional int64 player2 = 3;       // 玩家2
+}
+
+message Proto30400510       // 向跨服结婚场景获取玩家排名情况
+{
+    optional int32 type = 1;       // 1 领取称号奖励 2 领取排名奖励
+    optional int64 role_id = 2;       // 角色id
+    optional int32 rank = 3;       // 排名
+}
+
+message Proto31403102       // 更新婚姻信息
+{
+    repeated ProtoWeddingDetail wed_info = 1;       // 婚姻信息
+    optional int64 wedding_id = 2;       // 结婚id
+    optional ProtoThreeObj other_info = 3;       // 其他信息
+}
+
+message Proto30400117       // 场景切换：同步帮派个人信息
+{
+    optional int32 flag_lvl = 1;       // 旗帜等级
+    optional int64 leader_id = 2;       // 帮主id
+    repeated ProtoPairObj skill_map = 3;       // 技能
+}
+
+message Proto30400803       // 向地图服更新帮派个人信息
+{
+    optional int32 flag_lvl = 1;       // 旗帜等级
+    repeated ProtoPairObj skill_map = 2;       // 技能
+}
+
+message Proto31400051       // 组队共享刷怪
+{
+    repeated ProtoMonster monster_set = 1;       // 怪物信息
+    optional ProtoThreeObj other_info = 2;       // 其他信息
+}
+
+message Proto30100231       // 帮派争霸获胜帮派
+{
+    optional int64 league_id = 1;       // 帮派id
+}
+
+message Proto30100951       // 返回帮派副本波数信息
+{
+    optional int32 wave = 1;       // 波数
+}
+
+message Proto30400511       // 更新每日冲榜数据
+{
+    optional int32 type = 1;       // 1：充值榜 2：消费榜
+    optional ProtoTeamer self_info = 2;       // 自己信息
+    optional ProtoServer server_info = 3;       // 服务器信息
+    optional int32 amount = 4;       // 充值/消费数量
+    optional int32 activity_id = 5;       // 活动ID
+}
+
+message Proto30400512       // 获取每日冲榜数据
+{
+    optional int32 type = 1;       // 1：充值榜 2：消费榜
+    optional int32 page = 2;       // 页数
+}
+
+message Proto30400513       // 每日冲榜发送邮件奖励
+{
+    repeated ProtoThreeObj obj = 1;       // role_id+排名
+    optional int32 type = 2;       // 1：充值榜 2：消费榜 3: 后台配置充值
+}
+
+message Proto30400514       // 每日冲榜测试发送邮件
+{
+    optional int32 type = 1;       // 
+}
+
+message Proto30400027       // 跨服心跳包
+{
+    optional int32 index = 1;       // 配置索引
+    optional int32 scene = 2;       // 场景ID
+}
+
+message Proto30400917       // 更新全民福利双倍副本
+{
+    repeated int32 value_set = 1;       // 双倍列表
+}
+
+message Proto30400918       // 扫荡获取全民福利双倍副本
+{
+    optional int32 prev_scene_id = 1;       // 前一个场景ID
+    optional int32 type = 2;       // 类型：0全部扫荡，1指定副本
+    optional int32 script_sort = 3;       // 扫荡副本ID
+    optional int32 scrit_type = 4;       // 副本类型
+}
+
+message Proto31400052       // 璇玑宝匣获取双倍
+{
+    optional int32 type = 1;       // 是否使用礼券 0是 1 否
+    optional int32 mult = 2;       // 奖励倍数
+    optional int32 is_reset = 3;       // 是否重置
+}
+
+message Proto30400919       // 副本扫荡获取副本信息
+{
+    optional int32 type = 1;       // 类型：0全部扫荡，1指定副本
+    optional int32 script_sort = 2;       // 扫荡副本ID
+    optional int32 scrit_type = 3;       // 副本类型
+    optional int32 mult = 4;       // 奖励倍数
+}
+
+message Proto30101111       // 充值返元宝活动同步元宝
+{
+    optional int32 cur_gold = 1;       // 此次充值金额
+    optional int32 recharge_type = 2;       // 类型
+}
+
+message Proto31404011       // 同步请求
+{
+    optional bool isApply = 1;       // 是否申请
+    optional int64 surplustime = 2;       // 离线挂机累计时间
+    optional ProtoPairMap offline_reward = 3;       // 离线奖励
+    optional int32 hook_exp = 4;       // 离线经验
+    optional int64 start_time = 5;       // 开始时间
+    optional int64 end_time = 6;       // 结束时间
+    optional int64 hook_time = 7;       // 挂机时间
+    optional ProtoPairMap today_offline_reward = 8;       // 今天所有离线奖励
+    optional int64 vip_plus_time = 9;       // vip加成时间
+    optional int64 one_point_five_plue_time = 10;       // 1.5倍加成时间
+    optional int64 two_plus_time = 11;       // 2倍加成时间
+}
+
+message Proto31400053       // 同步节日活动掉落
+{
+    optional int32 drop_act = 1;       // 掉落活动
+}
+
+message Proto31400147       // 场景切换：同步变身信息
+{
+    optional int32 level = 1;       // 等级
+    optional int32 exp = 2;       // 经验
+    optional int32 open = 3;       // 是否开启
+    optional int32 stage = 4;       // 等阶
+    optional int64 transfer_tick = 5;       // 变身开始时间
+    optional int32 last = 6;       // 变身持续时间
+    optional int32 active_id = 7;       // 正在使用的变身id
+    optional int32 open_reward = 8;       // 是否可领开启奖励
+    optional int32 gold_times = 9;       // 元宝聚精次数
+    optional int64 refresh_tick = 10;       // 重置时间
+    optional int32 reduce_cool = 11;       // 变身cd减少
+    optional int32 add_time = 12;       // 变身时间增加(百分比)
+    repeated ProtoTransferInfo transfer_info = 13;       // 单个变身信息
+}
+
+message Proto31400054       // 后台活动奖励发放背包
+{
+    optional int32 act_id = 1;       // 活动ID
+    repeated ProtoBackActRewardIndex reward_index_list = 2;       // 奖励项列表
+    repeated ProtoItem bind_item_list = 3;       // 绑定道具列表
+    repeated ProtoItem unbind_item_list = 4;       // 非绑道具列表
+    optional int32 op_ret = 5;       // 操作结果
+}
+
+message Proto30400411       // 变身同步
+{
+    optional int64 transfer_tick = 1;       // 变身开始时间
+    optional int32 last = 2;       // 变身持续时间
+    optional int32 active_id = 3;       // 正在使用的变身id
+    optional int32 reduce_cool = 4;       // 变身cd减少
+    optional int32 add_time = 5;       // 变身时间增加(百分比)
+    optional ProtoTransferInfo transfer_info = 6;       // 单个变身信息
+    optional int32 type = 7;       // 类型
+    optional int32 notify = 8;       // 通知：0:不通知，1:通知外形
+}
+
+

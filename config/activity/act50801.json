@@ -1,0 +1,364 @@
+{
+    "11": {
+        "slot": 11,
+        "group_weight": 869,
+        "person_record": 1,
+        "item_name": "传说秘卷礼包x1",
+        "item": [
+            215050080,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 5
+    },
+    "10": {
+        "slot": 10,
+        "group_weight": 99,
+        "person_record": 1,
+        "item_name": "传说秘卷礼包x7",
+        "is_precious": 1,
+        "item": [
+            215050080,
+            7,
+            1
+        ],
+        "server_record": 1,
+        "day": 1,
+        "item_show_weight": 62
+    },
+    "17": {
+        "slot": 17,
+        "group_weight": 800,
+        "person_record": 1,
+        "item_name": "3级攻击宝石x1",
+        "server_record": 1,
+        "item": [
+            211020003,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 13
+    },
+    "15": {
+        "slot": 15,
+        "group_weight": 62,
+        "person_record": 1,
+        "item_name": "古宝宝箱x7",
+        "server_record": 1,
+        "item": [
+            215050070,
+            7,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 241
+    },
+    "14": {
+        "slot": 14,
+        "group_weight": 98,
+        "person_record": 1,
+        "item_name": "古宝宝箱x5",
+        "server_record": 1,
+        "item": [
+            215050070,
+            5,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 61
+    },
+    "24": {
+        "slot": 24,
+        "group_weight": 503,
+        "person_record": 1,
+        "item_name": "精炼石礼包x3",
+        "item": [
+            215050075,
+            3,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 15
+    },
+    "25": {
+        "slot": 25,
+        "group_weight": 405,
+        "person_record": 1,
+        "item_name": "精炼石礼包x5",
+        "server_record": 1,
+        "item": [
+            215050075,
+            5,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 20
+    },
+    "13": {
+        "slot": 13,
+        "group_weight": 198,
+        "person_record": 1,
+        "item_name": "炼魂珠x1",
+        "item": [
+            216310131,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 26
+    },
+    "12": {
+        "slot": 12,
+        "group_weight": 297,
+        "person_record": 1,
+        "item_name": "古宝宝箱x1",
+        "item": [
+            215050070,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 11
+    },
+    "20": {
+        "slot": 20,
+        "group_weight": 601,
+        "person_record": 1,
+        "item_name": "染色水晶x4",
+        "item": [
+            216310061,
+            4,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 12
+    },
+    "21": {
+        "slot": 21,
+        "group_weight": 499,
+        "person_record": 1,
+        "item_name": "染色水晶x6",
+        "item": [
+            216310061,
+            6,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 16
+    },
+    "22": {
+        "slot": 22,
+        "group_weight": 299,
+        "person_record": 1,
+        "item_name": "染色水晶x7",
+        "item": [
+            216310061,
+            7,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 25
+    },
+    "23": {
+        "slot": 23,
+        "group_weight": 660,
+        "person_record": 1,
+        "item_name": "精炼石礼包x2",
+        "item": [
+            215050075,
+            2,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 10
+    },
+    "19": {
+        "slot": 19,
+        "group_weight": 602,
+        "person_record": 1,
+        "item_name": "2倍经验符x1",
+        "item": [
+            212200002,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 9
+    },
+    "18": {
+        "slot": 18,
+        "group_weight": 599,
+        "person_record": 1,
+        "item_name": "4级攻击宝石x1",
+        "server_record": 1,
+        "item": [
+            211020004,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 29
+    },
+    "16": {
+        "slot": 16,
+        "group_weight": 1500,
+        "person_record": 1,
+        "item_name": "2级攻击宝石*x1",
+        "item": [
+            211020002,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 4
+    },
+    "1": {
+        "slot": 1,
+        "group_weight": 39,
+        "server_record": 1,
+        "person_record": 1,
+        "item_max_times": 28,
+        "item_name": "传说兑换券x1",
+        "item_min_times": 18,
+        "is_precious": 1,
+        "is_cast": 1,
+        "item": [
+            216310102,
+            1,
+            1
+        ],
+        "item_show_weight": 1,
+        "three_same_times": 90,
+        "is_shout": 1,
+        "day": 1,
+        "two_same_times": 55
+    },
+    "3": {
+        "slot": 3,
+        "group_weight": 21,
+        "server_record": 1,
+        "person_record": 1,
+        "item_max_times": 298,
+        "item_name": "6级攻击宝石x1",
+        "item_min_times": 109,
+        "is_precious": 1,
+        "is_cast": 1,
+        "item": [
+            211020006,
+            1,
+            1
+        ],
+        "item_show_weight": 3,
+        "three_same_times": 930,
+        "is_shout": 1,
+        "day": 1,
+        "two_same_times": 560
+    },
+    "2": {
+        "slot": 2,
+        "group_weight": 80,
+        "server_record": 1,
+        "person_record": 1,
+        "item_max_times": 76,
+        "item_name": "5级攻击宝石x1",
+        "item_min_times": 35,
+        "is_precious": 1,
+        "is_cast": 1,
+        "item": [
+            211020005,
+            1,
+            1
+        ],
+        "item_show_weight": 2,
+        "three_same_times": 230,
+        "is_shout": 1,
+        "day": 1,
+        "two_same_times": 140
+    },
+    "5": {
+        "slot": 5,
+        "group_weight": 149,
+        "person_record": 1,
+        "item_name": "进阶丹礼包x5",
+        "server_record": 1,
+        "item": [
+            215050030,
+            5,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 30
+    },
+    "4": {
+        "slot": 4,
+        "group_weight": 249,
+        "person_record": 1,
+        "item_name": "进阶丹礼包x3",
+        "item": [
+            215050030,
+            3,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 7
+    },
+    "7": {
+        "slot": 7,
+        "group_weight": 870,
+        "person_record": 1,
+        "item_name": "进阶丹礼包x1",
+        "item": [
+            215050030,
+            1,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 6
+    },
+    "6": {
+        "slot": 6,
+        "group_weight": 100,
+        "person_record": 1,
+        "item_name": "进阶丹礼包x7",
+        "server_record": 1,
+        "item": [
+            215050030,
+            7,
+            1
+        ],
+        "day": 1,
+        "item_show_weight": 60
+    },
+    "9": {
+        "slot": 9,
+        "group_weight": 150,
+        "person_record": 1,
+        "item_name": "传说秘卷礼包x5",
+        "is_precious": 1,
+        "item": [
+            215050080,
+            5,
+            1
+        ],
+        "server_record": 1,
+        "day": 1,
+        "item_show_weight": 23
+    },
+    "8": {
+        "slot": 8,
+        "group_weight": 251,
+        "person_record": 1,
+        "item_name": "传说秘卷礼包x3",
+        "is_precious": 1,
+        "item": [
+            215050080,
+            3,
+            1
+        ],
+        "server_record": 1,
+        "day": 1,
+        "item_show_weight": 8
+    }
+}

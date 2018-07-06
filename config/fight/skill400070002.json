@@ -1,0 +1,322 @@
+{
+    "20": {
+        "remark": [
+            "11.5%"
+        ],
+        "name": "治愈",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 1150
+        },
+        "add_fight": 100
+    },
+    "11": {
+        "remark": [
+            "7%"
+        ],
+        "name": "治愈",
+        "server_force": 1125,
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 700
+        },
+        "add_fight": 285
+    },
+    "10": {
+        "remark": [
+            "6.5%"
+        ],
+        "name": "治愈",
+        "server_force": 840,
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 650
+        },
+        "add_fight": 60
+    },
+    "13": {
+        "remark": [
+            "8%"
+        ],
+        "name": "治愈",
+        "server_force": 1275,
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 800
+        },
+        "add_fight": 75
+    },
+    "12": {
+        "remark": [
+            "7.5%"
+        ],
+        "name": "治愈",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 750
+        },
+        "add_fight": 75
+    },
+    "15": {
+        "remark": [
+            "9%"
+        ],
+        "name": "治愈",
+        "server_force": 1425,
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 900
+        },
+        "add_fight": 75
+    },
+    "14": {
+        "remark": [
+            "8.5%"
+        ],
+        "name": "治愈",
+        "server_force": 1350,
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 850
+        },
+        "add_fight": 75
+    },
+    "17": {
+        "remark": [
+            "10%"
+        ],
+        "name": "治愈",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 1000
+        },
+        "add_fight": 100
+    },
+    "16": {
+        "remark": [
+            "9.5%"
+        ],
+        "name": "治愈",
+        "server_force": 2000,
+        "upgrade_goods": [
+            216130401,
+            4
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 950
+        },
+        "add_fight": 575
+    },
+    "19": {
+        "remark": [
+            "11%"
+        ],
+        "name": "治愈",
+        "server_force": 2300,
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 1100
+        },
+        "add_fight": 100
+    },
+    "18": {
+        "remark": [
+            "10.5%"
+        ],
+        "name": "治愈",
+        "server_force": 2200,
+        "upgrade_goods": [
+            216130401,
+            5
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 1050
+        },
+        "add_fight": 100
+    },
+    "1": {
+        "remark": [
+            "2%"
+        ],
+        "name": "治愈",
+        "server_force": 250,
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 200
+        },
+        "add_fight": 250
+    },
+    "3": {
+        "remark": [
+            "3%"
+        ],
+        "name": "治愈",
+        "server_force": 350,
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 300
+        },
+        "add_fight": 50
+    },
+    "2": {
+        "remark": [
+            "2.5%"
+        ],
+        "name": "治愈",
+        "server_force": 300,
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 250
+        },
+        "add_fight": 50
+    },
+    "5": {
+        "remark": [
+            "4%"
+        ],
+        "name": "治愈",
+        "server_force": 450,
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 400
+        },
+        "add_fight": 50
+    },
+    "4": {
+        "remark": [
+            "3.5%"
+        ],
+        "name": "治愈",
+        "server_force": 400,
+        "upgrade_goods": [
+            216130401,
+            1
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 350
+        },
+        "add_fight": 50
+    },
+    "7": {
+        "remark": [
+            "5%"
+        ],
+        "name": "治愈",
+        "server_force": 660,
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 500
+        },
+        "add_fight": 60
+    },
+    "6": {
+        "remark": [
+            "4.5%"
+        ],
+        "name": "治愈",
+        "server_force": 600,
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 450
+        },
+        "add_fight": 150
+    },
+    "9": {
+        "remark": [
+            "6%"
+        ],
+        "name": "治愈",
+        "server_force": 780,
+        "upgrade_goods": [
+            216130401,
+            3
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 600
+        },
+        "add_fight": 60
+    },
+    "8": {
+        "remark": [
+            "5.5%"
+        ],
+        "name": "治愈",
+        "server_force": 720,
+        "upgrade_goods": [
+            216130401,
+            2
+        ],
+        "detail": {
+            "interval": 30,
+            "percent": 550
+        },
+        "add_fight": 60
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "server_list" : [{
+        "service" : "log",
+        "name" : "日志",
+        "scene" : [301],
+        "machine" : "machine-alpha",
+        "inner_port" : 8802,
+        "mysql_on" : 1
+    },{
+        "service" : "chat",
+        "name" : "聊天",
+        "scene" : [201],
+        "connect_scene" : [301],
+        "log" : "1111110",
+        "machine" : "machine-alpha",
+        "outer_port" : 8501,
+        "inner_port" : 8803
+    },{
+        "service" : "map",
+        "name" : "悬空岛+凌烟阁+塞北雪原+登天格+晨曦森林",
+        "scene" : [10300,10600,10800,11100,11400],
+        "connect_scene" : [201,301],
+        "log" : "1111110",
+        "chat_scene" : 201,
+        "machine" : "machine-alpha",
+        "inner_port" : 8900,
+        "send_thr" : 1
+    },{
+        "service" : "map",
+        "name" : "京都长安+牡丹亭+世外桃源+须臾洞天+幽冥仙府",
+        "scene" : [10200,10500,10900,11000,11300],
+        "connect_scene" : [201,301],
+        "log" : "1111110",
+        "chat_scene" : 201,
+        "machine" : "machine-alpha",
+        "inner_port" : 8901,
+        "send_thr" : 1
+    },{
+        "service" : "map",
+        "name" : "畅春园+丞相府+东岳神坛+凌云殿+美人护送",
+        "scene" : [10100,10400,10700,11200,15000],
+        "connect_scene" : [201,301],
+        "log" : "1111110",
+        "chat_scene" : 201,
+        "machine" : "machine-alpha",
+        "inner_port" : 8902,
+        "send_thr" : 1
+    },{
+        "service" : "map",
+        "name" : "新手副本+进阶副本+经验副本+剧情副本+vip副本+问鼎江湖+罗摩副本",
+        "scene" : [20100,20299,20300,
+					20101,20102,20103,20104,20105,20106,20107,20108,20109,20110,
+					20201,20202,20203,20204,20205,20206,20207,20208,20209,20210,
+					20301,20302,20303,20304,20305,20306,20307,20308,
+					20401,20403,20406,20409,20412,
+					20501,
+					20601,20602,20603,20604,20605,20606,20607,20608,
+					20701,
+					20801,20802,20803,20804,20805,
+					20901],
+        "connect_scene" : [201,301],
+        "log" : "1111110",
+        "chat_scene" : 201,
+        "machine" : "machine-alpha",
+        "inner_port" : 8911,
+        "send_thr" : 1
+    },{
+        "service" : "map",
+        "name" : "帮派领地(boss)+帮派争霸+城池战+怪物攻城+世界boss+江湖榜+答题活动+温泉活动+杀戮战场",
+        "scene" : [40201,40202,40204,40301,40101,40501,50301,
+					50101,50102,50103,50104,50105,50106,50107,50108,50109,
+					50110,50111,50112,50113,50114,50115,50116,50117,50118,
+					50201],
+		"connect_scene" : [201,301],
+        "log" : "1111110",
+        "chat_scene" : 201,
+        "machine" : "machine-alpha",
+        "inner_port" : 8931,
+        "send_thr" : 2
+	},{
+        "service" : "map",
+        "name" : "跨服副本+跨服竞技+跨服世界boss+争霸天下+[跨]华山论剑+巅峰对决",
+        "scene" : [70101,70102,70103,70104,70105,70106,70107,70108,70201,70202,
+					70300,70301,70302,70303,70304,70305,70401,70402,70701,70801,70802],
+        "connect_scene" : [201,301],
+		"travel": 1,
+        "log" : "1111110",
+        "chat_scene" : 201,
+        "machine" : "machine-travel",
+        "inner_port" : 8933,
+        "send_thr" : 1
+    },{
+		"service" : "map",
+        "name" : "渠道跨服场景(结婚排行榜+每日冲榜)",
+        "scene" : [70501,70601],
+        "connect_scene" : [201,301],
+        "log" : "1111110",
+		"travel": 2,
+        "chat_scene" : 201,
+        "machine" : "machine-travel-b",
+        "inner_port" : 8934,
+        "send_thr" : 1
+    },{
+        "service" : "logic",
+        "name" : "逻辑",
+        "scene" : [101],
+        "connect_scene" : [201,301],
+        "log" : "1111110",
+        "machine" : "machine-alpha",
+        "limit_accept" : 3000,
+        "inner_port" : 8804,
+        "php_port" : 8801
+    },{
+        "service" : "gate",
+        "name" : "网关1",
+        "scene" : [601],
+        "connect_scene" : [101,201,301,"scene"],
+        "log" : "1111110",
+        "machine" : "machine-alpha",
+        "outer_port" : 8511,
+        "limit_accept" : 3000,
+        "inner_port" : 8805,
+		"broad_thr": 3,
+		"send_thr" : 3
+    },{
+        "service" : "auth",
+        "name" : "验证",
+        "scene" : [701],
+        "connect_scene" : [601,301],
+        "log" : "1111110",
+        "machine" : "machine-alpha",
+        "outer_port" : 8500,
+        "limit_accept" : 3000
+    }]
+}

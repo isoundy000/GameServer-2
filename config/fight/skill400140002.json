@@ -1,0 +1,442 @@
+{
+    "20": {
+        "remark": [
+            "960"
+        ],
+        "name": "刚毅",
+        "server_force": 3600,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 960,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "11": {
+        "remark": [
+            "600"
+        ],
+        "name": "刚毅",
+        "server_force": 2250,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 600,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "10": {
+        "remark": [
+            "560"
+        ],
+        "name": "刚毅",
+        "server_force": 2100,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 560,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "13": {
+        "remark": [
+            "680"
+        ],
+        "name": "刚毅",
+        "server_force": 2550,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 680,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "12": {
+        "remark": [
+            "640"
+        ],
+        "name": "刚毅",
+        "server_force": 2400,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 640,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "15": {
+        "remark": [
+            "760"
+        ],
+        "name": "刚毅",
+        "server_force": 2850,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 760,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "14": {
+        "remark": [
+            "720"
+        ],
+        "name": "刚毅",
+        "server_force": 2700,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 720,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "17": {
+        "remark": [
+            "840"
+        ],
+        "name": "刚毅",
+        "server_force": 3150,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 840,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "16": {
+        "remark": [
+            "800"
+        ],
+        "name": "刚毅",
+        "server_force": 3000,
+        "upgrade_goods": [
+            216131001,
+            4
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 800,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "19": {
+        "remark": [
+            "920"
+        ],
+        "name": "刚毅",
+        "server_force": 3450,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 920,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "18": {
+        "remark": [
+            "880"
+        ],
+        "name": "刚毅",
+        "server_force": 3300,
+        "upgrade_goods": [
+            216131001,
+            5
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 880,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "1": {
+        "remark": [
+            "200"
+        ],
+        "name": "刚毅",
+        "server_force": 750,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 200,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 750
+    },
+    "3": {
+        "remark": [
+            "280"
+        ],
+        "name": "刚毅",
+        "server_force": 1050,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 280,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "2": {
+        "remark": [
+            "240"
+        ],
+        "name": "刚毅",
+        "server_force": 900,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 240,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "5": {
+        "remark": [
+            "360"
+        ],
+        "name": "刚毅",
+        "server_force": 1350,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 360,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "4": {
+        "remark": [
+            "320"
+        ],
+        "name": "刚毅",
+        "server_force": 1200,
+        "upgrade_goods": [
+            216131001,
+            1
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 320,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "7": {
+        "remark": [
+            "440"
+        ],
+        "name": "刚毅",
+        "server_force": 1650,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 440,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "6": {
+        "remark": [
+            "400"
+        ],
+        "name": "刚毅",
+        "server_force": 1500,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 400,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "9": {
+        "remark": [
+            "520"
+        ],
+        "name": "刚毅",
+        "server_force": 1950,
+        "upgrade_goods": [
+            216131001,
+            3
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 520,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    },
+    "8": {
+        "remark": [
+            "480"
+        ],
+        "name": "刚毅",
+        "server_force": 1800,
+        "upgrade_goods": [
+            216131001,
+            2
+        ],
+        "detail": {
+            "effect": [
+                {
+                    "last": 3,
+                    "name": "buff",
+                    "value": 480,
+                    "id": 10052
+                }
+            ]
+        },
+        "add_fight": 150
+    }
+}

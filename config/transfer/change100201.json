@@ -1,0 +1,12 @@
+{
+    "1": {
+        "dodge": 12,
+        "defence": 90,
+        "hit": 16,
+        "toughness": 10,
+        "level": 1,
+        "attack": 180,
+        "health": 1800,
+        "crit": 12
+    }
+}

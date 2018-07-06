@@ -1,0 +1,463 @@
+{
+    "40202": {
+        "activity_id": 30011,
+        "name": "帮派争霸",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 5,
+        "camp_split": 1,
+        "enter_level": 40,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "40201": {
+        "name": "帮派boss",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "enter_level": 1,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "70402": {
+        "name": "争霸天下",
+        "quit_to_save": 1,
+        "default_pk_state": 5,
+        "enter_blood_full": 1,
+        "camp_split": 1,
+        "pk_state_locked": 1
+    },
+    "40204": {
+        "activity_id": 40005,
+        "name": "领地战",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 5,
+        "camp_split": 1,
+        "enter_level": 45,
+        "league_limit": 1,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "70301": {
+        "name": "跨服世界boss1",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 3,
+        "save_trvl_scene": 1,
+        "enter_level": 50,
+        "save_recover_scene": 1
+    },
+    "70300": {
+        "name": "跨服世界boss中转场景",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "enter_level": 50,
+        "save_recover_scene": 1
+    },
+    "70303": {
+        "name": "跨服世界boss3",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 3,
+        "save_trvl_scene": 1,
+        "enter_level": 50,
+        "save_recover_scene": 1
+    },
+    "40301": {
+        "activity_id": 20071,
+        "name": "怪物攻城",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 5,
+        "camp_split": 1,
+        "enter_level": 40,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "70305": {
+        "name": "跨服世界boss5",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 3,
+        "save_trvl_scene": 1,
+        "enter_level": 50,
+        "save_recover_scene": 1
+    },
+    "70304": {
+        "name": "跨服世界boss4",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 3,
+        "save_trvl_scene": 1,
+        "enter_level": 50,
+        "save_recover_scene": 1
+    },
+    "10300": {
+        "default_pk_state": 0,
+        "name": "野外场景3",
+        "pk_state_locked": 1
+    },
+    "11200": {
+        "default_pk_state": 0,
+        "name": "野外场景12",
+        "pk_state_locked": 1
+    },
+    "50201": {
+        "name": "江湖榜",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 5,
+        "camp_split": 1,
+        "enter_level": 1,
+        "buff_list": [
+            40001
+        ],
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "11300": {
+        "default_pk_state": 0,
+        "name": "野外场景13",
+        "pk_state_locked": 1
+    },
+    "10100": {
+        "default_pk_state": 0,
+        "name": "野外场景1",
+        "pk_state_locked": 1
+    },
+    "50115": {
+        "quit_team": 1,
+        "enter_level": 80,
+        "default_pk_state": 0,
+        "name": "世界boss15",
+        "save_recover_scene": 1
+    },
+    "11400": {
+        "default_pk_state": 0,
+        "name": "野外场景14",
+        "pk_state_locked": 1
+    },
+    "50301": {
+        "activity_id": 40001,
+        "name": "杀戮战场",
+        "event_cut": 1,
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 5,
+        "camp_split": 1,
+        "enter_level": 20,
+        "skill_list": [
+            400150001,
+            400150002
+        ],
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "70401": {
+        "activity_id": 40022,
+        "name": "争霸天下准备",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "enter_level": 50,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "50118": {
+        "quit_team": 1,
+        "enter_level": 100,
+        "default_pk_state": 0,
+        "name": "世界boss18",
+        "save_recover_scene": 1
+    },
+    "50109": {
+        "quit_team": 1,
+        "enter_level": 60,
+        "default_pk_state": 0,
+        "name": "世界boss9",
+        "save_recover_scene": 1
+    },
+    "50108": {
+        "quit_team": 1,
+        "enter_level": 60,
+        "default_pk_state": 0,
+        "name": "世界boss8",
+        "save_recover_scene": 1
+    },
+    "10600": {
+        "default_pk_state": 0,
+        "name": "野外场景6",
+        "pk_state_locked": 1
+    },
+    "50110": {
+        "quit_team": 1,
+        "enter_level": 70,
+        "default_pk_state": 0,
+        "name": "世界boss10",
+        "save_recover_scene": 1
+    },
+    "50101": {
+        "quit_team": 1,
+        "enter_level": 50,
+        "default_pk_state": 0,
+        "name": "世界boss1",
+        "save_recover_scene": 1
+    },
+    "40101": {
+        "activity_id": 20031,
+        "name": "答题场景",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "enter_level": 45,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "50103": {
+        "quit_team": 1,
+        "enter_level": 50,
+        "default_pk_state": 0,
+        "name": "世界boss3",
+        "save_recover_scene": 1
+    },
+    "50102": {
+        "quit_team": 1,
+        "enter_level": 50,
+        "default_pk_state": 0,
+        "name": "世界boss2",
+        "save_recover_scene": 1
+    },
+    "50105": {
+        "quit_team": 1,
+        "enter_level": 50,
+        "default_pk_state": 0,
+        "name": "世界boss5",
+        "save_recover_scene": 1
+    },
+    "50104": {
+        "quit_team": 1,
+        "enter_level": 50,
+        "default_pk_state": 0,
+        "name": "世界boss4",
+        "save_recover_scene": 1
+    },
+    "50107": {
+        "quit_team": 1,
+        "enter_level": 60,
+        "default_pk_state": 0,
+        "name": "世界boss7",
+        "save_recover_scene": 1
+    },
+    "50106": {
+        "quit_team": 1,
+        "enter_level": 60,
+        "default_pk_state": 0,
+        "name": "世界boss6",
+        "save_recover_scene": 1
+    },
+    "10400": {
+        "default_pk_state": 0,
+        "name": "野外场景4",
+        "pk_state_locked": 1
+    },
+    "70302": {
+        "name": "跨服世界boss2",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 3,
+        "save_trvl_scene": 1,
+        "enter_level": 50,
+        "save_recover_scene": 1
+    },
+    "10700": {
+        "default_pk_state": 0,
+        "name": "野外场景7",
+        "pk_state_locked": 1
+    },
+    "70701": {
+        "activity_id": 40031,
+        "name": "华山论剑",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 1,
+        "enter_level": 50,
+        "pk_state_locked": 1,
+        "save_recover_scene": 0
+    },
+    "10800": {
+        "default_pk_state": 0,
+        "name": "野外场景8",
+        "pk_state_locked": 1
+    },
+    "50112": {
+        "quit_team": 1,
+        "enter_level": 70,
+        "default_pk_state": 0,
+        "name": "世界boss12",
+        "save_recover_scene": 1
+    },
+    "10200": {
+        "default_pk_state": 0,
+        "name": "野外场景2",
+        "pk_state_locked": 1
+    },
+    "50113": {
+        "quit_team": 1,
+        "enter_level": 80,
+        "default_pk_state": 0,
+        "name": "世界boss13",
+        "save_recover_scene": 1
+    },
+    "70802": {
+        "name": "巅峰对决准备",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "enter_level": 40,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "10500": {
+        "default_pk_state": 0,
+        "name": "野外场景5",
+        "pk_state_locked": 1
+    },
+    "70801": {
+        "name": "巅峰对决",
+        "quit_to_save": 1,
+        "default_pk_state": 5,
+        "enter_blood_full": 1,
+        "camp_split": 1,
+        "enter_level": 40,
+        "pk_state_locked": 1
+    },
+    "40501": {
+        "name": "温泉场景",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "enter_level": 40,
+        "beast_disappear": 1,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "11000": {
+        "default_pk_state": 0,
+        "name": "野外场景10",
+        "pk_state_locked": 1
+    },
+    "50116": {
+        "quit_team": 1,
+        "enter_level": 90,
+        "default_pk_state": 0,
+        "name": "世界boss16",
+        "save_recover_scene": 1
+    },
+    "11100": {
+        "default_pk_state": 0,
+        "name": "野外场景11",
+        "pk_state_locked": 1
+    },
+    "50117": {
+        "quit_team": 1,
+        "enter_level": 90,
+        "default_pk_state": 0,
+        "name": "世界boss17",
+        "save_recover_scene": 1
+    },
+    "50114": {
+        "quit_team": 1,
+        "enter_level": 80,
+        "default_pk_state": 0,
+        "name": "世界boss14",
+        "save_recover_scene": 1
+    },
+    "70201": {
+        "activity_id": 40021,
+        "name": "跨服竞技",
+        "quit_to_save": 1,
+        "default_pk_state": 5,
+        "enter_blood_full": 1,
+        "camp_split": 1,
+        "enter_level": 40,
+        "pk_state_locked": 1
+    },
+    "70202": {
+        "name": "跨服竞技准备",
+        "quit_to_save": 1,
+        "quit_team": 1,
+        "default_pk_state": 0,
+        "pk_state_locked": 1,
+        "save_recover_scene": 1
+    },
+    "70108": {
+        "quit_to_save": 1,
+        "enter_level": 120,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本8"
+    },
+    "10900": {
+        "default_pk_state": 0,
+        "name": "野外场景9",
+        "pk_state_locked": 1
+    },
+    "70103": {
+        "quit_to_save": 1,
+        "enter_level": 70,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本3"
+    },
+    "70102": {
+        "quit_to_save": 1,
+        "enter_level": 60,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本2"
+    },
+    "70101": {
+        "quit_to_save": 1,
+        "enter_level": 50,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本1"
+    },
+    "50111": {
+        "quit_team": 1,
+        "enter_level": 70,
+        "default_pk_state": 0,
+        "name": "世界boss11",
+        "save_recover_scene": 1
+    },
+    "70107": {
+        "quit_to_save": 1,
+        "enter_level": 110,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本7"
+    },
+    "70106": {
+        "quit_to_save": 1,
+        "enter_level": 100,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本6"
+    },
+    "70105": {
+        "quit_to_save": 1,
+        "enter_level": 90,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本5"
+    },
+    "70104": {
+        "quit_to_save": 1,
+        "enter_level": 80,
+        "default_pk_state": 0,
+        "type": 2000,
+        "name": "跨服副本4"
+    }
+}

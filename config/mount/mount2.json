@@ -1,0 +1,1121 @@
+{
+    "10": {
+        "toughness": 418,
+        "sca": [
+            3.2999999999999998,
+            3.2999999999999998,
+            3.2999999999999998
+        ],
+        "pos": [
+            0,
+            580,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 100,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "crit": 558,
+        "name_pic": "0110.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200010",
+        "defence": 3484,
+        "attack": 6968,
+        "health": 69680,
+        "dodge": 558,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 697,
+        "ability": 200,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 2500,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "name": "魔刃10阶",
+        "model_female_name": "901200010",
+        "update_pos": [
+            -144,
+            190,
+            -500
+        ],
+        "mount_sca": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "ex_param": 1,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200010",
+        "fail_prop": {
+            "attack": 8
+        },
+        "model_name": "901200010"
+    },
+    "1": {
+        "toughness": 5,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 0,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 7,
+        "name_pic": "0023.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200001",
+        "defence": 42,
+        "attack": 83,
+        "health": 830,
+        "dodge": 7,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 9,
+        "ability": 0,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 0,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200001",
+        "name": "魔刃1阶",
+        "success": [
+            [
+                0,
+                59,
+                0
+            ],
+            [
+                60,
+                72,
+                10000
+            ],
+            [
+                73,
+                80,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110502,
+            216110501
+        ],
+        "amount": 2,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200001",
+        "reward": 201031,
+        "model_name": "901200001"
+    },
+    "3": {
+        "toughness": 26,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 0,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 34,
+        "name_pic": "0021.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200003",
+        "defence": 212,
+        "add_skill": 400060001,
+        "attack": 423,
+        "health": 4230,
+        "dodge": 34,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 43,
+        "ability": 5,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 0,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200003",
+        "name": "魔刃3阶",
+        "success": [
+            [
+                0,
+                180,
+                0
+            ],
+            [
+                181,
+                199,
+                450
+            ],
+            [
+                200,
+                211,
+                4000
+            ],
+            [
+                212,
+                232,
+                10000
+            ],
+            [
+                233,
+                265,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "model_name": "901200003",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110502,
+            216110501
+        ],
+        "amount": 4,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200003",
+        "reward": 201033,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "2": {
+        "toughness": 11,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 0,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 14,
+        "name_pic": "0022.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200002",
+        "defence": 89,
+        "attack": 178,
+        "health": 1780,
+        "dodge": 14,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 18,
+        "ability": 0,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 0,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200002",
+        "name": "魔刃2阶",
+        "success": [
+            [
+                0,
+                120,
+                0
+            ],
+            [
+                121,
+                133,
+                500
+            ],
+            [
+                134,
+                136,
+                4000
+            ],
+            [
+                137,
+                155,
+                10000
+            ],
+            [
+                156,
+                171,
+                10000
+            ]
+        ],
+        "clear": 0,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "fail_prop": {
+            "attack": 4
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110502,
+            216110501
+        ],
+        "amount": 3,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200002",
+        "reward": 201032,
+        "model_name": "901200002"
+    },
+    "5": {
+        "toughness": 82,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 15,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 109,
+        "name_pic": "0019.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200005",
+        "defence": 679,
+        "add_skill": 400060003,
+        "attack": 1358,
+        "health": 13580,
+        "dodge": 109,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 136,
+        "ability": 30,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 0,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200005",
+        "name": "魔刃5阶",
+        "success": [
+            [
+                0,
+                332,
+                0
+            ],
+            [
+                333,
+                366,
+                350
+            ],
+            [
+                367,
+                388,
+                4000
+            ],
+            [
+                389,
+                427,
+                10000
+            ],
+            [
+                428,
+                486,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "model_name": "901200005",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110502,
+            216110501
+        ],
+        "amount": 6,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200005",
+        "reward": 201035,
+        "fail_prop": {
+            "attack": 6
+        }
+    },
+    "4": {
+        "toughness": 51,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 5,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 68,
+        "name_pic": "0020.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200004",
+        "defence": 424,
+        "add_skill": 400060002,
+        "attack": 848,
+        "health": 8480,
+        "dodge": 68,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 85,
+        "ability": 15,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 0,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200004",
+        "name": "魔刃4阶",
+        "success": [
+            [
+                0,
+                272,
+                0
+            ],
+            [
+                273,
+                300,
+                400
+            ],
+            [
+                301,
+                318,
+                4000
+            ],
+            [
+                319,
+                350,
+                10000
+            ],
+            [
+                351,
+                399,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "model_name": "901200004",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110502,
+            216110501
+        ],
+        "amount": 5,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200004",
+        "reward": 201034,
+        "fail_prop": {
+            "attack": 5
+        }
+    },
+    "7": {
+        "toughness": 179,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 45,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 238,
+        "name_pic": "0017.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200007",
+        "defence": 1486,
+        "attack": 2973,
+        "health": 29730,
+        "dodge": 238,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 298,
+        "ability": 60,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 1200,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200007",
+        "name": "魔刃7阶",
+        "success": [
+            [
+                0,
+                748,
+                0
+            ],
+            [
+                749,
+                826,
+                250
+            ],
+            [
+                827,
+                875,
+                4000
+            ],
+            [
+                876,
+                962,
+                10000
+            ],
+            [
+                963,
+                1095,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "fail_prop": {
+            "attack": 7
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110503,
+            216110502,
+            216110501
+        ],
+        "amount": 8,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200007",
+        "reward": 201037,
+        "model_name": "901200007"
+    },
+    "6": {
+        "toughness": 128,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 30,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 170,
+        "name_pic": "0018.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200006",
+        "defence": 1061,
+        "add_skill": 400060004,
+        "attack": 2123,
+        "health": 21230,
+        "dodge": 170,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 213,
+        "ability": 45,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 1000,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200006",
+        "name": "魔刃6阶",
+        "success": [
+            [
+                0,
+                519,
+                0
+            ],
+            [
+                520,
+                573,
+                300
+            ],
+            [
+                574,
+                606,
+                4000
+            ],
+            [
+                607,
+                667,
+                10000
+            ],
+            [
+                668,
+                759,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "model_name": "901200006",
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110502,
+            216110501
+        ],
+        "amount": 7,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200006",
+        "reward": 201036,
+        "fail_prop": {
+            "attack": 6
+        }
+    },
+    "9": {
+        "toughness": 316,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            590,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 80,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 422,
+        "name_pic": "0103.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200009",
+        "defence": 2634,
+        "attack": 5268,
+        "health": 52680,
+        "dodge": 422,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 527,
+        "ability": 130,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 2000,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            190,
+            -500
+        ],
+        "model_female_name": "901200009",
+        "name": "魔刃9阶",
+        "success": [
+            [
+                0,
+                1540,
+                0
+            ],
+            [
+                1541,
+                1700,
+                150
+            ],
+            [
+                1701,
+                1800,
+                4000
+            ],
+            [
+                1801,
+                1980,
+                10000
+            ],
+            [
+                1981,
+                2251,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "fail_prop": {
+            "attack": 8
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110503,
+            216110502,
+            216110501
+        ],
+        "amount": 10,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200009",
+        "reward": 201039,
+        "model_name": "901200009"
+    },
+    "8": {
+        "toughness": 240,
+        "sca": [
+            3,
+            3,
+            3
+        ],
+        "pos": [
+            0,
+            560,
+            1000
+        ],
+        "ability_item": 216120501,
+        "growth": 60,
+        "mount_rot": [
+            15,
+            -15,
+            0
+        ],
+        "ex_param": 1,
+        "crit": 320,
+        "name_pic": "0016.png",
+        "rot": [
+            0,
+            0,
+            54.5
+        ],
+        "growth_item": 216120502,
+        "model_female": "901200008",
+        "defence": 1996,
+        "attack": 3993,
+        "health": 39930,
+        "dodge": 320,
+        "update_sca": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "hit": 400,
+        "ability": 80,
+        "mount_pos": [
+            -7.5,
+            0,
+            0
+        ],
+        "crit_multi": 1500,
+        "update_rot": [
+            0,
+            0,
+            54.5
+        ],
+        "update_pos": [
+            -144,
+            135,
+            -500
+        ],
+        "model_female_name": "901200008",
+        "name": "魔刃8阶",
+        "success": [
+            [
+                0,
+                1110,
+                0
+            ],
+            [
+                1111,
+                1225,
+                200
+            ],
+            [
+                1226,
+                1298,
+                4000
+            ],
+            [
+                1299,
+                1427,
+                10000
+            ],
+            [
+                1428,
+                1624,
+                10000
+            ]
+        ],
+        "clear": 1,
+        "mount_sca": [
+            1,
+            1,
+            1
+        ],
+        "base_equ": [
+            122010101,
+            122020101,
+            122030101
+        ],
+        "fail_prop": {
+            "attack": 7
+        },
+        "bless": [
+            9,
+            11
+        ],
+        "item": [
+            216110503,
+            216110502,
+            216110501
+        ],
+        "amount": 9,
+        "mountPoint": {
+            "1": "Bone001(mirrored)",
+            "2": "Bone001(mirrored)"
+        },
+        "model": "901200008",
+        "reward": 201038,
+        "model_name": "901200008"
+    }
+}

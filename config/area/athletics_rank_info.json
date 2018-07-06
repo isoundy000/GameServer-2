@@ -1,0 +1,3764 @@
+{
+    "30": {
+        "force": 49395,
+        "toughness": 149,
+        "sex": 2,
+        "crit": 199,
+        "defence": 2497,
+        "lose_reward_id": 606101,
+        "damage": 710,
+        "rpm_id": 800000030,
+        "attack": 2497,
+        "rank_num": 160,
+        "health": 24970,
+        "clear_money": 30,
+        "mount_range": [
+            5,
+            8
+        ],
+        "next_reward_id": 606014,
+        "dodge": 199,
+        "hit": 249,
+        "vip_type": 101,
+        "clear_time": 30,
+        "wing_range": [
+            5,
+            8
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 29970,
+        "crit_multi": 12000,
+        "beast_range": [
+            5,
+            8
+        ],
+        "reward_id": 606015,
+        "name": "江湖大侠",
+        "player_b": [
+            -10,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -20,
+            -11
+        ],
+        "magic_range": [
+            5,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            5,
+            8
+        ]
+    },
+    "28": {
+        "force": 51495,
+        "toughness": 156,
+        "sex": 2,
+        "crit": 208,
+        "defence": 2601,
+        "lose_reward_id": 606101,
+        "damage": 730,
+        "rpm_id": 800000028,
+        "attack": 2601,
+        "rank_num": 120,
+        "health": 26010,
+        "clear_money": 28,
+        "mount_range": [
+            5,
+            8
+        ],
+        "next_reward_id": 606014,
+        "dodge": 208,
+        "hit": 260,
+        "vip_type": 101,
+        "clear_time": 28,
+        "wing_range": [
+            5,
+            8
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 31010,
+        "crit_multi": 12000,
+        "beast_range": [
+            5,
+            8
+        ],
+        "reward_id": 606015,
+        "name": "江湖大侠",
+        "player_b": [
+            -10,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -20,
+            -11
+        ],
+        "magic_range": [
+            5,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            5,
+            8
+        ]
+    },
+    "29": {
+        "force": 50415,
+        "toughness": 152,
+        "sex": 1,
+        "crit": 203,
+        "defence": 2549,
+        "lose_reward_id": 606101,
+        "damage": 720,
+        "rpm_id": 800000029,
+        "attack": 2549,
+        "rank_num": 140,
+        "health": 25490,
+        "clear_money": 29,
+        "mount_range": [
+            5,
+            8
+        ],
+        "next_reward_id": 606014,
+        "dodge": 203,
+        "hit": 254,
+        "vip_type": 101,
+        "clear_time": 29,
+        "wing_range": [
+            5,
+            8
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 30490,
+        "crit_multi": 12000,
+        "beast_range": [
+            5,
+            8
+        ],
+        "reward_id": 606015,
+        "name": "江湖大侠",
+        "player_b": [
+            -10,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -20,
+            -11
+        ],
+        "magic_range": [
+            5,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            5,
+            8
+        ]
+    },
+    "24": {
+        "force": 54120,
+        "toughness": 164,
+        "sex": 2,
+        "crit": 218,
+        "defence": 2735,
+        "lose_reward_id": 606101,
+        "damage": 770,
+        "rpm_id": 800000024,
+        "attack": 2735,
+        "rank_num": 70,
+        "health": 27350,
+        "clear_money": 24,
+        "mount_range": [
+            6,
+            8
+        ],
+        "next_reward_id": 606013,
+        "dodge": 218,
+        "hit": 273,
+        "vip_type": 101,
+        "clear_time": 24,
+        "wing_range": [
+            6,
+            8
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 32350,
+        "crit_multi": 12000,
+        "beast_range": [
+            6,
+            8
+        ],
+        "reward_id": 606014,
+        "name": "江湖大侠",
+        "player_b": [
+            -5,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -10,
+            -6
+        ],
+        "magic_range": [
+            6,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            6,
+            8
+        ]
+    },
+    "25": {
+        "force": 53580,
+        "toughness": 162,
+        "sex": 1,
+        "crit": 216,
+        "defence": 2708,
+        "lose_reward_id": 606101,
+        "damage": 760,
+        "rpm_id": 800000025,
+        "attack": 2708,
+        "rank_num": 80,
+        "health": 27080,
+        "clear_money": 25,
+        "mount_range": [
+            6,
+            8
+        ],
+        "next_reward_id": 606013,
+        "dodge": 216,
+        "hit": 270,
+        "vip_type": 101,
+        "clear_time": 25,
+        "wing_range": [
+            6,
+            8
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 32080,
+        "crit_multi": 12000,
+        "beast_range": [
+            6,
+            8
+        ],
+        "reward_id": 606014,
+        "name": "江湖大侠",
+        "player_b": [
+            -5,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -10,
+            -6
+        ],
+        "magic_range": [
+            6,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            6,
+            8
+        ]
+    },
+    "26": {
+        "force": 53055,
+        "toughness": 160,
+        "sex": 2,
+        "crit": 214,
+        "defence": 2681,
+        "lose_reward_id": 606101,
+        "damage": 750,
+        "rpm_id": 800000026,
+        "attack": 2681,
+        "rank_num": 90,
+        "health": 26810,
+        "clear_money": 26,
+        "mount_range": [
+            6,
+            8
+        ],
+        "next_reward_id": 606013,
+        "dodge": 214,
+        "hit": 268,
+        "vip_type": 101,
+        "clear_time": 26,
+        "wing_range": [
+            6,
+            8
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 31810,
+        "crit_multi": 12000,
+        "beast_range": [
+            6,
+            8
+        ],
+        "reward_id": 606014,
+        "name": "江湖大侠",
+        "player_b": [
+            -5,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -10,
+            -6
+        ],
+        "magic_range": [
+            6,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            6,
+            8
+        ]
+    },
+    "27": {
+        "force": 52530,
+        "toughness": 159,
+        "sex": 1,
+        "crit": 212,
+        "defence": 2654,
+        "lose_reward_id": 606101,
+        "damage": 740,
+        "rpm_id": 800000027,
+        "attack": 2654,
+        "rank_num": 100,
+        "health": 26540,
+        "clear_money": 27,
+        "mount_range": [
+            5,
+            8
+        ],
+        "next_reward_id": 606013,
+        "dodge": 212,
+        "hit": 265,
+        "vip_type": 101,
+        "clear_time": 27,
+        "wing_range": [
+            5,
+            8
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 31540,
+        "crit_multi": 12000,
+        "beast_range": [
+            5,
+            8
+        ],
+        "reward_id": 606014,
+        "name": "江湖大侠",
+        "player_b": [
+            -10,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -20,
+            -11
+        ],
+        "magic_range": [
+            5,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            5,
+            8
+        ]
+    },
+    "20": {
+        "force": 55500,
+        "toughness": 168,
+        "sex": 2,
+        "crit": 224,
+        "defence": 2804,
+        "lose_reward_id": 606101,
+        "damage": 810,
+        "rpm_id": 800000020,
+        "attack": 2804,
+        "rank_num": 45,
+        "health": 28040,
+        "clear_money": 20,
+        "mount_range": [
+            7,
+            9
+        ],
+        "next_reward_id": 606012,
+        "dodge": 224,
+        "hit": 280,
+        "vip_type": 101,
+        "clear_time": 20,
+        "wing_range": [
+            7,
+            9
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 33040,
+        "crit_multi": 12000,
+        "beast_range": [
+            7,
+            9
+        ],
+        "reward_id": 606013,
+        "name": "江湖大侠",
+        "player_b": [
+            -3,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -6,
+            -4
+        ],
+        "magic_range": [
+            7,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            7,
+            9
+        ]
+    },
+    "21": {
+        "force": 55230,
+        "toughness": 167,
+        "sex": 1,
+        "crit": 223,
+        "defence": 2790,
+        "lose_reward_id": 606101,
+        "damage": 800,
+        "rpm_id": 800000021,
+        "attack": 2790,
+        "rank_num": 50,
+        "health": 27900,
+        "clear_money": 21,
+        "mount_range": [
+            6,
+            8
+        ],
+        "next_reward_id": 606012,
+        "dodge": 223,
+        "hit": 279,
+        "vip_type": 101,
+        "clear_time": 21,
+        "wing_range": [
+            6,
+            8
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 32900,
+        "crit_multi": 12000,
+        "beast_range": [
+            6,
+            8
+        ],
+        "reward_id": 606013,
+        "name": "江湖大侠",
+        "player_b": [
+            -3,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -6,
+            -4
+        ],
+        "magic_range": [
+            6,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            6,
+            8
+        ]
+    },
+    "48": {
+        "force": 13590,
+        "toughness": 41,
+        "sex": 2,
+        "crit": 54,
+        "defence": 688,
+        "lose_reward_id": 606101,
+        "damage": 400,
+        "rpm_id": 800000048,
+        "attack": 688,
+        "rank_num": 1600,
+        "health": 6880,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606018,
+        "dodge": 54,
+        "hit": 69,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 15400,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606019,
+        "name": "江湖大侠",
+        "player_b": [
+            -100,
+            -51
+        ],
+        "player_c": [
+            -50,
+            -1
+        ],
+        "player_a": [
+            -200,
+            -101
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    },
+    "49": {
+        "force": 11955,
+        "toughness": 36,
+        "sex": 1,
+        "crit": 47,
+        "defence": 606,
+        "lose_reward_id": 606101,
+        "damage": 380,
+        "rpm_id": 800000049,
+        "attack": 606,
+        "rank_num": 1800,
+        "health": 6060,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606018,
+        "dodge": 47,
+        "hit": 61,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 15200,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606019,
+        "name": "江湖大侠",
+        "player_b": [
+            -100,
+            -51
+        ],
+        "player_c": [
+            -50,
+            -1
+        ],
+        "player_a": [
+            -200,
+            -101
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    },
+    "46": {
+        "force": 16860,
+        "toughness": 51,
+        "sex": 2,
+        "crit": 68,
+        "defence": 852,
+        "lose_reward_id": 606101,
+        "damage": 440,
+        "rpm_id": 800000046,
+        "attack": 852,
+        "rank_num": 1200,
+        "health": 8520,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606018,
+        "dodge": 68,
+        "hit": 85,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 15800,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606019,
+        "name": "江湖大侠",
+        "player_b": [
+            -75,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -150,
+            -76
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    },
+    "47": {
+        "force": 15225,
+        "toughness": 46,
+        "sex": 1,
+        "crit": 61,
+        "defence": 770,
+        "lose_reward_id": 606101,
+        "damage": 420,
+        "rpm_id": 800000047,
+        "attack": 770,
+        "rank_num": 1400,
+        "health": 7700,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606018,
+        "dodge": 61,
+        "hit": 77,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 15600,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606019,
+        "name": "江湖大侠",
+        "player_b": [
+            -75,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -150,
+            -76
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    },
+    "44": {
+        "force": 22095,
+        "toughness": 67,
+        "sex": 2,
+        "crit": 89,
+        "defence": 1117,
+        "lose_reward_id": 606101,
+        "damage": 480,
+        "rpm_id": 800000044,
+        "attack": 1117,
+        "rank_num": 900,
+        "health": 11170,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606017,
+        "dodge": 89,
+        "hit": 111,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 16170,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606018,
+        "name": "江湖大侠",
+        "player_b": [
+            -50,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -150,
+            -51
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    },
+    "45": {
+        "force": 19965,
+        "toughness": 60,
+        "sex": 1,
+        "crit": 80,
+        "defence": 1010,
+        "lose_reward_id": 606101,
+        "damage": 460,
+        "rpm_id": 800000045,
+        "attack": 1010,
+        "rank_num": 1000,
+        "health": 10100,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606018,
+        "dodge": 80,
+        "hit": 101,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 16000,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606019,
+        "name": "江湖大侠",
+        "player_b": [
+            -75,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -150,
+            -76
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    },
+    "42": {
+        "force": 27465,
+        "toughness": 83,
+        "sex": 2,
+        "crit": 111,
+        "defence": 1388,
+        "lose_reward_id": 606101,
+        "damage": 520,
+        "rpm_id": 800000042,
+        "attack": 1388,
+        "rank_num": 700,
+        "health": 13880,
+        "mount_range": [
+            3,
+            5
+        ],
+        "next_reward_id": 606017,
+        "dodge": 111,
+        "hit": 138,
+        "vip_type": 101,
+        "wing_range": [
+            3,
+            5
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 18880,
+        "crit_multi": 12000,
+        "beast_range": [
+            3,
+            5
+        ],
+        "reward_id": 606018,
+        "name": "江湖大侠",
+        "player_b": [
+            -50,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -100,
+            -51
+        ],
+        "magic_range": [
+            3,
+            5
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            3,
+            5
+        ]
+    },
+    "43": {
+        "force": 24585,
+        "toughness": 74,
+        "sex": 1,
+        "crit": 99,
+        "defence": 1243,
+        "lose_reward_id": 606101,
+        "damage": 500,
+        "rpm_id": 800000043,
+        "attack": 1243,
+        "rank_num": 800,
+        "health": 12430,
+        "mount_range": [
+            3,
+            5
+        ],
+        "next_reward_id": 606017,
+        "dodge": 99,
+        "hit": 124,
+        "vip_type": 101,
+        "wing_range": [
+            3,
+            5
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 17430,
+        "crit_multi": 12000,
+        "beast_range": [
+            3,
+            5
+        ],
+        "reward_id": 606018,
+        "name": "江湖大侠",
+        "player_b": [
+            -75,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -150,
+            -76
+        ],
+        "magic_range": [
+            3,
+            5
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            3,
+            5
+        ]
+    },
+    "40": {
+        "force": 32475,
+        "toughness": 98,
+        "sex": 2,
+        "crit": 131,
+        "defence": 1641,
+        "lose_reward_id": 606101,
+        "damage": 560,
+        "rpm_id": 800000040,
+        "attack": 1641,
+        "rank_num": 550,
+        "health": 16410,
+        "clear_money": 40,
+        "mount_range": [
+            3,
+            5
+        ],
+        "next_reward_id": 606016,
+        "dodge": 131,
+        "hit": 164,
+        "vip_type": 101,
+        "clear_time": 40,
+        "wing_range": [
+            3,
+            5
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 21410,
+        "crit_multi": 12000,
+        "beast_range": [
+            3,
+            5
+        ],
+        "reward_id": 606017,
+        "name": "江湖大侠",
+        "player_b": [
+            -50,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -100,
+            -51
+        ],
+        "magic_range": [
+            3,
+            5
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            3,
+            5
+        ]
+    },
+    "41": {
+        "force": 30720,
+        "toughness": 93,
+        "sex": 1,
+        "crit": 124,
+        "defence": 1552,
+        "lose_reward_id": 606101,
+        "damage": 540,
+        "rpm_id": 800000041,
+        "attack": 1552,
+        "rank_num": 600,
+        "health": 15520,
+        "mount_range": [
+            3,
+            5
+        ],
+        "next_reward_id": 606016,
+        "dodge": 124,
+        "hit": 155,
+        "vip_type": 101,
+        "wing_range": [
+            3,
+            5
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 20520,
+        "crit_multi": 12000,
+        "beast_range": [
+            3,
+            5
+        ],
+        "reward_id": 606017,
+        "name": "江湖大侠",
+        "player_b": [
+            -50,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -100,
+            -51
+        ],
+        "magic_range": [
+            3,
+            5
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            3,
+            5
+        ]
+    },
+    "1": {
+        "force": 57960,
+        "toughness": 175,
+        "shape_set": [
+            [
+                2,
+                100022001
+            ],
+            [
+                11,
+                100112001
+            ]
+        ],
+        "sex": 1,
+        "crit": 234,
+        "defence": 2929,
+        "buy_money": 2,
+        "lose_reward_id": 606101,
+        "damage": 1000,
+        "rpm_id": 800000001,
+        "attack": 2929,
+        "rank_num": 1,
+        "health": 29290,
+        "clear_money": 1,
+        "mount_range": [
+            10,
+            10
+        ],
+        "buy_time": 2,
+        "next_reward_id": 606001,
+        "dodge": 234,
+        "hit": 292,
+        "vip_type": 101,
+        "clear_time": 1,
+        "wing_range": [
+            10,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 34290,
+        "crit_multi": 12000,
+        "beast_range": [
+            10,
+            10
+        ],
+        "reward_id": 606001,
+        "name": "江湖大侠",
+        "player_b": [
+            3,
+            4
+        ],
+        "player_c": [
+            5,
+            6
+        ],
+        "player_a": [
+            1,
+            2
+        ],
+        "magic_range": [
+            10,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            10,
+            10
+        ]
+    },
+    "3": {
+        "force": 57840,
+        "toughness": 175,
+        "sex": 1,
+        "crit": 233,
+        "defence": 2923,
+        "buy_money": 10,
+        "lose_reward_id": 606101,
+        "damage": 980,
+        "rpm_id": 800000003,
+        "attack": 2923,
+        "rank_num": 3,
+        "health": 29230,
+        "clear_money": 3,
+        "mount_range": [
+            10,
+            10
+        ],
+        "buy_time": 8,
+        "next_reward_id": 606002,
+        "dodge": 233,
+        "hit": 292,
+        "vip_type": 101,
+        "clear_time": 3,
+        "wing_range": [
+            10,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 34230,
+        "crit_multi": 12000,
+        "beast_range": [
+            10,
+            10
+        ],
+        "reward_id": 606003,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            10,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            10,
+            10
+        ]
+    },
+    "2": {
+        "force": 57915,
+        "toughness": 175,
+        "sex": 2,
+        "crit": 234,
+        "defence": 2926,
+        "buy_money": 5,
+        "lose_reward_id": 606101,
+        "damage": 990,
+        "rpm_id": 800000002,
+        "attack": 2926,
+        "rank_num": 2,
+        "health": 29260,
+        "clear_money": 2,
+        "mount_range": [
+            10,
+            10
+        ],
+        "buy_time": 3,
+        "next_reward_id": 606001,
+        "dodge": 234,
+        "hit": 292,
+        "vip_type": 101,
+        "clear_time": 2,
+        "wing_range": [
+            10,
+            10
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 34260,
+        "crit_multi": 12000,
+        "beast_range": [
+            10,
+            10
+        ],
+        "reward_id": 606002,
+        "name": "江湖大侠",
+        "player_b": [
+            1,
+            2
+        ],
+        "player_c": [
+            3,
+            4
+        ],
+        "player_a": [
+            -1,
+            -1
+        ],
+        "magic_range": [
+            10,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            10,
+            10
+        ]
+    },
+    "5": {
+        "force": 57735,
+        "toughness": 175,
+        "sex": 1,
+        "crit": 233,
+        "defence": 2917,
+        "buy_money": 40,
+        "lose_reward_id": 606101,
+        "damage": 960,
+        "rpm_id": 800000005,
+        "attack": 2917,
+        "rank_num": 5,
+        "health": 29170,
+        "clear_money": 5,
+        "mount_range": [
+            10,
+            10
+        ],
+        "buy_time": 18,
+        "next_reward_id": 606004,
+        "dodge": 233,
+        "hit": 291,
+        "vip_type": 101,
+        "clear_time": 5,
+        "wing_range": [
+            10,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 34170,
+        "crit_multi": 12000,
+        "beast_range": [
+            10,
+            10
+        ],
+        "reward_id": 606005,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            10,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            10,
+            10
+        ]
+    },
+    "4": {
+        "force": 57795,
+        "toughness": 175,
+        "sex": 2,
+        "crit": 233,
+        "defence": 2920,
+        "buy_money": 20,
+        "lose_reward_id": 606101,
+        "damage": 970,
+        "rpm_id": 800000004,
+        "attack": 2920,
+        "rank_num": 4,
+        "health": 29200,
+        "clear_money": 4,
+        "mount_range": [
+            10,
+            10
+        ],
+        "buy_time": 13,
+        "next_reward_id": 606003,
+        "dodge": 233,
+        "hit": 292,
+        "vip_type": 101,
+        "clear_time": 4,
+        "wing_range": [
+            10,
+            10
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 34200,
+        "crit_multi": 12000,
+        "beast_range": [
+            10,
+            10
+        ],
+        "reward_id": 606004,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            10,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            10,
+            10
+        ]
+    },
+    "7": {
+        "force": 57600,
+        "toughness": 174,
+        "sex": 1,
+        "crit": 232,
+        "defence": 2911,
+        "buy_money": 160,
+        "lose_reward_id": 606101,
+        "damage": 940,
+        "rpm_id": 800000007,
+        "attack": 2911,
+        "rank_num": 7,
+        "health": 29110,
+        "clear_money": 7,
+        "mount_range": [
+            9,
+            10
+        ],
+        "buy_time": 28,
+        "next_reward_id": 606006,
+        "dodge": 232,
+        "hit": 291,
+        "vip_type": 101,
+        "clear_time": 7,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 34110,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606007,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "6": {
+        "force": 57675,
+        "toughness": 174,
+        "sex": 2,
+        "crit": 233,
+        "defence": 2914,
+        "buy_money": 80,
+        "lose_reward_id": 606101,
+        "damage": 950,
+        "rpm_id": 800000006,
+        "attack": 2914,
+        "rank_num": 6,
+        "health": 29140,
+        "clear_money": 6,
+        "mount_range": [
+            9,
+            10
+        ],
+        "buy_time": 23,
+        "next_reward_id": 606005,
+        "dodge": 233,
+        "hit": 291,
+        "vip_type": 101,
+        "clear_time": 6,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 34140,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606006,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "9": {
+        "force": 57510,
+        "toughness": 174,
+        "sex": 1,
+        "crit": 232,
+        "defence": 2906,
+        "buy_money": 640,
+        "lose_reward_id": 606101,
+        "damage": 920,
+        "rpm_id": 800000009,
+        "attack": 2906,
+        "rank_num": 9,
+        "health": 29060,
+        "clear_money": 9,
+        "mount_range": [
+            9,
+            10
+        ],
+        "buy_time": 38,
+        "next_reward_id": 606008,
+        "dodge": 232,
+        "hit": 290,
+        "vip_type": 101,
+        "clear_time": 9,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 34060,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606009,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "8": {
+        "force": 57555,
+        "toughness": 174,
+        "sex": 2,
+        "crit": 232,
+        "defence": 2909,
+        "buy_money": 320,
+        "lose_reward_id": 606101,
+        "damage": 930,
+        "rpm_id": 800000008,
+        "attack": 2909,
+        "rank_num": 8,
+        "health": 29090,
+        "clear_money": 8,
+        "mount_range": [
+            9,
+            10
+        ],
+        "buy_time": 33,
+        "next_reward_id": 606007,
+        "dodge": 232,
+        "hit": 290,
+        "vip_type": 101,
+        "clear_time": 8,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 34090,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606008,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "13": {
+        "force": 57105,
+        "toughness": 173,
+        "sex": 1,
+        "crit": 230,
+        "defence": 2886,
+        "lose_reward_id": 606101,
+        "damage": 880,
+        "rpm_id": 800000013,
+        "attack": 2886,
+        "rank_num": 16,
+        "health": 28860,
+        "clear_money": 13,
+        "mount_range": [
+            9,
+            10
+        ],
+        "next_reward_id": 606010,
+        "dodge": 230,
+        "hit": 288,
+        "vip_type": 101,
+        "clear_time": 13,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 33860,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606011,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "12": {
+        "force": 57225,
+        "toughness": 173,
+        "sex": 2,
+        "crit": 231,
+        "defence": 2891,
+        "lose_reward_id": 606101,
+        "damage": 890,
+        "rpm_id": 800000012,
+        "attack": 2891,
+        "rank_num": 14,
+        "health": 28910,
+        "clear_money": 12,
+        "mount_range": [
+            9,
+            10
+        ],
+        "next_reward_id": 606010,
+        "dodge": 231,
+        "hit": 289,
+        "vip_type": 101,
+        "clear_time": 12,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 33910,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606011,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "14": {
+        "force": 57000,
+        "toughness": 172,
+        "sex": 2,
+        "crit": 230,
+        "defence": 2880,
+        "lose_reward_id": 606101,
+        "damage": 870,
+        "rpm_id": 800000014,
+        "attack": 2880,
+        "rank_num": 18,
+        "health": 28800,
+        "clear_money": 14,
+        "mount_range": [
+            8,
+            9
+        ],
+        "next_reward_id": 606010,
+        "dodge": 230,
+        "hit": 288,
+        "vip_type": 101,
+        "clear_time": 14,
+        "wing_range": [
+            8,
+            9
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 33800,
+        "crit_multi": 12000,
+        "beast_range": [
+            8,
+            9
+        ],
+        "reward_id": 606011,
+        "name": "江湖大侠",
+        "player_b": [
+            -2,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -4,
+            -3
+        ],
+        "magic_range": [
+            8,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            8,
+            9
+        ]
+    },
+    "11": {
+        "force": 57315,
+        "toughness": 173,
+        "sex": 1,
+        "crit": 231,
+        "defence": 2897,
+        "buy_money": 2560,
+        "lose_reward_id": 606101,
+        "damage": 900,
+        "rpm_id": 800000011,
+        "attack": 2897,
+        "rank_num": 12,
+        "health": 28970,
+        "clear_money": 11,
+        "mount_range": [
+            9,
+            10
+        ],
+        "buy_time": 48,
+        "next_reward_id": 606010,
+        "dodge": 231,
+        "hit": 289,
+        "vip_type": 101,
+        "clear_time": 11,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 33970,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606011,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "10": {
+        "force": 57465,
+        "toughness": 174,
+        "sex": 2,
+        "crit": 232,
+        "defence": 2903,
+        "buy_money": 1280,
+        "lose_reward_id": 606101,
+        "damage": 910,
+        "rpm_id": 800000010,
+        "attack": 2903,
+        "rank_num": 10,
+        "health": 29030,
+        "clear_money": 10,
+        "mount_range": [
+            9,
+            10
+        ],
+        "buy_time": 43,
+        "next_reward_id": 606009,
+        "dodge": 232,
+        "hit": 290,
+        "vip_type": 101,
+        "clear_time": 10,
+        "wing_range": [
+            9,
+            10
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 34030,
+        "crit_multi": 12000,
+        "beast_range": [
+            9,
+            10
+        ],
+        "reward_id": 606010,
+        "name": "江湖大侠",
+        "player_b": [
+            -1,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -2,
+            -2
+        ],
+        "magic_range": [
+            9,
+            10
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            9,
+            10
+        ]
+    },
+    "39": {
+        "force": 34305,
+        "toughness": 104,
+        "sex": 1,
+        "crit": 138,
+        "defence": 1734,
+        "lose_reward_id": 606101,
+        "damage": 580,
+        "rpm_id": 800000039,
+        "attack": 1734,
+        "rank_num": 500,
+        "health": 17340,
+        "clear_money": 39,
+        "mount_range": [
+            3,
+            5
+        ],
+        "next_reward_id": 606016,
+        "dodge": 138,
+        "hit": 173,
+        "vip_type": 101,
+        "clear_time": 39,
+        "wing_range": [
+            3,
+            5
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 22340,
+        "crit_multi": 12000,
+        "beast_range": [
+            3,
+            5
+        ],
+        "reward_id": 606017,
+        "name": "江湖大侠",
+        "player_b": [
+            -50,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -100,
+            -51
+        ],
+        "magic_range": [
+            3,
+            5
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            3,
+            5
+        ]
+    },
+    "38": {
+        "force": 36255,
+        "toughness": 109,
+        "sex": 2,
+        "crit": 146,
+        "defence": 1833,
+        "lose_reward_id": 606101,
+        "damage": 600,
+        "rpm_id": 800000038,
+        "attack": 1833,
+        "rank_num": 450,
+        "health": 18330,
+        "clear_money": 38,
+        "mount_range": [
+            3,
+            5
+        ],
+        "next_reward_id": 606016,
+        "dodge": 146,
+        "hit": 183,
+        "vip_type": 101,
+        "clear_time": 38,
+        "wing_range": [
+            3,
+            5
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 23330,
+        "crit_multi": 12000,
+        "beast_range": [
+            3,
+            5
+        ],
+        "reward_id": 606017,
+        "name": "江湖大侠",
+        "player_b": [
+            -50,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -100,
+            -51
+        ],
+        "magic_range": [
+            3,
+            5
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            3,
+            5
+        ]
+    },
+    "15": {
+        "force": 56865,
+        "toughness": 172,
+        "sex": 1,
+        "crit": 229,
+        "defence": 2874,
+        "lose_reward_id": 606101,
+        "damage": 860,
+        "rpm_id": 800000015,
+        "attack": 2874,
+        "rank_num": 20,
+        "health": 28740,
+        "clear_money": 15,
+        "mount_range": [
+            8,
+            9
+        ],
+        "next_reward_id": 606010,
+        "dodge": 229,
+        "hit": 287,
+        "vip_type": 101,
+        "clear_time": 15,
+        "wing_range": [
+            8,
+            9
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 33740,
+        "crit_multi": 12000,
+        "beast_range": [
+            8,
+            9
+        ],
+        "reward_id": 606011,
+        "name": "江湖大侠",
+        "player_b": [
+            -2,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -4,
+            -3
+        ],
+        "magic_range": [
+            8,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            8,
+            9
+        ]
+    },
+    "22": {
+        "force": 54960,
+        "toughness": 166,
+        "sex": 2,
+        "crit": 222,
+        "defence": 2777,
+        "lose_reward_id": 606101,
+        "damage": 790,
+        "rpm_id": 800000022,
+        "attack": 2777,
+        "rank_num": 55,
+        "health": 27770,
+        "clear_money": 22,
+        "mount_range": [
+            6,
+            8
+        ],
+        "next_reward_id": 606012,
+        "dodge": 222,
+        "hit": 277,
+        "vip_type": 101,
+        "clear_time": 22,
+        "wing_range": [
+            6,
+            8
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 32770,
+        "crit_multi": 12000,
+        "beast_range": [
+            6,
+            8
+        ],
+        "reward_id": 606013,
+        "name": "江湖大侠",
+        "player_b": [
+            -5,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -10,
+            -6
+        ],
+        "magic_range": [
+            6,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            6,
+            8
+        ]
+    },
+    "17": {
+        "force": 56310,
+        "toughness": 170,
+        "sex": 1,
+        "crit": 227,
+        "defence": 2846,
+        "lose_reward_id": 606101,
+        "damage": 840,
+        "rpm_id": 800000017,
+        "attack": 2846,
+        "rank_num": 30,
+        "health": 28460,
+        "clear_money": 17,
+        "mount_range": [
+            8,
+            9
+        ],
+        "next_reward_id": 606011,
+        "dodge": 227,
+        "hit": 284,
+        "vip_type": 101,
+        "clear_time": 17,
+        "wing_range": [
+            8,
+            9
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 33460,
+        "crit_multi": 12000,
+        "beast_range": [
+            8,
+            9
+        ],
+        "reward_id": 606012,
+        "name": "江湖大侠",
+        "player_b": [
+            -2,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -4,
+            -3
+        ],
+        "magic_range": [
+            8,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            8,
+            9
+        ]
+    },
+    "16": {
+        "force": 56595,
+        "toughness": 171,
+        "sex": 2,
+        "crit": 228,
+        "defence": 2860,
+        "lose_reward_id": 606101,
+        "damage": 850,
+        "rpm_id": 800000016,
+        "attack": 2860,
+        "rank_num": 25,
+        "health": 28600,
+        "clear_money": 16,
+        "mount_range": [
+            8,
+            9
+        ],
+        "next_reward_id": 606011,
+        "dodge": 228,
+        "hit": 286,
+        "vip_type": 101,
+        "clear_time": 16,
+        "wing_range": [
+            8,
+            9
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 33600,
+        "crit_multi": 12000,
+        "beast_range": [
+            8,
+            9
+        ],
+        "reward_id": 606012,
+        "name": "江湖大侠",
+        "player_b": [
+            -2,
+            -1
+        ],
+        "player_c": [
+            1,
+            4
+        ],
+        "player_a": [
+            -4,
+            -3
+        ],
+        "magic_range": [
+            8,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            8,
+            9
+        ]
+    },
+    "19": {
+        "force": 55770,
+        "toughness": 169,
+        "sex": 1,
+        "crit": 225,
+        "defence": 2818,
+        "lose_reward_id": 606101,
+        "damage": 820,
+        "rpm_id": 800000019,
+        "attack": 2818,
+        "rank_num": 40,
+        "health": 28180,
+        "clear_money": 19,
+        "mount_range": [
+            7,
+            9
+        ],
+        "next_reward_id": 606011,
+        "dodge": 225,
+        "hit": 281,
+        "vip_type": 101,
+        "clear_time": 19,
+        "wing_range": [
+            7,
+            9
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 33180,
+        "crit_multi": 12000,
+        "beast_range": [
+            7,
+            9
+        ],
+        "reward_id": 606012,
+        "name": "江湖大侠",
+        "player_b": [
+            -3,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -6,
+            -4
+        ],
+        "magic_range": [
+            7,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            7,
+            9
+        ]
+    },
+    "18": {
+        "force": 56040,
+        "toughness": 169,
+        "sex": 2,
+        "crit": 226,
+        "defence": 2832,
+        "lose_reward_id": 606101,
+        "damage": 830,
+        "rpm_id": 800000018,
+        "attack": 2832,
+        "rank_num": 35,
+        "health": 28320,
+        "clear_money": 18,
+        "mount_range": [
+            7,
+            9
+        ],
+        "next_reward_id": 606011,
+        "dodge": 226,
+        "hit": 283,
+        "vip_type": 101,
+        "clear_time": 18,
+        "wing_range": [
+            7,
+            9
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 33320,
+        "crit_multi": 12000,
+        "beast_range": [
+            7,
+            9
+        ],
+        "reward_id": 606012,
+        "name": "江湖大侠",
+        "player_b": [
+            -3,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -6,
+            -4
+        ],
+        "magic_range": [
+            7,
+            9
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            7,
+            9
+        ]
+    },
+    "31": {
+        "force": 48390,
+        "toughness": 146,
+        "sex": 1,
+        "crit": 195,
+        "defence": 2446,
+        "lose_reward_id": 606101,
+        "damage": 700,
+        "rpm_id": 800000031,
+        "attack": 2446,
+        "rank_num": 180,
+        "health": 24460,
+        "clear_money": 31,
+        "mount_range": [
+            5,
+            8
+        ],
+        "next_reward_id": 606014,
+        "dodge": 195,
+        "hit": 244,
+        "vip_type": 101,
+        "clear_time": 31,
+        "wing_range": [
+            5,
+            8
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 29460,
+        "crit_multi": 12000,
+        "beast_range": [
+            5,
+            8
+        ],
+        "reward_id": 606015,
+        "name": "江湖大侠",
+        "player_b": [
+            -10,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -20,
+            -11
+        ],
+        "magic_range": [
+            5,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            5,
+            8
+        ]
+    },
+    "23": {
+        "force": 54690,
+        "toughness": 165,
+        "sex": 1,
+        "crit": 221,
+        "defence": 2763,
+        "lose_reward_id": 606101,
+        "damage": 780,
+        "rpm_id": 800000023,
+        "attack": 2763,
+        "rank_num": 60,
+        "health": 27630,
+        "clear_money": 23,
+        "mount_range": [
+            6,
+            8
+        ],
+        "next_reward_id": 606012,
+        "dodge": 221,
+        "hit": 276,
+        "vip_type": 101,
+        "clear_time": 23,
+        "wing_range": [
+            6,
+            8
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 32630,
+        "crit_multi": 12000,
+        "beast_range": [
+            6,
+            8
+        ],
+        "reward_id": 606013,
+        "name": "江湖大侠",
+        "player_b": [
+            -5,
+            -1
+        ],
+        "player_c": [
+            1,
+            8
+        ],
+        "player_a": [
+            -10,
+            -6
+        ],
+        "magic_range": [
+            6,
+            8
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            6,
+            8
+        ]
+    },
+    "37": {
+        "force": 38295,
+        "toughness": 116,
+        "sex": 1,
+        "crit": 154,
+        "defence": 1936,
+        "lose_reward_id": 606101,
+        "damage": 620,
+        "rpm_id": 800000037,
+        "attack": 1936,
+        "rank_num": 400,
+        "health": 19360,
+        "clear_money": 37,
+        "mount_range": [
+            4,
+            7
+        ],
+        "next_reward_id": 606015,
+        "dodge": 154,
+        "hit": 193,
+        "vip_type": 101,
+        "clear_time": 37,
+        "wing_range": [
+            4,
+            7
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 24360,
+        "crit_multi": 12000,
+        "beast_range": [
+            4,
+            7
+        ],
+        "reward_id": 606016,
+        "name": "江湖大侠",
+        "player_b": [
+            -25,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -50,
+            -26
+        ],
+        "magic_range": [
+            4,
+            7
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            4,
+            7
+        ]
+    },
+    "36": {
+        "force": 40005,
+        "toughness": 121,
+        "sex": 2,
+        "crit": 161,
+        "defence": 2022,
+        "lose_reward_id": 606101,
+        "damage": 640,
+        "rpm_id": 800000036,
+        "attack": 2022,
+        "rank_num": 360,
+        "health": 20220,
+        "clear_money": 36,
+        "mount_range": [
+            4,
+            7
+        ],
+        "next_reward_id": 606015,
+        "dodge": 161,
+        "hit": 202,
+        "vip_type": 101,
+        "clear_time": 36,
+        "wing_range": [
+            4,
+            7
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 25220,
+        "crit_multi": 12000,
+        "beast_range": [
+            4,
+            7
+        ],
+        "reward_id": 606016,
+        "name": "江湖大侠",
+        "player_b": [
+            -25,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -50,
+            -26
+        ],
+        "magic_range": [
+            4,
+            7
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            4,
+            7
+        ]
+    },
+    "35": {
+        "force": 41760,
+        "toughness": 126,
+        "sex": 1,
+        "crit": 168,
+        "defence": 2111,
+        "lose_reward_id": 606101,
+        "damage": 660,
+        "rpm_id": 800000035,
+        "attack": 2111,
+        "rank_num": 320,
+        "health": 21110,
+        "clear_money": 35,
+        "mount_range": [
+            4,
+            7
+        ],
+        "next_reward_id": 606015,
+        "dodge": 168,
+        "hit": 211,
+        "vip_type": 101,
+        "clear_time": 35,
+        "wing_range": [
+            4,
+            7
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 26110,
+        "crit_multi": 12000,
+        "beast_range": [
+            4,
+            7
+        ],
+        "reward_id": 606016,
+        "name": "江湖大侠",
+        "player_b": [
+            -25,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -50,
+            -26
+        ],
+        "magic_range": [
+            4,
+            7
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            4,
+            7
+        ]
+    },
+    "34": {
+        "force": 43605,
+        "toughness": 132,
+        "sex": 2,
+        "crit": 176,
+        "defence": 2203,
+        "lose_reward_id": 606101,
+        "damage": 670,
+        "rpm_id": 800000034,
+        "attack": 2203,
+        "rank_num": 280,
+        "health": 22030,
+        "clear_money": 34,
+        "mount_range": [
+            4,
+            7
+        ],
+        "next_reward_id": 606015,
+        "dodge": 176,
+        "hit": 220,
+        "vip_type": 101,
+        "clear_time": 34,
+        "wing_range": [
+            4,
+            7
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 27030,
+        "crit_multi": 12000,
+        "beast_range": [
+            4,
+            7
+        ],
+        "reward_id": 606016,
+        "name": "江湖大侠",
+        "player_b": [
+            -25,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -50,
+            -26
+        ],
+        "magic_range": [
+            4,
+            7
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            4,
+            7
+        ]
+    },
+    "33": {
+        "force": 45450,
+        "toughness": 137,
+        "sex": 1,
+        "crit": 183,
+        "defence": 2298,
+        "lose_reward_id": 606101,
+        "damage": 680,
+        "rpm_id": 800000033,
+        "attack": 2298,
+        "rank_num": 240,
+        "health": 22980,
+        "clear_money": 33,
+        "mount_range": [
+            4,
+            7
+        ],
+        "next_reward_id": 606015,
+        "dodge": 183,
+        "hit": 229,
+        "vip_type": 101,
+        "clear_time": 33,
+        "wing_range": [
+            4,
+            7
+        ],
+        "skill_set": [
+            [
+                400011001,
+                1
+            ],
+            [
+                400011002,
+                1
+            ],
+            [
+                400011003,
+                1
+            ],
+            [
+                400011004,
+                1
+            ]
+        ],
+        "blood": 27980,
+        "crit_multi": 12000,
+        "beast_range": [
+            4,
+            7
+        ],
+        "reward_id": 606016,
+        "name": "江湖大侠",
+        "player_b": [
+            -25,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -50,
+            -26
+        ],
+        "magic_range": [
+            4,
+            7
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            4,
+            7
+        ]
+    },
+    "32": {
+        "force": 47400,
+        "toughness": 143,
+        "sex": 2,
+        "crit": 191,
+        "defence": 2396,
+        "lose_reward_id": 606101,
+        "damage": 690,
+        "rpm_id": 800000032,
+        "attack": 2396,
+        "rank_num": 200,
+        "health": 23960,
+        "clear_money": 32,
+        "mount_range": [
+            4,
+            7
+        ],
+        "next_reward_id": 606014,
+        "dodge": 191,
+        "hit": 239,
+        "vip_type": 101,
+        "clear_time": 32,
+        "wing_range": [
+            4,
+            7
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 28960,
+        "crit_multi": 12000,
+        "beast_range": [
+            4,
+            7
+        ],
+        "reward_id": 606015,
+        "name": "江湖大侠",
+        "player_b": [
+            -10,
+            -1
+        ],
+        "player_c": [
+            1,
+            10
+        ],
+        "player_a": [
+            -20,
+            -11
+        ],
+        "magic_range": [
+            4,
+            7
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            4,
+            7
+        ]
+    },
+    "50": {
+        "force": 10320,
+        "toughness": 31,
+        "sex": 2,
+        "crit": 40,
+        "defence": 524,
+        "lose_reward_id": 606101,
+        "damage": 360,
+        "rpm_id": 800000050,
+        "attack": 524,
+        "rank_num": 2000,
+        "health": 5240,
+        "mount_range": [
+            1,
+            3
+        ],
+        "next_reward_id": 606018,
+        "dodge": 40,
+        "hit": 53,
+        "vip_type": 101,
+        "wing_range": [
+            1,
+            3
+        ],
+        "skill_set": [
+            [
+                400012001,
+                1
+            ],
+            [
+                400012002,
+                1
+            ],
+            [
+                400012003,
+                1
+            ],
+            [
+                400012004,
+                1
+            ]
+        ],
+        "blood": 15000,
+        "crit_multi": 12000,
+        "beast_range": [
+            1,
+            3
+        ],
+        "reward_id": 606019,
+        "name": "江湖大侠",
+        "player_b": [
+            -100,
+            -51
+        ],
+        "player_c": [
+            -50,
+            -1
+        ],
+        "player_a": [
+            -200,
+            -101
+        ],
+        "magic_range": [
+            1,
+            3
+        ],
+        "level": 100,
+        "win_reward_id": 606100,
+        "solider_range": [
+            1,
+            3
+        ]
+    }
+}

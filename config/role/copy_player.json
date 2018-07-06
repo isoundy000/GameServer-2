@@ -1,0 +1,15 @@
+{
+	"auto_time": 10,
+	/*等级系数*/
+	"level_coeffi":90,
+	/*固定值*/
+	"auto_blood": 500,
+	
+	/*血量*/
+	"left_blood": 40,
+	"blood_skill":[411003003, 411003005],
+	
+	/*周围*/
+	"around_distance": 10,
+	"around_count": 3
+}

@@ -1,0 +1,182 @@
+{
+    "20": {
+        "max_attack": 2600,
+        "name": "红色15",
+        "item_defence": 216030002,
+        "max_defence": 2600,
+        "item_health": 216030003,
+        "max_health": 2600,
+        "item_attack": 216030001
+    },
+    "11": {
+        "max_attack": 800,
+        "name": "红色6",
+        "item_defence": 216030002,
+        "max_defence": 800,
+        "item_health": 216030003,
+        "max_health": 800,
+        "item_attack": 216030001
+    },
+    "10": {
+        "max_attack": 600,
+        "name": "红色5",
+        "item_defence": 216030002,
+        "max_defence": 600,
+        "item_health": 216030003,
+        "max_health": 600,
+        "item_attack": 216030001
+    },
+    "13": {
+        "max_attack": 1200,
+        "name": "红色8",
+        "item_defence": 216030002,
+        "max_defence": 1200,
+        "item_health": 216030003,
+        "max_health": 1200,
+        "item_attack": 216030001
+    },
+    "12": {
+        "max_attack": 1000,
+        "name": "红色7",
+        "item_defence": 216030002,
+        "max_defence": 1000,
+        "item_health": 216030003,
+        "max_health": 1000,
+        "item_attack": 216030001
+    },
+    "15": {
+        "max_attack": 1600,
+        "name": "红色10",
+        "item_defence": 216030002,
+        "max_defence": 1600,
+        "item_health": 216030003,
+        "max_health": 1600,
+        "item_attack": 216030001
+    },
+    "14": {
+        "max_attack": 1400,
+        "name": "红色9",
+        "item_defence": 216030002,
+        "max_defence": 1400,
+        "item_health": 216030003,
+        "max_health": 1400,
+        "item_attack": 216030001
+    },
+    "17": {
+        "max_attack": 2000,
+        "name": "红色12",
+        "item_defence": 216030002,
+        "max_defence": 2000,
+        "item_health": 216030003,
+        "max_health": 2000,
+        "item_attack": 216030001
+    },
+    "16": {
+        "max_attack": 1800,
+        "name": "红色11",
+        "item_defence": 216030002,
+        "max_defence": 1800,
+        "item_health": 216030003,
+        "max_health": 1800,
+        "item_attack": 216030001
+    },
+    "19": {
+        "max_attack": 2400,
+        "name": "红色14",
+        "item_defence": 216030002,
+        "max_defence": 2400,
+        "item_health": 216030003,
+        "max_health": 2400,
+        "item_attack": 216030001
+    },
+    "18": {
+        "max_attack": 2200,
+        "name": "红色13",
+        "item_defence": 216030002,
+        "max_defence": 2200,
+        "item_health": 216030003,
+        "max_health": 2200,
+        "item_attack": 216030001
+    },
+    "1": {
+        "max_attack": 2,
+        "name": "白色",
+        "item_defence": 216030002,
+        "max_defence": 2,
+        "item_health": 216030003,
+        "max_health": 2,
+        "item_attack": 216030001
+    },
+    "3": {
+        "max_attack": 10,
+        "name": "蓝色",
+        "item_defence": 216030002,
+        "max_defence": 10,
+        "item_health": 216030003,
+        "max_health": 10,
+        "item_attack": 216030001
+    },
+    "2": {
+        "max_attack": 5,
+        "name": "绿色",
+        "item_defence": 216030002,
+        "max_defence": 5,
+        "item_health": 216030003,
+        "max_health": 5,
+        "item_attack": 216030001
+    },
+    "5": {
+        "max_attack": 50,
+        "name": "橙色",
+        "item_defence": 216030002,
+        "max_defence": 50,
+        "item_health": 216030003,
+        "max_health": 50,
+        "item_attack": 216030001
+    },
+    "4": {
+        "max_attack": 20,
+        "name": "紫色",
+        "item_defence": 216030002,
+        "max_defence": 20,
+        "item_health": 216030003,
+        "max_health": 20,
+        "item_attack": 216030001
+    },
+    "7": {
+        "max_attack": 150,
+        "name": "红色2",
+        "item_defence": 216030002,
+        "max_defence": 150,
+        "item_health": 216030003,
+        "max_health": 150,
+        "item_attack": 216030001
+    },
+    "6": {
+        "max_attack": 100,
+        "name": "红色1",
+        "item_defence": 216030002,
+        "max_defence": 100,
+        "item_health": 216030003,
+        "max_health": 100,
+        "item_attack": 216030001
+    },
+    "9": {
+        "max_attack": 400,
+        "name": "红色4",
+        "item_defence": 216030002,
+        "max_defence": 400,
+        "item_health": 216030003,
+        "max_health": 400,
+        "item_attack": 216030001
+    },
+    "8": {
+        "max_attack": 250,
+        "name": "红色3",
+        "item_defence": 216030002,
+        "max_defence": 250,
+        "item_health": 216030003,
+        "max_health": 250,
+        "item_attack": 216030001
+    }
+}
